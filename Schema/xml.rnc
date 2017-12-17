@@ -9,5 +9,5 @@ county = element county {mixed{(cnty_name|quote|ref)*}}
 ref = attribute ref {text}
 cnty_name = element name {text}
 quote = element quote {mixed{(quote_name|type)*}}
-type = attribute type {"river"|"sett"|"admin"|"walled"|"mount"|"lake"}
+type = attribute type {"river"|"sett"|"admin"|"walled"|"mount"|"lake"|"mili"}
 quote_name = element name {text}
