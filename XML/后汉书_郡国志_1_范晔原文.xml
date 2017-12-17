@@ -56,28 +56,28 @@
     <county ref="82852"><name>缑氏</name>
         <quote type="sett">有<name>邬聚</name>。</quote>
         <quote type="mili">有<name>轘辕关</name>。</quote></county>
-         <county><name>巩</name>
+    <county ref="82874"><name>巩</name>
         <quote type="river">有<name>寻谷水</name>。</quote>
         <quote type="sett">有<name>东訾聚</name>，今名訾城。</quote>
         <quote type="sett">有<name>坎陷聚</name>。</quote>
         <quote type="admin">有<name>黄亭</name>。</quote>
         <quote type="river">有<name>湟水</name>。</quote>
         <quote type="spring">有<name>明溪泉</name>。</quote></county>
-         　　成睾
-        有旃然水。
-        有瓶丘聚。有漫水。有汜水。
-         　　京
-         　　密
-        有大騩山。
-        有梅山。
-        有陉山。
-         　　新城
-        有高都城。
-        有广成聚。
-        有鄤聚，古鄤氏，今名蛮中。
-         　　匽师
-        有尸乡，
-        春秋时曰尸氏。
+    <county ref="82441"><name>成皋</name>
+        <quote type="river">有<name>旃然水</name>。</quote>
+        <quote type="sett">有<name>瓶丘聚</name>。</quote><quote type="river">有<name>漫水</name>。</quote><quote type="river">有<name>汜水</name>。</quote>
+    </county>
+    <county ref="44384"><name>京</name></county>
+    <county ref="82458"><name>密</name>
+        <quote type="mount">有<name>大騩山</name>。</quote>
+        <quote type="mount">有<name>梅山</name>。</quote>
+        <quote type="mount">有<name>陉山</name>。</quote></county>
+    <county ref="210903"><!--CHGIS无57年的新城县。查得新城县东魏时为伊川郡治所，故取伊川郡位置。--><name>新城</name>
+        <quote type="walled">有<name>高都城</name>。</quote>
+        <quote type="sett">有<name>广成聚</name>。</quote>
+        <quote type="sett">有<name>鄤聚</name>，古鄤氏，今名蛮中。</quote></county>
+    <county ref="82846"><name>匽师</name>
+        <quote type="admin">有<name>尸乡</name>，春秋时曰尸氏。</quote></county>
          　　新郑《诗》郑国，祝融墟。
          　　平 　　</pref>
          　　高帝置。雒阳北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。 　　怀有隰城。
