@@ -78,8 +78,8 @@
         <quote type="sett">有<name>鄤聚</name>，古鄤氏，今名蛮中。</quote></county>
     <county ref="82846"><name>匽师</name>
         <quote type="admin">有<name>尸乡</name>，春秋时曰尸氏。</quote></county>
-         　　新郑《诗》郑国，祝融墟。
-         　　平 　　</pref>
+    　　<county ref="82461"><name>新郑</name>《诗》郑国，祝融墟。</county>
+    <county ref="hvd_82885"><name>平</name></county></pref>
          　　高帝置。雒阳北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。 　　怀有隰城。
          　　河阳
         有湛城。 　　轵
