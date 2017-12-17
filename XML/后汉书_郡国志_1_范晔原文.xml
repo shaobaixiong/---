@@ -4,7 +4,7 @@
 <book name="后汉书">
     <chapter name="郡国志">
         <preface>《汉书地理志》记天下郡县本末，及山川奇异，风俗所由，至矣。今但录中兴以来郡县改异，及《春秋》、三史会同征伐地名，以为《郡国志》。凡《前志》有县名，今所不载者，皆世祖所并省也。前无今有者，后所置也。凡县名先书者，郡所治也。</preface>
-<pref><name>河南尹</name><meta>秦三川郡，高帝更名。世祖都雒阳，建武十五年改曰河南尹。
+<pref><name>河南尹</name><meta walled="21" family="208486" pop="1100827">秦三川郡，高帝更名。世祖都<point>雒阳</point>，建武十五年改曰河南尹。
         二十一城，永和五年户二十万八千四百八十六，口百一万八百二十七。</meta>
     <county ref="82828"><name>雒阳</name>
         <quote type="spring">有<name>狄泉</name>，在城中。</quote>
@@ -81,7 +81,7 @@
     <county ref="82461"><name>新郑</name>《诗》郑国，祝融墟。</county>
     <county ref="hvd_82885"><name>平</name></county></pref>
         <pref><name>河内郡</name>
-     <meta>高帝置。雒阳北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。</meta>
+     <meta walled="18" family="159770" pop="811558">高帝置。<point>雒阳</point>北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。</meta>
             <county ref="82506"><name>怀</name>
                 <quote type="walled">有<name>隰城</name>。</quote></county>
             <county ref="82512"><name>河阳</name>
@@ -102,29 +102,31 @@
         <quote type="walled">有<name>蔡城</name>。</quote></county>
             <county ref="82503"><name>武德</name></county> 
             <county ref="82259"><!-- 自公元85年起 --><name>获嘉侯国</name>。</county> 
-            修武故南阳，秦始皇更名。有南阳城，
-        阳樊、攒茅田。
-        有小修武聚。
-        有隤城。
-         　　共本国。淇水出。
-        有泛亭。
-         　　汲
-         　　朝歌
-        纣所都居，
-        南有牧野，
-        北有邶国，南有宁乡。
-         　　荡阴有羑里城。
-         　　林虑故隆虑，殇帝改。有铁。</pref>
-         　　
-         　　秦置，雒阳西北五百里。
-        二十城，户九万三千五百四十三，口五十七万八百三。 　　安邑
-        有铁，有盐池。
-         　　杨有高梁亭。
-         　　平阳侯国。
-        有铁。尧都此。
-         　　临汾
-        有董亭。
-         　　汾阴
+            <county ref="82265"><name>修武</name>故南阳，秦始皇更名。
+                <quote type="walled">有<name>南阳城</name>，</quote>
+        <quote type="undetermined"><name>阳樊</name></quote>、<quote type="undetermined"><name>攒茅田</name></quote>。
+        <quote type="sett">有<name>小修武聚</name>。</quote>
+        <quote type="walled">有<name>隤城</name>。</quote></county>
+            <county ref="82275"><name>共</name>本国。<quote type="river"><name>淇水</name>出。</quote>
+        <quote type="admin">有<name>泛亭</name>。</quote></county>
+            <county ref="82254"><name>汲</name></county>
+            <county ref="82269"><name>朝歌</name>
+        纣所都居，<quote type="undetermined">南有<name>牧野</name></quote>，<quote type="undetermined">北有<name>邶国</name></quote>，<quote type="undetermined">南有<name>宁乡</name></quote>。</county>
+            <county ref="82207"><name>荡阴</name><quote type="walled">有<name>羑里城</name>。</quote></county>
+            <county ref="82216"><!-- 起始时间公元106年 --><name>林虑</name>故隆虑，林虑故隆虑殇帝改。<quote type="resource">有<name>铁</name>。</quote></county></pref>
+        <pref><name>河东郡</name>
+        <meta walled="20" family="93543" pop="570803">秦置，<point>雒阳</point>西北五百里。
+        二十城，户九万三千五百四十三，口五十七万八百三。</meta>
+            <county ref="95291"><name>安邑</name>
+        <quote type="resource">有<name>铁</name>。</quote>
+        <quote type="resource">有<name>盐池</name>。</quote></county>
+            <county ref="95392"><name>杨</name>
+                <quote type="admin">有<name>高梁亭</name>。</quote></county>
+            <county ref="95415"><name>平阳侯国</name>。
+        <quote type="resource">有<name>铁</name>。</quote>尧都此。</county>
+            <county ref="95427"><name>临汾</name>
+        <quote type="admin">有<name>董亭</name>。</quote></county>
+         汾阴
         有介山。
          　　蒲坂有雷首山。
         有沙丘亭。
@@ -159,7 +161,7 @@
         有采桑津。
          　　蒲子
          　　濩泽侯国。有析城山。
-         　　端氏
+         　　端氏</pref>
          　　
          　　武帝置。其二县，建武十五年属。雒阳西南四百五十里。九城，户四万六千八百一十五，口十九万九千一百一十三。 　　弘农故秦函谷关，
         烛水出。
