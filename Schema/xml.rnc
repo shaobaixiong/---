@@ -1,0 +1,13 @@
+start = element book {name, chapter}
+name = attribute name {text}
+chapter = element chapter {preface, pref+, chap_name}
+chap_name = attribute name {text}
+preface = element preface {text}
+pref = element pref {meta, county+}
+meta = element meta {text}
+county = element county {mixed{(cnty_name|quote|ref)*}}
+ref = attribute ref {text}
+cnty_name = element name {text}
+quote = element quote {mixed{(quote_name|type)*}}
+type = attribute type {"river"|"sett"|"admin"|"walled"|"mount"|"lake"}
+quote_name = element name {text}
