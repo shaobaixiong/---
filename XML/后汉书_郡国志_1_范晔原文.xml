@@ -4,7 +4,7 @@
 <book name="后汉书">
     <chapter name="郡国志">
         <preface>《汉书地理志》记天下郡县本末，及山川奇异，风俗所由，至矣。今但录中兴以来郡县改异，及《春秋》、三史会同征伐地名，以为《郡国志》。凡《前志》有县名，今所不载者，皆世祖所并省也。前无今有者，后所置也。凡县名先书者，郡所治也。</preface>
-<pref><meta>秦三川郡，高帝更名。世祖都雒阳，建武十五年改曰河南尹。
+<pref><name>河南尹</name><meta>秦三川郡，高帝更名。世祖都雒阳，建武十五年改曰河南尹。
         二十一城，永和五年户二十万八千四百八十六，口百一万八百二十七。</meta>
     <county ref="82828"><name>雒阳</name>
         <quote type="spring">有<name>狄泉</name>，在城中。</quote>
@@ -78,24 +78,31 @@
         <quote type="sett">有<name>鄤聚</name>，古鄤氏，今名蛮中。</quote></county>
     <county ref="82846"><name>匽师</name>
         <quote type="admin">有<name>尸乡</name>，春秋时曰尸氏。</quote></county>
-    　　<county ref="82461"><name>新郑</name>《诗》郑国，祝融墟。</county>
+    <county ref="82461"><name>新郑</name>《诗》郑国，祝融墟。</county>
     <county ref="hvd_82885"><name>平</name></county></pref>
-         　　高帝置。雒阳北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。 　　怀有隰城。
-         　　河阳
-        有湛城。 　　轵
-        有原乡。
-        有湨梁。
-         　　波有絺城。
-         　　沁水
-         　　野王有太行山。
-        有射犬聚。
-        有邘城。
-         　　温苏子所都。济水出，王莽时大旱，遂枯绝。
-         　　州 　　平睾有邢丘，故邢国，周公子所封。
-        有李城。
-         　　山阳邑。有雍城。
-        有蔡城。
-         　　武德 　　获嘉侯国。 　　修武故南阳，秦始皇更名。有南阳城，
+        <pref><name>河内郡</name>
+     <meta>高帝置。雒阳北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。</meta>
+            <county ref="82506"><name>怀</name>
+                <quote type="walled">有<name>隰城</name>。</quote></county>
+            <county ref="82512"><name>河阳</name>
+        <quote type="walled">有<name>湛城</name>。</quote></county>
+            <county ref="82494"><name>轵</name>
+        <quote type="admin">有<name>原乡</name>。</quote>
+        <quote type="waterInfra">有<name>湨梁</name>。</quote></county>
+            <county ref="82493"><name>波</name><quote type="walled">有<name>絺城</name>。</quote></county>
+            <county ref="82501"><name>沁水</name></county>
+            <county ref="82487"><name>野王</name><quote type="mount">有<name>太行山</name>。</quote>
+        <quote type="sett">有<name>射犬聚</name>。</quote>
+        <quote type="walled">有<name>邘城</name>。</quote></county>
+            <county ref="82520"><name>温</name>苏子所都。<quote type="river"><name>济水</name>出，王莽时大旱，遂枯绝。</quote></county>
+            <county ref="82489"><name>州</name></county>
+            <county ref="82519"><name>平皋</name><quote type="sett">有<name>邢丘</name>，故邢国，周公子所封。</quote>
+        <quote type="walled">有<name>李城</name>。</quote></county>
+            <county ref="82502"><name>山阳邑</name>。<quote type="walled">有<name>雍城</name>。</quote>
+        <quote type="walled">有<name>蔡城</name>。</quote></county>
+            <county ref="82503"><name>武德</name></county> 
+            <county ref="82259"><!-- 自公元85年起 --><name>获嘉侯国</name>。</county> 
+            修武故南阳，秦始皇更名。有南阳城，
         阳樊、攒茅田。
         有小修武聚。
         有隤城。
@@ -107,7 +114,7 @@
         南有牧野，
         北有邶国，南有宁乡。
          　　荡阴有羑里城。
-         　　林虑故隆虑，殇帝改。有铁。
+         　　林虑故隆虑，殇帝改。有铁。</pref>
          　　
          　　秦置，雒阳西北五百里。
         二十城，户九万三千五百四十三，口五十七万八百三。 　　安邑
