@@ -7,7 +7,7 @@
 <pref><meta>秦三川郡，高帝更名。世祖都雒阳，建武十五年改曰河南尹。
         二十一城，永和五年户二十万八千四百八十六，口百一万八百二十七。</meta>
     <county ref="82828"><name>雒阳</name>
-        <quote type="river">有<name>狄泉</name>，在城中。</quote>
+        <quote type="spring">有<name>狄泉</name>，在城中。</quote>
         <quote type="sett">有<name>唐聚</name>。</quote>
         <quote type='sett'>有<name>上程聚</name>。</quote>
         <quote type="sett">有<name>士乡聚</name>。</quote>
@@ -38,26 +38,31 @@
         <quote type="admin">有<name>扈城亭</name>。</quote></county>
     <county ref="82531"><name>原武</name></county>
     <county ref="82525"><name>阳武</name></county>
-         　　中牟
-        有圃田泽。
-        有清口水。
-        有管城。
-        有曲遇聚。
-        有蔡亭。 　　开封
-         　　菀陵有棐林。
-        有制泽。
-        有琐侯亭。
-         　　平阴 　　谷城瀍水出。
-        有函谷关。
-         　　缑氏
-        有邬聚，
-        有轘辕关。
-         　　巩
-        有寻谷水。
-        有东訾聚，今名訾城。
-        有坎陷聚。
-        有黄亭。有湟水。
-        有明溪泉。
+    <county ref="44356"><name>中牟</name>
+        <quote type="lake">有<name>圃田泽</name>。</quote>
+        <quote type="river">有<name>清口水</name></quote>。
+        <quote type="walled">有<name>管城</name>。</quote>
+        <quote type="sett">有<name>曲遇聚</name>。</quote>
+        <quote type="admin">有<name>蔡亭</name>。</quote>
+    </county><county ref="44320"><name>开封</name></county>
+    <county ref="82465"><name>菀陵</name>
+        <quote type="forest">有<name>棐林</name>。</quote>
+        <quote type="lake">有<name>制泽</name>。</quote>
+        <quote type="admin">有<name>琐侯亭</name>。</quote></county>
+    <county ref="82879"><name>平阴</name></county>
+    <county ref="82843"><name>谷城</name>
+        <quote type="river"><name>瀍水</name>出。</quote>
+        <quote type="mili">有<name>函谷关</name>。</quote></county>
+    <county ref="82852"><name>缑氏</name>
+        <quote type="sett">有<name>邬聚</name>。</quote>
+        <quote type="mili">有<name>轘辕关</name>。</quote></county>
+         <county><name>巩</name>
+        <quote type="river">有<name>寻谷水</name>。</quote>
+        <quote type="sett">有<name>东訾聚</name>，今名訾城。</quote>
+        <quote type="sett">有<name>坎陷聚</name>。</quote>
+        <quote type="admin">有<name>黄亭</name>。</quote>
+        <quote type="river">有<name>湟水</name>。</quote>
+        <quote type="spring">有<name>明溪泉</name>。</quote></county>
          　　成睾
         有旃然水。
         有瓶丘聚。有漫水。有汜水。
