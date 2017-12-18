@@ -4,258 +4,301 @@
 <book name="后汉书">
     <chapter name="郡国志">
         <preface>《汉书地理志》记天下郡县本末，及山川奇异，风俗所由，至矣。今但录中兴以来郡县改异，及《春秋》、三史会同征伐地名，以为《郡国志》。凡《前志》有县名，今所不载者，皆世祖所并省也。前无今有者，后所置也。凡县名先书者，郡所治也。</preface>
-<pref><name>河南尹</name><meta walled="21" family="208486" pop="1100827">秦三川郡，高帝更名。世祖都<point>雒阳</point>，建武十五年改曰河南尹。
-        二十一城，永和五年户二十万八千四百八十六，口百一万八百二十七。</meta>
-    <county ref="82828"><name>雒阳</name>
-        <quote type="spring">有<name>狄泉</name>，在城中。</quote>
-        <quote type="sett">有<name>唐聚</name>。</quote>
-        <quote type='sett'>有<name>上程聚</name>。</quote>
-        <quote type="sett">有<name>士乡聚</name>。</quote>
-        <quote type="sett">有<name>褚氏聚</name>。</quote>
-        <quote type="river">有<name>荣锜涧</name>。</quote>
-        <quote type="admin">有<name>前亭</name>。</quote>
-        <quote type="admin">有<name>圉乡</name>。</quote>
-        <quote type="walled">有<name>大解城</name>。</quote></county>
-    <county ref="82830"><name>河南</name>
-        <quote>周公时所城雒邑也，春秋时谓之王城。</quote>
-        <quote>东城门名鼎门，北城门名干祭。</quote>
-        <quote type="walled">又有<name>甘城</name>。</quote>
-        <quote type="admin">有<name>蒯乡</name>。</quote></county>
-    <county ref="210767"><name>梁故国</name>，伯翳后。
-        <quote type="mount">有<name>霍阳山</name>。</quote>
-        <quote type="walled"><name>注城</name>。</quote></county>
-    <county ref="44385"><name>荧阳</name>
-        <quote type="river">有<name>鸿沟水</name>。</quote>
-        <quote type="walled">有<name>广武城</name>。</quote>
-        <quote type="admin">有<name>虢亭</name>，虢叔国。</quote>
-        <quote type="walled">有<name>陇城</name>。</quote>
-        <quote type="admin">有<name>薄亭</name>。</quote>
-        <quote type="admin">有<name>敖亭</name>。</quote>
-        <quote type="lake">有<name>荧泽</name>。</quote></county>
-    <county ref="82523"><name>卷</name>
-        <quote type="mili">有<name>长城</name>，经阳武到密。</quote>
-        <quote type="walled">有<name>垣雝城</name>，或曰古衡雍。</quote>
-        <quote type="admin">有<name>扈城亭</name>。</quote></county>
-    <county ref="82531"><name>原武</name></county>
-    <county ref="82525"><name>阳武</name></county>
-    <county ref="44356"><name>中牟</name>
-        <quote type="lake">有<name>圃田泽</name>。</quote>
-        <quote type="river">有<name>清口水</name></quote>。
-        <quote type="walled">有<name>管城</name>。</quote>
-        <quote type="sett">有<name>曲遇聚</name>。</quote>
-        <quote type="admin">有<name>蔡亭</name>。</quote>
-    </county><county ref="44320"><name>开封</name></county>
-    <county ref="82465"><name>菀陵</name>
-        <quote type="forest">有<name>棐林</name>。</quote>
-        <quote type="lake">有<name>制泽</name>。</quote>
-        <quote type="admin">有<name>琐侯亭</name>。</quote></county>
-    <county ref="82879"><name>平阴</name></county>
-    <county ref="82843"><name>谷城</name>
-        <quote type="river"><name>瀍水</name>出。</quote>
-        <quote type="mili">有<name>函谷关</name>。</quote></county>
-    <county ref="82852"><name>缑氏</name>
-        <quote type="sett">有<name>邬聚</name>。</quote>
-        <quote type="mili">有<name>轘辕关</name>。</quote></county>
-    <county ref="82874"><name>巩</name>
-        <quote type="river">有<name>寻谷水</name>。</quote>
-        <quote type="sett">有<name>东訾聚</name>，今名訾城。</quote>
-        <quote type="sett">有<name>坎陷聚</name>。</quote>
-        <quote type="admin">有<name>黄亭</name>。</quote>
-        <quote type="river">有<name>湟水</name>。</quote>
-        <quote type="spring">有<name>明溪泉</name>。</quote></county>
-    <county ref="82441"><name>成皋</name>
-        <quote type="river">有<name>旃然水</name>。</quote>
-        <quote type="sett">有<name>瓶丘聚</name>。</quote><quote type="river">有<name>漫水</name>。</quote><quote type="river">有<name>汜水</name>。</quote>
-    </county>
-    <county ref="44384"><name>京</name></county>
-    <county ref="82458"><name>密</name>
-        <quote type="mount">有<name>大騩山</name>。</quote>
-        <quote type="mount">有<name>梅山</name>。</quote>
-        <quote type="mount">有<name>陉山</name>。</quote></county>
-    <county ref="210903"><!--CHGIS无57年的新城县。查得新城县东魏时为伊川郡治所，故取伊川郡位置。--><name>新城</name>
-        <quote type="walled">有<name>高都城</name>。</quote>
-        <quote type="sett">有<name>广成聚</name>。</quote>
-        <quote type="sett">有<name>鄤聚</name>，古鄤氏，今名蛮中。</quote></county>
-    <county ref="82846"><name>匽师</name>
-        <quote type="admin">有<name>尸乡</name>，春秋时曰尸氏。</quote></county>
-    <county ref="82461"><name>新郑</name>《诗》郑国，祝融墟。</county>
-    <county ref="hvd_82885"><name>平</name></county></pref>
-        <pref><name>河内郡</name>
-     <meta walled="18" family="159770" pop="811558">高帝置。<point>雒阳</point>北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。</meta>
+        <pref ref="210872">
+            <name>河南尹</name>
+            <meta walled="21" family="208486" pop="1100827"
+                >秦三川郡，高帝更名。世祖都<point>雒阳</point>，建武十五年改曰河南尹。 二十一城，永和五年户二十万八千四百八十六，口百一万八百二十七。</meta>
+            <county ref="82828"><name>雒阳</name>
+                <quote type="spring">有<name>狄泉</name>，在城中。</quote>
+                <quote type="sett">有<name>唐聚</name>。</quote>
+                <quote type="sett">有<name>上程聚</name>。</quote>
+                <quote type="sett">有<name>士乡聚</name>。</quote>
+                <quote type="sett">有<name>褚氏聚</name>。</quote>
+                <quote type="river">有<name>荣锜涧</name>。</quote>
+                <quote type="admin">有<name>前亭</name>。</quote>
+                <quote type="admin">有<name>圉乡</name>。</quote>
+                <quote type="walled">有<name>大解城</name>。</quote></county>
+            <county ref="82830"><name>河南</name>
+                周公时所城雒邑也，春秋时谓之王城。
+                东城门名鼎门，北城门名干祭。
+                <quote type="walled">又有<name>甘城</name>。</quote>
+                <quote type="admin">有<name>蒯乡</name>。</quote></county>
+            <county ref="210767"><name>梁故国</name>，伯翳后。 <quote type="mount"
+                    >有<name>霍阳山</name>。</quote>
+                <quote type="walled"><name>注城</name>。</quote></county>
+            <county ref="44385"><name>荧阳</name>
+                <quote type="river">有<name>鸿沟水</name>。</quote>
+                <quote type="walled">有<name>广武城</name>。</quote>
+                <quote type="admin">有<name>虢亭</name>，虢叔国。</quote>
+                <quote type="walled">有<name>陇城</name>。</quote>
+                <quote type="admin">有<name>薄亭</name>。</quote>
+                <quote type="admin">有<name>敖亭</name>。</quote>
+                <quote type="lake">有<name>荧泽</name>。</quote></county>
+            <county ref="82523"><name>卷</name>
+                <quote type="mili">有<name>长城</name>，经阳武到密。</quote>
+                <quote type="walled">有<name>垣雝城</name>，或曰古衡雍。</quote>
+                <quote type="admin">有<name>扈城亭</name>。</quote></county>
+            <county ref="82531"><name>原武</name></county>
+            <county ref="82525"><name>阳武</name></county>
+            <county ref="44356"><name>中牟</name>
+                <quote type="lake">有<name>圃田泽</name>。</quote>
+                <quote type="river">有<name>清口水</name></quote>。 <quote type="walled"
+                    >有<name>管城</name>。</quote>
+                <quote type="sett">有<name>曲遇聚</name>。</quote>
+                <quote type="admin">有<name>蔡亭</name>。</quote>
+            </county>
+            <county ref="44320"><name>开封</name></county>
+            <county ref="82465"><name>菀陵</name>
+                <quote type="forest">有<name>棐林</name>。</quote>
+                <quote type="lake">有<name>制泽</name>。</quote>
+                <quote type="admin">有<name>琐侯亭</name>。</quote></county>
+            <county ref="82879"><name>平阴</name></county>
+            <county ref="82843"><name>谷城</name>
+                <quote type="river"><name>瀍水</name>出。</quote>
+                <quote type="mili">有<name>函谷关</name>。</quote></county>
+            <county ref="82852"><name>缑氏</name>
+                <quote type="sett">有<name>邬聚</name>。</quote>
+                <quote type="mili">有<name>轘辕关</name>。</quote></county>
+            <county ref="82874"><name>巩</name>
+                <quote type="river">有<name>寻谷水</name>。</quote>
+                <quote type="sett">有<name>东訾聚</name>，今名訾城。</quote>
+                <quote type="sett">有<name>坎陷聚</name>。</quote>
+                <quote type="admin">有<name>黄亭</name>。</quote>
+                <quote type="river">有<name>湟水</name>。</quote>
+                <quote type="spring">有<name>明溪泉</name>。</quote></county>
+            <county ref="82441"><name>成皋</name>
+                <quote type="river">有<name>旃然水</name>。</quote>
+                <quote type="sett">有<name>瓶丘聚</name>。</quote><quote type="river"
+                    >有<name>漫水</name>。</quote><quote type="river">有<name>汜水</name>。</quote>
+            </county>
+            <county ref="44384"><name>京</name></county>
+            <county ref="82458"><name>密</name>
+                <quote type="mount">有<name>大騩山</name>。</quote>
+                <quote type="mount">有<name>梅山</name>。</quote>
+                <quote type="mount">有<name>陉山</name>。</quote></county>
+            <county ref="210903"><!--CHGIS无57年的新城县。查得新城县东魏时为伊川郡治所，故取伊川郡位置。--><name>新城</name>
+                <quote type="walled">有<name>高都城</name>。</quote>
+                <quote type="sett">有<name>广成聚</name>。</quote>
+                <quote type="sett">有<name>鄤聚</name>，古鄤氏，今名蛮中。</quote></county>
+            <county ref="82846"><name>匽师</name>
+                <quote type="admin">有<name>尸乡</name>，春秋时曰尸氏。</quote></county>
+            <county ref="82461"><name>新郑</name>《诗》郑国，祝融墟。</county>
+            <county ref="hvd_82885"><name>平</name></county>
+        </pref>
+        <pref ref="210688">
+            <name>河内郡</name>
+            <meta walled="18" family="159770" pop="811558"
+                >高帝置。<point>雒阳</point>北百二十里。十八城，户十五万九千七百七十，口八十万一千五百五十八。</meta>
             <county ref="82506"><name>怀</name>
                 <quote type="walled">有<name>隰城</name>。</quote></county>
             <county ref="82512"><name>河阳</name>
-        <quote type="walled">有<name>湛城</name>。</quote></county>
+                <quote type="walled">有<name>湛城</name>。</quote></county>
             <county ref="82494"><name>轵</name>
-        <quote type="admin">有<name>原乡</name>。</quote>
-        <quote type="waterInfra">有<name>湨梁</name>。</quote></county>
-            <county ref="82493"><name>波</name><quote type="walled">有<name>絺城</name>。</quote></county>
+                <quote type="admin">有<name>原乡</name>。</quote>
+                <quote type="waterInfra">有<name>湨梁</name>。</quote></county>
+            <county ref="82493"><name>波</name><quote type="walled"
+                >有<name>絺城</name>。</quote></county>
             <county ref="82501"><name>沁水</name></county>
             <county ref="82487"><name>野王</name><quote type="mount">有<name>太行山</name>。</quote>
-        <quote type="sett">有<name>射犬聚</name>。</quote>
-        <quote type="walled">有<name>邘城</name>。</quote></county>
-            <county ref="82520"><name>温</name>苏子所都。<quote type="river"><name>济水</name>出，王莽时大旱，遂枯绝。</quote></county>
+                <quote type="sett">有<name>射犬聚</name>。</quote>
+                <quote type="walled">有<name>邘城</name>。</quote></county>
+            <county ref="82520"><name>温</name>苏子所都。<quote type="river"
+                    ><name>济水</name>出，王莽时大旱，遂枯绝。</quote></county>
             <county ref="82489"><name>州</name></county>
-            <county ref="82519"><name>平皋</name><quote type="sett">有<name>邢丘</name>，故邢国，周公子所封。</quote>
-        <quote type="walled">有<name>李城</name>。</quote></county>
+            <county ref="82519"><name>平皋</name><quote type="sett"
+                    >有<name>邢丘</name>，故邢国，周公子所封。</quote>
+                <quote type="walled">有<name>李城</name>。</quote></county>
             <county ref="82502"><name>山阳邑</name>。<quote type="walled">有<name>雍城</name>。</quote>
-        <quote type="walled">有<name>蔡城</name>。</quote></county>
-            <county ref="82503"><name>武德</name></county> 
-            <county ref="82259"><!-- 自公元85年起 --><name>获嘉侯国</name>。</county> 
-            <county ref="82265"><name>修武</name>故南阳，秦始皇更名。
-                <quote type="walled">有<name>南阳城</name>，</quote>
-        <quote type="undetermined"><name>阳樊</name></quote>、<quote type="undetermined"><name>攒茅田</name></quote>。
-        <quote type="sett">有<name>小修武聚</name>。</quote>
-        <quote type="walled">有<name>隤城</name>。</quote></county>
+                <quote type="walled">有<name>蔡城</name>。</quote></county>
+            <county ref="82503"><name>武德</name></county>
+            <county ref="82259"><!-- 自公元85年起 --><name>获嘉侯国</name>。</county>
+            <county ref="82265"><name>修武</name>故南阳，秦始皇更名。 <quote type="walled"
+                    >有<name>南阳城</name>，</quote>
+                <quote type="undetermined"><name>阳樊</name></quote>、<quote type="undetermined"
+                        ><name>攒茅田</name></quote>。 <quote type="sett">有<name>小修武聚</name>。</quote>
+                <quote type="walled">有<name>隤城</name>。</quote></county>
             <county ref="82275"><name>共</name>本国。<quote type="river"><name>淇水</name>出。</quote>
-        <quote type="admin">有<name>泛亭</name>。</quote></county>
+                <quote type="admin">有<name>泛亭</name>。</quote></county>
             <county ref="82254"><name>汲</name></county>
-            <county ref="82269"><name>朝歌</name>
-        纣所都居，<quote type="undetermined">南有<name>牧野</name></quote>，<quote type="undetermined">北有<name>邶国</name></quote>，<quote type="undetermined">南有<name>宁乡</name></quote>。</county>
-            <county ref="82207"><name>荡阴</name><quote type="walled">有<name>羑里城</name>。</quote></county>
-            <county ref="82216"><!-- 起始时间公元106年 --><name>林虑</name>故隆虑，林虑故隆虑殇帝改。<quote type="resource">有<name>铁</name>。</quote></county></pref>
-        <pref><name>河东郡</name>
-        <meta walled="20" family="93543" pop="570803">秦置，<point>雒阳</point>西北五百里。
-        二十城，户九万三千五百四十三，口五十七万八百三。</meta>
+            <county ref="82269"><name>朝歌</name> 纣所都居，<quote type="undetermined"
+                    >南有<name>牧野</name></quote>，<quote type="undetermined"
+                    >北有<name>邶国</name></quote>，<quote type="undetermined"
+                >南有<name>宁乡</name></quote>。</county>
+            <county ref="82207"><name>荡阴</name><quote type="walled"
+                >有<name>羑里城</name>。</quote></county>
+            <county ref="82216"><!-- 起始时间公元106年 --><name>林虑</name>故隆虑，林虑故隆虑殇帝改。<quote
+                    type="resource">有<name>铁</name>。</quote></county>
+        </pref>
+        <pref ref="河东郡">
+            <name>河东郡</name>
+            <meta walled="20" family="93543" pop="570803">秦置，<point>雒阳</point>西北五百里。
+                二十城，户九万三千五百四十三，口五十七万八百三。</meta>
             <county ref="95291"><name>安邑</name>
-        <quote type="resource">有<name>铁</name>。</quote>
-        <quote type="resource">有<name>盐池</name>。</quote></county>
+                <quote type="resource">有<name>铁</name>。</quote>
+                <quote type="resource">有<name>盐池</name>。</quote></county>
             <county ref="95392"><name>杨</name>
                 <quote type="admin">有<name>高梁亭</name>。</quote></county>
-            <county ref="95415"><name>平阳侯国</name>。
-        <quote type="resource">有<name>铁</name>。</quote>尧都此。</county>
+            <county ref="95415"><name>平阳侯国</name>。 <quote type="resource"
+                >有<name>铁</name>。</quote>尧都此。</county>
             <county ref="95427"><name>临汾</name>
-        <quote type="admin">有<name>董亭</name>。</quote></county>
+                <quote type="admin">有<name>董亭</name>。</quote></county>
             <county ref="95470"><name>汾阴</name>
-        <quote type="mount">有<name>介山</name>。</quote></county>
+                <quote type="mount">有<name>介山</name>。</quote></county>
             <county ref="95495"><name>蒲坂</name><quote type="mount">有<name>雷首山</name>。</quote>
-        <quote type="admin">有<name>沙丘亭</name>。</quote></county>
+                <quote type="admin">有<name>沙丘亭</name>。</quote></county>
             <county ref="95280"><name>大阳</name>
-                <quote type="mount">有<name>吴山</name></quote>，<quote type="walled">上有<name>虞城</name>，</quote>
-        <quote type="walled">有<name>下阳城</name>，</quote>
-        <quote type="transport">有<name>茅津</name>。</quote>
+                <quote type="mount">有<name>吴山</name></quote>，<quote type="walled"
+                    >上有<name>虞城</name>，</quote>
+                <quote type="walled">有<name>下阳城</name>，</quote>
+                <quote type="transport">有<name>茅津</name>。</quote>
                 <quote type="transport">有<name>颠軨坂</name>。</quote></county>
             <county ref="95482"><name>解</name>
-        <quote type="walled">有<name>桑泉城</name>。</quote>
-        <quote type="walled">有<name>臼城</name>。</quote>
-        <quote type="walled">有<name>解城</name>。</quote>
-        <quote type="walled">有<name>瑕城</name>。</quote></county>
+                <quote type="walled">有<name>桑泉城</name>。</quote>
+                <quote type="walled">有<name>臼城</name>。</quote>
+                <quote type="walled">有<name>解城</name>。</quote>
+                <quote type="walled">有<name>瑕城</name>。</quote></county>
             <county ref="95230"><name>皮氏</name><quote type="admin">有<name>耿乡</name>。</quote>
-        <quote type="resource">有<name>铁</name>。</quote><quote type="admin">有<name>冀亭</name>。</quote></county>
-            <county ref="95248"><name>闻喜邑</name>，
-        本曲沃。
-        <quote type="lake">有<name>董池陂</name>，古董泽。</quote>
-        <quote type="admin">有<name>稷山亭</name>。</quote>
-        <quote type="river">有<name>涑水</name>。</quote>
-        <quote type="river">有<name>洮水</name>。</quote></county> 
-            <county ref="95423"><name>绛邑</name>。
-        <quote type="walled">有<name>翼城</name>。</quote></county>
-            <county ref="95218"><!-- AD134年更名为永安 --><name>永安</name>故彘，
-        阳嘉二年更名。
-        <quote type="mount">有<name>霍大山</name>。</quote></county>
-            <county ref="95285"><name>河北</name>《诗》魏国。<quote type="admin">有<name>韩亭</name>。</quote></county>
+                <quote type="resource">有<name>铁</name>。</quote><quote type="admin"
+                    >有<name>冀亭</name>。</quote></county>
+            <county ref="95248"><name>闻喜邑</name>， 本曲沃。 <quote type="lake"
+                    >有<name>董池陂</name>，古董泽。</quote>
+                <quote type="admin">有<name>稷山亭</name>。</quote>
+                <quote type="river">有<name>涑水</name>。</quote>
+                <quote type="river">有<name>洮水</name>。</quote></county>
+            <county ref="95423"><name>绛邑</name>。 <quote type="walled"
+                >有<name>翼城</name>。</quote></county>
+            <county ref="95218"><!-- AD134年更名为永安 --><name>永安</name>故彘， 阳嘉二年更名。 <quote type="mount"
+                        >有<name>霍大山</name>。</quote></county>
+            <county ref="95285"><name>河北</name>《诗》魏国。<quote type="admin"
+                >有<name>韩亭</name>。</quote></county>
             <county ref="95478"><name>猗氏</name></county>
             <county ref="95255">
-             <name>垣</name>
-                <quote type="mount">有<name>王屋山</name></quote>，<quote type="river"><name>兖水</name>出。</quote>
-                 <quote type="admin">有<name>壶丘亭</name>。</quote><quote type="admin">有<name>邵亭</name>。</quote>
-        <quote type="admin">有<name>邵亭</name>。</quote></county>
+                <name>垣</name>
+                <quote type="mount">有<name>王屋山</name></quote>，<quote type="river"
+                    ><name>兖水</name>出。</quote>
+                <quote type="admin">有<name>壶丘亭</name>。</quote><quote type="admin"
+                    >有<name>邵亭</name>。</quote>
+                <quote type="admin">有<name>邵亭</name>。</quote></county>
             <county ref="95443"><name>襄陵</name></county>
             <county ref="95401"><name>北屈</name>
-        <quote type="mount">有<name>壶口山</name>。</quote>
+                <quote type="mount">有<name>壶口山</name>。</quote>
                 <quote type="transport">有<name>采桑津</name>。</quote></county>
             <county ref="puzi"><name>蒲子</name></county>
-            <county ref="95724"><name>濩泽侯国</name>。<quote type="mount">有<name>析城山</name>。</quote></county>
-            <county ref="95716"><name>端氏</name></county></pref>
-        <pref><name>弘农郡</name>
-         <meta walled="9" pop="199113" family="46815">武帝置。其二县，建武十五年属。<point>雒阳</point>西南四百五十里。九城，户四万六千八百一十五，口十九万九千一百一十三。</meta>
+            <county ref="95724"><name>濩泽侯国</name>。<quote type="mount"
+                >有<name>析城山</name>。</quote></county>
+            <county ref="95716"><name>端氏</name></county>
+        </pref>
+        <pref ref="210905">
+            <name>弘农郡</name>
+            <meta walled="9" pop="199113" family="46815"
+                >武帝置。其二县，建武十五年属。<point>雒阳</point>西南四百五十里。九城，户四万六千八百一十五，口十九万九千一百一十三。</meta>
             <county ref="83053"><name>弘农</name>故秦函谷关，<quote type="river"><name>烛水</name>出。</quote>
-        <quote type="mount">有<name>枯枞山</name>。</quote>
-        <quote type="sett">有<name>桃丘聚</name>，故桃林。</quote>
-        <quote type="admin">有<name>务乡</name>。</quote>
-        <quote type="admin">有<name>曹阳亭</name>。</quote></county>
-            <county ref="83044"><name>陕</name>
-        本虢仲国。
-        <quote type="walled">有<name>焦城</name>。</quote>
-        <quote type="undetermined">有<name>陕陌</name>。</quote></county>
+                <quote type="mount">有<name>枯枞山</name>。</quote>
+                <quote type="sett">有<name>桃丘聚</name>，故桃林。</quote>
+                <quote type="admin">有<name>务乡</name>。</quote>
+                <quote type="admin">有<name>曹阳亭</name>。</quote></county>
+            <county ref="83044"><name>陕</name> 本虢仲国。 <quote type="walled">有<name>焦城</name>。</quote>
+                <quote type="undetermined">有<name>陕陌</name>。</quote></county>
             <county ref="82921"><name>黾池</name><quote type="river"><name>谷水</name>出。</quote>
-        <quote type="mount">有<name>二崤</name>。</quote></county>
-            <county ref="82916"><!-- 起始时间AD249 --><name>新安</name><quote type="river"><name>螕水</name>出。</quote></county>
+                <quote type="mount">有<name>二崤</name>。</quote></county>
+            <county ref="82916"><!-- 起始时间AD249 --><name>新安</name><quote type="river"
+                    ><name>螕水</name>出。</quote></county>
             <county ref="82871"><name>宜阳</name></county>
-            <county ref="82936"><name>陆浑</name>西<quote type="undetermined">有<name>虢略地</name>。</quote></county>
+            <county ref="82936"><name>陆浑</name>西<quote type="undetermined"
+                    >有<name>虢略地</name>。</quote></county>
             <county ref="83180"><name>卢氏</name><quote type="mount">有<name>熊耳山</name>，</quote>
-                <quote type="river"><name>伊水</name></quote>、<quote type="river"><name>清水</name>出。</quote></county>
-            <county ref="83069"><name>湖</name>故属京兆。
-        <quote type="admin">有<name>閺乡</name>。</quote></county>
-            <county ref="70324"><name>华阴</name>故属京兆。
-        <quote type="mount">有<name>太华山</name>。</quote></county></pref>
-        
-        <pref><name>京兆尹</name>
-         <meta walled="10" family="53299" pop="285574">秦内史，武帝改。其四县，建武十五年属。<point>雒阳</point>西九百五十里。
-        十城，户五万三千二百九十九，口二十八万五千五百七十四。</meta>
-            <county ref="70623"><name>长安</name>高帝所都。
-        镐在上林菀中。
-        <quote type="sett">有<name>细柳聚</name>。</quote>
-        <quote type="lake">有<name>兰池</name>。</quote>
-        <quote type="undetermined">有<name>曲邮</name>。</quote>
-        <quote type="undetermined">有<name>杜邮</name>。</quote>
+                <quote type="river"><name>伊水</name></quote>、<quote type="river"
+                    ><name>清水</name>出。</quote></county>
+            <county ref="83069"><name>湖</name>故属京兆。 <quote type="admin"
+                >有<name>閺乡</name>。</quote></county>
+            <county ref="70324"><name>华阴</name>故属京兆。 <quote type="mount"
+                >有<name>太华山</name>。</quote></county>
+        </pref>
+
+        <pref ref="212275">
+            <name>京兆尹</name>
+            <meta walled="10" family="53299" pop="285574"
+                >秦内史，武帝改。其四县，建武十五年属。<point>雒阳</point>西九百五十里。 十城，户五万三千二百九十九，口二十八万五千五百七十四。</meta>
+            <county ref="70623"><name>长安</name>高帝所都。 镐在上林菀中。 <quote type="sett"
+                    >有<name>细柳聚</name>。</quote>
+                <quote type="lake">有<name>兰池</name>。</quote>
+                <quote type="undetermined">有<name>曲邮</name>。</quote>
+                <quote type="undetermined">有<name>杜邮</name>。</quote>
             </county>
             <county ref="70646"><name>霸陵</name><quote type="admin">有<name>枳道亭</name>。</quote>
-        <quote type="admin">有<name>长门亭</name>。</quote></county>
+                <quote type="admin">有<name>长门亭</name>。</quote></county>
             <county ref="70633"><name>杜陵</name>
-        <quote type="undetermined"><name>酆</name>在西南。</quote></county>
+                <quote type="undetermined"><name>酆</name>在西南。</quote></county>
             <county ref="70427"><name>郑</name></county>
             <county ref="70725"><name>新丰</name><quote type="mount">有<name>骊山</name>，</quote>
-        <quote type="admin">东有<name>鸿门亭</name></quote>
-        <quote type="admin">及<name>戏亭</name>。</quote>
-        <quote type="walled">有<name>掫城</name>。</quote></county>
-            <county ref="70749"><name>蓝田</name><quote type="resource">出<name>美玉</name>。</quote></county>
+                <quote type="admin">东有<name>鸿门亭</name></quote>
+                <quote type="admin">及<name>戏亭</name>。</quote>
+                <quote type="walled">有<name>掫城</name>。</quote></county>
+            <county ref="70749"><name>蓝田</name><quote type="resource"
+                >出<name>美玉</name>。</quote></county>
             <county ref="70674"><name>长陵</name>故属冯翊。</county>
             <county ref="200092"><name>商</name>故属弘农。</county>
-            <county ref="200093"><name>上雒侯国</name>。<quote type="mount">有<name>冢领山</name>，</quote><quote type="river"><name>雒水</name>出。</quote>故属弘农。
-        <quote type="mount">有<name>菟和山</name>。</quote>
-        <quote type="sett">有<name>苍野聚</name>。</quote></county>
-         <county ref="yangling"><name>阳陵</name>故属冯翊。</county>
-         </pref>
-        <pref>
+            <county ref="200093"><name>上雒侯国</name>。<quote type="mount"
+                    >有<name>冢领山</name>，</quote><quote type="river"><name>雒水</name>出。</quote>故属弘农。
+                    <quote type="mount">有<name>菟和山</name>。</quote>
+                <quote type="sett">有<name>苍野聚</name>。</quote></county>
+            <county ref="yangling"><name>阳陵</name>故属冯翊。</county>
+        </pref>
+        <pref ref="hvd_116218">
             <name>左冯翊</name>
-        <meta walled="13" pop="145195" family="37090">秦属内史，武帝分，改名。<point>雒阳</point>西六百八十八里。
-        十三城，户三万七千九十，口十四万五千一百九十五。</meta>
+            <meta walled="13" pop="145195" family="37090">秦属内史，武帝分，改名。<point>雒阳</point>西六百八十八里。
+                十三城，户三万七千九十，口十四万五千一百九十五。</meta>
             <county ref="70740"><name>高陵</name></county>
             <county ref="70763"><name>池阳</name></county>
             <county ref="70764"><name>云阳</name></county>
-         <county ref="duiyu"><name>祋祤</name>永元九年复。</county>
+            <county ref="duiyu"><name>祋祤</name>永元九年复。</county>
             <county ref="pinyang"><name>频阳</name></county>
             <county ref="70643"><name>万年</name></county>
-         <county ref="lianshao"><name>莲勺</name></county> 
-            <county ref="70333"><name>重泉</name></county> 
-            <county ref="70295"><name>临晋</name>本大荔。<quote type="shrine">有<name>河水祠</name>。</quote><quote type="admin">有<name>芮乡</name>。</quote>
-        <quote type="walled">有<name>王城</name>。</quote></county>
+            <county ref="lianshao"><name>莲勺</name></county>
+            <county ref="70333"><name>重泉</name></county>
+            <county ref="70295"><name>临晋</name>本大荔。<quote type="shrine"
+                    >有<name>河水祠</name>。</quote><quote type="admin">有<name>芮乡</name>。</quote>
+                <quote type="walled">有<name>王城</name>。</quote></county>
             <county ref="70307"><!-- 起始时间AD59年 --><name>郃阳</name>永平二年复。</county>
-            <county ref="70312"><name>夏阳</name><quote type="mount">有<name>梁山</name></quote>、<quote type="mount"><name>龙门山</name></quote>。</county>
+            <county ref="70312"><name>夏阳</name><quote type="mount">有<name>梁山</name></quote>、<quote
+                    type="mount"><name>龙门山</name></quote>。</county>
             <county ref="70344"><name>衙</name></county>
             <county ref="70340"><!-- 起始时间AD97年 --><name>粟邑</name>永元九年复。</county>
-         　　秦属内史，武帝分，改名。
-        十五城，户万七千三百五十二，口九万三千九十一。 　　槐里周曰犬丘，
-        高帝改。 　　安陵
-         　　平陵 　　茂陵 　　鄠
-        丰水出。
-        有甘亭。
-         　　郿有邰亭。
-         　　武功永平八年复。有太一山，本终南。垂山，本敦物。
-        有斜谷。
-         　　陈仓
-         　　汧
-        有吴岳山，
-        本名汧，汧水出。有回城，名回中，
-         　　渝麋侯国。 　　雍
-        有铁。
-         　　栒邑有豳乡。
-         　　美阳有岐山，
-        有周城。
-         　　漆有漆水。
-        有铁。
-         　　杜阳永和二年复。</pref>
-         　　右司隶校尉部，郡七，县、邑、侯国百六。
+        </pref>
+        <pref ref="hvd_116125">
+            <name>右扶风</name>
+            <meta walled="15" family="17352" pop="93091">秦属内史，武帝分，改名。十五城，户万七千三百五十二，口九万三千九十一。</meta>
+            <county ref="70707"><name>槐里</name>周曰犬丘，高帝改。</county>
+            <county ref="anling"><name>安陵</name></county>
+            <county ref="70714"><name>平陵</name></county>
+            <county ref="70711"><name>茂陵</name></county>
+            <county ref="70747"><name>鄠</name>
+                <quote type="river"><name>丰水</name>出。</quote>
+                <quote type="admin">有<name>甘亭</name>。</quote></county>
+            <county ref="70930"><name>郿</name><quote type="admin">有<name>邰亭</name>。</quote></county>
+            <county ref="70249"><!-- 起始时间AD65年 --><name>武功</name>永平八年复。<quote type="mount"
+                        >有<name>太一山</name>，本终南。</quote><quote type="mount"
+                    ><name>垂山</name>，本敦物。</quote>
+                <quote type="valley">有<name>斜谷</name>。</quote></county>
+            <county ref="70920"><name>陈仓</name></county>
+            <county ref="qian"><name>汧</name>
+                <quote type="mount">有<name>吴岳山</name>，</quote> 本名汧，<quote type="river"
+                        ><name>汧水</name>出。</quote><quote type="walled"
+                >有<name>回城</name>，名回中。</quote></county>
+            <county ref="yumi"><name>渝麋侯国</name>。</county>
+            <county ref="yong"><name>雍</name>
+                <quote type="resource">有<name>铁</name>。</quote></county>
+            <county ref="70415"><name>栒邑</name><quote type="admin"
+                >有<name>豳乡</name>。</quote></county>
+            <county ref="85552"><name>美阳</name><quote type="mount">有<name>岐山</name></quote>， <quote
+                    type="walled">有<name>周城</name>。</quote></county>
+            <county ref="70203"><name>漆</name><quote type="river">有<name>漆水</name>。</quote>
+                <quote type="resource">有<name>铁</name>。</quote></county>
+            <county ref="70943"><name>杜阳</name>永和二年复。</county>
+        </pref>
+        <h_pref>
+            <name>右司隶校尉部</name>
+            <meta pref="7" cnty="106">郡七，县、邑、侯国百六。</meta>
+        </h_pref>
     </chapter>
 </book>
