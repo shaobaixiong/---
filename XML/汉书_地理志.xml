@@ -1,0 +1,21 @@
+
+<?xml-model href="../Schema/%E6%B1%89%E4%B9%A6.rnc" type="application/relax-ng-compact-syntax"?>
+<book name="汉书">
+    <chapter name="地理志">
+        <pref ref="212275"><name>京兆尹</name>
+            <meta pop="682468" family="195720" walled="12">故秦内史，高帝元年属塞国，二年更为渭南郡，九年罢，复为内史。武帝建元六年分为右内史，太初元年更为京兆尹。元始二年户十九万五千七百二，口六十八万二千四百六十八。县十二。</meta>
+            <county ref="70623"><name>长安</name>，<time>高帝五年置。</time><time>惠帝元年初城，六年成。</time><meta>户八万八百，口二十四万六千二百。</meta>王莽曰<wname>常安</wname>。</county>
+            <county ref="70725"><name>新丰</name>，<quote type="mount"><name>骊山</name>在南，故骊戎国。</quote>秦曰骊邑。<time>高祖七年置。</time></county>
+            <county ref="70429"><name>船司空</name>，莽曰<wname>船利</wname>。</county>
+            <county ref="70749"><name>蓝田</name>，<quote type="resource">山出<name>美玉</name></quote>，<quote type="shrine">有<name>虎候山祠</name></quote>，<time>秦孝公置也。</time></county>
+            <county><name>华阴</name>，故阴晋，<time>秦惠文王五年更名宁秦，蒿帝八年更名华阴。</time><quote type="mount"><name>太华山</name>在南</quote>，<quote type="shrine">有<name>祠</name></quote>，<quote type="mount"><name>豫州山</name></quote>。<quote type="palace"><name>集灵宫</name>，武帝起。</quote>莽曰<wname>华坛</wname>也。</county>
+            <county><name>郑</name>，周宣王弟郑桓公邑。<quote type="resource">有<name>铁官</name>。</quote></county>
+            <county><name>湖</name>，<quote type="shrine">有<name>周天子祠</name>二所。</quote><time>故曰胡，武帝建元年更名湖。</time></county>
+            <county><name>下邦</name>，<time>文帝七年置。</time></county>
+            <county><name>南陵</name>，<time>文帝七年置。</time></county>
+            沂水出蓝田谷，北至霸陵人霸水。霸水亦出蓝田谷，北入渭。古曰兹水，秦穆公更名以章霸功，视子孙。
+            <county><name>奉明</name>，<time>宣帝置也。</time></county>
+            <county><name>霸陵</name>，<time>故主阳，文帝更名。</time>莽曰<wname>水章</wname>也。</county>
+            <county><name>杜陵</name>。<time>故社伯国，宣帝更名。</time><quote type="shrine">有<name>周右将军杜主祠四所</name>。</quote>莽曰<wname>饶安</wname>也。</county></pref>
+    </chapter>
+</book>
