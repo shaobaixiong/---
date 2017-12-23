@@ -284,28 +284,62 @@
                     type="river" nature="tributary">羑水所出，亦至内黄入荡。</quote><quote type="walled"
                     >有羑里城</quote>，西伯所拘也。</county></pref>
         <pref ref="210871"><name>河南郡</name>
-            <meta walled="22" pop="1740279" family="276444">故秦三川郡，高帝更名。洛阳户五万二千八百三十九。莽曰<wname>保忠信乡</wname>，属司隶也。户二十七万六千四百四十四，口一百七十四万二百七十九。有铁官、工官。敖仓在荥阳。县二十二。</meta>
+            <meta walled="22" pop="1740279" family="276444"
+                    >故秦三川郡，高帝更名。洛阳户五万二千八百三十九。莽曰<wname>保忠信乡</wname>，属司隶也。户二十七万六千四百四十四，口一百七十四万二百七十九。有铁官、工官。敖仓在荥阳。县二十二。</meta>
             <county><name>洛阳</name>，<hist>周公迁殷民，是为成周。</hist>《春秋》昭公三十二年，晋台诸侯于狄泉，以其地大成周之城，居敬王。莽曰<wname>宜阳</wname>。</county>
-            <county><name>荥阳</name>，<quote type="river"><name>卞水</name></quote>、<quote type="lake"><name>冯池</name>皆在西南</quote>。<quote type="waterInfra" nature="interpref">有<name>狼汤渠</name>，首受泲，东南至陈入颍，过郡四，行七百八十里。</quote></county>
+            <county><name>荥阳</name>，<quote type="river"><name>卞水</name></quote>、<quote type="lake"
+                        ><name>冯池</name>皆在西南</quote>。<quote type="waterInfra" nature="interpref"
+                        >有<name>狼汤渠</name>，首受泲，东南至陈入颍，过郡四，行七百八十里。</quote></county>
             <county><name>偃师</name>。<hist>尸乡，殷汤所都。</hist>莽曰<hist>师成</hist>。</county>
             <county><name>京</name>。</county>
             <county><name>平阴</name>。</county>
-            <county><name>中牟</name>，<quote type="lake"><name>圃田泽</name>在西，豫州蔽。</quote>有管叔邑，赵献侯自耿徙此。</county>
+            <county><name>中牟</name>，<quote type="lake"
+                ><name>圃田泽</name>在西，豫州蔽。</quote>有管叔邑，赵献侯自耿徙此。</county>
             <county><name>平</name>，莽曰<wname>治平</wname>。</county>
-            <county><name>阳武</name>，<quote type="undetermined">有<name>博浪沙</name>。</quote>莽曰<wname>阳桓</wname>。</county>
+            <county><name>阳武</name>，<quote type="undetermined"
+                    >有<name>博浪沙</name>。</quote>莽曰<wname>阳桓</wname>。</county>
             <county><name>河南</name>，故郏鄏地。<hist>周武王迁九鼎，周公致太平，营以为都，是为王城，至平王居之。</hist></county>
-            <county><name>缑氏</name>，<quote type="sett"><name>刘聚</name></quote>，周大夫刘子邑。<quote type="shrine">有<name>延寿城仙人祠</name>。</quote>莽曰<wname>中亭</wname>。</county>
+            <county><name>缑氏</name>，<quote type="sett"><name>刘聚</name></quote>，周大夫刘子邑。<quote
+                    type="shrine">有<name>延寿城仙人祠</name>。</quote>莽曰<wname>中亭</wname>。</county>
             <county><name>卷</name>。</county>
             <county><name>原武</name>，莽曰<wname>原桓</wname>。</county>
             <county><name>巩</name>，东周所居。</county>
-            <county><name>成</name>，<quote type="river" nature="tributary">《禹贡》<name>瀍水</name>出亭北，东南入洛。</quote></county>
+            <county><name>成</name>，<quote type="river" nature="tributary"
+                    >《禹贡》<name>瀍水</name>出亭北，东南入洛。</quote></county>
             <county><name>故市</name>。</county>
-            <county><name>密</name>，故国。<quote type="mount">有<name>大騩山</name></quote>，<quote type="river" nature="tributary"><name>潩水</name>所出，南至临颖入颍。</quote></county>
+            <county><name>密</name>，故国。<quote type="mount">有<name>大騩山</name></quote>，<quote
+                    type="river" nature="tributary"><name>潩水</name>所出，南至临颖入颍。</quote></county>
             <county><name>新成</name>，<time>惠帝四年置</time>。蛮中，故戎蛮子国。</county>
             <county><name>开封</name>，<quote type="lake"><name>逢池</name>在东北</quote>，或曰宋之逢泽也。</county>
             <county><name>成皋</name>，故虎牢。或曰制。</county>
-                <county><name>苑陵</name>，莽曰<wname>左亭</wname>。</county>
-            <county><name>梁</name>，<quote type="sett"><name>惮狐聚</name></quote>，<hist>秦灭西周徙其君于此。</hist><quote type="sett"><name>阳人聚</name></quote>，<hist>秦灭东周徙其君于此。</hist></county>
+            <county><name>苑陵</name>，莽曰<wname>左亭</wname>。</county>
+            <county><name>梁</name>，<quote type="sett"
+                    ><name>惮狐聚</name></quote>，<hist>秦灭西周徙其君于此。</hist><quote type="sett"
+                        ><name>阳人聚</name></quote>，<hist>秦灭东周徙其君于此。</hist></county>
             <county><name>新郑</name>，《诗》郑国，郑桓公之子武公所国，后为韩所灭，<hist>韩自平阳徙都之。</hist></county></pref>
+        <pref ref="dongjun"><name>东郡</name>
+        <meta walled="22" family="401297" pop="1659028">秦置。莽曰<wname>治亭</wname>。属兖州。户四十万一千二百九十七，口百六十五万九千二十八。县二十二。</meta>
+        <county><name>濮阳</name>，<hist>卫成公自楚丘徙此。</hist><hist>故帝丘，颛顼虚。</hist>莽曰<wname>治亭</wname>。</county>
+        <county><name>畔观</name>，莽曰<wname>观治</wname>。</county>
+        <county><name>聊城</name>。</county>
+        <county><name>顿丘</name>，莽曰<wname>顺丘</wname>。</county>
+        <county><name>发干</name>，莽曰<wname>戢楯</wname>。</county>
+        <county><name>范</name>，莽曰<wname>建睦</wname>。</county>
+        <county><name>茬平</name>，莽曰<wname>功崇</wname>。</county>
+        <county><name>东武阳</name>，<quote type="river" nature="interpref">禹治<name>漯水</name>，东北至千乘入海，过郡三，行千二十里。</quote>莽曰<wname>武昌</wname>。</county>
+        <county><name>博平</name>，莽曰<wname>加睦</wname>。</county>
+        <county><name>黎</name>，莽曰<wname>黎治</wname>。</county>
+        <county><name>清</name>，莽曰<wname>清治</wname>。</county>
+        <county><name>东阿</name>，<quote type="admin"><name>都尉治</name>。</quote></county>
+        <county><name>离狐</name>，莽曰<wname>瑞狐</wname>。</county>
+        <county><name>临邑</name>，<quote type="shrine">有<name>泲庙</name>。</quote>莽曰<wname>榖城亭</wname>。</county>
+        <county><name>利苗</name>。</county>
+        <county><name>须昌</name>，故须句国，太昊后，风姓。</county>
+        <county><name>寿良</name>，<quote type="shrine"><name>蚩尤祠</name>在西北泲上</quote>。<quote type="walled">有<name>胸城</name>。</quote></county>
+        <county><name>乐昌</name>。</county>
+        <county><name>阳平</name>。</county>
+        <county><name>白马</name>。</county>
+        <county><name>南燕</name>，南燕国，姞姓，黄帝后。</county>
+        <county><name>廪丘</name>。</county></pref>
     </chapter>
 </book>
