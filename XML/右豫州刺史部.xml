@@ -75,17 +75,30 @@
             <county ref=""><name>富波</name>侯国，<time exact="89+">永元中复。</time></county>
             <county ref=""><name>宜禄</name><time exact="89+">永元中复。</time></county>
             <county ref=""><name>郎陵</name>侯国。</county>
-            <county ref=""><name>弋阳</name>侯国。<quote type="sett">有<name>黄亭</name>，故黄国，嬴姓。</quote></county>
+            <county ref=""><name>弋阳</name>侯国。<quote type="sett">有<name>黄亭</name></quote>，<history>故黄国，嬴姓。</history></county>
             <county ref=""><name>召陵</name><quote type="sett">有<name>陉亭</name>。</quote><quote type="sett">有<name>安陵乡</name>。</quote></county>
             <county ref=""><name>征羌</name>侯国。<quote type="sett">有<name>安陵亭</name>。</quote></county>
             <county ref=""><name>思善</name>侯国。</county>
-            <county ref=""><name>宋</name>公国，周名郪丘，汉改为新郪，章帝建初四年徙宋公于此。<quote type="sett">有<name>繁阳亭</name></quote></county>
-            <county ref=""><name>襃信</name>侯国。<quote type="sett">有<name>赖亭</name>，故国。</quote></county>
+            <county ref=""><name>宋</name><history>公国，周名郪丘，汉改为新郪，章帝建初四年徙宋公于此。</history><quote type="sett">有<name>繁阳亭</name></quote></county>
+            <county ref=""><name>襃信</name>侯国。<quote type="sett">有<name>赖亭</name></quote>，<history>故国</history>。</county>
             <county ref=""><name>原鹿</name>侯国。</county>
             <county ref=""><name>定颍</name>侯国。</county>
-            <county ref=""><name>固始</name>侯国。故寝也，<time exact="29+">光武中兴更名。</time><quote type="undetermined">有<name>寝丘</name>。</quote></county>
-            <county ref=""><name>山桑</name>侯国，故属沛。<quote type="sett">有<name>下城父聚</name>。</quote><quote type="sett">有<name>垂惠聚</name>。</quote></county>
-            <county ref=""><name>城父</name>故属沛，春秋时曰夷。<quote type="building">有<name>章华台</name>。</quote></county>
+            <county ref=""><name>固始</name>侯国。<history>故寝也</history>，<time exact="29+">光武中兴更名。</time><quote type="undetermined">有<name>寝丘</name>。</quote></county>
+            <county ref=""><name>山桑</name>侯国，<history>故属沛</history>。<quote type="sett">有<name>下城父聚</name>。</quote><quote type="sett">有<name>垂惠聚</name>。</quote></county>
+            <county ref=""><name>城父</name><history>故属沛，春秋时曰夷。</history><quote type="building">有<name>章华台</name>。</quote></county>
+        </pref>
+        <pref ref="">
+            <name>梁国</name>
+            <meta walled="9" family="83300" pop="431283">秦砀郡，高帝改。其三县，元和元年属。<point>雒阳</point>东南八百五十里。九城，户八万三千三百，口四十三万一千二百八十三。</meta>
+            <county ref=""><name>下邑</name></county>
+            <county ref=""><name>睢阳</name>本宋国阏伯墟。<quote type="sett">有<name>卢门亭</name>。</quote><quote type="undetermined">有<name>鱼门</name>。</quote><quote type="sett">有<name>阳梁聚</name>。</quote></county>
+            <county ref=""><name>虞</name><quote type="undetermined">有<name>空桐地</name></quote>，<quote type="undetermined">有<name>桐地</name></quote>，<quote type="sett">有<name>桐亭</name></quote>。<quote type="walled">有<name>纶城</name>，少康邑。</quote></county>
+            <county ref=""><name>砀山</name><quote type="resource">出<name>文石</name>。</quote></county>
+            <county ref=""><name>蒙</name><quote type="lake">有<name>蒙泽</name>。</quote></county>
+            <county ref=""><name>穀熟</name><quote type="walled">有<name>新城</name>。</quote><quote type="sett">有<name>邳亭</name>。</quote></county>
+            <county ref=""><name>鄢</name><history>故属陈留。</history></county>
+            <county ref=""><name>宁陵</name><history>故属陈留。</history><quote type="sett">有<name>葛乡</name></quote>，<history>故葛伯国。</history></county>
+            <county ref=""><name>薄</name><history>故属山阳，汤所都。</history></county>
         </pref>
         <h_pref>
             <name>右豫州刺史部</name>
