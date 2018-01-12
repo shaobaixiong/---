@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/xml.rnc" type="application/relax-ng-compact-syntax"?>
+<book name="后汉书">
+    <chapter name="志第二十 郡国二">
+        <pref ref="">
+            <name>颍川郡</name>
+            <meta walled="17" family="263440" pop="1436513">
+                秦置。<point>雒阳</point>东南五百里。十七城，户二十六万三千四百四十，口百四十三万六千五百一十三。 </meta>
+            <county ref="">
+                <name>阳翟</name> 禹所都。 <quote type="pref_seat"/>
+                <quote type="building">有<name>钧台</name>。</quote>
+                <quote type="sett">有<name>高氏亭</name>。</quote>
+                <quote type="walled">有<name>雍氏城</name>。</quote>
+            </county>
+            <county ref="">
+                <name>襄</name>
+                <quote type="sett">有<name>养阴里</name>。</quote>
+            </county>
+            <county ref="">
+                <name>襄城</name>
+                <quote type="walled">有<name>西不羹</name>。</quote>
+                <quote type="walled">有<name>汜城</name>。</quote>
+                <quote type="undetermined">有<name>汾丘</name>。</quote>
+                <quote type="mount">有<name>鱼齿山</name>。</quote>
+            </county>
+            <county ref=""><name>昆阳</name><quote type="river">有<name>湛水</name>。</quote></county>
+            <county ref=""><name>定陵</name><quote type="walled">有<name>东不羹</name>。</quote></county>
+            <county ref=""><name>舞阳</name>邑。</county>
+            <county ref=""><name>郾</name></county>
+            <county ref=""><name>临颍</name></county>
+            <county ref=""><name>颍阳</name></county>
+            <county ref=""><name>颍阴</name><quote type="sett">有<name>狐宗乡</name>，或曰古狐人亭。</quote><quote
+                    type="sett">有<name>岸亭</name>。</quote></county>
+            <county ref=""><name>许</name></county>
+            <county ref=""><name>新汲</name></county>
+            <county ref=""><name>鄢陵</name>春秋时曰鄢。</county>
+            <county ref=""><name>长社</name><quote type="walled">有<name>长葛城</name>。</quote><quote
+                    type="sett">有<name>向乡</name>。</quote><quote type="walled"
+                    >有<name>蜀城</name></quote>，<quote type="transport"
+                >有<name>蜀津</name>。</quote></county>
+            <county ref=""><name>阳城</name><quote type="mount">有<name>嵩高山</name></quote>，<quote
+                    type="river"><name>洧水</name></quote>、<quote type="river"
+                    ><name>颍水</name>出</quote>。<quote type="resource">有<name>铁</name>。</quote><quote
+                    type="sett">有<name>负黍聚</name>。</quote></county>
+            <county ref=""><name>父城</name><quote type="sett">有<name>应乡</name>。</quote></county>
+            <county ref=""><name>轮氏</name><time exact="79">建初四年置。</time></county>
+        </pref>
+        <pref ref="">
+            <name>汝南郡</name>
+            <meta walled="37" family="404448" pop="2100788"
+                >汝南郡。高帝置。<point>雒阳</point>东南六百五十里。三十七城，户四十万四千四百四十八，口二百一十万七百八十八。</meta>
+            <county ref=""><name>平舆</name><quote type="sett">有<name>沈亭</name></quote>，故国，姬姓。</county>
+            <county ref=""><name>新阳</name>侯国。</county>
+            <county ref=""><name>西平</name><quote type="resource">有<name>铁</name>。</quote><quote type="sett">有<name>柏亭</name>，故柏国。</quote></county>
+            <county ref=""><name>上蔡</name>本蔡国。</county>
+            <county ref=""><name>南顿</name>本顿国。</county>
+            <county ref=""><name>汝阴</name>本胡国。</county>
+            <county ref=""><name>汝阳</name></county>
+            <county ref=""><name>新息</name>侯国。</county>
+            <county ref=""><name>北宜春</name></county>
+            <county ref=""><name>〈氵隱〉强</name>侯国。</county>
+            <county ref=""><name>灌阳</name></county>
+            <county ref=""><name>期思</name><quote type="sett">有<name>蒋乡</name></quote>，故蒋国。</county>
+            <county ref=""><name>阳安</name><quote type="sett">有<name>道亭</name></quote>，故国。</county>
+            <county ref=""><name>项</name></county>
+            <county ref=""><name>西华</name></county>
+            <county ref=""><name>细阳</name></county>
+            <county ref=""><name>安城</name>侯国。<quote type="sett">有<name>武城亭</name>。</quote></county>
+            <county ref=""><name>吴房</name><quote type="sett">有<name>棠谿亭</name>。</quote></county>
+            <county ref=""><name>鮦阳</name>侯国。</county>
+            <county ref=""><name>慎阳</name></county>
+            <county ref=""><name>慎</name></county>
+            <county ref=""><name>新蔡</name><quote type="sett">有<name>大吕亭</name>。</quote></county>
+            <county ref=""><name>安阳</name>侯国。<quote type="sett">有<name>江亭</name></quote>，故国，嬴姓。</county>
+            <county ref=""><name>富波</name>侯国，<time exact="89+">永元中复。</time></county>
+            <county ref=""><name>宜禄</name><time exact="89+">永元中复。</time></county>
+            <county ref=""><name>郎陵</name>侯国。</county>
+            <county ref=""><name>弋阳</name>侯国。<quote type="sett">有<name>黄亭</name>，故黄国，嬴姓。</quote></county>
+            <county ref=""><name>召陵</name><quote type="sett">有<name>陉亭</name>。</quote><quote type="sett">有<name>安陵乡</name>。</quote></county>
+            <county ref=""><name>征羌</name>侯国。<quote type="sett">有<name>安陵亭</name>。</quote></county>
+            <county ref=""><name>思善</name>侯国。</county>
+            <county ref=""><name>宋</name>公国，周名郪丘，汉改为新郪，章帝建初四年徙宋公于此。<quote type="sett">有<name>繁阳亭</name></quote></county>
+            <county ref=""><name>襃信</name>侯国。<quote type="sett">有<name>赖亭</name>，故国。</quote></county>
+            <county ref=""><name>原鹿</name>侯国。</county>
+            <county ref=""><name>定颍</name>侯国。</county>
+            <county ref=""><name>固始</name>侯国。故寝也，<time exact="29+">光武中兴更名。</time><quote type="undetermined">有<name>寝丘</name>。</quote></county>
+            <county ref=""><name>山桑</name>侯国，故属沛。<quote type="sett">有<name>下城父聚</name>。</quote><quote type="sett">有<name>垂惠聚</name>。</quote></county>
+            <county ref=""><name>城父</name>故属沛，春秋时曰夷。<quote type="building">有<name>章华台</name>。</quote></county>
+        </pref>
+        <h_pref>
+            <name>右豫州刺史部</name>
+            <meta cnty="99" pref="6"/>
+        </h_pref>
+    </chapter>
+
+</book>
