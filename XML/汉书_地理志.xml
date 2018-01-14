@@ -31,7 +31,7 @@
         <pref ref="hvd_116218"><name>左冯翊</name>
             <meta walled="24" family="235101" pop="917822"
                 >故秦内史，高帝元年属塞国，二年更名河上郡，九年罢，复为内史。武帝建元六年分为左内史，太初元年更名左冯翊。户二十三万五千一百一，口九十一万七千八百二十二。县二十四。</meta>
-            <county><name>高陵</name>，<quote type="admin"
+            <county><name>高陵</name>，<quote type="sett"
                     ><name>左辅都尉治</name>。</quote>莽曰<wname>千春</wname>。</county>
             <county><name>栎阳</name>，秦献公自雍徙。莽曰<wname>师亭</wname>。</county>
             <county><name>翟道</name>，莽曰<wname>涣</wname>。</county>
@@ -49,7 +49,7 @@
             <county><name>鄜</name>，莽曰<wname>修令</wname>。</county>
             <county><name>频阳</name>，<time>秦厉公置。</time></county>
             <county><name>临晋</name>，故大荔，秦获之，更名。<quote type="shrine">有<name>河水祠</name>。</quote><quote
-                    type="admin"><name>芮乡</name></quote>，故芮国。莽曰<wname>监晋</wname>。</county>
+                    type="sett"><name>芮乡</name></quote>，故芮国。莽曰<wname>监晋</wname>。</county>
             <county><name>重泉</name>，莽曰<wname>调泉</wname>。</county>
             <county><name>郃阳</name>，<time>景帝二年置。</time></county>
             <county><name>祋祤</name>，<time>景帝二年置。</time></county>
@@ -72,7 +72,7 @@
                     type="palace">有<name>兰池宫</name></quote>，莽曰<wname>京城</wname>。</county>
             <county><name>槐里</name>，周曰犬丘，懿王都之。秦更名废丘。<time>高祖三年更名。</time><quote type="palace"
                         >有<name>黄山宫</name>，孝惠二年起。</quote>莽曰<wname>槐治</wname>。</county>
-            <county><name>鄠</name>，古国。<quote type="admin">有<name>扈谷亭</name>。</quote>扈，夏启所伐。<quote
+            <county><name>鄠</name>，古国。<quote type="sett">有<name>扈谷亭</name>。</quote>扈，夏启所伐。<quote
                     type="river"><name>酆水</name>出东南</quote>，<quote type="river"
                     >又有<name>潏水</name></quote>，皆北过上林苑入渭。<quote type="palace"
                     >有<name>阳宫</name>，秦文王起。</quote></county>
@@ -83,7 +83,7 @@
             <county><name>郁夷</name>，《诗》“周道郁夷”。<quote type="shrine"
                     >有<name>汧水祠</name>。</quote>莽曰<wname>郁平</wname>。</county>
             <county><name>美阳</name>，<quote type="mount">《禹贡》<name>岐山</name>在西北。</quote><quote
-                    type="admin"><name>中水乡</name>，周大王所邑。</quote><quote type="palace"
+                    type="sett"><name>中水乡</name>，周大王所邑。</quote><quote type="palace"
                         >有<name>高泉宫</name>，秦宣太后起也。</quote></county>
             <county><name>郿</name>，<quote type="waterInfra"
                     ><name>成国渠</name>首受渭</quote>，东北至上林入蒙笼渠。<quote type="admin"
@@ -96,7 +96,7 @@
                 >有<name>铁官</name>。</quote></county>
             <county><name>漆</name>，<quote type="river"><name>（漆）水</name>在县西。</quote><quote
                     type="resource">有<name>铁官</name>。</quote>莽曰<wname>漆治</wname>。</county>
-            <county><name>栒邑</name>，<quote type="admin"
+            <county><name>栒邑</name>，<quote type="sett"
                 >有<name>豳乡</name></quote>，《诗》豳国，公刘所都。</county>
             <county><name>隃麋</name>，<quote type="shrine"
                     >有<name>黄帝子祠</name>一</quote>莽曰<wname>扶亭</wname>。</county>
@@ -137,7 +137,7 @@
             <county><name>黾池</name>，高帝八年复黾池中乡民。<time>景帝中二年初城，徙万家为县。</time><quote type="river"
                         ><name>榖水</name>出榖阳谷</quote>，东北至榖城入洛。莽曰<wname>陕亭</wname>。</county>
             <county><name>丹水</name>，<quote type="river"><name>丹水</name></quote>出上洛冢岭山，东至析入钧。<quote
-                    type="admin"><name>密阳乡</name></quote>，故商密也。</county>
+                    type="sett"><name>密阳乡</name></quote>，故商密也。</county>
             <county><name>新安</name>，<quote type="river">《禹贡》<name>涧水</name>在东</quote>，南入洛。</county>
             <county><name>商</name>，秦相卫鞅邑也。</county>
             <county><name>析</name>，<quote type="river"><name>黄水</name>出黄谷</quote>，<quote
@@ -174,13 +174,13 @@
             <county><name>垣</name>，<quote type="mount">《禹贡》<name>王屋山</name>在东北</quote>，<quote
                     type="river"
                 ><name>沇水</name>所出</quote>，东南至武德入河，轶出荥阳北地中，又东至琅槐入海，过郡九，行千八百四十里。</county>
-            <county><name>皮氏</name>。<quote type="admin"
+            <county><name>皮氏</name>。<quote type="sett"
                     ><name>耿乡</name></quote>，故耿国，晋献公灭之，以赐大夫赵夙。后十世献侯徙中牟。<quote type="resource"
                         >有<name>铁官</name>。</quote>莽曰<wname>延平</wname>。</county>
             <county><name>长修</name>。</county>
             <county><name>平阳</name>，韩武子玄孙贞子居此。<quote type="resource"
                 >有铁官。</quote>莽曰<wname>香平</wname>。</county>
-            <county><name>襄陵</name>，<quote type="admin"
+            <county><name>襄陵</name>，<quote type="sett"
                     >有<name>班氏乡亭</name>。</quote>莽曰<wname>干昌</wname>。</county>
             <county><name>彘</name>，<quote type="mount"><name>霍大山</name>在东</quote>，<quote
                     type="mount"><name>冀州山</name></quote>，周厉王所奔。莽曰<wname>黄城</wname>。</county>
@@ -203,8 +203,8 @@
                 ><name>晋水</name>所出</quote>，东入汾。</county>
             <county><name>葰人</name>。</county>
             <county><name>界休</name>，莽曰<wname>界美</wname>。</county>
-            <county><name>榆次</name>，<quote type="admin"><name>涂水乡</name></quote>，晋大夫知徐吾邑。<quote
-                    type="admin"><name>梗阳乡</name></quote>，魏戊邑。莽曰<wname>太原亭</wname>。</county>
+            <county><name>榆次</name>，<quote type="sett"><name>涂水乡</name></quote>，晋大夫知徐吾邑。<quote
+                    type="sett"><name>梗阳乡</name></quote>，魏戊邑。莽曰<wname>太原亭</wname>。</county>
             <county><name>中都</name>。</county>
             <county><name>于离</name>，莽曰<wname>于合</wname>。</county>
             <county><name>兹氏</name>，莽曰<wname>兹同</wname>。</county>
@@ -235,7 +235,7 @@
                     type="river"><name>浊漳水</name>所出</quote>，东至邺入清漳。</county>
             <county><name>屯留</name>，桑钦言,<quote type="river"><name>绛水</name>出西南</quote>，东入海。</county>
             <county><name>余吾</name>。</county>
-            <county><name>铜鞮</name>，<quote type="admin">有<name>上虒亭</name></quote>，<quote type="sett"
+            <county><name>铜鞮</name>，<quote type="sett">有<name>上虒亭</name></quote>，<quote type="sett"
                         ><name>下虒聚</name></quote>。</county>
             <county><name>沾</name>。<quote type="valley"><name>大黾谷</name></quote>，<quote type="river"
                         ><name>清漳水</name>所出</quote>，东北至邑成入大河，过郡五，行千六百八十里，冀州川。</county>
@@ -380,7 +380,7 @@
             <county><name>许</name>。故国姜姓，四岳后，太叔所封，二十四世为楚所灭。</county>
             <county><name>鄢陵</name>，户四九千一百一，口二十六万一千四百一十八。莽曰<wname>左亭</wname>。</county>
             <county><name>临颍</name>，莽曰<wname>监颍</wname>。</county>
-            <county><name>父城</name>，<quote type="admin"><name>应乡</name></quote>，故国，周武王弟所封。</county>
+            <county><name>父城</name>，<quote type="sett"><name>应乡</name></quote>，故国，周武王弟所封。</county>
             <county><name>成安</name>，侯国也。</county>
             <county><name>周承休</name>，侯国，<time>元帝置，元始二年更名郑公</time>。莽曰<wname>嘉美</wname>。</county>
             <county><name>阳城</name>，<quote type="mount"><name>阳城山</name></quote>，<quote type="river" nature="interpref"><name>洧水</name>所出，东南至长平入颍，过郡三，行五百里。</quote><quote type="mount"><name>阳乾山</name></quote>，<quote type="river" nature="interpref"><name>颍水</name>所出，东至下蔡入淮，过郡三，行千五百里，荆州浸。</quote><quote type="resource">有<name>铁官</name>。</quote></county>
