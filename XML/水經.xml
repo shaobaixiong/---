@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%B0%B4%E7%BB%8F%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<rivers>
+    <river ref="mian">
+        <name>沔水</name>
+        出武都沮县东狼谷中。沔水又东南，径沮水戍而东南流注汉，曰沮口。沔水又东，径白马戍南，氵尽水入焉。沔水又东，径武侯垒南。又东，径沔阳故城南。沔水又东，径西乐城北。汉水又左得度口水。汉水又东，黄沙水左注之。汉水又东，合褒水。汉水又东，径汉庙堆下。又东，过南郑县南。汉水又东，得长柳渡。汉水又左会文水。汉水又东，黑水注之。又东，过城固县南。又东，过魏兴安阳县南，涔水出自旱山。北注之。汉水又东，至氵党城南，与洛谷水合。汉水又东，径小城固南。汉水又东，径石门滩。汉水又东，径女为墟为滩。汉水又东，径猴经滩。汉水又东，径小大黄金南。汉水又东，合蘧蒢汉口。汉水又东，右会洋水。汉水又东，历敖头。汉水又东，合直水。汉水又东，径直城南。汉水又东，径晋昌郡之宁都县南。汉水又东，径鱼脯溪口。又东，过西城县南。汉水又东，右得大势。汉水右对月谷口。汉水又东，径西城县故城南。汉水又东，为鳣湍。汉水又东，合旬水。汉水又东，径木兰塞南。汉水又东，左得育汉。汉水又东，巡魏兴郡之锡县故城北。汉水又东，历姚方。沔水又东，过襄阳县北。沔水又东，合檀溪水。沔水又径平鲁城南，又从县东屈西南，淯水从北来注之。沔水中有鱼梁洲。沔水又径桃林亭东。沔水又东南，径蔡洲。沔水又东南，邑城北。沔水又东，合洄口。又东，过中庐县东，淮水自房陵县淮山东流注之。沔水又东南流，径黎丘故城西。又南，过巴阝县东北。沔水又南，得木里水会。又南，过宜城县东，夷水山自房陵县，东流注之。沔水又径若阝县故城南。沔水又东，敖水注之。沔水又东南，与白水洽。沔水自荆城东南流，径当阳县之章山东。沔水又东，右会权口。沔水又东南，与阳口合。又东南，径江夏云杜县东，夏水从西来注之。沔水又东，径左桑。沔水又东，合区亮水口。沔水又东，得合驿口。沔水又东，谓之横桑。沔水又东，谓之郑潭。沔水又东，得死沔。沔水又东，与力口合。沔水又东南，氵员入水焉。沔水又东，径沌阳县北。又南，至江夏沙羡县北。南，入于江。沔水与江合流，又东，过彭蠡泽。又东，北出居巢县南。又东，过牛渚县南。又东，至石城县，分为二，其一东北流，其一又过毗陵县北，为北江。南江又东，与贵长池水合。南江又南，东径宣城之临城县南。南江又东，与桐水合。南江又东，径宁国县南。南江又东北，为长渎历河口，东则松江出焉。江水奇分，谓之三江口。又东，至会稽余姚县。东，入于海。江水又东，径黄桥下。江水又东，径余姚县故城南。江水又东，注于海。又东，过堵阳县，堵水出焉，自上粉县北流注之。又东，过郧乡县南。汉水又东，径郧乡里故城南。汉水又东，径琵琶谷口，又东北流，又屈东南，过武当县东北。汉水又东，为亻艮子潭。汉水又东南，径武当县故城北。汉水又东，平阳川水注之。沔水又东，南径县城东。沔水又东，径龙巢山下。又东南，径涉都县东北。又东南，过赞阝县之西南。又南，径谷城东。又南，过阴县之西。沔水又东南，得洛溪口。又南，过筑阳东，筑水出自房陵县东，过其县南流注之。又东，径学城南。沔水又南，径筑阳县东。沔水又东，为漆滩。又东，过山都县东北。沔水又东，径乐山北。沔水又东，径隆中。
+    </river>
+    <river ref="chi">
+        <name>滍水</name>
+        出<origin>南阳<point>鲁阳</point>县西之尧山</origin>。
+        东北，过<complete>颍川<point>定陵</point>县西北</complete>。
+        又东，过<complete><point>郾</point>县南</complete>。
+        东，入于<influx ref="ru">汝</influx>。
+    </river>
+    <river ref="wu">
+        <name>舞水</name>
+        出<origin><point>舞阴</point>县西北扶予山</origin>。
+        东，过<complete>其（<point>舞阴</point>）县南</complete>。
+        又东，过<complete><point>西平</point>县北</complete>。
+        又东，过<complete><point>郾</point>县南</complete>。
+        又东，过<complete><point>定颍</point>县北</complete>。
+        东，入于<influx ref="ru">汝</influx>。
+    </river>
+    <river ref="yu">
+        <name>育水</name>
+        出<origin>弘农<point>卢氏</point>县攻离山</origin>。
+        东南，过<complete>南阳<point>西鄂</point>县西北</complete>。
+        又东，过<complete><point>宛</point>县南</complete>。
+        又屈南，过<complete><point>育阳</point>县东</complete>。
+        又南，过<complete><point>新野</point>县西</complete>。
+        西，过<complete><point>邓</point>县东</complete>。
+        南，入于<influx ref="mian">沔</influx>。
+    </river>
+    <river ref="qin">
+        <name>瀙水</name>
+        出<origin><point>舞阴</point>县东上界山</origin>。
+        东，过<complete><point>吴房</point>县南</complete>。
+        又东，过<complete><point>灈阳</point>县南</complete>。
+        又东，过<complete><point>上蔡</point>县南</complete>。
+        东，入<influx ref="ru">汝</influx>。
+    </river>
+    <river ref="ru">
+        <name>汝水</name>
+        出<origin>河南<point>梁</point>县勉乡西天息山</origin>。
+        东南过<complete>其县(梁)北</complete>。
+        又东南<complete>颍川<point>郏</point>县南</complete>。
+        又东南过<complete><point>定陵</point>县北</complete>。
+        又东南过<complete><point>郾县</point>北</complete>。
+        又东南过<complete>汝南<point>上蔡</point>县</complete>。
+        西又东南过<complete><point>平舆</point>县南</complete>，一作平兴。
+        又东至<influx_point><point>原鹿</point>县南</influx_point>，入于<influx ref="huai">淮</influx>。
+    </river>
+    <river ref="huai">
+        <name>淮水</name>
+        出<origin>南阳<point>平氏</point>县胎簪山</origin>，东北<complete>过<point>桐栢山</point></complete>。
+        淮水又东迳<complete><point>义阳</point>县</complete>。
+        淮水又迳<complete>义阳县故城南</complete>。
+        淮水又东得<influx ref="shikou">溮口水</influx>，东过<complete>江夏<point>平春</point>县北</complete>。
+        淮水又东<influx ref="you">油水</influx>注之。
+        淮水又东北与<influx ref="damu">大木水</influx>合。
+        淮水又东北流左会<influx ref="hu">湖水</influx>。
+        淮水又东迳<complete><point>安阳</point>县故城南</complete>。
+        又东迳<complete><point>新息</point>县南</complete>。
+        淮水又东迳<complete><point>浮光山</point>北</complete>。
+        淮水又东右合<influx ref="he">壑水</influx>。
+        淮水又东北申陂<influx ref="zhi">枝水</influx>注之。
+        淮水又东迳<complete><point>淮阴亭</point>北</complete>。
+        又东迳<complete><point>白城</point>南</complete>。
+        淮水又东迳<complete><point>长陵</point>戍南</complete>。
+        又东<influx ref="qingbei">青陂水</influx>注之。
+        淮水又东北合<influx ref="huang">黄水</influx>。
+        又东过<complete><point>期思</point>县北</complete>。
+        淮水又东北<influx ref="pai">渒水</influx>注之。
+        东过<influx_point><point>原鹿</point>县南</influx_point>，<influx ref="ru">汝水</influx>从西北来注之。
+        又东过<complete>庐江<point>安丰</point>县</complete>，东北<influx ref="jue">决水</influx>从北来注之。
+        淮水又东<influx ref="gu">谷水</influx>入焉。
+        淮水又东北左会<influx ref="run">润水</influx>。
+        淮水又东北<influx ref="qiong">穷水</influx>入焉。
+        又东北至<influx_point>九江<point>寿春</point>县西</influx_point>，<influx ref="bi">沘水</influx>、<influx ref="xie">泄水</influx>合北注之。
+        又东<influx ref="ying">颍水</influx>从西北来流注之。
+        淮水又东流与<complete><point>颍口</point></complete>会东南，迳<complete><point>仓陵</point>北</complete>。
+        又东北流迳<complete><point>寿春县故城</point>西</complete>。
+        淮水又北左合<influx ref="jiao">椒水</influx>。
+        又东过<influx_point><point>寿春</point>县北</influx_point>，<influx ref="fei">肥水</influx>从县东北流注之。
+        淮水又北迳<complete><point>山硖</point>中</complete>，谓之硖石。
+        淮水又北迳<complete><point>莫耶山</point>西</complete>
+        又东，过<influx_point><point>当涂</point>县北</influx_point>，<influx ref="guo">过水</influx>从西北来注之。
+        淮水又东北，<influx ref="hao">濠水</influx>注之。
+        淮水又北，<influx ref="sha">沙水</influx>注之。
+        又东，过<complete><point>钟离</point>县北</complete>。
+        淮水又东，径<complete><point>夏丘</point>县南</complete>。
+        淮水又东，径<complete><point>浮山</point></complete>。
+        淮水又东，径<influx_point><point>徐县</point>南</influx_point>，<influx ref="lijian">历涧水</influx>注之。
+        淮水又东，<influx ref="chi">池水</influx>注之。
+        淮水又东，<influx ref="qi">蕲水</influx>注之。
+        淮水又东，历<complete><point>客山</point></complete>，径<complete><point>盱眙</point>县故城西</complete>。
+        又东北，至<influx_point>下邳<point>淮阴</point>县西</influx_point>，<influx ref="si">泗水</influx>从西北来流注之。
+        又东，过<influx_point><point>淮阴</point>县北</influx_point>，<influx ref="zhongdu">中渎水</influx>出白马湖东北注之。
+        又东，<influx ref="2anonymous">两小水流</influx>注之。
+        又东，至<dest>广陵<point>淮浦</point>县</dest>入于海。
+    </river>
+    <river ref="feng">
+        <name></name>
+    </river>
+    <river ref="2anonymous">
+        <name>两小水流</name>
+    </river>
+    <river ref="zhongdu">
+        <name>中渎水</name>
+    </river>
+    <river ref="si">
+        <name>泗水</name>
+        出<origin><point>鲁卞</point>县北山</origin>。
+        西南，径<complete><point>鲁县</point>北</complete>。
+        又西，过<influx_point><point>瑕丘</point>县东</influx_point>，屈从县东南流，<influx ref="shi">濕水</influx>从东来注之。
+        又南，过<complete><point>平阳</point>县西</complete>。
+        又南，过<influx_point><point>高平</point>县西</influx_point>，<influx ref="">洸水</influx>从北西来流注之。
+        又南，过<influx_point><point>方舆</point>县东</influx_point>，<influx ref="he2">荷水</influx>从西来注之。
+        又屈东南，过<influx_point><point>湖陆</point>县南</influx_point>，<influx ref="weijuan">洧涓水</influx>从东北来流注之。
+        又南，过<complete><point>沛</point>县东</complete>。
+        又东，径<complete><point>山阳</point>郡</complete>。
+        又东，南过<complete><point>彭城</point>县东北</complete>。
+        又东南，过<complete><point>吕</point>县南</complete>。
+        又东南，过<complete><point>下邳</point>县西</complete>。
+        又东南，入于<influx ref="huai">淮</influx>。
+    </river>
+    <river ref="weijuan">
+        <name>洧涓水</name>
+    </river>
+    <river ref="he2">
+        <name>荷水</name>
+    </river>
+    <river ref="guang">
+        <name>洸水</name>
+    </river>
+    <river ref="shi">
+        <name>濕水</name>
+    </river>
+    <river ref="qi">
+        <name>蕲水</name>
+    </river>
+    <river ref="chi">
+        <name>池水</name>
+    </river>
+    <river ref="lijian">
+        <name>历涧水</name>
+    </river>
+    <river ref="sha">
+        <name>沙水</name>
+    </river>
+    <river ref="hao">
+        <name>濠水</name>
+    </river>
+    <river ref="guo">
+        <name>过水</name>
+    </river>
+    <river ref="fei">
+        <name>肥水</name>
+    </river>
+    <river ref="jiao">
+        <name>椒水</name>
+    </river>
+    <river ref="ying">
+        <name>颍水</name>
+    </river>
+    <river ref="xie">
+        <name>泄水</name>
+    </river>
+    <river ref="bi">
+        <name>沘水</name>
+    </river>
+    <river ref="qiong">
+        <name>穷水</name>
+    </river>
+    <river ref="run">
+        <name>润水</name>
+    </river>
+    <river ref="gu">
+        <name>谷水</name>
+    </river>
+    <river ref="hu">
+        <name>湖水</name>
+    </river>
+    <river ref="jue">
+        <name>决水</name>
+    </river>
+    <river ref="you"><name>油水</name></river>
+    <river ref="shikou">
+        <name>溮口水</name>
+    </river>
+    <river ref="damu">
+        <name>大木水</name>
+    </river>
+    <river ref="he">
+        <name>壑水</name>
+    </river>
+    <river ref="zhi">
+        <name>枝水</name>
+    </river>
+    <river ref="qingbei">
+        <name>青陂水</name>
+    </river>
+    <river ref="huang">
+        <name>黄水</name>
+    </river>
+    <river ref="pai">
+        <name>渒水</name>
+    </river>
+</rivers>

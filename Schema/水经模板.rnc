@@ -1,0 +1,15 @@
+start = rivers
+rivers = element rivers {river+}
+river = element river {ref, name, mixed{(origin|complete|influx|influx_point|dest)*}}
+name = element name {text}
+ref = attribute ref {text}
+complete = element complete {text, mixed{(point)*}}
+origin = element origin {text, mixed{(origin_point)*}}
+dest = element dest {text, mixed{(dest_point)*}}
+dest_point = element point {text}
+influx_point = element influx_point {text, mixed{(influx_point_point)*}}
+influx_point_point = element point {text}
+origin_point = element point {text}
+influx = element influx {text, influx_ref}
+influx_ref = attribute ref {text}
+point = element point {text}
