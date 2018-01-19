@@ -28,7 +28,7 @@
             <county note="侯国"><name>安众</name>，侯国。<history parent="宛">故宛西乡。</history></county>
             <county><name>冠军</name>，<date status="est">武帝置。</date><history parent="穰 宛">故穰卢阳乡、宛临駣聚。<!-- 通过冠军县的设置可以看出，在汉代，聚是可以合并然后升级成为县的。 --></history></county>
             <county><name>比阳</name>。</county>
-            <county><name>平氏</name>，<quote>《禹贡》<feature type="river_source">桐柏大复山</feature>在东南，淮水所出，东南至淮浦入海，过郡四，行三千二百四十里，青州川。</quote>莽曰<wname>平善</wname>。</county>
+            <county><name>平氏</name>，<quote>《禹贡》<feature type="river_source">桐柏大复山</feature>在东南，<feature type="interPrefRiver" ref="huai">淮水</feature>所出，东南至淮浦入海，过郡四，行三千二百四十里，青州川。</quote>莽曰<wname>平善</wname>。</county>
             <county><name>随</name>，<history>故国。</history><quote><feature type="sett">厉乡</feature></quote>，<history>故厉国也。</history></county>
             <county><name>叶</name>，<history>楚叶公邑。</history><quote>有<feature type="mili">长城</feature>，号曰方城。</quote></county>
             <county><name>邓</name>，<history>故国。</history><quote><feature type="mili_admin">都尉治</feature>。</quote></county>
