@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>庐江郡</name>
+            <meta family="124383" pop="457333" county="12">故淮南，文帝十六年别为国。金兰西北有东陵乡，淮水出。属扬州。庐江出陵阳东南。北入江。户十二万四千三百八十三，口四十五万七千三百三十三。有楼船官。县十二：</meta>
+            舒，故国。莽曰昆乡。居巢，龙舒，临湖，雩娄，决水北至蓼入淮，又有灌水，亦北至蓼入决，过郡二，行五百一十里。襄安，莽曰庐江亭也。枞阳，寻阳，《禹贡》九江在南，皆东合为大江。灊，天柱山在南。有祠。沘山，沘水所出，北至寿春入芍陂。睆，有铁官。湖陵邑，北湖在南。松兹。侯国。莽曰诵善。
+        </pref>
+    </chapter>
+</book>
