@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="九江郡">
+        <pref>
+            <name></name>
+            <meta family="" pop="" county="">秦置，高帝四年更名为淮南园，武帝元狩元年复故。莽曰延平。属扬州。户十五万五十二，口七十八万五百二十五。有陂官、湖官。县十五。</meta>
+            寿春邑，楚考烈王自陈徙此。浚遒，成德，莽曰平阿。橐皋，阴陵，莽曰阴陆。历阳，都尉治。莽曰明义。当涂，侯国。莽曰山聚。钟离，莽曰蚕富。合肥，东城，莽曰武城。博乡，侯国。莽曰扬陆。曲阳，侯国。莽曰延平亭。建阳，全椒，阜陵。莽曰阜陆。
+        </pref>
+    </chapter>
+</book>

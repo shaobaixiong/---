@@ -4,8 +4,19 @@
     <chapter name="地理志第八">
         <pref>
             <name>庐江郡</name>
-            <meta family="124383" pop="457333" county="12">故淮南，文帝十六年别为国。金兰西北有东陵乡，淮水出。属扬州。庐江出陵阳东南。北入江。户十二万四千三百八十三，口四十五万七千三百三十三。有楼船官。县十二：</meta>
-            舒，故国。莽曰昆乡。居巢，龙舒，临湖，雩娄，决水北至蓼入淮，又有灌水，亦北至蓼入决，过郡二，行五百一十里。襄安，莽曰庐江亭也。枞阳，寻阳，《禹贡》九江在南，皆东合为大江。灊，天柱山在南。有祠。沘山，沘水所出，北至寿春入芍陂。睆，有铁官。湖陵邑，北湖在南。松兹。侯国。莽曰诵善。
+            <meta family="124383" pop="457333" county="12"><history>故淮南</history>，<date exact="-164" status="change">文帝十六年别为国。</date>金兰西北有东陵乡，<feature type="interPrefRiver">淮水</feature>出。属扬州。<feature type="river">庐江</feature>出陵阳东南。北入江。户十二万四千三百八十三，口四十五万七千三百三十三。有<feature type="admin">楼船官</feature>。县十二。</meta>
+            <county><name>舒</name>，<history>故国。</history>莽曰<wname>昆乡</wname>。</county>
+            <county><name>居巢</name>。</county>
+            <county><name>龙舒</name>。</county>
+            <county><name>临湖</name>。</county>
+            <county><name>雩娄</name>，<quote><feature type="river" ref="jue">决水</feature>北至蓼入淮，又有<feature type="interPrefRiver" ref="guan">灌水</feature>，亦北至蓼入决，过郡二，行五百一十里。</quote></county>
+            <county><name>襄安</name>，莽曰<wname>庐江亭</wname>也。</county>
+            <county><name>枞阳</name>。</county>
+            <county><name>寻阳</name>，<quote>《禹贡》<feature type="river">九江</feature>在南，皆东合为大江。</quote></county>
+            <county><name>灊</name>，<quote><feature type="mount">天柱山</feature>在南。</quote><quote>有<feature type="shrine">祠</feature>。</quote><quote><feature type="river_source">沘山</feature>，<feature type="river">沘水</feature>所出，北至寿春入芍陂。</quote></county>
+            <county><name>皖</name>，<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county note="邑"><name>湖陵邑</name>，<quote><feature type="lake">北湖</feature>在南。</quote></county>
+            <county note="侯国"><name>松兹</name>。侯国。莽曰<wname>诵善</wname>。</county>
         </pref>
     </chapter>
 </book>
