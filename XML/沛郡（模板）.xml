@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>沛郡</name>
+            <meta family="409079" pop="2030480" county="37"><history>故秦泗水郡。</history><date status="nameChange">高帝更名。</date>莽曰<wname>吾符</wname>。属豫州。户四十万九千七十九，口二百三万四百八十。县三十七。</meta>
+            <county><name>相</name>，莽曰<wname>吾符亭</wname>。<quote><feature type="pref_seat"/></quote></county>
+            <county><name>龙亢</name>。</county>
+            <county><name>竹</name>，莽曰<wname>笃亭</wname>。</county>
+            <county><name>穀阳</name>。</county>
+            <county><name>萧</name>，<history>故萧叔国，宋别封附庸也。</history></county>
+            <county><name>向</name>，<history>故国。《春秋》曰“莒人入向”。姜姓，炎帝后。</history></county>
+            <county><name>铚</name>。</county>
+            <county note="侯国"><name>广戚</name>，侯国。莽曰<wname>力聚</wname>。</county>
+            <county><name>下蔡</name>，<history>故州来国，为楚所灭，后吴取之，至夫差迁昭侯于此。后四世侯齐竟为楚所灭。</history></county>
+            <county><name>丰</name>，莽曰<wname>吾丰</wname>。</county>
+            <county><name>郸</name>，莽曰<wname>单城</wname>。</county>
+            <county><name>谯</name>，莽曰<wname>延成亭</wname>。</county>
+            <county><name>蕲</name>，<quote><feature type="sett">𧈬乡</feature>。</quote>高祖破黥布。<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname>蕲城</wname>。</county>
+            <county><name>𧈬</name>，莽曰<wname>贡</wname>。</county>
+            <county><name>辄与</name>，莽曰<wname>华乐</wname>。</county>
+            <county><name>山桑</name>。</county>
+            <county note="侯国"><name>公丘</name>，<history>侯国。故滕国，周懿王了错叔绣所封，三十一世为齐所灭。</history></county>
+            <county><name>符离</name>，莽曰<wname>符合</wname>。</county>
+            <county note="侯国"><name>敬丘</name>，侯国。</county>
+            <county><name>夏丘</name>，莽曰<wname>归思</wname>。</county>
+            <county note="侯国"><name>洨</name>，侯国。垓下，高祖破项羽。莽曰<wname>育成</wname>。</county>
+            <county><name>沛</name>，<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>芒</name>，莽曰<wname>博治</wname>。</county>
+            <county note="侯国"><name>建成</name>，侯国。</county>
+            <county><name>城父</name>，<quote><feature type="interPrefRiver" ref="xiafei">夏肥水</feature>东南至下蔡入淮，过郡二，行六百二十里。</quote>莽曰<wname>思善</wname>。</county>
+            <county note="侯国"><name>建平</name>，侯国，莽曰<wname>田平</wname>。</county>
+            <county><name>酂</name>，莽曰<wname>赞治</wname>。</county>
+            <county note="侯国"><name>栗</name>，侯国，莽曰<wname>成富</wname>。</county>
+            <county note="侯国"><name>扶阳</name>，侯国。莽曰<wname>合治</wname>。</county>
+            <county note="侯国"><name>高</name>，侯国。</county>
+            <county note="侯国"><name>高柴</name>，侯国。</county>
+            <county note="侯国"><name>漂阳</name>。</county>
+            <county note="侯国"><name>平阿</name>，侯国。莽曰<wname>平宁</wname>。</county>
+            <county><name>东乡</name>。</county>
+            <county><name>临都</name>。</county>
+            <county><name>义成</name>。</county>
+            <county note="侯国"><name>祁乡</name>。侯国。莽曰<wname>会谷</wname>。</county>
+        </pref>
+    </chapter>
+</book>
