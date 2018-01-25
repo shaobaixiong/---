@@ -4,8 +4,8 @@
     <chapter name="地理志第八">
         <pref>
             <name>庐江郡</name>
-            <meta family="124383" pop="457333" county="12"><history>故淮南</history>，<date exact="-164" status="change">文帝十六年别为国。</date>金兰西北有东陵乡，<feature type="interPrefRiver">淮水</feature>出。属扬州。<feature type="river">庐江</feature>出陵阳东南。北入江。户十二万四千三百八十三，口四十五万七千三百三十三。有<feature type="admin">楼船官</feature>。县十二。</meta>
-            <county><name>舒</name>，<history>故国。</history>莽曰<wname>昆乡</wname>。</county>
+            <meta family="124383" pop="457333" county="12"><history>故淮南</history>，<date exact="-164" status="natureChange">文帝十六年别为国。</date>金兰西北有东陵乡，<feature type="interPrefRiver">淮水</feature>出。属扬州。<feature type="river">庐江</feature>出陵阳东南。北入江。户十二万四千三百八十三，口四十五万七千三百三十三。有<feature type="admin">楼船官</feature>。县十二。</meta>
+            <county><name>舒</name>，<history>故国。</history>莽曰<wname>昆乡</wname>。<quote><feature type="pref_seat"/></quote></county>
             <county><name>居巢</name>。</county>
             <county><name>龙舒</name>。</county>
             <county><name>临湖</name>。</county>

@@ -5,7 +5,7 @@
         <pref>
             <name>江夏郡</name>
             <meta family="56844" pop="219218" county="14"><date status="est">高帝置。</date>属荆州。户五万六千八百四十四，口二十一万九千二百一十八。县十四。</meta>
-            <county><name>西陵</name>，<quote>有<feature type="admin">云梦官</feature>。</quote>莽曰<wname>江阳</wname>。</county>
+            <county><name>西陵</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="admin">云梦官</feature>。</quote>莽曰<wname>江阳</wname>。</county>
             <county><name>竟陵</name>，<quote><feature type="mount">章山</feature>在东北，古文以为内方山。</quote><quote><feature type="sett">郧乡</feature></quote>，<history>楚郧公邑。</history>莽曰<wname>守平</wname>。</county>
             <county><name>西阳</name>。</county>
             <county><name>襄</name>，莽曰<wname>襄非</wname>。</county>

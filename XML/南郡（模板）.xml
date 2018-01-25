@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
-    <chapter name="地理志第八中">
+    <chapter name="地理志第八">
         <pref>
             <name>南郡</name>
             <meta county="18" family="125579" pop="718540"><date status="est">秦置</date>，高帝元年更为临江郡，五年复故。景帝二年复为临江，中二年复故。莽曰南顺。属荆州。户十二万五千五百七十九，口七十一万八千五百四十。有发弩官。县十八。</meta>
-            <county><name>江陵</name>，<history>故楚郢都，楚文王自丹阳徙此。后九世平王城之。后十世秦拔我郢，徙陈。</history>莽曰<wname>江陆</wname>。<quote>（（漳水）东至江陵入<feature type="river">阳水</feature>，阳水入沔，行六百里）</quote></county>
+            <county><name>江陵</name>，<quote><feature type="pref_seat"/></quote><history>故楚郢都，楚文王自丹阳徙此。后九世平王城之。后十世秦拔我郢，徙陈。</history>莽曰<wname>江陆</wname>。<quote>（（漳水）东至江陵入<feature type="river">阳水</feature>，阳水入沔，行六百里）</quote></county>
             <county><name>临沮</name>，<quote>《禹贡》<feature type="river_source">南条荆山</feature>在东北，<feature type="river" ref="zhang">漳水</feature>所出，东至江陵入阳水，阳水入沔，行六百里。</quote></county>
             <county><name>夷陵</name>。<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname>居利</wname>。</county>
             <county><name>华容</name>，<quote><feature type="lake">云梦泽</feature>在南，荆州薮。</quote><quote><feature type="river" ref="xia">夏水</feature>首受江，东入沔，行五百里。</quote></county>
