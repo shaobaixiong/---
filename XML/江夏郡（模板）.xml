@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>江夏郡</name>
+            <meta family="56844" pop="219218" county="14"><date status="est">高帝置。</date>属荆州。户五万六千八百四十四，口二十一万九千二百一十八。县十四。</meta>
+            <county><name>西陵</name>，<quote>有<feature type="admin">云梦官</feature>。</quote>莽曰江阳。</county>
+            竟陵，章山在东北，古文以为内方山。郧乡，楚郧公邑。莽曰守平。西阳，襄，莽曰襄非。邾，衡山王吴芮都。轪，故弦子国。鄂，安陆，横尾山在东北。古文以为陪尾山。沙羡，蕲春，鄳，云杜，下雉，莽曰闰光。钟武。侯国。莽曰当利。
+        </pref>
+    </chapter>
+</book>
