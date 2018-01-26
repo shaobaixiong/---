@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>涿郡</name>
+            <meta family="195607" pop="782764" county="29"><date status="est">高帝置。</date>莽曰<wname type="?">垣翰</wname>。属幽州。户十九万五千六百七，口七十八万二千七百六十四。有<feature type="resource">铁官</feature>。县二十九。</meta>
+            涿，桃水首受涞水，分东至安次入河。逎，莽曰逎屏，穀丘，故安，阎乡，易水所出，东至范阳入濡也。并州浸。水亦至范阳入涞。南深泽。范阳。莽曰顺阴。蠡吾，容城。莽曰深泽。易，广望，侯国。鄚，莽曰言符。高阳，莽曰高亭。州乡，侯国。安平，都尉治。莽曰广望亭。樊舆，侯国。莽曰握符。成，侯国。莽曰宜家。良乡，侯国。垣水南东至阳乡入桃。莽曰广阳。利乡，侯国。莽曰章符。临乡，侯国。益昌，侯国。莽曰有袟。阳乡，侯国。莽曰章武。西乡，侯国。莽曰移风。饶阳，中水，武垣，莽曰垣翰亭。阿陵，莽曰阿陆。阿武，侯国。高郭，侯国。莽曰广堤。新昌，侯国。
+        </pref>
+    </chapter>
+</book>

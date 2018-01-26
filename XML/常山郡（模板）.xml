@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>常山郡</name>
+            <meta family="141741" pop="677956" county="18"><date status="est">高帝置。</date>莽曰<wname type="重地">井关</wname>。属冀州。户十四万一千七百四十一，口六十七万七千九百五十六。县十八。</meta>
+            <county><name>元氏</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="river" ref="ju">沮水</feature>首受中丘西山穷泉谷，东至堂阳入黄河。</quote>莽曰<wname type="亭">井关亭</wname>。</county>
+            <county><name>石邑</name>，<quote><feature type="river_source">井陉山</feature>在西，<feature type="river" ref="jiao">洨水</feature>所出，东南至廮陶入泜。</quote></county>
+            <county note="侯国"><name>桑中</name>，侯国。</county>
+            <county><name>灵寿</name>，<history>中山桓公居此。</history><quote>《禹贡》<feature type="river" ref="wei">卫水</feature>出东北，江入虖池。</quote></county>
+            <county><name>蒲吾</name>，<quote>有<feature type="resource">铁山</feature>。</quote><quote><feature type="river">大白渠水</feature>首受绵曼水，东南至下曲阳入斯洨。</quote></county>
+            <county><name>上曲阳</name>，<quote><feature type="mount">恒山北谷</feature>在西北。</quote><quote>有<feature type="shrine">祠</feature>。</quote>并州山。<quote>《禹贡》<feature type="river">恒水</feature>所出，东入滱。</quote>莽曰<wname type="亭">常山亭</wname>。</county>
+            <county><name>九门</name>，莽曰<wname type="半嘉名">久门</wname>。</county>
+            <county><name>井陉</name>。</county>
+            <county><name>房子</name>，<quote><feature type="river_source">赞皇山</feature>，<feature type="river" ref="ji">济水</feature>所出，东至廮陶入泜。</quote>莽曰<wname type="半嘉名">多子</wname>。</county>
+            <county><name>中丘</name>，<quote><feature type="river_source">逢山长谷</feature>，<feature type="river" ref="zhu">渚水</feature>所出，东至张邑入偶。</quote>莽曰<wname type="?">直聚</wname>。</county>
+            <county note="侯国"><name>封斯</name>，侯国。</county>
+            <county><name>关</name>。</county>
+            <county><name>平棘</name>。</county>
+            <county><name>鄗</name>，<date status="nameChange">世祖即位，更名高邑。</date>莽曰<wname type="亭">禾成亭</wname>。</county>
+            <county note="侯国"><name>乐阳</name>，侯国。莽曰<wname type="嘉名">畅苗</wname>。</county>
+            <county note="侯国"><name>平台</name>，侯国。莽曰<wname type="半嘉名">顺台</wname>。</county>
+            <county note="侯国"><name>都乡</name>，侯国。<quote>有<feature type="resource">铁官</feature>。</quote>莽曰<wname type="改一">分乡</wname>。</county>
+            <county><name>南行唐</name>。<quote><feature type="river_source">牛饮山白陉谷</feature>，<feature type="river" ref="zi">滋水</feature>所出，东至新市入虖池水。</quote>莽曰<wname type="嘉名">延亿</wname>。</county>
+        </pref>
+    </chapter>
+</book>

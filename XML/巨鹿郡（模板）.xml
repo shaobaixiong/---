@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>巨鹿郡</name>
+            <meta family="155951" pop="827177" county="20">秦置。属冀州。户十五万五千九百五十一，口八十二万七千一百七十七。县二十。</meta>
+            <county><name>巨鹿</name>，<quote>《禹贡》<feature type="lake">大陆泽</feature>在北。</quote><quote>纣所作<feature type="history">沙丘台</feature>在东北七十里。</quote></county>
+            <county><name>南</name>，莽曰<wname type="嘉名">富平</wname>。</county>
+            <county><name>广阿</name>。</county>
+            <county note="侯国"><name>象氏</name>，侯国。莽曰<wname type="嘉名">宁昌</wname>。</county>
+            <county><name>廮陶</name>。</county>
+            <county><name>宋子</name>，莽曰<wname type="改一">宜子</wname>。</county>
+            <county><name>杨氏</name>，莽曰<wname type="?">功陆</wname>。</county>
+            <county><name>临平</name>。</county>
+            <county><name>下典阳</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>贳</name>。</county>
+            <county><name>郻</name>，莽曰<wname type="?">秦聚</wname>。</county>
+            <county note="侯国"><name>新市</name>，侯国。莽曰<wname type="半嘉名">市乐</wname>。</county>
+            <county><name>堂阳</name>，<quote>有<feature type="resource">盐官</feature></quote>，尝分为经县。</county>
+            <county note="侯国"><name>安定</name>，侯国。</county>
+            <county><name>敬武</name>。</county>
+            <county note="侯国"><name>历乡</name>，侯国，莽曰<wname type="改一">历聚</wname>。</county>
+            <county note="侯国"><name>乐信</name>，侯国。</county>
+            <county note="侯国"><name>武陶</name>，侯国。</county>
+            <county note="侯国"><name>柏乡</name>，侯国。</county>
+            <county note="侯国"><name>安乡</name>。侯国。</county>
+        </pref>
+    </chapter>
+</book>

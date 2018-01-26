@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>清河郡</name>
+            <meta family="211774" pop="875422" county="14"><date status="est">高帝置。</date>莽曰<wname type="半嘉名">平河</wname>。属冀州。户二十万一千七百七十四，口八十七万五千四百二十二。县十四。</meta>
+            <county><name>清阳</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="kingdom_seat">王都。</feature></quote></county>
+            <county><name>东武城</name>。</county>
+            <county><name>绎幕</name>。</county>
+            <county><name>灵</name>，<quote>河水别出为<feature type="river" ref="mingdu">鸣犊河</feature>，东北至蓚入屯氏河。</quote>莽曰<wname type="?">播</wname>。</county>
+            <county><name>厝</name>，莽曰<wname type="治">厝治</wname>。</county>
+            <county><name>鄃</name>，莽曰<wname type="嘉名">善陆</wname>。</county>
+            <county><name>贝丘</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>信成</name>，<quote><feature type="river" ref="zhangjia">张甲河</feature>首受屯氏别河，东北至蓚入漳水。</quote></county>
+            <county><name>𢘿題</name>。</county>
+            <county note="侯国"><name>东阳</name>，侯国。莽曰<wname type="?">胥陵</wname>。</county>
+            <county note="侯国"><name>信乡</name>，侯国。</county>
+            <county><name>缭</name>。</county>
+            <county><name>枣强</name>。</county>
+            <county><name>复阳</name>。莽曰<wname type="嘉名">乐岁</wname>。</county>
+        </pref>
+    </chapter>
+</book>
