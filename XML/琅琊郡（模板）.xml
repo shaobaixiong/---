@@ -35,12 +35,27 @@
             <county><name>昌</name>，<quote>有<feature type="shrine">环山祠</feature>。</quote></county>
             <county note="侯国"><name>兹乡</name>，侯国。</county>
             <county note="侯国"><name>箕</name>，侯国。<quote>《禹贡》<feature type="interPrefRiver">濰水</feature>北至都昌入海，过郡三，行五百二十里，兖州浸也。</quote></county>
-            <county><name>椑</name>，夜头水南至海。莽曰识命。</county>
-            高广，侯国。
-            高乡，侯国。
-            柔，侯国。<!-- 这里的柔侯国反而没有改名字。而柔县倒是改了名字。难道是为了避免相同？ -->
-            即来，侯国。莽曰盛睦。
-            丽，侯国。武乡，侯国。莽曰顺理。伊乡，侯国。新山，侯国。高阳，侯国。昆山，侯国。参封，侯国。折泉，侯国。折泉水北至莫入淮。博石，侯国。房山，侯国。慎乡，侯国。驷望，侯国。莽曰泠乡。安丘，侯国。莽曰宁乡。高陵，侯国。莽曰蒲陆。临安，侯国。莽曰诚信。石山。侯国。
+            <county><name>椑</name>，<quote><feature type="river">夜头水</feature>南至海。</quote>莽曰<wname type="意义">识命</wname>。</county>
+            <county note="侯国"><name>高广</name>，侯国。</county>
+            <county note="侯国"><name>高乡</name>，侯国。</county>
+            <county note="侯国"><name>柔</name>，侯国。</county><!-- 这里的柔侯国反而没有改名字。而柔县倒是改了名字。难道是为了避免相同？ -->
+            <county note="侯国"><name>即来</name>，侯国。莽曰<wname type="嘉名">盛睦</wname>。</county>
+            <county note="侯国"><name>丽</name>，侯国。</county>
+            <county note="侯国"><name>武乡</name>，侯国。莽曰<wname type="嘉名">顺理</wname>。</county>
+            <county note="侯国"><name>伊乡</name>，侯国。</county>
+            <county note="侯国"><name>新山</name>，侯国。</county>
+            <county note="侯国"><name>高阳</name>，侯国。</county>
+            <county note="侯国"><name>昆山</name>，侯国。</county>
+            <county note="侯国"><name>参封</name>，侯国。</county>
+            <county note="侯国"><name>折泉</name>，侯国。<quote><feature type="river">折泉水</feature>北至莫入淮。</quote></county>
+            <county note="侯国"><name>博石</name>，侯国。</county>
+            <county note="侯国"><name>房山</name>，侯国。</county>
+            <county note="侯国"><name>慎乡</name>，侯国。</county>
+            <county note="侯国"><name>驷望</name>，侯国。莽曰<wname type="乡">泠乡</wname>。</county>
+            <county note="侯国"><name>安丘</name>，侯国。莽曰<wname type="乡">宁乡</wname>。</county>
+            <county note="侯国"><name>高陵</name>，侯国。莽曰<wname type="全改">蒲陆</wname>。</county>
+            <county note="侯国"><name>临安</name>，侯国。莽曰<wname type="嘉名">诚信</wname>。</county>
+            <county note="侯国"><name>石山</name>。侯国。</county>
         </pref>
     </chapter>
 </book>
