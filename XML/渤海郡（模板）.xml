@@ -5,7 +5,7 @@
         <pref>
             <name>勃海郡</name>
             <meta family="256377" pop="955119" county="26"><date status="est">高帝置。</date>莽曰<wname type="重地">迎河</wname>。属幽州。户二十五万六千三百七十七，口九十万五千一百一十九。县二十六。</meta>
-            <county><name>浮阳</name>，莽曰<wname type="城">浮城</wname>。</county>
+            <county><name>浮阳</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="城">浮城</wname>。</county>
             <county><name>阳信</name>。</county>
             <county><name>东光</name>，<quote>有<feature type="sett">胡苏亭</feature>。</quote></county>
             <county><name>阜城</name>，莽曰<wname type="城">吾城</wname>。</county>

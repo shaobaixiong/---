@@ -5,7 +5,7 @@
         <pref>
             <name>涿郡</name>
             <meta family="195607" pop="782764" county="29"><date status="est">高帝置。</date>莽曰<wname type="?">垣翰</wname>。属幽州。户十九万五千六百七，口七十八万二千七百六十四。有<feature type="resource">铁官</feature>。县二十九。</meta>
-            <county><name>涿</name>，<quote><feature type="river" ref="tao">桃水</feature>首受涞水，分东至安次入河。</quote></county>
+            <county><name>涿</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="river" ref="tao">桃水</feature>首受涞水，分东至安次入河。</quote></county>
             <county><name>逎</name>，莽曰<wname type="加一">逎屏</wname>。</county>
             <county><name>穀丘</name>。</county>
             <county><name>故安</name>，<quote><feature type="river_source">阎乡</feature>，<feature type="river" ref="yi">易水</feature>所出，东至范阳入濡也。并州浸。水亦至范阳入涞。</quote></county>
