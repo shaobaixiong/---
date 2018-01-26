@@ -20,7 +20,7 @@
             <county><name>当利</name>，<quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="亭">东莱亭</wname>。</county>
             <county><name>卢乡</name>。</county>
             <county note="侯国"><name>阳乐</name>，侯国。莽曰<wname type="半嘉名">延乐</wname>。</county>
-            <county><name>阳石</name>，莽曰<wname type="意义">识命</wname>。</county>
+            <county><name>阳石</name>，莽曰<wname type="意义">识命</wname>。<!-- 与琅琊郡椑县改后名字相同，都叫识命县。 --></county>
             <county><name>徐乡</name>。</county>
         </pref>
     </chapter>

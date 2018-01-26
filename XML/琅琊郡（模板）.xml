@@ -21,7 +21,26 @@
             <county><name>柜</name>，<quote><feature type="river">根艾水</feature>东入海。</quote>莽曰<wname type="嘉名">祓同</wname>。</county>
             <county note="侯国"><name>缾</name>，侯国。</county>
             <county><name>邞</name>，<quote><feature type="river">胶水</feature>东至平度入海。</quote>莽曰<wname type="嘉名">纯德</wname>。</county>
-            雩叚，侯国。黔陬，故介国也。云，侯国。计斤，莒子始起此，后徙莒。有盐官。稻，侯国。皋虞，侯国。莽曰盈庐。平昌，长广，有莱山莱王祠。奚养泽在西，秦地图曰剧清池，幽州薮。有盐官。横，故山，久台水所出，东南至东武入淮。莽曰令丘。东莞，术水南至下邳入泗，过郡三，行七百一十里，青州浸。魏其，侯国。莽曰青泉。昌，有环山祠。兹乡，侯国。箕，侯国。《禹贡》濰水北至都昌入海，过郡三，行五百二十里，兖州浸也。椑，夜头水南至海。莽曰识命。高广，侯国。高乡，侯国。柔，侯国。即来，侯国。莽曰盛睦。丽，侯国。武乡，侯国。莽曰顺理。伊乡，侯国。新山，侯国。高阳，侯国。昆山，侯国。参封，侯国。折泉，侯国。折泉水北至莫入淮。博石，侯国。房山，侯国。慎乡，侯国。驷望，侯国。莽曰泠乡。安丘，侯国。莽曰宁乡。高陵，侯国。莽曰蒲陆。临安，侯国。莽曰诚信。石山。侯国。
+            <county note="侯国"><name>雩叚</name>，侯国。</county>
+            <county><name>黔陬</name>，<history>故介国也。</history></county>
+            <county note="侯国"><name>云</name>，侯国。</county>
+            <county><name>计斤</name>，<history>莒子始起此，后徙莒。</history><quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county note="侯国"><name>稻</name>，侯国。</county>
+            <county note="侯国"><name>皋虞</name>，侯国。莽曰<wname type="?">盈庐</wname>。</county>
+            <county><name>平昌</name>。</county>
+            <county><name>长广</name>，<quote>有<feature type="shrine">莱山莱王祠</feature>。</quote><quote><feature type="lake">奚养泽</feature>在西，秦地图曰剧清池，幽州薮。</quote><quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>横</name>，<quote><feature type="river_source">故山</feature>，<feature type="river">久台水</feature>所出，东南至东武入淮。</quote>莽曰<wname type="?">令丘</wname>。</county>
+            <county><name>东莞</name>，<quote><feature type="interPrefRiver">术水</feature>南至下邳入泗，过郡三，行七百一十里，青州浸。</quote></county>
+            <county note="侯国"><name>魏其</name>，侯国。莽曰<wname type="?">青泉</wname>。</county>
+            <county><name>昌</name>，<quote>有<feature type="shrine">环山祠</feature>。</quote></county>
+            <county note="侯国"><name>兹乡</name>，侯国。</county>
+            <county note="侯国"><name>箕</name>，侯国。<quote>《禹贡》<feature type="interPrefRiver">濰水</feature>北至都昌入海，过郡三，行五百二十里，兖州浸也。</quote></county>
+            <county><name>椑</name>，夜头水南至海。莽曰识命。</county>
+            高广，侯国。
+            高乡，侯国。
+            柔，侯国。<!-- 这里的柔侯国反而没有改名字。而柔县倒是改了名字。难道是为了避免相同？ -->
+            即来，侯国。莽曰盛睦。
+            丽，侯国。武乡，侯国。莽曰顺理。伊乡，侯国。新山，侯国。高阳，侯国。昆山，侯国。参封，侯国。折泉，侯国。折泉水北至莫入淮。博石，侯国。房山，侯国。慎乡，侯国。驷望，侯国。莽曰泠乡。安丘，侯国。莽曰宁乡。高陵，侯国。莽曰蒲陆。临安，侯国。莽曰诚信。石山。侯国。
         </pref>
     </chapter>
 </book>
