@@ -6,7 +6,7 @@
             <name>常山郡</name>
             <meta family="141741" pop="677956" county="18"><date status="est">高帝置。</date>莽曰<wname type="重地">井关</wname>。属冀州。户十四万一千七百四十一，口六十七万七千九百五十六。县十八。</meta>
             <county><name>元氏</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="river" ref="ju">沮水</feature>首受中丘西山穷泉谷，东至堂阳入黄河。</quote>莽曰<wname type="亭">井关亭</wname>。</county>
-            <county><name>石邑</name>，<quote><feature type="river_source">井陉山</feature>在西，<feature type="river" ref="jiao">洨水</feature>所出，东南至廮陶入泜。</quote></county>
+            <county note="邑"><name>石邑</name>，<quote><feature type="river_source">井陉山</feature>在西，<feature type="river" ref="jiao">洨水</feature>所出，东南至廮陶入泜。</quote></county>
             <county note="侯国"><name>桑中</name>，侯国。</county>
             <county><name>灵寿</name>，<history>中山桓公居此。</history><quote>《禹贡》<feature type="river" ref="wei">卫水</feature>出东北，江入虖池。</quote></county>
             <county><name>蒲吾</name>，<quote>有<feature type="resource">铁山</feature>。</quote><quote><feature type="river">大白渠水</feature>首受绵曼水，东南至下曲阳入斯洨。</quote></county>

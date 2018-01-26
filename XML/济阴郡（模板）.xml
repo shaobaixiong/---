@@ -13,7 +13,7 @@
             <county><name>鄄城</name>，莽曰<wname>鄄良</wname>。</county>
             <county><name>句阳</name>。</county>
             <county><name>秺</name>，莽曰<wname>万岁</wname>。</county>
-            <county><name>乘氏</name>。<quote><feature type="interPrefRiver" ref="si">泗水</feature>东南至睢陵入淮，过郡六，行千一百一十里。</quote></county>
+            <county><name>乘氏</name>。<quote><feature type="interPrefRiver" ref="">泗水</feature>东南至睢陵入淮，过郡六，行千一百一十里。</quote></county>
         </pref>
     </chapter>
 </book>
