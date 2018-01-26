@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>琅邪郡</name>
+            <meta family="228960" pop="1079100" county="51"><history>秦置。</history>莽曰<wname type="意义">填夷</wname>。属徐州。户二十二万八千九百六十，口一百七万九千一百。有<feature type="resource">铁官</feature>。县五十一。</meta>
+            <county><name>东武</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="嘉名">祥善</wname>。</county>
+            <county><name>不其</name>，<quote>有<feature type="shrine">太一、仙人祠九所</feature>，及明堂。武帝所起。</quote></county>
+            <county><name>海曲</name>，<quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>赣榆</name>。</county>
+            <county><name>朱虚</name>，<quote><feature type="river_source">凡山</feature>，<feature type="river">丹水</feature>所出，东北至寿光入海。</quote><quote><feature type="river_source">东泰山</feature>，<feature type="river">汶水</feature>所出，东至安丘入维。</quote><quote>有<feature type="shrine">三山、五帝祠</feature>。</quote></county>
+            诸，莽曰诸并。
+            梧成。
+            灵门，有高柘山。壶山，浯水所出，东北入淮。
+            姑幕，都尉治。或曰薄姑。莽曰季睦。
+            虚水，侯国。
+            临原，侯国。莽曰填夷亭。
+            琅邪，越王句践尝治此，起馆台。有四时祠。
+            祓，侯国。
+            柜，根艾水东入海。莽曰祓同。
+            缾，侯国。
+            邞，胶水东至平度入海。莽曰纯德。
+            雩叚，侯国。黔陬，故介国也。云，侯国。计斤，莒子始起此，后徙莒。有盐官。稻，侯国。皋虞，侯国。莽曰盈庐。平昌，长广，有莱山莱王祠。奚养泽在西，秦地图曰剧清池，幽州薮。有盐官。横，故山，久台水所出，东南至东武入淮。莽曰令丘。东莞，术水南至下邳入泗，过郡三，行七百一十里，青州浸。魏其，侯国。莽曰青泉。昌，有环山祠。兹乡，侯国。箕，侯国。《禹贡》濰水北至都昌入海，过郡三，行五百二十里，兖州浸也。椑，夜头水南至海。莽曰识命。高广，侯国。高乡，侯国。柔，侯国。即来，侯国。莽曰盛睦。丽，侯国。武乡，侯国。莽曰顺理。伊乡，侯国。新山，侯国。高阳，侯国。昆山，侯国。参封，侯国。折泉，侯国。折泉水北至莫入淮。博石，侯国。房山，侯国。慎乡，侯国。驷望，侯国。莽曰泠乡。安丘，侯国。莽曰宁乡。高陵，侯国。莽曰蒲陆。临安，侯国。莽曰诚信。石山。侯国。
+        </pref>
+    </chapter>
+</book>
