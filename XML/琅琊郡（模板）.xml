@@ -10,17 +10,17 @@
             <county><name>海曲</name>，<quote>有<feature type="resource">盐官</feature>。</quote></county>
             <county><name>赣榆</name>。</county>
             <county><name>朱虚</name>，<quote><feature type="river_source">凡山</feature>，<feature type="river">丹水</feature>所出，东北至寿光入海。</quote><quote><feature type="river_source">东泰山</feature>，<feature type="river">汶水</feature>所出，东至安丘入维。</quote><quote>有<feature type="shrine">三山、五帝祠</feature>。</quote></county>
-            诸，莽曰诸并。
-            梧成。
-            灵门，有高柘山。壶山，浯水所出，东北入淮。
-            姑幕，都尉治。或曰薄姑。莽曰季睦。
-            虚水，侯国。
-            临原，侯国。莽曰填夷亭。
-            琅邪，越王句践尝治此，起馆台。有四时祠。
-            祓，侯国。
-            柜，根艾水东入海。莽曰祓同。
-            缾，侯国。
-            邞，胶水东至平度入海。莽曰纯德。
+            <county><name>诸</name>，莽曰<wname type="加一">诸并</wname>。</county>
+            <county><name>梧成</name>。</county>
+            <county><name>灵门</name>，<quote>有<feature type="mount">高柘山</feature>。</quote><quote><feature type="river_source">壶山</feature>，<feature type="river">浯水</feature>所出，东北入淮。</quote></county>
+            <county><name>姑幕</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote>或曰薄姑。莽曰<wname type="嘉名">季睦</wname>。</county>
+            <county note="侯国"><name>虚水</name>，侯国。</county>
+            <county note="侯国"><name>临原</name>，侯国。莽曰<wname type="亭">填夷亭</wname>。</county>
+            <county><name>琅邪</name>，<history>越王句践尝治此，起馆台。</history><quote>有<feature type="shrine">四时祠</feature>。</quote></county>
+            <county note="侯国"><name>祓</name>，侯国。</county>
+            <county><name>柜</name>，<quote><feature type="river">根艾水</feature>东入海。</quote>莽曰<wname type="嘉名">祓同</wname>。</county>
+            <county note="侯国"><name>缾</name>，侯国。</county>
+            <county><name>邞</name>，<quote><feature type="river">胶水</feature>东至平度入海。</quote>莽曰<wname type="嘉名">纯德</wname>。</county>
             雩叚，侯国。黔陬，故介国也。云，侯国。计斤，莒子始起此，后徙莒。有盐官。稻，侯国。皋虞，侯国。莽曰盈庐。平昌，长广，有莱山莱王祠。奚养泽在西，秦地图曰剧清池，幽州薮。有盐官。横，故山，久台水所出，东南至东武入淮。莽曰令丘。东莞，术水南至下邳入泗，过郡三，行七百一十里，青州浸。魏其，侯国。莽曰青泉。昌，有环山祠。兹乡，侯国。箕，侯国。《禹贡》濰水北至都昌入海，过郡三，行五百二十里，兖州浸也。椑，夜头水南至海。莽曰识命。高广，侯国。高乡，侯国。柔，侯国。即来，侯国。莽曰盛睦。丽，侯国。武乡，侯国。莽曰顺理。伊乡，侯国。新山，侯国。高阳，侯国。昆山，侯国。参封，侯国。折泉，侯国。折泉水北至莫入淮。博石，侯国。房山，侯国。慎乡，侯国。驷望，侯国。莽曰泠乡。安丘，侯国。莽曰宁乡。高陵，侯国。莽曰蒲陆。临安，侯国。莽曰诚信。石山。侯国。
         </pref>
     </chapter>
