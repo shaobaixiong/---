@@ -5,7 +5,35 @@
         <pref>
             <name>涿郡</name>
             <meta family="195607" pop="782764" county="29"><date status="est">高帝置。</date>莽曰<wname type="?">垣翰</wname>。属幽州。户十九万五千六百七，口七十八万二千七百六十四。有<feature type="resource">铁官</feature>。县二十九。</meta>
-            涿，桃水首受涞水，分东至安次入河。逎，莽曰逎屏，穀丘，故安，阎乡，易水所出，东至范阳入濡也。并州浸。水亦至范阳入涞。南深泽。范阳。莽曰顺阴。蠡吾，容城。莽曰深泽。易，广望，侯国。鄚，莽曰言符。高阳，莽曰高亭。州乡，侯国。安平，都尉治。莽曰广望亭。樊舆，侯国。莽曰握符。成，侯国。莽曰宜家。良乡，侯国。垣水南东至阳乡入桃。莽曰广阳。利乡，侯国。莽曰章符。临乡，侯国。益昌，侯国。莽曰有袟。阳乡，侯国。莽曰章武。西乡，侯国。莽曰移风。饶阳，中水，武垣，莽曰垣翰亭。阿陵，莽曰阿陆。阿武，侯国。高郭，侯国。莽曰广堤。新昌，侯国。
+            <county><name>涿</name>，<quote><feature type="river" ref="tao">桃水</feature>首受涞水，分东至安次入河。</quote></county>
+            <county><name>逎</name>，莽曰<wname type="加一">逎屏</wname>。</county>
+            <county><name>穀丘</name>。</county>
+            <county><name>故安</name>，<quote><feature type="river_source">阎乡</feature>，<feature type="river" ref="yi">易水</feature>所出，东至范阳入濡也。并州浸。水亦至范阳入涞。</quote></county>
+            <county><name>南深泽</name>。</county>
+            <county><name>范阳</name>。莽曰<wname type="反">顺阴</wname>。</county>
+            <county><name>蠡吾</name>。</county>
+            <county><name>容城</name>。莽曰<wname type="?">深泽</wname>。</county>
+            <county><name>易</name>。</county>
+            <county note="侯国"><name>广望</name>，侯国。</county>
+            <county><name>鄚</name>，莽曰<wname type="嘉名">言符</wname>。</county>
+            <county><name>高阳</name>，莽曰<wname type="亭">高亭</wname>。</county>
+            <county note="侯国"><name>州乡</name>，侯国。</county>
+            <county><name>安平</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="亭">广望亭</wname>。</county>
+            <county note="侯国"><name>樊舆</name>，侯国。莽曰<wname type="嘉名">握符</wname>。</county>
+            <county note="侯国"><name>成</name>，侯国。莽曰<wname type="嘉名">宜家</wname>。</county>
+            <county note="侯国"><name>良乡</name>，侯国。<quote><feature type="river">垣水</feature>南东至阳乡入桃。</quote>莽曰<wname type="?">广阳</wname>。</county>
+            <county note="侯国"><name>利乡</name>，侯国。莽曰<wname type="嘉名">章符</wname>。</county>
+            <county note="侯国"><name>临乡</name>，侯国。</county>
+            <county note="侯国"><name>益昌</name>，侯国。莽曰<wname type="嘉名">有袟</wname>。</county>
+            <county note="侯国"><name>阳乡</name>，侯国。莽曰<wname type="嘉名">章武</wname>。</county>
+            <county note="侯国"><name>西乡</name>，侯国。莽曰<wname type="嘉名">移风</wname>。</county>
+            <county><name>饶阳</name>。</county>
+            <county><name>中水</name>。</county>
+            <county><name>武垣</name>，莽曰<wname type="亭">垣翰亭</wname>。</county>
+            <county><name>阿陵</name>，莽曰<wname type="改一">阿陆</wname>。</county>
+            <county note="侯国"><name>阿武</name>，侯国。</county>
+            <county note="侯国"><name>高郭</name>，侯国。莽曰<wname type="反">广堤</wname>。</county>
+            <county note="侯国"><name>新昌</name>，侯国。</county>
         </pref>
     </chapter>
 </book>
