@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>平原郡</name>
+            <meta family="" pop="" county=""></meta>
+            ，高帝置。莽曰河平。属青州。户十五万四千三百八十七，口六十六万四千五百四十三。县十九：平原，有笃马河，东北入海，五百六十里。鬲，平当以为鬲津。莽曰河平亭。高唐，桑钦言漯水所出。重丘，平昌，侯国。羽，侯国。莽曰羽贞。般，莽曰分明。乐陵，都尉治。莽曰美阳。祝阿，莽曰安成。瑗，莽曰东顺亭。阿阳，漯阴。莽曰翼成。朸，莽曰张乡。富平，侯国。莽曰乐安亭。安德，合阳，侯国。莽曰宜乡。楼虚，侯国。龙额，侯国，莽曰清乡。安。侯国。
+        </pref>
+    </chapter>
+</book>
