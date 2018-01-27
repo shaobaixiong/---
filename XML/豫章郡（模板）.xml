@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>豫章郡</name>
+            <meta family="67462" pop="351965" county="18"><date status="est">高帝置。</date>莽曰<wname type="重地">九江</wname>。属扬州。户六万七千四百六十二，口三十五万一千九百六十五。县十八。</meta>
+            <county><name>南昌</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="嘉名">宜善</wname>。</county>
+            <county><name>庐陵</name>，莽曰<wname type="亭">桓亭</wname>。</county>
+            <county><name>彭泽</name>，<quote>《禹贡》<feature type="lake">彭蠡泽</feature>在西。</quote></county>
+            <county><name>鄱阳</name>，<quote>武阳乡右十余里有<feature type="resource">黄金</feature>采。</quote><quote><feature type="river">鄱水</feature>西入湖汉。</quote>莽曰<wname type="亭">乡亭</wname>。</county>
+            <county><name>历陵</name>，<quote><feature type="mount">傅易山</feature>、<feature type="river">傅易川</feature>在南，古文以为傅浅原。</quote>莽曰<wname type="亭">蒲亭</wname>。</county>
+            <county><name>馀汗</name>，<quote><feature type="river">馀水</feature>在北，至鄡阳入湖汉。</quote>莽曰<wname type="治">治干</wname>。</county>
+            <county><name>柴桑</name>，莽曰<wname type="亭">九江亭</wname>。</county>
+            <county><name>艾</name>，<quote><feature type="river">修水</feature>东北至彭泽入湖汉，行六百六十里。</quote>莽曰<wname type="治">治翰</wname>。</county>
+            <county><name>赣</name>，<quote><feature type="river">豫章水</feature>出西南，北入大江。</quote></county>
+            <county><name>新淦</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="亭">偶亭</wname>。</county>
+            <county><name>南城</name>，<quote><feature type="river">盱水</feature>西北至南昌入湖汉。</quote></county>
+            <county><name>建成</name>，<quote><feature type="river">蜀水</feature>东至南昌入湖汉。</quote>莽曰<wname type="聚">多聚</wname>。</county>
+            <county><name>宜春</name>，<quote><feature type="river">南水</feature>东至新淦入湖汉。</quote>莽曰<wname type="嘉名">修晓</wname>。</county>
+            <county><name>海昏</name>，莽曰<wname type="嘉名">宜生</wname>。</county>
+            <county><name>雩都</name>，<quote><feature type="river">湖汉水</feature>东至彭泽入江，行千九百八十里。</quote></county>
+            <county><name>鄡阳</name>，莽曰<wname type="重地">预章</wname>。</county>
+            <county><name>南野</name>，<quote><feature type="river">彭水</feature>东入湖汉。</quote></county>
+            <county note="侯国"><name>安平</name>。侯国。莽曰<wname type="改一">安宁</wname>。</county>
+        </pref>
+    </chapter>
+</book>
