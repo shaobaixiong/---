@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>丹扬郡</name>
+            <meta family="107541" pop="405170" county="17"><date status="est">故鄣郡。属江都。</date><date exact="-109" status="nameChange">武帝元封二年更名丹扬。</date>属扬州。户十万七千五百四十一，口四十万五千一百七十。有<feature type="resource">铜官</feature>。县十七</meta>
+            <county><name>宛陵</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="sett">彭泽聚</feature>在西南。</quote><quote><feature type="river">清水</feature>西北至芜湖入江。</quote>莽曰<wname type="?">无宛</wname>。</county>
+            <county><name>於朁</name>。</county>
+            <county><name>江乘</name>，莽曰<wname type="嘉名">相武</wname>。</county>
+            <county><name>春穀</name>。</county>
+            <county><name>秣陵</name>，莽曰<wname type="亭">宣亭</wname>。</county>
+            <county><name>故鄣</name>，莽曰<wname type="?">候望</wname>。</county>
+            <county><name>句容</name>。</county>
+            <county><name>泾</name>。</county>
+            <county><name>丹阳</name>，<history>楚之先熊绎所封，十八世。文王徙郢。</history></county>
+            <county><name>石城</name>，<quote><feature type="interPrefRiver">分江水</feature>首受江，东至馀姚入海，过郡二，行千二百里。</quote></county>
+            <county><name>胡孰</name>。</county>
+            <county><name>陵阳</name>，<quote>桑钦言<feature type="interPrefRiver">淮水</feature>出东南，北入大江。</quote></county>
+            <county><name>芜湖</name>，<quote><feature type="river">中江</feature>出西南，东至阳羡入海，扬州川。</quote></county>
+            <county><name>黝</name>，<quote><feature type="river">渐江水</feature>出南蛮夷中，东入海。</quote><history>成帝鸿嘉二年为广德王国。</history>莽曰<wname type="意义">愬虏</wname>。</county>
+            <county><name>溧阳</name>。</county>
+            <county><name>歙</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>宣城</name>。</county>
+        </pref>
+    </chapter>
+</book>
