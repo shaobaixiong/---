@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>会稽郡</name>
+            <meta family="223038" pop="1032604" county="26"><history>秦置。</history><date exact="-201" status="est">高帝六年为荆国</date>，<date exact="-195" status="nameChange">十二年更名吴。</date><date exact="-153" status="natureChange">景帝四年属江都。</date>属扬州。户二十二万三千三十八，口百三万二千六百四。县二十六。</meta>
+            <county><name>吴</name>，<quote><feature type="pref_seat"/></quote><history>故国，周太伯所邑。</history><quote><feature type="lake">具区泽</feature>在西，扬州薮，古文以为震泽。</quote><quote><feature type="river">南江</feature>在南，东入海，扬州川。</quote>莽曰<wname type="嘉名">泰德</wname>。</county>
+            <county><name>曲阿</name>，故云阳，莽曰<wname type="嘉名">风美</wname>。</county>
+            <county><name>乌伤</name>，莽曰<wname type="半嘉名">乌孝</wname>。</county>
+            <county><name>毗陵</name>，<history>季札所居。</history><quote><feature type="interPrefRiver">江</feature>在北，东入海，扬州川。</quote>莽曰<wname type="改一">毗坛</wname>。</county>
+            <county><name>馀暨</name>，<quote><feature type="river_source">萧山</feature>，<feature type="river">潘水</feature>所出。东入海。</quote>莽曰<wname type="改一">馀衍</wname>。</county>
+            <county><name>阳羡</name>。</county>
+            <county><name>诸暨</name>，莽曰<wname type="意义">疏虏</wname>。</county>
+            <county><name>无锡</name>，<quote>有<feature type="mount">历山</feature>，春申君岁祠以牛。</quote>莽曰<wname type="反">有锡</wname>。</county>
+            <county><name>山阴</name>，<quote><feature type="mount">会稽山</feature>在南。上有<feature type="history">禹冢</feature>、<feature type="history">禹井</feature>，扬州山。</quote><history>越王勾践本国。</history><quote>有<feature type="architecture">灵文园</feature>。</quote></county>
+            <county><name>丹徒</name>。</county>
+            <county><name>馀姚</name>。</county>
+            <county><name>娄</name>，<quote>有<feature type="walled">南武城</feature>，阖闾所起以候越。</quote>莽曰<wname type="治">娄治</wname>。</county>
+            <county><name>上虞</name>，<quote>有<feature type="sett">仇亭</feature>。</quote><quote><feature type="river">柯水</feature>东入海。</quote>莽曰<wname type="重地">会稽</wname>。</county>
+            <county><name>海盐</name>，<history>故武原乡。</history><quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="?">展武</wname>。</county>
+            <county><name>剡</name>，莽曰<wname type="嘉名">尽忠</wname>。</county>
+            <county><name>由拳</name>，<quote><feature type="history">柴辟</feature>，故就李乡，吴、越战地。</quote></county>
+            <county><name>大末</name>，<quote><feature type="river">穀水</feature>东北至钱唐入江。</quote>莽曰<wname type="治">末治</wname>。</county>
+            <county><name>乌程</name>，<quote>有<feature type="sett">欧阳亭</feature>。</quote></county>
+            <county><name>句章</name>，<quote><feature type="river">渠水</feature>东入海。</quote></county>
+            <county><name>馀杭</name>，莽曰<wname type="嘉名">进睦</wname>。</county>
+            <county><name>鄞</name>，<quote>有<feature type="sett">镇亭</feature></quote>，<quote>有<feature type="sett">鮚埼亭</feature>。</quote><quote>东南有<feature type="river">天门水</feature>入海。</quote><quote>有<feature type="mount">越天门山</feature>。</quote>莽曰<wname type="嘉名">谨</wname>。</county>
+            <county><name>钱唐</name>，<quote><feature type="mili_admin">西部都尉治</feature>。</quote><quote><feature type="river_source">武林山</feature>，<feature type="river">武林水</feature>所出，东入海，行八百三十里</quote>，莽曰<wname type="亭">泉亭</wname>。</county>
+            <county><name>鄮</name>，莽曰<wname type="治">海治</wname>。</county>
+            <county><name>富春</name>，莽曰<wname type="意义">诛岁</wname>。</county>
+            <county><name>冶</name>。</county>
+            <county><name>回浦</name>。<quote><feature type="mili_admin">南部都尉治</feature>。</quote></county>
+        </pref>
+    </chapter>
+</book>
