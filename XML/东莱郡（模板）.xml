@@ -9,7 +9,7 @@
             <county><name>腄</name>，<quote>有<feature type="shrine">之罘山祠</feature>。</quote><quote><feature type="river_source">居上山</feature>，<feature type="river">声洋水</feature>所出。东北入海。</quote></county>
             <county><name>平度</name>，莽曰<wname type="嘉名">利卢</wname>。</county>
             <county><name>黄</name>，<quote>有<feature type="shrine">莱山松林莱君祠</feature>。</quote>莽曰<wname type="?">意母</wname>。</county>
-            <county><name>临朐</name>，<quote>有<feature type="shrine">海水祠</feature>。</quote>莽曰<wname type="监">监朐</wname>。</county>
+            <county note="侯国"><!-- 齐郡、东莱郡均有临朐，元延三年临朐侯国在东莱郡。 --><name>临朐</name>，<quote>有<feature type="shrine">海水祠</feature>。</quote>莽曰<wname type="监">监朐</wname>。</county>
             <county><name>曲成</name>，<quote>有<feature type="shrine">参山万里沙祠</feature>。</quote><quote><feature type="river_source">阳丘山</feature>，<feature type="river">治水</feature>所出，南至沂入海。</quote>有盐官。</county>
             <county><name>牟平</name>。莽曰<wname type="嘉名">望利</wname>。</county>
             <county><name>东牟</name>，<quote>有<feature type="resource">铁官</feature>、<feature type="resource">盐官</feature>。</quote>莽曰<wname type="嘉名">弘德</wname>。</county>

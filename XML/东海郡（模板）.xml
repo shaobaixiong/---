@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>东海郡</name>
+            <meta family="358414" pop="559357" county="38"><date status="est">高帝置。</date>莽曰<wname type="意义">沂平</wname>。属徐州。户三十五万八千四百一十四，口百五十五万九千三百五十七。县三十八。</meta>
+            <county><name>郯</name>，<quote><feature type="pref_seat"/></quote><history>故国，少昊后，盈姓。</history></county>
+            <county><name>兰陵</name>，莽曰<wname type="改一">兰东</wname>。</county>
+            <county><name>襄贲</name>，莽曰<wname type="嘉名">章信</wname>。</county>
+            <county><name>下邳</name>，<quote><feature type="mount">葛峄山</feature>在西，古文以为峄阳。</quote><quote>有<feature type="resource">铁官</feature>。</quote>莽曰<wname type="嘉名">闰俭</wname>。</county>
+            <county note="侯国"><name>良成</name>，侯国。莽曰<wname type="嘉名">承翰</wname>。</county>
+            <county><name>平曲</name>，莽曰<wname type="反">平端</wname>。</county>
+            <county><name>戚</name>。</county>
+            <county><name>朐</name>，<quote><feature type="history">秦始皇立石</feature>海上以为东门阙。</quote><quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>开阳</name>，<history>故鄅国。</history>莽曰<wname type="意义">厌虏</wname>。</county>
+            <county><name>费</name>，<history>故鲁季氏邑。</history><quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="嘉名">顺从</wname>。</county>
+            <county><name>利成</name>，莽曰<wname type="?">流泉</wname>。</county>
+            <county><name>海曲</name>，莽曰<wname type="亭">东海亭</wname>。</county>
+            <county note="侯国"><name>兰祺</name>，侯国。莽曰<wname type="嘉名">溥睦</wname>。</county>
+            <county><name>缯</name>，<history>故国。禹后。</history>莽曰<wname type="治">缯治</wname>。</county>
+            <county note="侯国"><name>南成</name>，侯国。</county>
+            <county note="侯国"><name>山乡</name>，侯国。</county>
+            <county note="侯国"><name>建乡</name>，侯国。</county>
+            <county><name>即丘</name>，莽曰<wname type="嘉名">就信</wname>。</county>
+            <county><name>祝其</name>，<quote>《禹贡》<feature type="mount">羽山</feature>在南，鲧所殛。</quote>莽曰<wname type="亭">犹亭</wname>。</county>
+            <county><name>临沂</name>。</county>
+            <county><name>厚丘</name>，莽曰<wname type="亭">祝其亭</wname>。</county>
+            <county note="侯国"><name>容丘</name>，侯国。<quote><feature type="river">祠水</feature>东南至下邳入泗。</quote></county>
+            <county note="侯国"><name>东安</name>，侯国。莽曰<wname type="亭">业亭</wname>。</county>
+            <county><name>合乡</name>，莽曰<wname type="聚">合聚</wname>。</county>
+            <county><name>承</name>，莽曰<wname type="治">承治</wname>。</county>
+            <county note="侯国"><name>建阳</name>，侯国。莽曰<wname type="改一">建力</wname>。</county>
+            <county><name>曲阳</name>，莽曰<wname type="?">从羊</wname>。</county>
+            <county><name>司吾</name>，莽曰<wname type="改一">息吾</wname>。</county>
+            <county note="侯国"><name>于乡</name>，侯国。</county>
+            <county note="侯国"><name>平曲</name>，侯国。莽曰<wname type="反">端平</wname>。</county><!-- 东海郡有平曲县，亦有平曲侯国。王莽改名后，一个叫平端县，一个叫端平侯国，不重名了。 -->
+            <county note="侯国"><name>都阳</name>，侯国。</county>
+            <county note="侯国"><name>阴平</name>，侯国。</county>
+            <county note="侯国"><name>郚乡</name>，侯国。莽曰<wname type="亭">徐亭</wname>。</county>
+            <county note="侯国"><name>武阳</name>，侯国。莽曰<wname type="亭">弘亭</wname>。</county>
+            <county note="侯国"><name>新阳</name>，侯国。莽曰<wname type="聚">博聚</wname>。</county>
+            <county note="侯国"><name>建陵</name>，侯国。莽曰<wname type="亭">付亭</wname>。</county>
+            <county note="侯国"><name>昌虑</name>，侯国。莽曰<wname type="聚">虑聚</wname>。</county>
+            <county note="侯国"><name>都平</name>。侯国。</county>
+        </pref>
+    </chapter>
+</book>
