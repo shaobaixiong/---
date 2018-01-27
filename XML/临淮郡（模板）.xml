@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>临淮郡</name>
+            <meta family="268283" pop="1237764" county="29"><date exact="-117" status="est">武帝元狩六年置。</date>莽曰淮平。户二十六万八千二百八十三，口百二十三万七千七百六十四。县二十九。</meta>
+            <county><name>徐</name>，<history>故国，盈姓。至春秋时徐子章禹为楚所灭。</history>莽曰<wname type="加一">徐调</wname>。</county>
+            <county><name>取虑</name>。</county>
+            <county><name>淮浦</name>，<quote><feature type="interPrefRiver">淮水</feature>北入海。</quote>莽曰<wname type="改一">淮敬</wname>。</county>
+            <county><name>盱眙</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="嘉名">武匡</wname>。</county>
+            <county><name>厹犹</name>，莽曰<wname type="嘉名">秉义</wname>。</county>
+            <county><name>僮</name>，莽曰<wname type="嘉名">成信</wname>。</county>
+            <county><name>射阳</name>。莽曰<wname type="亭">监淮亭</wname>。</county>
+            <county><name>开阳</name>。</county>
+            <county><name>赘其</name>。</county>
+            <county><name>高山</name>。</county>
+            <county><name>睢陵</name>，莽曰<wname type="改一">睢陆</wname>。</county>
+            <county><name>盐渎</name>，<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>淮阴</name>，莽曰<wname type="嘉名">嘉信</wname>。</county>
+            <county><name>淮陵</name>，莽曰<wname type="改一">淮陆</wname>。</county>
+            <county><name>下相</name>，莽曰<wname type="嘉名">从德</wname>。</county>
+            <county><name>富陵</name>，莽曰<wname type="?">𣝇虏</wname>。</county>
+            <county><name>东阳</name>。</county>
+            <county><name>播旌</name>，莽曰<wname type="嘉名">著信</wname>。</county>
+            <county><name>西平</name>，莽曰<wname type="聚">永聚</wname>。</county>
+            <county note="侯国"><name>高平</name>，侯国。莽曰<wname type="?">成丘</wname>。</county>
+            <county note="侯国"><name>开陵</name>，侯国。莽曰<wname type="乡">成乡</wname>。</county>
+            <county note="侯国"><name>昌阳</name>。侯国。</county>
+            <county note="侯国"><name>广平</name>，侯国。莽曰<wname type="半嘉名">平宁</wname>。</county>
+            <county note="侯国"><name>兰阳</name>，侯国。莽曰<wname type="嘉名">建节</wname>。</county>
+            <county note="侯国"><name>襄平</name>，侯国。莽曰<wname type="改一">相平</wname>。</county>
+            <county><name>海陵</name>，<quote>有<feature type="shrine">江海会祠</feature>。</quote>莽曰<wname type="?">亭间</wname>。</county>
+            <county><name>舆</name>，莽曰<wname type="嘉名">美德</wname>。</county>
+            <county><name>堂邑</name>，<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county note="侯国"><name>乐陵</name>。侯国。</county>
+        </pref>
+    </chapter>
+</book>
