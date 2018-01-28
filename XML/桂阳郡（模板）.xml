@@ -5,7 +5,7 @@
         <pref>
             <name>桂阳郡</name>
             <meta family="28119" pop="156488" county="11"><date status="est">高帝置。</date>莽曰<wname type="重地">南平</wname>。属荆州。户二万八千一百一十九，口十五万六千四百八十八。有<feature type="resource">金官</feature>。县十一。</meta>
-            <county><name>郴</name>，<quote><feature type="river_source">耒山</feature>，<feature type="river">耒水</feature>所出，西至湘南入湘。</quote><history>项羽所立义帝都此。</history>莽曰<wname type="嘉名">宣风</wname>。</county>
+            <county><name>郴</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="river_source">耒山</feature>，<feature type="river">耒水</feature>所出，西至湘南入湘。</quote><history>项羽所立义帝都此。</history>莽曰<wname type="嘉名">宣风</wname>。</county>
             <county><name>临武</name>，<quote><feature type="river">秦水</feature>东南至浈阳入汇，行七百里。</quote>莽曰<wname type="改一">大武</wname>。</county>
             <county><name>便</name>，莽曰<wname type="加一">便屏</wname>。</county>
             <county><name>南平</name>。</county>

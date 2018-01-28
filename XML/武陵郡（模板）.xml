@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>武陵郡</name>
+            <meta family="34177" pop="185758" county="13"><date status="est">高帝置。</date>莽曰<wname type="重地">建平</wname>。属荆州。户三万四千一百七十七，口十八万五千七百五十八。县十三。</meta>
+            <county><name>索</name>，<quote><feature type="river">渐水</feature>东入沅。</quote></county>
+            <county><name>孱陵</name>，莽曰<wname type="改一">孱陆</wname>。</county>
+            <county><name>临沅</name>。莽曰<wname type="监">监元</wname>。</county>
+            <county><name>沅陵</name>，莽曰<wname type="改一">沅陆</wname>。</county>
+            <county><name>镡成</name>，<quote><feature type="river">康谷水</feature>南入海。</quote><quote><feature type="river_source">玉山</feature>，<feature type="interPrefRiver">潭水</feature>所出，东至阿林入郁，过郡二，行七百二十里。</quote></county>
+            <county><name>无阳</name>，<quote><feature type="river">无水</feature>首受故且兰，南入沅，八百九十里。</quote></county>
+            <county><name>迁陵</name>，莽曰<wname type="改一">迁陆</wname>。</county>
+            <county><name>辰阳</name>，<quote><feature type="river_source">三山谷</feature>，<feature type="river">辰水</feature>所出，南入沅，七百五十里。</quote>莽曰<wname type="亭">会亭</wname>。</county>
+            <county><name>酉阳</name>。</county>
+            <county><name>义陵</name>，<quote><feature type="river_source">鄜梁山</feature>，<feature type="river">序水</feature>所出，西入沅。</quote>莽曰<wname type="重地">建平</wname>。</county>
+            <county><name>佷山</name>。</county>
+            <county><name>零阳</name>。</county>
+            <county><name>充</name>。<quote><feature type="river_source">酉原山</feature>，<feature type="river">酉水</feature>所出，南至沅陵入沅，行千二百里。</quote><quote><feature type="river_source">历山</feature>，<feature type="interPrefRiver">澧水</feature>所出，东至下隽入沅，过郡二，行一千二百里。</quote></county>
+        </pref>
+    </chapter>
+</book>
