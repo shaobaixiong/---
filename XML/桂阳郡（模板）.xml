@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>桂阳郡</name>
+            <meta family="28119" pop="156488" county="11"><date status="est">高帝置。</date>莽曰<wname type="重地">南平</wname>。属荆州。户二万八千一百一十九，口十五万六千四百八十八。有<feature type="resource">金官</feature>。县十一。</meta>
+            <county><name>郴</name>，<quote><feature type="river_source">耒山</feature>，<feature type="river">耒水</feature>所出，西至湘南入湘。</quote><history>项羽所立义帝都此。</history>莽曰<wname type="嘉名">宣风</wname>。</county>
+            <county><name>临武</name>，<quote><feature type="river">秦水</feature>东南至浈阳入汇，行七百里。</quote>莽曰<wname type="改一">大武</wname>。</county>
+            <county><name>便</name>，莽曰<wname type="加一">便屏</wname>。</county>
+            <county><name>南平</name>。</county>
+            <county><name>耒阳</name>，<quote><feature type="river_source">舂山</feature>，<feature type="interPrefRiver">舂水</feature>所出，北至酃入湖，过郡二，行七百八十里。</quote>莽曰<wname type="亭">南平亭</wname>。</county>
+            <county><name>桂阳</name>，<quote><feature type="interPrefRiver">汇水</feature>南至四会入郁，过郡二，行九百里。</quote></county>
+            <county note="侯国"><name>阳山</name>，侯国。</county>
+            <county><name>曲江</name>，莽曰<wname type="意义">除虏</wname>。</county>
+            <county><name>含洭</name>。</county>
+            <county><name>浈阳</name>，莽曰<wname type="嘉名">基武</wname>。</county>
+            <county note="侯国"><name>阴山</name>。侯国。</county>
+        </pref>
+    </chapter>
+</book>
