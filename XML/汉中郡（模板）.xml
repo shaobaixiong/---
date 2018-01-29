@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>汉中郡</name>
+            <meta family="101570" pop="3006014" county="12"><history>秦置。</history>莽曰<wname type="意义">新成</wname>。属益州。户十万一千五百七十，口三十万六百一十四。县十二。</meta>
+            <county><name>西城</name>。<quote><feature type="pref_seat"/></quote></county>
+            <county><name>旬阳</name>，<quote><feature type="mount">北山</feature>，<feature type="river">旬水</feature>所出，南入沔。</quote></county>
+            <county><name>南郑</name>，<quote><feature type="river_source">旱山</feature>，<feature type="river">池水</feature>所出，东北入汉。</quote></county>
+            <county><name>褒中</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote><quote><feature type="sett">汉阳乡</feature>。</quote></county>
+            <county><name>房陵</name>，<quote><feature type="river_source">淮山</feature>，<feature type="river">淮水</feature>所出，东至中庐入沔。</quote><quote>又有<feature type="river">筑水</feature>，东至筑阳亦入沔。</quote><quote><feature type="river_source">东山</feature>，<feature type="river">沮水</feature>所出，东至郢入江，行七百里。</quote></county>
+            <county><name>安阳</name>，<quote><feature type="river">鬵谷水</feature>出西南，北入汉。</quote><quote><feature type="river">在谷水</feature>出北，南入汉。</quote></county>
+            <county><name>成固</name>。</county>
+            <county><name>沔阳</name>，<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>钖</name>，莽曰<wname type="治">钖治</wname>。</county>
+            <county><name>武陵</name>。</county>
+            <county><name>上庸</name>。</county>
+            <county><name>长利</name>。<quote>有<feature type="mili">郧关</feature>。</quote></county>
+        </pref>
+    </chapter>
+</book>
