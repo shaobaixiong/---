@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>广汉郡</name>
+            <meta family="167499" pop="662249" county="13"><date status="est">高帝置。</date>莽曰<wname type="?">就都</wname>。属益州。户十六万七千四百九十九，口六十六万二千二百四十九。有<feature type="admin">工官</feature>。县十三。</meta>
+            <county><name>梓潼</name>，<quote><feature type="river_source"/></quote><quote><feature type="river_source">五妇山</feature>，水所出，南入涪，行五百五十里。</quote>莽曰<wname type="同音">子同</wname>。</county>
+            <county><name>汁方</name>，莽曰<wname type="嘉名">美信</wname>。</county>
+            <county><name>涪</name>，<quote>有<feature type="sett">孱亭</feature>。</quote>莽曰<wname type="嘉名">统睦</wname>。</county>
+            <county><name>雒</name>，<quote><feature type="river_source">章山</feature>，<feature type="river">雒水</feature>所出，南至新都谷入湔。</quote><quote>有<feature type="admin">工官</feature>。</quote>莽曰<wname type="加一">吾雒</wname>。</county>
+            <county><name>绵竹</name>，<quote><feature type="river_source">紫岩山</feature>，<feature type="river">绵水</feature>所出，东至新都北入雒。</quote><quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>广汉</name>，莽曰<wname type="半嘉名">广信</wname>。<!-- 王莽是不是想把汉改掉？ --></county>
+            <county><name>葭明</name>。</county>
+            <county><name>郪</name>。</county>
+            <county><name>新都</name>。</county>
+            <county note="道"><name>甸氐道</name>，<quote><feature type="interPrefRiver">白水</feature>出徼外，东至葭明入汉。过郡一，行九百五十里。</quote>莽曰<wname type="治">致治</wname>。</county>
+            <county><name>白水</name>。</county>
+            <county note="道"><name>刚氐道</name>，<quote><feature type="interPrefRiver">涪水</feature>出徼外，南至垫江入汉，过郡二，行千六十九里。</quote></county>
+            <county note="道"><name>阴平道</name>。<quote><feature type="mili_admin">北部都尉治</feature>。</quote>莽曰<wname type="意义">摧虏</wname>。</county>
+        </pref>
+    </chapter>
+</book>
