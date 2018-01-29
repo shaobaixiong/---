@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>零陵郡</name>
+            <meta family="21092" pop="139378" county="10"><date exact="-111" status="est">武帝元鼎六年置。</date>莽曰<wname type="重地">九疑</wname>。属荆州。户二万一千九十二，口十三万九千三百七十八。县十。</meta>
+            <county><name>零陵</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="river_source">阳海山</feature>，<feature type="interPrefRiver">湘水</feature>所出，北至酃入江，过郡二，行二千五百三十里。</quote><quote>又有<feature type="river">离水</feature>，东南至广信入郁林，行九百八十里。</quote></county>
+            <county><name>营道</name>，<quote><feature type="mount">九疑山</feature>在南。</quote>莽曰<wname type="亭">九疑亭</wname>。</county>
+            <county><name>始安</name>。</county>
+            <county><name>夫夷</name>。</county>
+            <county><name>营浦</name>。</county>
+            <county note="侯国"><name>都梁</name>，侯国。<quote><feature type="river_source">路山</feature>，<feature type="interPrefRiver">资水</feature>所出，东北至益阳入沅，过郡二，行千八百里。</quote></county>
+            <county><name>泠道</name>，莽曰<wname type="改一">泠陵</wname>。</county>
+            <county note="侯国"><name>泉陵</name>。侯国。莽曰<wname type="嘉名">溥闰</wname>。</county>
+            <county><name>洮阳</name>，莽曰<wname type="治">洮治</wname>。</county>
+            <county><name>钟武</name>。莽曰<wname type="改一">钟桓</wname>。</county>
+        </pref>
+    </chapter>
+</book>
