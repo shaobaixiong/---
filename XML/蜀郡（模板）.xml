@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>蜀郡</name>
+            <meta family="268279" pop="1245929" county="15"><history>秦置。</history>有<feature type="river">小江</feature>入，并行千九百八十里。《禹贡》<feature type="river">桓水</feature>出蜀山西南，行羌中，入南海。莽曰<wname type="意义">导江</wname>。属益州。户二十六万八千二百七十九，口百二十四万五千九百二十九。县十五。</meta>
+            <county family="76256"><name>成都</name>，<quote><feature type="pref_seat"/></quote>户七万六千二百五十六，<quote>有<feature type="admin">工官</feature>。</quote></county>
+            <county><name>郫</name>，<quote>《禹贡》<feature type="river">江沱</feature>在西，东入大江。</quote></county>
+            <county><name>繁</name>。</county>
+            <county><name>广都</name>，莽曰<wname type="亭">就都亭</wname>。</county>
+            <county><name>临邛</name>，<quote><feature type="interPrefRiver">仆千水</feature>东至武阳入江，过郡二，行五百一十里。</quote><quote>有<feature type="resource">铁官</feature>、<feature type="resource">盐官</feature>。</quote>莽曰<wname type="监">监邛</wname>。</county>
+            <county><name>青衣</name>，<quote>《禹贡》<feature type="river">蒙山溪</feature><feature type="river">大渡水</feature>东南至南安入渽。</quote></county>
+            <county><name>江原</name>，<quote><feature type="river">寿阝水</feature>首受江，南至武阳入江。</quote>莽曰<wname type="改一">邛原</wname>。</county>
+            <county><name>严道</name>，<quote><feature type="river_source">邛来山</feature>，<feature type="river">邛水</feature>所出，东入青衣。</quote><quote>有<feature type="resource">木官</feature>。</quote>莽曰<wname type="治">严治</wname>。</county>
+            <county><name>绵虒</name>，<quote><feature type="river_source">玉垒山</feature>，<feature type="interPrefRiver">湔水</feature>所出，东南至江阳入江，过郡三，行千八百九十里。</quote></county>
+            <county><name>旄牛</name>，<quote><feature type="river">鲜水</feature>出徼外，南入若水。</quote><quote><feature type="interPrefRiver">若水</feature>亦出徼外，南至大莋入绳，过郡二，行千六百里。</quote></county>
+            <county><name>徙</name>。</county>
+            <county note="道"><name>湔氐道</name>，<quote>《禹贡》<feature type="river_source">山</feature>在西徼外，<feature type="interPrefRiver">江水</feature>所出，东南至江都入海，过郡七，行二千六百六十里。</quote></county>
+            <county><name>汶江</name>，<quote><feature type="interPrefRiver">渽水</feature>出徼外，南至南安，东入江，过郡三，行三千四十里。</quote><quote><feature type="river">江沱</feature>在西南，东入江。</quote></county>
+            <county><name>广柔</name>。</county>
+            <county><name>蚕陵</name>。莽曰<wname type="嘉名">步昌</wname>。</county>
+        </pref>
+    </chapter>
+</book>
