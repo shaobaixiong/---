@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>犍为郡</name>
+            <meta family="109419" pop="489486" county="12"><date exact="-135" status="est">武帝建元六年开。</date>莽曰<wname type="意义">西顺</wname>。属益州。户十万九千四百一十九，口四十八万九千四百八十六。县十二。</meta>
+            <county note="道"><name>豦道</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="治">僰治</wname>。</county>
+            <county><name>江阳</name>。</county>
+            <county><name>武阳</name>，<quote>有<feature type="resource">铁官</feature></quote>，莽曰<wname type="意义">戢成</wname>。</county>
+            <county><name>南安</name>，<quote>有<feature type="resource">盐官</feature>、<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>资中</name>。</county>
+            <county><name>符</name>，<quote><feature type="river">温水</feature>南至鄨入黚水，<feature type="river">黚水</feature>亦南至鄨入江。</quote>莽曰<wname type="加一">符信</wname>。</county>
+            <county><name>牛鞞</name>。</county>
+            <county><name>广</name>，<quote><feature type="river_source">汾关山</feature>，<feature type="river">符黑水</feature>所出，北至豦道入江。</quote><quote>有<feature type="interPrefRiver">大涉水</feature>，北至符入江，过郡三，行八百四十里。</quote></county>
+            <county><name>汉阳</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote><quote><feature type="river_source">山闟谷</feature>，<feature type="river">汉水</feature>所出，东至鄨入延。</quote>莽曰<wname type="意义">新通</wname>。</county>
+            <county><name>𨚲䣕</name>，莽曰<wname type="改一">孱䣕</wname>。</county>
+            <county><name>朱提</name>，<quote>山出<feature type="resource">银</feature>。</quote></county>
+            <county><name>堂琅</name>。</county>
+        </pref>
+    </chapter>
+</book>
