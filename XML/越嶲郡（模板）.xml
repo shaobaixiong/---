@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>越巂郡</name>
+            <meta family="61280" pop="408450" county="15"><date exact="-111" status="est">武帝元鼎六年开。</date>莽曰<wname type="改一">集巂</wname>。属益州。户六万一千二百八，口四十万八千四百五。县十五。</meta>
+            <county><name>邛都</name>，<quote>南山出<feature type="resource">铜</feature>。</quote><quote>有<feature type="lake">邛池泽</feature>。</quote></county>
+            <county><name>遂久</name>，<quote><feature type="interPrefRiver">绳水</feature>出徼外，东至豦道入江，过郡二，行千四百里。</quote></county>
+            <county note="道"><name>灵关道</name>。</county>
+            <county><name>台登</name>，<quote><feature type="river">孙水</feature>南至会无入若，行七百五十里。</quote></county>
+            <county><name>定莋</name>，<quote>出<feature type="resource">盐</feature>。</quote><quote><feature type="lake">步北泽</feature>在南。</quote><quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>会无</name>，<quote>东山出<feature type="resource">碧</feature>。</quote></county>
+            <county><name>莋秦</name>。</county>
+            <county><name>大莋</name>。</county>
+            <county><name>姑复</name>，<quote><feature type="lake">临池泽</feature>在南。</quote></county>
+            <county><name>三绛</name>。</county>
+            <county><name>苏示</name>，<quote><feature type="interPrefRiver">江</feature>在西北。</quote></county>
+            <county><name>阑</name>。</county>
+            <county><name>卑水</name>。</county>
+            <county><name>灊街</name>。</county>
+            <county><name>青蛉</name>。<quote><feature type="river">临池灊</feature>在北。</quote><quote><feature type="interPrefRiver">仆水</feature>出徼外，东南至来惟入劳，过郡二，行千八百八十里。</quote><quote>有<feature type="mount">禺同山</feature>，有<feature type="resource">金马</feature>、<feature type="resource">碧鸡</feature>。</quote></county>
+        </pref>
+    </chapter>
+</book>
