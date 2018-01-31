@@ -13,13 +13,13 @@
             <county note="道"><name>绵诸道</name>。</county>
             <county><name>阿阳</name>。</county>
             <county note="道"><name>略阳道</name>。</county>
-            <county><name>冀</name>，<quote>《禹贡》<feature type="mount">朱圄山</feature>在县南梧中聚。</quote>莽曰<wname type="治">冀治</wname>。</county>
+            <county><name>冀</name>，<quote>《禹贡》<feature type="mount">朱圄山</feature>在县南<feature type="sett">梧中聚</feature>。</quote>莽曰<wname type="治">冀治</wname>。</county>
             <county><name>勇士</name>，<quote><feature type="mili_admin">属国都尉治</feature>满福。</quote>莽曰<wname type="嘉名">纪德</wname>。</county>
             <county><name>成纪</name>。</county>
             <county><name>清水</name>，莽曰<wname type="嘉名">识睦</wname>。</county>
             <county><name>奉捷</name>。</county>
             <county><name>陇</name>。</county>
-            <county note="道"><name>豲道</name>，<quote><feature type="mili_admin">骑都尉治</feature>密艾亭。</quote></county>
+            <county note="道"><name>豲道</name>，<quote><feature type="mili_admin">骑都尉治</feature><feature type="sett">密艾亭</feature>。</quote></county>
             <county><name>兰干</name>。莽曰<wname type="反">兰盾</wname>。</county>
         </pref>
     </chapter>
