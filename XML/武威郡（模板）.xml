@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>武威郡</name>
+            <meta family="17581" pop="76419" county="10"><history>故匈奴休屠王地。</history><date exact="-101" status="est">武帝太初四年开。</date>莽曰<wname type="意义">张掖</wname>。户万七千五百八十一，口七万六千四百一十九。县十。</meta>
+            <county><name>姑臧</name>。<quote><feature type="river_source">南山</feature>，<feature type="river">谷水</feature>所出，北至武威入海，行七百九十里。</quote></county>
+            <county><name>张掖</name>。</county>
+            <county><name>武威</name>，<quote><feature type="lake">休屠泽</feature>在东北，古文以为猪野泽。</quote></county>
+            <county><name>休屠</name>，莽曰<wname type="嘉名">晏然</wname>。<quote><feature type="mili_admin">都尉治</feature><feature type="mili">熊水障</feature>。</quote><quote><feature type="mili_admin">北部都尉治</feature><feature type="walled">休屠城</feature>。</quote></county>
+            <county><name>揟次</name>，莽曰<wname type="嘉名">播德</wname>。</county>
+            <county><name>鸾乌</name>。</county>
+            <county><name>扑褱刂</name>，莽曰<wname type="意义">敷虏</wname>。</county>
+            <county><name>媪围</name>。</county>
+            <county><name>苍松</name>，<quote><feature type="river_source">南山</feature>，<feature type="river">松陕水</feature>所出，北至揟次入海。</quote>莽曰<wname type="?">射楚</wname>。</county>
+            <county><name>宣威</name>。</county>
+        </pref>
+    </chapter>
+</book>
