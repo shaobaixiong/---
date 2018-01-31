@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>张掖郡</name>
+            <meta family="24352" pop="88731" county="10"><history>故匈奴昆邪王地</history>，<date exact="-104" status="est">武帝太初元年开。</date>莽曰<wname type="意义">设屏</wname>。户二万四千三百五十二，口八万八千七百三十一。县十。</meta>
+            <county><name>觻得</name>，<quote><feature type="waterInfra">千金渠</feature>西至东涫入泽中。</quote><quote><feature type="interPrefRiver">羌谷水</feature>出羌中，东北至居延入海，过郡二，行二千一百里。</quote>莽曰<wname type="?">官式</wname>。</county>
+            <county><name>昭武</name>，莽曰<wname type="改一">渠武</wname>。</county>
+            <county><name>删丹</name>，<quote>桑钦以为<feature type="river">道弱水</feature>自此，西至酒泉合黎。</quote>莽曰<wname type="意义">贯虏</wname>。</county>
+            <county><name>氐池</name>，莽曰<wname type="意义">否武</wname>。</county>
+            <county><name>屋兰</name>，莽曰<wname type="意义">传武</wname>。</county>
+            <county><name>日勒</name>，<quote><feature type="mili_admin">都尉治</feature><feature type="valley">泽索谷</feature>。</quote>莽曰<wname type="治">勒治</wname>。</county>
+            <county><name>骊靬</name>，莽曰<wname type="意义">揭虏</wname>。</county>
+            <county><name>番和</name>，<quote><feature type="mili_admin">农都尉治</feature>。</quote>莽曰<wname type="意义">罗虏</wname>。</county>
+            <county><name>居延</name>，<quote><feature type="lake">居延泽</feature>在东北，古文以为流沙。</quote><quote><feature type="mili_admin">都尉治</feature></quote>，莽曰<wname type="改一">居成</wname>。</county>
+            <county><name>显美</name>。</county>
+        </pref>
+    </chapter>
+</book>
