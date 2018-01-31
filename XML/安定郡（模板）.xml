@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>安定郡</name>
+            <meta family="42725" pop="143294" county="21"><date exact="-114" status="est">武帝元鼎三年置。</date>户四万二千七百二十五，口十四万三千二百九十四。县二十一。</meta>
+            <county><name>高平</name>，莽曰<wname type="嘉名">铺睦</wname>。</county>
+            <county><name>复累</name>。</county>
+            <county><name>安俾</name>。</county>
+            <county><name>抚夷</name>，莽曰<wname type="半嘉名">抚宁</wname>。</county>
+            <county><name>朝那</name>，<quote>有<feature type="shrine">端旬祠十五所</feature>，胡巫祝，又有<feature type="shrine">湫渊祠</feature>。</quote></county>
+            <county><name>泾阳</name>，<quote><feature type="river_source">开头山</feature>在西，《禹贡》<feature type="interPrefRiver">泾水</feature>所出，东南至阳陵入渭，过郡三，行千六十里，雍州川。</quote></county>
+            <county><name>临泾</name>，莽曰<wname type="监">监泾</wname>。</county>
+            <county><name>卤</name>，<quote><feature type="river">灈水</feature>出西。</quote></county>
+            <county><name>乌氏</name>，<quote><feature type="river">乌水</feature>出西，北入河。</quote><quote><feature type="mount">都卢山</feature>在西。</quote>莽曰<wname type="亭">乌亭</wname>。</county>
+            <county><name>阴密</name>，<history>《诗》密人国。</history><quote>有<feature type="sett">嚣安亭</feature>。</quote></county>
+            <county><name>安定</name>。</county>
+            <county><name>参</name>，<quote><feature type="mili_admin">主骑都尉治</feature>。</quote></county>
+            <county><name>三水</name>，<quote><feature type="mili_admin">属国都尉治</feature>。</quote><quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="亭">广延亭</wname>。</county>
+            <county><name>阴槃</name>。</county>
+            <county><name>安武</name>，莽曰<wname type="改一">安桓</wname>。</county>
+            <county><name>祖厉</name>，莽曰<wname type="嘉名">乡礼</wname>。</county>
+            <county><name>爰得</name>。</county>
+            <county><name>眴卷</name>，<quote><feature type="river">河水</feature>别出为河沟，东至富平北入河。</quote></county>
+            <county><name>彭阳</name>。</county>
+            <county><name>鹑阴</name>。</county>
+            <county note="道"><name>月氏道</name>。莽曰<wname type="半嘉名">月顺</wname>。</county>
+        </pref>
+    </chapter>
+</book>
