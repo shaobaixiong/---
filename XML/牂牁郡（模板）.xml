@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>牂柯郡</name>
+            <meta family="24219" pop="153360" county="17"><date exact="-111" status="est">武帝元鼎六年开。</date>莽曰<wname type="亭">同亭</wname>。有<feature type="mili">柱蒲关</feature>。属益州。户二万四千二百一十九，口十五万三千三百六十。县十七。</meta>
+            <county><name>故且兰</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="interPrefRiver">沅水</feature>东南至益阳入江，过郡二，行二千五百三十里。</quote></county>
+            <county><name>镡封</name>，<quote><feature type="interPrefRiver">温水</feature>东至广郁入郁，过郡二，行五百六十里。</quote></county>
+            <county><name>鄨</name>，<quote><feature type="river_source">不狼山</feature>，<feature type="river">鄨水</feature>所出，东入沅，过郡二，行七百三十里。</quote></county>
+            <county><name>漏卧</name>。</county>
+            <county><name>平夷</name>。</county>
+            <county><name>同并</name>。</county>
+            <county><name>谈指</name>。</county>
+            <county><name>宛温</name>。</county>
+            <county><name>毋敛</name>，<quote><feature type="river">刚水</feature>东至潭中入潭。</quote>莽曰<wname type="反">有敛</wname>。</county>
+            <county><name>夜郎</name>，<quote><feature type="river">豚水</feature>东至广郁。</quote><quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="亭">同亭</wname>。</county>
+            <county><name>毋单</name>。</county><!-- 這個地名有意思了，王莽沒有改成有單，估計是認為毋单的意思還是挺正面的。 -->
+            <county><name>漏江</name>。</county>
+            <county><name>西随</name>。<quote><feature type="interPrefRiver">麋水</feature>西受徼外，东至麋泠入尚龙溪，过郡二，行千一百六里。</quote></county>
+            <county><name>都梦</name>，<quote><feature type="interPrefRiver">壶水</feature>东南至麋泠入尚龙溪，过郡二，行千一百六十里。</quote></county>
+            <county><name>谈稿</name>。</county>
+            <county><name>进桑</name>，<quote><feature type="mili_admin">南部都尉治</feature>。</quote><quote>有<feature type="mili">关</feature>。</quote></county>
+            <county><name>句町</name>。<quote><feature type="river">文象水</feature>东至增食入郁。</quote><quote>又有<feature type="river">卢唯水</feature>、<feature type="river">来细水</feature>、<feature type="river">伐水</feature>。</quote>莽曰<wname type="意义">从化</wname>。</county>
+        </pref>
+    </chapter>
+</book>
