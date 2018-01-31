@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>益州郡</name>
+            <meta family="81946" pop="580463" county="24"><date exact="-109" status="est">武帝元封二年开。</date>莽曰<wname type="意义">就新</wname>。属益州。户八万一千九百四十六，口五十八万四百六十三。县二十四。</meta>
+            <county><name>滇池</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="lake">大泽</feature>在西，<feature type="lake">滇池泽</feature>在西北。</quote><quote>有<feature type="shrine">黑水祠</feature>。</quote></county>
+            <county><name>双柏</name>。</county>
+            <county><name>同劳</name>。</county>
+            <county><name>铜濑</name>，<quote><feature type="river_source">谈虏山</feature>，<feature type="river">迷水</feature>所出，东至谈稿入温。</quote></county>
+            <county><name>连然</name>，<quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>俞元</name>，<quote><feature type="lake">池</feature>在南，<feature type="river">桥水</feature>所出，东至毋单入温，行千九百里。</quote><quote>怀山出<feature type="resource">铜</feature>。</quote></county>
+            <county><name>收靡</name>，<quote><feature type="river_source">南山腊谷</feature>，<feature type="interPrefRiver">涂水</feature>所出，西北至越巂入绳，过郡二，行千二十里。</quote></county>
+            <county><name>穀昌</name>。</county>
+            <county><name>秦臧</name>，<quote><feature type="river_source">牛兰山</feature>，<feature type="river">即水</feature>所出，南至双柏入仆，行八百二十里。</quote></county>
+            <county><name>邪龙</name>。</county>
+            <county><name>味</name>。</county>
+            <county><name>昆泽</name>。</county>
+            <county><name>叶榆</name>，<quote><feature type="lake">叶榆泽</feature>在东。</quote><quote><feature type="river">贪水</feature>首受青蛉，南至邪龙入仆，行五百里。</quote></county>
+            <county><name>律高</name>，<quote>西石空山出<feature type="resource">锡</feature></quote>，<quote>东南盢町山出<feature type="resource">银</feature>、<feature type="resource">铅</feature>。</quote></county>
+            <county><name>不韦</name>。</county>
+            <county><name>云南</name>。</county>
+            <county><name>巂唐</name>，<quote><feature type="river">周水</feature>首受徼外。</quote><quote>又有<feature type="river">类水</feature>，西南至不韦，行六百五十里。</quote></county>
+            <county><name>弄栋</name>，<quote><feature type="river_source">东农山</feature>，<feature type="river">毋血水</feature>出，北至三绛南入绳，行五百一十里。</quote></county>
+            <county><name>比苏</name>。</county>
+            <county><name>贲古</name>，<quote>北采山出<feature type="resource">锡</feature></quote>，<quote>西羊山出<feature type="resource">银</feature>、<feature type="resource">铅</feature></quote>，<quote>南乌山出<feature type="resource">锡</feature>。</quote></county>
+            <county><name>毋棳</name>，<quote><feature type="interPrefRiver">桥水</feature>首受桥山，东至中留入潭，过郡四，行三千一百二十里。</quote>莽曰<wname type="反">有棳</wname>。</county>
+            <county><name>胜休</name>，<quote><feature type="river">河水</feature>东至毋棳入桥。</quote>莽曰<wname type="反">胜豦</wname>。</county><!-- 豦：兽类互斗相持不解。 -->
+            <county><name>健伶</name>。</county>
+            <county><name>来唯</name>。<quote>从山出<feature type="resource">铜</feature>。</quote><quote><feature type="interPrefRiver">劳水</feature>出徼外，东至麋泠入南海，过郡三，行三千五百六十里。</quote></county>
+        </pref>
+    </chapter>
+</book>

@@ -5,7 +5,7 @@
         <pref>
             <name>越巂郡</name>
             <meta family="61280" pop="408450" county="15"><date exact="-111" status="est">武帝元鼎六年开。</date>莽曰<wname type="改一">集巂</wname>。属益州。户六万一千二百八，口四十万八千四百五。县十五。</meta>
-            <county><name>邛都</name>，<quote>南山出<feature type="resource">铜</feature>。</quote><quote>有<feature type="lake">邛池泽</feature>。</quote></county>
+            <county><name>邛都</name>，<quote>南山出<feature type="resource">铜</feature>。</quote><quote>有<feature type="lake">邛池泽</feature>。</quote><quote><feature type="pref_seat"/></quote></county>
             <county><name>遂久</name>，<quote><feature type="interPrefRiver">绳水</feature>出徼外，东至豦道入江，过郡二，行千四百里。</quote></county>
             <county note="道"><name>灵关道</name>。</county>
             <county><name>台登</name>，<quote><feature type="river">孙水</feature>南至会无入若，行七百五十里。</quote></county>
