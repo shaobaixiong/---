@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>陇西郡</name>
+            <meta family="53964" pop="236824" county="11"><history>秦置。</history>莽曰<wname type="意义">厌戎</wname>。户五万三千九百六十四，口二十三万六千八百二十四。有<feature type="resource">铁官</feature>、<feature type="resource">盐官</feature>。县十一。</meta>
+            <county note="道"><name>狄道</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="mount">白石山</feature>在东。</quote>莽曰<wname type="意义">操虏</wname>。</county>
+            <county><name>上邽</name>。</county>
+            <county><name>安故</name>。</county>
+            <county note="道"><name>氐道</name>，<quote>《禹贡》<feature type="river">养水</feature>所出，至武都为汉。</quote>莽曰<wname type="亭">亭道</wname>。</county>
+            <county><name>首阳</name>，<quote>《禹贡》<feature type="mount">鸟鼠同穴山</feature>在西南，<feature type="interPrefRiver">渭水</feature>所出，东至船司空入河，过郡四，行千八百七十里，雍州浸。</quote></county>
+            <county note="道"><name>予道</name>，莽曰<wname type="半嘉名">德道</wname>。</county>
+            <county><name>大夏</name>，莽曰<wname type="半嘉名">顺夏</wname>。</county>
+            <county note="道"><name>羌道</name>，<quote><feature type="interPrefRiver">羌水</feature>出塞外，南至阴平入白水，过郡三，行六百里。</quote></county>
+            <county><name>襄武</name>，莽曰<wname type="同音 半嘉名">相桓</wname>。</county>
+            <county><name>临洮</name>，<quote><feature type="river">洮水</feature>出西羌中，北至枹罕东入河。</quote><quote>《禹贡》<feature type="mount">西顷山</feature>在县西。</quote><quote><feature type="mili_admin">南部都尉治</feature>也。</quote></county>
+            <county><name>西</name>。<quote>《禹贡》<feature type="mount">嶓冢山</feature>，<feature type="interPrefRiver">西汉</feature>所出，南入广汉白水，东南至江州入江，过郡四，行二千七百六十里。</quote>莽曰<wname type="治">西治</wname>。</county>
+        </pref>
+    </chapter>
+</book>
