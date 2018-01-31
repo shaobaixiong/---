@@ -5,7 +5,7 @@
         <pref>
             <name>金城郡</name>
             <meta family="38470" pop="149648" county="13"><date exact="-81" status="est">昭帝始元六年置。</date>莽曰西海。户三万八千四百七十，口十四万九千六百四十八。县十三。</meta>
-            <county><name>允吾</name>，<quote><feature type="river">乌亭逆水</feature>出<feature type="river_source">参街谷</feature>，东至枝阳入湟。</quote>莽曰<wname type="嘉名">修远</wname>。</county>
+            <county><name>允吾</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="river">乌亭逆水</feature>出<feature type="river_source">参街谷</feature>，东至枝阳入湟。</quote>莽曰<wname type="嘉名">修远</wname>。</county>
             <county><name>浩亹</name>，<quote><feature type="river">浩亹水</feature>出<feature type="river_source">西塞外</feature>，东至允吾入湟水。</quote>莽曰<wname type="意义">兴武</wname>。</county>
             <county><name>令居</name>，<quote><feature type="river">涧水</feature>出<feature type="river_source">西北塞外</feature>，至县西南，入郑伯津。</quote>莽曰<wname type="意义">罕虏</wname>。</county>
             <county><name>枝阳</name>。</county>
