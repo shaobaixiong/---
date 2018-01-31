@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>金城郡</name>
+            <meta family="38470" pop="149648" county="13"><date exact="-81" status="est">昭帝始元六年置。</date>莽曰西海。户三万八千四百七十，口十四万九千六百四十八。县十三。</meta>
+            <county><name>允吾</name>，<quote><feature type="river">乌亭逆水</feature>出<feature type="river_source">参街谷</feature>，东至枝阳入湟。</quote>莽曰<wname type="嘉名">修远</wname>。</county>
+            <county><name>浩亹</name>，<quote><feature type="river">浩亹水</feature>出<feature type="river_source">西塞外</feature>，东至允吾入湟水。</quote>莽曰<wname type="意义">兴武</wname>。</county>
+            <county><name>令居</name>，<quote><feature type="river">涧水</feature>出<feature type="river_source">西北塞外</feature>，至县西南，入郑伯津。</quote>莽曰<wname type="意义">罕虏</wname>。</county>
+            <county><name>枝阳</name>。</county>
+            <county><name>金城</name>，莽曰<wname type="改一">金屏</wname>。</county>
+            <county><name>榆中</name>。</county>
+            <county><name>枹罕</name>。</county>
+            <county><name>白石</name>，<quote><feature type="river">离水</feature>出<feature type="river_source">西塞外</feature>，东至枹罕入河。</quote>莽曰<wname type="?">顺砾</wname>。</county>
+            <county><name>河关</name>，<quote><feature type="mount">积石山</feature>在西南羌中。</quote><quote><feature type="interPrefRiver">河水</feature>行塞外，东北入塞内，至章武入海，过郡十六，行九千四百里。</quote></county>
+            <county><name>破羌</name>，<date exact="-60" status="est">宣帝神爵二年置。</date></county>
+            <county><name>安夷</name>。</county>
+            <county><name>允街</name>，<date exact="-60" status="est">宣帝神爵二年置。</date>莽曰<wname type="嘉名">修远</wname>。<!-- 一個郡兩個修遠縣，不知道是什麼意思。 --></county>
+            <county><name>临羌</name>。<quote>西北至塞外，有<feature type="shrine">西王母石室</feature>、<feature type="lake">仙海</feature>、<feature type="resource">盐池</feature>。</quote><quote>北则<feature type="river">湟水</feature>所出，东至允吾入河。</quote><quote>西有<feature type="lake">须抵池</feature>，有<feature type="river">弱水</feature>、<feature type="shrine">昆仑山祠</feature>。</quote>莽曰<wname type="监">盐羌</wname>。</county>
+        </pref>
+    </chapter>
+</book>
