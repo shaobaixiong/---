@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>巴郡</name>
+            <meta family="158643" pop="708148" county="11"><history>秦置。</history>属益州。户十五万八千六百四十三，口七十万八千一百四十八。县十一。</meta>
+            <county><name>江州</name>。<quote><feature type="pref_seat"/></quote></county>
+            <county><name>临江</name>。莽曰<wname type="监">监江</wname>。</county>
+            <county><name>枳</name>。</county>
+            <county><name>阆中</name>，<quote><feature type="lake">彭道将池</feature>在南，<feature type="lake">彭道鱼池</feature>在西南。</quote></county>
+            <county><name>垫江</name>。</county>
+            <county><name>朐忍</name>，<quote><feature type="river">容毋水</feature>所出，南入江。</quote><quote>有<feature type="resource">橘官</feature>、<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>安汉</name>，<quote><feature type="lake">是鱼池</feature>在南。</quote>莽曰<wname type="改一">安新</wname>。</county>
+            <county><name>宕渠</name>，<quote><feature type="mount">符特山</feature>在西南。</quote><quote><feature type="river">潛水</feature>西南入江。</quote><quote><feature type="river">不曹水</feature>出东北徐谷，南入灊。</quote></county>
+            <county><name>鱼复</name>，<quote><feature type="mili">江关</feature></quote>，<quote><feature type="mili_admin">都尉治</feature>。</quote><quote>有<feature type="resource">橘官</feature>。</quote></county>
+            <county><name>充国</name>。</county>
+            <county><name>涪陵</name>。莽曰<wname type="亭">巴亭</wname>。</county>
+        </pref>
+    </chapter>
+</book>
