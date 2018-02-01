@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>五原郡</name>
+            <meta family="39322" pop="231328" county="16"><history>秦九原郡</history>，<date exact="-127" status="nameChange">武帝元朔二年更名。</date>东部都尉治稒阳。莽曰<wname type="意义">获降</wname>。属并州。户三万九千三百二十二，口二十三万一千三百二十八。县十六。</meta>
+            <county><name>九原</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="嘉名">成平</wname>。</county>
+            <county><name>固陵</name>，莽曰<wname type="改一">固调</wname>。</county>
+            <county><name>五原</name>，莽曰<wname type="亭">填河亭</wname>。</county>
+            <county><name>临沃</name>，莽曰<wname type="意义">振武</wname>。</county>
+            <county><name>文国</name>，莽曰<wname type="聚">繁聚</wname>。</county>
+            <county><name>河阴</name>。</county>
+            <county><name>蒱泽</name>，<quote><feature type="mili_admin">属国都尉治</feature>。</quote></county>
+            <county><name>南兴</name>，莽曰<wname type="改一">南利</wname>。</county>
+            <county><name>武都</name>，莽曰<wname type="改一">桓都</wname>。</county>
+            <county><name>宜梁</name>。</county>
+            <county><name>曼柏</name>，莽曰<wname type="半嘉名">延柏</wname>。</county>
+            <county><name>成宜</name>，<quote><feature type="mili_admin">中部都尉治</feature>原高，<feature type="mili_admin">西部都尉治</feature>田辟。</quote><quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="意义">艾虏</wname>。</county>
+            <county><name>稒阳</name>，<quote>北出<feature type="mili">石门障</feature>得<feature type="walled">光禄城</feature>，又西北得<feature type="walled">支就城</feature>，又西北得<feature type="walled">头曼城</feature>，又西北得<feature type="walled">虖河城</feature>，又西得<feature type="walled">宿虏城</feature>。</quote><quote><feature type="mili_admin">东部都尉治</feature>稒阳。</quote>莽曰<wname type="反">固阴</wname><!-- 為什麼有的時候陰轉成陽，有的時候陽轉成陰？因為在北方的原因麼？ -->。</county>
+            <county><name>莫䵣</name>。</county>
+            <county><name>西安阳</name>，莽曰<wname type="半嘉名">鄣安</wname>。</county>
+            <county><name>河目</name>。</county>
+        </pref>
+    </chapter>
+</book>
+
