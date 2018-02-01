@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>上郡</name>
+            <meta family="103683" pop="606658" county="23"><history>秦置</history>，<date exact="-206" status="natureChange">高帝元年更为翟国</date>，<date exact="-206" status="natureChange">七月复故。</date>匈归都尉治塞外匈归障。属并州。户十万三千六百八十三，口六十万六千六百五十八。县二十三。</meta>
+            <county><name>肤施</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="shrine">五龙山（祠）</feature>、<feature type="shrine">帝（祠）</feature>、<feature type="shrine">原水（祠）</feature>、<feature type="shrine">黄帝祠</feature>四所。</quote></county>
+            <county><name>独乐</name>，<quote>有<feature type="resource">盐民</feature>。</quote></county>
+            <county><name>阳周</name>。<quote><feature type="mount">桥山</feature>在南，有<feature type="history">黄帝冢</feature>。</quote>莽曰<wname type="?">上陵畴</wname>。</county>
+            <county><name>木禾</name>。</county>
+            <county><name>平都</name>。</county>
+            <county><name>浅水</name>，莽曰<wname type="嘉名">广信</wname>。</county>
+            <county><name>京室</name>，莽曰<wname type="嘉名">积粟</wname>。</county>
+            <county><name>洛都</name>，莽曰<wname type="意义">卑顺</wname>。</county>
+            <county><name>白土</name>，<quote><feature type="river">圜水</feature>出西，东入河。</quote>莽曰<wname type="反">黄土</wname>。</county>
+            <county><name>襄洛</name>，莽曰<wname type="亭">上党亭</wname>。</county>
+            <county><name>原都</name>。</county>
+            <county><name>漆垣</name>，莽曰<wname type="改一">漆墙</wname>。</county>
+            <county><name>奢延</name>，莽曰<wname type="反">奢节</wname>。</county>
+            <county><name>雕阴</name>。</county>
+            <county><name>推邪</name>，莽曰<wname type="反">排邪</wname>。</county>
+            <county><name>桢林</name>，莽曰<wname type="改一">桢幹</wname>。</county>
+            <county><name>高望</name>，<quote><feature type="mili_admin">北部都尉治</feature>。</quote>莽曰<wname type="嘉名">坚甯</wname>。</county>
+            <county note="道"><name>雕阴道</name>。</county>
+            <county><name>龟兹</name>，<quote><feature type="mili_admin">属国都尉治</feature>。</quote><quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>定阳</name>。</county>
+            <county><name>高奴</name>，<quote>有<feature type="river">洧水</feature>，可㸐。</quote>莽曰<wname type="嘉名">利平</wname>。</county>
+            <county><name>望松</name>，<quote><feature type="mili_admin">北部都尉治</feature>。</quote></county>
+            <county><name>宜都</name>。莽曰<wname type="?">坚宁小邑</wname>。</county>
+        </pref>
+    </chapter>
+</book>
