@@ -5,7 +5,7 @@
         <pref>
             <name>安定郡</name>
             <meta family="42725" pop="143294" county="21"><date exact="-114" status="est">武帝元鼎三年置。</date>户四万二千七百二十五，口十四万三千二百九十四。县二十一。</meta>
-            <county><name>高平</name>，莽曰<wname type="嘉名">铺睦</wname>。</county>
+            <county><name>高平</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="嘉名">铺睦</wname>。</county>
             <county><name>复累</name>。</county>
             <county><name>安俾</name>。</county>
             <county><name>抚夷</name>，莽曰<wname type="半嘉名">抚宁</wname>。</county>

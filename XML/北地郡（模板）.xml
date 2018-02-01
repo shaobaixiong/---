@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>北地郡</name>
+            <meta family="64461" pop="210688" county="19"><history>秦置。</history>莽曰<wname type="嘉名">威成</wname>。户六万四千四百六十一，口二十一万六百八十八。县十九。</meta>
+            <county><name>马领</name>。<quote><feature type="pref_seat"/></quote></county>
+            <county><name>直路</name>，<quote><feature type="river">沮水</feature>出西，东入洛。</quote></county>
+            <county><name>灵武</name>，莽曰<wname type="亭">威成亭</wname>。</county>
+            <county><name>富平</name>，<quote><feature type="mili_admin">北部都尉治</feature><feature type="mili">神泉障</feature>。</quote><quote><feature type="mili_admin">浑怀都尉治</feature>塞外<feature type="mili">浑怀障</feature>。</quote>莽曰<wname type="嘉名">特武</wname>。</county>
+            <county><name>灵州</name>，<date exact="-191" status="est">惠帝四年置。</date><quote>有<feature type="domestication">河奇苑</feature>、<feature type="domestication">号非苑</feature>。</quote>莽曰<wname type="同音">令周</wname>。<!-- 目的是不是為了標準化地名？除去州結尾的縣。 --></county>
+            <county><name>眴衍</name>。</county>
+            <county><name>方渠</name>。</county>
+            <county note="道"><name>除道</name>，莽曰<wname type="改一">通道</wname>。</county>
+            <county><name>五街</name>，莽曰<wname type="同音">吾街</wname>。</county>
+            <county><name>鹑孤</name>。</county>
+            <county><name>归德</name>，<quote><feature type="river">洛水</feature>出北蛮夷中，入河。</quote><quote>有<feature type="domestication">堵苑</feature>、<feature type="domestication">白马苑</feature>。</quote></county>
+            <county><name>回获</name>。</county>
+            <county note="道"><name>略畔道</name>，莽曰<wname type="嘉名">延年道</wname>。</county>
+            <county><name>泥阳</name>，莽曰<wname type="反">泥阴</wname>。</county>
+            <county><name>郁郅</name>，<quote><feature type="river">泥水</feature>出北蛮夷中。</quote><quote>有<feature type="domestication">牧师菀官</feature>。</quote>莽曰<wname type="嘉名">功著</wname>。</county>
+            <county note="道"><name>义渠道</name>，莽曰<wname type="改一">义沟</wname>。</county>
+            <county><name>弋居</name>，<quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>大</name>。</county>
+            <county><name>廉</name>。<quote><feature type="mount">卑移山</feature>在西北。</quote>莽曰<wname type="亭">西河亭</wname>。</county>
+        </pref>
+    </chapter>
+</book>
