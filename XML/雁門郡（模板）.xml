@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>雁门郡</name>
+            <meta family="73138" pop="293454" county="14"><history>秦置。</history><feature type="mount">句注山</feature>在阴馆。莽曰<wname type="意义">填狄</wname>。属并州。户七万三千一百三十八，口二十九万三千四百五十四。县十四。</meta>
+            <county><name>善无</name>，莽曰<wname type="重地">阴馆</wname>。</county>
+            <county><name>沃阳</name>，<quote><feature type="resource">盐泽</feature>在东北，有<feature type="admin">长丞</feature>。</quote><quote><feature type="mili_admin">西部都尉治</feature>。</quote>莽曰<wname type="改一">敬阳</wname>。</county>
+            <county><name>繁畤</name>，莽曰<wname type="?">当要</wname>。</county>
+            <county><name>中陵</name>，莽曰<wname type="意义">遮害</wname>。</county>
+            <county><name>阴馆</name>，<quote><feature type="sett">楼烦乡</feature>。</quote><date exact="-142" status="est">景帝后三年置。</date><quote><feature type="river_source">累头山</feature>，<feature type="river">治水</feature>所出，东至泉州入海，过郡六，行千一百里。</quote>莽曰<wname type="嘉名">富代</wname>。</county>
+            <county><name>楼烦</name>，<quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>武州</name>，莽曰<wname type="改一">桓州</wname><!-- 之前我提到過一個案例，是把州結尾的地名改成了同音的周結尾的地名。我當時懷疑是王莽為了去除州作為縣的結尾，但是從這個案例上看，似乎不是的。 -->。</county>
+            <county><name>𣷪陶</name>。</county>
+            <county><name>剧阳</name>，莽曰<wname type="半嘉名">善阳</wname>。</county>
+            <county><name>崞</name>，莽曰<wname type="加一">崞张</wname>。</county>
+            <county><name>平城</name>，<quote><feature type="mili_admin">东部都尉治</feature>。</quote>莽曰<wname type="半嘉名">平顺</wname>。</county>
+            <county><name>埒</name>，莽曰<wname type="亭">填狄亭</wname>。</county>
+            <county><name>马邑</name>，莽曰<wname type="嘉名">章昭</wname>。</county>
+            <county><name>强阴</name>。<quote><feature type="lake">诸闻泽</feature>在东北。</quote>莽曰<wname type="反">伏阴</wname>。<!-- 之前好像有一個案例也是把強改成伏的。 --></county>
+        </pref>
+    </chapter>
+</book>

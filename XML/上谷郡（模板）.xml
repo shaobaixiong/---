@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>上谷郡</name>
+            <meta family="36008" pop="117762" county="15"><history>秦置。</history>莽曰<wname type="意义">朔调</wname>。属幽州。户三万六千八，口十一万七千七百六十二。县十五。</meta>
+            <county><name>沮阳</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="反">沮阴</wname>。<!-- 是不是还是因为在北方，就改阳为阴？ --></county>
+            <county><name>泉上</name>，莽曰<wname type="改一">塞泉</wname>。</county>
+            <county><name>潘</name>，莽曰<wname type="意义">树武</wname>。</county>
+            <county><name>军都</name>，<quote><feature type="river">温馀水</feature>东至路，南入沽。</quote></county>
+            <county><name>居庸</name>，<quote>有<feature type="mili">关</feature>。</quote></county>
+            <county><name>雊瞀</name>。</county>
+            <county><name>夷舆</name>，莽曰<wname type="亭">朔调亭</wname>。</county>
+            <county><name>宁</name>，<quote><feature type="mili_admin">西部都尉治</feature>。</quote>莽曰博康。</county>
+            <county><name>昌平</name>，莽曰<wname type="改一">长昌</wname>。</county>
+            <county><name>广宁</name>，莽曰<wname type="改一">广康</wname>。</county>
+            <county><name>涿鹿</name>，莽曰<wname type="同音">抪陆</wname>。</county>
+            <county><name>且居</name>，<quote><feature type="river">阳乐水</feature>出东，南入沽。</quote>莽曰<wname type="反">久居</wname>。</county>
+            <county><name>茹</name>，莽曰<wname type="意义">穀武</wname>。</county>
+            <county><name>女祁</name>，<quote><feature type="mili_admin">东部都尉治</feature>。</quote>莽曰<wname type="简化">祁</wname>。</county>
+            <county><name>下落</name>。莽曰<wname type="半嘉名">下忠</wname>。</county>
+        </pref>
+    </chapter>
+</book>

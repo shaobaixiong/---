@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>代郡</name>
+            <meta family="56771" pop="278754" county="18"><history>秦置。</history>莽曰<wname type="重地">厌狄</wname>。有<feature type="mili">五原关</feature>、<feature type="mili">常山关</feature>。属幽州。户五万六千七百七十一，口二十七万八千七百五十四。县十八。</meta>
+            <county><name>桑乾</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="嘉名">安德</wname>。</county>
+            <county><name>道人</name>，莽曰<wname type="半嘉名">道仁</wname>。</county>
+            <county><name>当城</name>。</county>
+            <county><name>高柳</name>，<quote><feature type="mili_admin">西部都尉治</feature>。</quote></county>
+            <county><name>马城</name>，<quote><feature type="mili_admin">东部都尉治</feature>。</quote></county>
+            <county><name>班氏</name>，秦地图书班氏。莽曰<wname type="改一">班副</wname>。</county>
+            <county><name>延陵</name>。</county>
+            <county><name>狋氏</name>，莽曰<wname type="聚">狋聚</wname>。</county>
+            <county><name>且如</name>，<quote><feature type="river">于延水</feature>出塞外，东至宁入沽。</quote><quote><feature type="mili_admin">中部都尉治</feature>。</quote></county>
+            <county note="邑"><name>平邑</name>，莽曰<wname type="意义">平胡</wname>。</county>
+            <county><name>阳原</name>。</county>
+            <county><name>东安阳</name>，莽曰<wname type="改一">竟安</wname>。</county>
+            <county><name>参合</name>。</county>
+            <county><name>平舒</name>，<quote><feature type="river">祁夷水</feature>北至桑乾入沽。</quote>莽曰<wname type="半嘉名">平葆</wname>。</county>
+            <county><name>代</name>，莽曰<wname type="亭">厌狄亭</wname>。</county>
+            <county><name>灵丘</name>。<quote><feature type="interPrefRiver">滱河</feature>东至文安入大河，过郡五，行九百四十里。并州川。</quote></county>
+            <county><name>广昌</name>，<quote><feature type="interPrefRiver">涞水</feature>东南至容城入河，过郡三，行五百里，并州浸。</quote>莽曰<wname type="改一">广屏</wname>。</county>
+            <county><name>卤城</name>，<quote><feature type="interPrefRiver">虖池河</feature>东至参户入虖池别，过郡九，行千三百四十里，并州川。</quote>从河东至文安入海，过郡六，行千三百七十里。莽曰<wname type="?">鲁盾</wname>。</county>
+        </pref>
+    </chapter>
+</book>
