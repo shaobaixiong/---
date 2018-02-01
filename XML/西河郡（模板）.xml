@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>西河郡</name>
+            <meta family="136390" pop="698836" county="36"><date exact="-125" status="est">武帝元朔四年置。</date><feature type="mili_admin">南部都尉治</feature>塞外翁龙、埤是。莽曰<wname type="意义">归新</wname><!-- 是否有歸屬新朝的意思？ -->。属并州。户十三万六千三百九十，口六十九万八千八百三十六。县三十六。</meta>
+            <county><name>富昌</name>，<quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="改一">富成</wname>。</county>
+            <county><name>驺虞</name>。</county>
+            <county><name>鹄泽</name>。</county>
+            <county><name>平定</name>，莽曰<wname type="亭">阴平亭</wname>。</county>
+            <county><name>美稷</name>，<quote><feature type="mili_admin">属国都尉治</feature>。</quote></county>
+            <county><name>中阳</name>。</county>
+            <county><name>乐街</name>，莽曰<wname type="意义">截虏</wname>。</county>
+            <county><name>徒经</name>，莽曰<wname type="意义">廉耻</wname>。</county>
+            <county><name>皋狼</name>。</county>
+            <county><name>大成</name>，莽曰<wname type="半嘉名">好成</wname>。</county>
+            <county><name>广田</name>，莽曰<wname type="半嘉名">广翰</wname>。</county>
+            <county><name>圜阴</name>，<date exact="-190" status="est">惠帝五年置。</date>莽曰<wname type="反">方阴</wname>。</county>
+            <county><name>益阑</name>，莽曰<wname type="半嘉名">香阑</wname>。</county>
+            <county><name>平周</name>。</county>
+            <county><name>鸿门</name>，<quote>有<feature type="shrine">天封苑火井祠</feature>，火从地出也。</quote></county>
+            <county><name>蔺</name>。</county>
+            <county><name>宣武</name>，莽曰<wname type="意义">讨貉</wname>。</county>
+            <county><name>千章</name>。</county>
+            <county><name>增山</name>，<quote>有道西出<feature type="mili">眩雷塞</feature>，<feature type="mili_admin">北部都尉治。</feature></quote></county>
+            <county><name>圜阳</name>。</county>
+            <county><name>广衍</name>。</county>
+            <county><name>武车</name>，莽曰<wname type="改一">桓车</wname>。</county>
+            <county><name>虎猛</name>，<quote><feature type="mili_admin">西部都尉治</feature>。</quote></county>
+            <county><name>离石</name>。</county>
+            <county><name>穀罗</name>，<quote><feature type="lake">武泽</feature>在西北。</quote></county>
+            <county><name>饶</name>，莽曰<wname type="加一">饶衍</wname>。</county>
+            <county><name>方利</name>，莽曰<wname type="反">广德</wname>。</county>
+            <county><name>隰成</name>，莽曰<wname type="亭">慈平亭</wname>。</county>
+            <county><name>临水</name>，莽曰<wname type="监">监水</wname>。</county>
+            <county><name>土军</name>。</county>
+            <county><name>西都</name>，莽曰<wname type="亭">五原亭</wname>。</county>
+            <county><name>平陆</name>。</county>
+            <county><name>阴山</name>，莽曰<wname type="半嘉名">山宁</wname>。</county>
+            <county><name>觬是</name>，莽曰<wname type="?">伏觬</wname>。</county>
+            <county><name>博陵</name>，莽曰<wname type="?">助桓</wname>。</county>
+            <county><name>盐官</name>。</county>
+        </pref>
+    </chapter>
+</book>
