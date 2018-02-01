@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>朔方郡</name>
+            <meta family="34338" pop="136628" county="10"><date exact="-127" status="est">武帝元朔二年开。</date><feature type="mili_admin">西部都尉治</feature>窳浑。莽曰<wname type="重地">沟搜</wname>。属并州。户三万四千三百三十八，口十三万六千六百二十八。县十。</meta>
+            <county><name>三封</name>，<quote><feature type="pref_seat"/></quote><date exact="-120" status="est">武帝元狩三年城。</date></county>
+            <county><name>朔方</name>，<quote><feature type="resource">金连盐泽</feature>、<feature type="resource">青盐泽</feature>皆在南。</quote>莽曰<wname type="意义">武符</wname>。</county>
+            <county><name>修都</name>。</county>
+            <county><name>临河</name>，莽曰<wname type="监">监河</wname>。</county>
+            <county><name>呼遒</name>。</county>
+            <county><name>窳浑</name>，<quote>有道西北出<feature type="mili">鸡鹿塞</feature>。</quote><quote><feature type="lake">屠申泽</feature>在东。</quote><quote>(<feature type="mili_admin">西部都尉治</feature>窳浑)</quote>莽曰<wname type="意义">极武</wname>。</county>
+            <county><name>渠搜</name>，<quote><feature type="mili_admin">中部都尉治</feature>。</quote>莽曰<wname type="改一">沟搜</wname>。</county>
+            <county><name>沃野</name>，<date exact="-120" status="est">武帝元狩三年城。</date><quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="意义">绥武</wname>。</county>
+            <county><name>广牧</name>，<quote><feature type="mili_admin">东部都尉治</feature>。</quote>莽曰<wname type="意义">盐官</wname><!-- 是不是和西河郡的重合了？ -->。</county>
+            <county><name>临戎</name>。<date exact="-124" status="est">武帝元朔五年城。</date>莽曰<wname type="意义">推武</wname><!-- 这里没有把临戎改成监戎，是不是因为这是有意义的改法，而不是改临为监这种没有意义的改法？ -->。</county>
+            
+        </pref>
+    </chapter>
+</book>

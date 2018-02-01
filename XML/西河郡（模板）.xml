@@ -5,7 +5,7 @@
         <pref>
             <name>西河郡</name>
             <meta family="136390" pop="698836" county="36"><date exact="-125" status="est">武帝元朔四年置。</date><feature type="mili_admin">南部都尉治</feature>塞外翁龙、埤是。莽曰<wname type="意义">归新</wname><!-- 是否有歸屬新朝的意思？ -->。属并州。户十三万六千三百九十，口六十九万八千八百三十六。县三十六。</meta>
-            <county><name>富昌</name>，<quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="改一">富成</wname>。</county>
+            <county><name>富昌</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="改一">富成</wname>。</county>
             <county><name>驺虞</name>。</county>
             <county><name>鹄泽</name>。</county>
             <county><name>平定</name>，莽曰<wname type="亭">阴平亭</wname>。</county>
