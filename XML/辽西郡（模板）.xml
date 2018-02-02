@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>辽西郡</name>
+            <meta family="72654" pop="352325" county="14"><history>秦置。</history>有<feature type="river">小水四十八</feature>，并行三千四十六里。属幽州。户七万二千六百五十四，口三十五万二千三百二十五。县十四。</meta>
+            <county><name>且虑</name>，<quote>有<feature type="shrine">高庙</feature>。</quote><quote><feature type="pref_seat"/></quote>莽曰<wname type="改一">鉏虑</wname>。</county><!-- 王莽似乎不喜欢且字。上谷郡有且居，王莽改成了久居。 -->
+            <county><name>海阳</name>，<quote><feature type="river">龙鲜水</feature>东入封大水。</quote><quote><feature type="river">封大水</feature>，<feature type="river">缓虚水</feature>皆南入海。</quote><quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>新安平</name>。<quote><feature type="river">夷水</feature>东入塞外。</quote></county>
+            <county><name>柳城</name>，<quote><feature type="mount">马首山</feature>在西南。</quote><quote><feature type="river">参柳水</feature>北入海。</quote><quote><feature type="mili_admin">西部都尉治</feature>。</quote></county>
+            <county><name>令支</name>，<quote>有<feature type="walled">孤竹城</feature>。</quote>莽曰<wname type="亭">令氏亭</wname>。</county>
+            <county><name>肥如</name>，<quote><feature type="river">玄水</feature>东入濡水。<feature type="river">濡水</feature>南入海阳。</quote><quote>又有<feature type="river">卢水</feature>，南入玄。</quote>莽曰<wname type="改一">肥而</wname>。</county>
+            <county><name>宾从</name>，莽曰<wname type="意义">勉武</wname>。</county>
+            <county><name>交黎</name>，<quote><feature type="river">渝水</feature>首受塞外，南入海。</quote><quote><feature type="mili_admin">东部都尉治</feature>。</quote>莽曰<wname type="意义">禽虏</wname>。</county>
+            <county><name>阳乐</name>。</county>
+            <county><name>狐苏</name>，<quote><feature type="river">唐就水</feature>至徒河入海。</quote></county>
+            <county><name>徒河</name>，莽曰<wname type="改一">河福</wname>。</county>
+            <county><name>文成</name>，莽曰<wname type="意义">言虏</wname>。</county>
+            <county><name>临渝</name>，<quote><feature type="river">渝水</feature>首受白狼，东入塞外，又有<feature type="river">侯水</feature>，北入渝。</quote>莽曰<wname type="嘉名">冯德</wname>。</county>
+            <county><name>絫</name>。<quote><feature type="river">下官水</feature>南入海。又有<feature type="river">揭石水</feature>、<feature type="river">宾水</feature>，皆南入官。</quote>莽曰<wname type="意义">选武</wname>。</county>
+        </pref>
+    </chapter>
+</book>
