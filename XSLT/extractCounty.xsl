@@ -28,6 +28,9 @@
                         </xsl:choose>
 
                     </county_xin>
+                    <ID>
+                        <xsl:text>405</xsl:text><xsl:number value="position()" format="01"></xsl:number>
+                    </ID>
                 </county>
             </xsl:for-each>
         </counties>

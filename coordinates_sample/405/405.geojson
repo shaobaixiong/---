@@ -1,0 +1,165 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.90368,25.858984 ]
+    },
+    "properties": {
+    "county_han":"零陵县",
+    "county_xin":"零陵县",
+    "ID":40501,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":-221,
+    "CHGIS_END_YR":589,
+    "CHGIS_SYS_ID":43769
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.986367,25.503417 ]
+    },
+    "properties": {
+    "county_han":"营道县",
+    "county_xin":"九疑亭县",
+    "ID":40502,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":23,
+    "CHGIS_END_YR":588,
+    "CHGIS_SYS_ID":41996
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.286262,25.28006 ]
+    },
+    "properties": {
+    "county_han":"始安县",
+    "county_xin":"始安县",
+    "ID":40503,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":-111,
+    "CHGIS_END_YR":757,
+    "CHGIS_SYS_ID":43738
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.234857,27.005932 ]
+    },
+    "properties": {
+    "county_han":"夫夷县",
+    "county_xin":"夫夷县",
+    "ID":40504,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":9,
+    "CHGIS_END_YR":22,
+    "CHGIS_SYS_ID":42007
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.620505,25.537297 ]
+    },
+    "properties": {
+    "county_han":"营浦县",
+    "county_xin":"营浦县",
+    "ID":40505,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":-202,
+    "CHGIS_END_YR":588,
+    "CHGIS_SYS_ID":41980
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.647535,26.73872 ]
+    },
+    "properties": {
+    "county_han":"都梁侯国",
+    "county_xin":"都梁县",
+    "ID":40506,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":-124,
+    "CHGIS_END_YR":8,
+    "CHGIS_SYS_ID":42016
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.095143,25.510815 ]
+    },
+    "properties": {
+    "county_han":"泠道县",
+    "county_xin":"泠陵县",
+    "ID":40507,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":23,
+    "CHGIS_END_YR":588,
+    "CHGIS_SYS_ID":41955
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.612564,26.210339 ]
+    },
+    "properties": {
+    "county_han":"泉陵侯国",
+    "county_xin":"溥闰县",
+    "ID":40508,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":-124,
+    "CHGIS_END_YR":8,
+    "CHGIS_SYS_ID":41956
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.169943,26.228656 ]
+    },
+    "properties": {
+    "county_han":"洮阳县",
+    "county_xin":"洮治县",
+    "ID":40509,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":-111,
+    "CHGIS_END_YR":589,
+    "CHGIS_SYS_ID":43770
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.275801,26.93665 ]
+    },
+    "properties": {
+    "county_han":"钟武县",
+    "county_xin":"钟桓县",
+    "ID":40510,
+    "SOURCE":"CHGIS",
+    "CHGIS_BEG_YR":-11,
+    "CHGIS_END_YR":13,
+    "CHGIS_SYS_ID":42122
+    }
+  }
+]
+}
