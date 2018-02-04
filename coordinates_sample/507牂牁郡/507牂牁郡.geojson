@@ -1,0 +1,243 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.4220023,27.2542545 ]
+    },
+    "properties": {
+    "county_han":"平夷县",
+    "county_xin":"平夷县",
+    "SOURCE":"PUBLICATION",
+    "ID":50705,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8797902,24.2428174 ]
+    },
+    "properties": {
+    "county_han":"同并县",
+    "county_xin":"同并县",
+    "SOURCE":"PUBLICATION",
+    "ID":50706,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.4988552,24.5127623 ]
+    },
+    "properties": {
+    "county_han":"漏江县",
+    "county_xin":"漏江县",
+    "SOURCE":"PUBLICATION",
+    "ID":50712,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5567756,23.0659668 ]
+    },
+    "properties": {
+    "county_han":"西随县",
+    "county_xin":"西随县",
+    "SOURCE":"PUBLICATION",
+    "ID":50713,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.4004158,23.1012272 ]
+    },
+    "properties": {
+    "county_han":"进桑县",
+    "county_xin":"进桑县",
+    "SOURCE":"PUBLICATION",
+    "ID":50716,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.75547,26.80155 ]
+    },
+    "properties": {
+    "county_han":"故且兰县",
+    "county_xin":"故且兰县",
+    "SOURCE":"CHGIS",
+    "ID":50701,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.75346,23.75522 ]
+    },
+    "properties": {
+    "county_han":"镡封县",
+    "county_xin":"镡封县",
+    "SOURCE":"CHGIS",
+    "ID":50702,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.80657,27.73053 ]
+    },
+    "properties": {
+    "county_han":"鄨县",
+    "county_xin":"鄨县",
+    "SOURCE":"CHGIS",
+    "ID":50703,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.30344,24.88309 ]
+    },
+    "properties": {
+    "county_han":"漏卧县",
+    "county_xin":"漏卧县",
+    "SOURCE":"CHGIS",
+    "ID":50704,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.62939,25.59868 ]
+    },
+    "properties": {
+    "county_han":"谈指县",
+    "county_xin":"谈指县",
+    "SOURCE":"CHGIS",
+    "ID":50707,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.24997,23.80985 ]
+    },
+    "properties": {
+    "county_han":"宛温县",
+    "county_xin":"宛温县",
+    "SOURCE":"CHGIS",
+    "ID":50708,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.54277,25.82953 ]
+    },
+    "properties": {
+    "county_han":"毋敛县",
+    "county_xin":"有敛县",
+    "SOURCE":"CHGIS",
+    "ID":50709,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.38912,25.87149 ]
+    },
+    "properties": {
+    "county_han":"夜郎县",
+    "county_xin":"同亭县",
+    "SOURCE":"CHGIS",
+    "ID":50710,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.10837,24.58013 ]
+    },
+    "properties": {
+    "county_han":"毋单县",
+    "county_xin":"毋单县",
+    "SOURCE":"CHGIS",
+    "ID":50711,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.23555,23.37613 ]
+    },
+    "properties": {
+    "county_han":"都梦县",
+    "county_xin":"都梦县",
+    "SOURCE":"CHGIS",
+    "ID":50714,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.53447,25.53064 ]
+    },
+    "properties": {
+    "county_han":"谈稿县",
+    "county_xin":"谈稿县",
+    "SOURCE":"CHGIS",
+    "ID":50715,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.062,24.05282 ]
+    },
+    "properties": {
+    "county_han":"句町县",
+    "county_xin":"从化县",
+    "SOURCE":"CHGIS",
+    "ID":50717,
+    "name_type":"意义"
+    }
+  }
+]
+}

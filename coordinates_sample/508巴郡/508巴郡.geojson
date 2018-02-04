@@ -1,0 +1,159 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.6412586,29.3968689 ]
+    },
+    "properties": {
+    "county_han":"涪陵县",
+    "county_xin":"巴亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":50811,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.556,29.57969 ]
+    },
+    "properties": {
+    "county_han":"江州县",
+    "county_xin":"江州县",
+    "SOURCE":"CHGIS",
+    "ID":50801,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.03158,30.29858 ]
+    },
+    "properties": {
+    "county_han":"临江县",
+    "county_xin":"监江县",
+    "SOURCE":"CHGIS",
+    "ID":50802,
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.41134,29.71241 ]
+    },
+    "properties": {
+    "county_han":"枳县",
+    "county_xin":"枳县",
+    "SOURCE":"CHGIS",
+    "ID":50803,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.96703,31.58316 ]
+    },
+    "properties": {
+    "county_han":"阆中县",
+    "county_xin":"阆中县",
+    "SOURCE":"CHGIS",
+    "ID":50804,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.25956,30.00394 ]
+    },
+    "properties": {
+    "county_han":"垫江县",
+    "county_xin":"垫江县",
+    "SOURCE":"CHGIS",
+    "ID":50805,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.74291,30.93095 ]
+    },
+    "properties": {
+    "county_han":"朐忍县",
+    "county_xin":"朐忍县",
+    "SOURCE":"CHGIS",
+    "ID":50806,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.10583,30.81911 ]
+    },
+    "properties": {
+    "county_han":"安汉县",
+    "county_xin":"安新县",
+    "SOURCE":"CHGIS",
+    "ID":50807,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.062668,31.003839 ]
+    },
+    "properties": {
+    "county_han":"宕渠县",
+    "county_xin":"宕渠县",
+    "SOURCE":"CHGIS",
+    "ID":50808,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.56633,31.04914 ]
+    },
+    "properties": {
+    "county_han":"鱼复县",
+    "county_xin":"鱼复县",
+    "SOURCE":"CHGIS",
+    "ID":50809,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8645,31.43531 ]
+    },
+    "properties": {
+    "county_han":"充国县",
+    "county_xin":"充国县",
+    "SOURCE":"CHGIS",
+    "ID":50810,
+    "name_type":"不改"
+    }
+  }
+]
+}

@@ -1,0 +1,145 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.3387071,35.5031828 ]
+    },
+    "properties": {
+    "county_han":"狄道",
+    "county_xin":"操虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60201,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.6579178,34.5793247 ]
+    },
+    "properties": {
+    "county_han":"上邽县",
+    "county_xin":"上邽县",
+    "SOURCE":"PUBLICATION",
+    "ID":60202,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7923024,35.2187312 ]
+    },
+    "properties": {
+    "county_han":"安故县",
+    "county_xin":"安故县",
+    "SOURCE":"PUBLICATION",
+    "ID":60203,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.9070084,34.4274413 ]
+    },
+    "properties": {
+    "county_han":"氐道",
+    "county_xin":"亭道县",
+    "SOURCE":"PUBLICATION",
+    "ID":60204,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.4409934,35.4541182 ]
+    },
+    "properties": {
+    "county_han":"大夏县",
+    "county_xin":"顺夏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60207,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.2933565,33.8425539 ]
+    },
+    "properties": {
+    "county_han":"羌道",
+    "county_xin":"羌道县",
+    "SOURCE":"PUBLICATION",
+    "ID":60208,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.21017,35.13949 ]
+    },
+    "properties": {
+    "county_han":"首阳县",
+    "county_xin":"首阳县",
+    "SOURCE":"CHGIS",
+    "ID":60205,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.63561,35.00714 ]
+    },
+    "properties": {
+    "county_han":"襄武县",
+    "county_xin":"相桓县",
+    "SOURCE":"CHGIS",
+    "ID":60209,
+    "name_type":"同音 半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.03025,34.43646 ]
+    },
+    "properties": {
+    "county_han":"临洮县",
+    "county_xin":"临洮县",
+    "SOURCE":"CHGIS",
+    "ID":60210,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.87111,34.40756 ]
+    },
+    "properties": {
+    "county_han":"西县",
+    "county_xin":"西治县",
+    "SOURCE":"CHGIS",
+    "ID":60211,
+    "name_type":"治"
+    }
+  }
+]
+}

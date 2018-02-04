@@ -1,0 +1,131 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.5330679,34.0620368 ]
+    },
+    "properties": {
+    "county_han":"武都县",
+    "county_xin":"循虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60101,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.3975028,33.7889812 ]
+    },
+    "properties": {
+    "county_han":"上禄县",
+    "county_xin":"上禄县",
+    "SOURCE":"PUBLICATION",
+    "ID":60102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.2067564,33.9399653 ]
+    },
+    "properties": {
+    "county_han":"故道县",
+    "county_xin":"善治县",
+    "SOURCE":"PUBLICATION",
+    "ID":60103,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7204774,34.0717223 ]
+    },
+    "properties": {
+    "county_han":"河池县",
+    "county_xin":"乐平亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":60104,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.0664269,33.2625577 ]
+    },
+    "properties": {
+    "county_han":"平乐道",
+    "county_xin":"平乐道",
+    "SOURCE":"PUBLICATION",
+    "ID":60105,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1872963,33.6974763 ]
+    },
+    "properties": {
+    "county_han":"嘉陵道",
+    "county_xin":"嘉陵道",
+    "SOURCE":"PUBLICATION",
+    "ID":60107,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9007893,33.6002753 ]
+    },
+    "properties": {
+    "county_han":"循成道",
+    "county_xin":"循成道",
+    "SOURCE":"PUBLICATION",
+    "ID":60108,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.5862633,33.8334053 ]
+    },
+    "properties": {
+    "county_han":"下辨道",
+    "county_xin":"杨德县",
+    "SOURCE":"PUBLICATION",
+    "ID":60109,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.44959,33.27274 ]
+    },
+    "properties": {
+    "county_han":"沮县",
+    "county_xin":"沮县",
+    "SOURCE":"CHGIS",
+    "ID":60106,
+    "name_type":"不改"
+    }
+  }
+]
+}
