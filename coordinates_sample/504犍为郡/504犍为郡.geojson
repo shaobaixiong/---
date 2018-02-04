@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.448044,28.887688 ]
+    },
+    "properties": {
+    "county_han":"江阳县",
+    "county_xin":"江阳县",
+    "SOURCE":"CHGIS",
+    "ID":50402,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.908872,30.232104 ]
+    },
+    "properties": {
+    "county_han":"武阳县",
+    "county_xin":"戢成县",
+    "SOURCE":"CHGIS",
+    "ID":50403,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.647072,30.12302 ]
+    },
+    "properties": {
+    "county_han":"资中县",
+    "county_xin":"资中县",
+    "SOURCE":"CHGIS",
+    "ID":50405,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.834999,28.80854 ]
+    },
+    "properties": {
+    "county_han":"符县",
+    "county_xin":"符信县",
+    "SOURCE":"CHGIS",
+    "ID":50406,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.54475,30.39023 ]
+    },
+    "properties": {
+    "county_han":"牛鞞县",
+    "county_xin":"牛鞞县",
+    "SOURCE":"CHGIS",
+    "ID":50407,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.2652219,28.036064 ]
+    },
+    "properties": {
+    "county_han":"南广县",
+    "county_xin":"南广县",
+    "SOURCE":"ONLINE",
+    "ID":50408,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.71526,27.34328 ]
+    },
+    "properties": {
+    "county_han":"朱提县",
+    "county_xin":"朱提县",
+    "SOURCE":"CHGIS",
+    "ID":50411,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.29665,26.93341 ]
+    },
+    "properties": {
+    "county_han":"堂琅县",
+    "county_xin":"堂琅县",
+    "SOURCE":"CHGIS",
+    "ID":50412,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.4133003,28.6261514 ]
+    },
+    "properties": {
+    "county_han":"僰道",
+    "county_xin":"僰治县",
+    "SOURCE":"ONLINE",
+    "ID":50401,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6188659,29.5794283 ]
+    },
+    "properties": {
+    "county_han":"南安县",
+    "county_xin":"南安县",
+    "SOURCE":"ONLINE",
+    "ID":50404,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.6222193,26.9745626 ]
+    },
+    "properties": {
+    "county_han":"汉阳县",
+    "county_xin":"新通县",
+    "SOURCE":"ONLINE",
+    "ID":50409,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.5776647,26.2976386 ]
+    },
+    "properties": {
+    "county_han":"𨚲䣕县",
+    "county_xin":"孱䣕县",
+    "SOURCE":"ONLINE",
+    "ID":50410,
+    "name_type":"改一"
+    }
+  }
+]
+}

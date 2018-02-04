@@ -18,18 +18,26 @@
                     <county_xin>
                         <xsl:choose>
                             <xsl:when test="following-sibling::wname">
-                                
-                                    <xsl:value-of select="following-sibling::wname"/><xsl:text>县</xsl:text>
-                                
+
+                                <xsl:value-of select="following-sibling::wname"/>
+                                <xsl:text>县</xsl:text>
+
                             </xsl:when>
                             <xsl:when test="not(wname)">
-                                <xsl:value-of select="."/><xsl:text>县</xsl:text>
+                                <xsl:value-of select="."/>
+                                <xsl:text>县</xsl:text>
                             </xsl:when>
                         </xsl:choose>
-
                     </county_xin>
+                    <name_type>
+                        <xsl:choose>
+                            <xsl:when test="following-sibling::wname"><xsl:value-of select="following-sibling::wname/@type"/></xsl:when>
+                            <xsl:when test="not(following-sibling::wname)"><xsl:text>不改</xsl:text></xsl:when>
+                        </xsl:choose>
+                    </name_type>
                     <ID>
-                        <xsl:text>235</xsl:text><xsl:number value="position()" format="01"></xsl:number>
+                        <xsl:text>405</xsl:text>
+                        <xsl:number value="position()" format="01"/>
                     </ID>
                 </county>
             </xsl:for-each>

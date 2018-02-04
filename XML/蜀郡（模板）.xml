@@ -2,7 +2,7 @@
 <?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
     <chapter name="地理志第八">
-        <pref>
+        <pref ref="503">
             <name>蜀郡</name>
             <meta family="268279" pop="1245929" county="15"><history>秦置。</history>有<feature type="river">小江</feature>入，并行千九百八十里。《禹贡》<feature type="river">桓水</feature>出蜀山西南，行羌中，入南海。莽曰<wname type="意义">导江</wname>。属益州。户二十六万八千二百七十九，口百二十四万五千九百二十九。县十五。</meta>
             <county family="76256"><name>成都</name>，<quote><feature type="pref_seat"/></quote>户七万六千二百五十六，<quote>有<feature type="admin">工官</feature>。</quote></county>

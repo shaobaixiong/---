@@ -1,0 +1,215 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.078,30.65038 ]
+    },
+    "properties": {
+    "county_han":"成都县",
+    "county_xin":"成都县",
+    "SOURCE":"CHGIS",
+    "ID":50301,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.88877,30.80707 ]
+    },
+    "properties": {
+    "county_han":"郫县",
+    "county_xin":"郫县",
+    "SOURCE":"CHGIS",
+    "ID":50302,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.11392,30.95826 ]
+    },
+    "properties": {
+    "county_han":"繁县",
+    "county_xin":"繁县",
+    "SOURCE":"CHGIS",
+    "ID":50303,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.04018,30.43774 ]
+    },
+    "properties": {
+    "county_han":"广都县",
+    "county_xin":"就都亭县",
+    "SOURCE":"CHGIS",
+    "ID":50304,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.45683,30.41659 ]
+    },
+    "properties": {
+    "county_han":"临邛县",
+    "county_xin":"监邛县",
+    "SOURCE":"CHGIS",
+    "ID":50305,
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.923828,30.157581 ]
+    },
+    "properties": {
+    "county_han":"青衣县",
+    "county_xin":"青衣县",
+    "SOURCE":"CHGIS",
+    "ID":50306,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.80243,30.59065 ]
+    },
+    "properties": {
+    "county_han":"江原县",
+    "county_xin":"邛原县",
+    "SOURCE":"CHGIS",
+    "ID":50307,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.842926,29.795689 ]
+    },
+    "properties": {
+    "county_han":"严道县",
+    "county_xin":"严治县",
+    "SOURCE":"CHGIS",
+    "ID":50308,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.497986,31.36109 ]
+    },
+    "properties": {
+    "county_han":"绵虒县",
+    "county_xin":"绵虒县",
+    "SOURCE":"CHGIS",
+    "ID":50309,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.827202,30.021538 ]
+    },
+    "properties": {
+    "county_han":"徙县",
+    "county_xin":"徙县",
+    "SOURCE":"CHGIS",
+    "ID":50311,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.311737,31.550774 ]
+    },
+    "properties": {
+    "county_han":"广柔县",
+    "county_xin":"广柔县",
+    "SOURCE":"CHGIS",
+    "ID":50314,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.681104,32.035665 ]
+    },
+    "properties": {
+    "county_han":"蚕陵县",
+    "county_xin":"步昌县",
+    "SOURCE":"CHGIS",
+    "ID":50315,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.6044373,29.4952094 ]
+    },
+    "properties": {
+    "county_han":"旄牛县",
+    "county_xin":"旄牛县",
+    "SOURCE":"ONLINE",
+    "ID":50310,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8919207,32.6284391 ]
+    },
+    "properties": {
+    "county_han":"湔氐道",
+    "county_xin":"湔氐道",
+    "SOURCE":"ONLINE",
+    "ID":50312,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.9986125,31.8368176 ]
+    },
+    "properties": {
+    "county_han":"汶江县",
+    "county_xin":"汶江县",
+    "SOURCE":"ONLINE",
+    "ID":50313,
+    "name_type":"不改"
+    }
+  }
+]
+}
