@@ -1,0 +1,215 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.6876702,28.996251 ]
+    },
+    "properties": {
+    "county_han":"灵关道",
+    "county_xin":"灵关道",
+    "SOURCE":"ONLNE",
+    "ID":50503,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.817771,27.6870924 ]
+    },
+    "properties": {
+    "county_han":"定莋县",
+    "county_xin":"定莋县",
+    "SOURCE":"ONLNE",
+    "ID":50505,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.6728547,26.6165805 ]
+    },
+    "properties": {
+    "county_han":"会无县",
+    "county_xin":"会无县",
+    "SOURCE":"ONLNE",
+    "ID":50506,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.4765441,28.5611233 ]
+    },
+    "properties": {
+    "county_han":"莋秦县",
+    "county_xin":"莋秦县",
+    "SOURCE":"ONLNE",
+    "ID":50507,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.0342558,26.880112 ]
+    },
+    "properties": {
+    "county_han":"大莋县",
+    "county_xin":"大莋县",
+    "SOURCE":"ONLNE",
+    "ID":50508,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.2256312,26.5260948 ]
+    },
+    "properties": {
+    "county_han":"姑复县",
+    "county_xin":"姑复县",
+    "SOURCE":"ONLNE",
+    "ID":50509,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.2980405,26.1714923 ]
+    },
+    "properties": {
+    "county_han":"三绛县",
+    "county_xin":"三绛县",
+    "SOURCE":"ONLNE",
+    "ID":50510,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.8132214,27.8592306 ]
+    },
+    "properties": {
+    "county_han":"苏示县",
+    "county_xin":"苏示县",
+    "SOURCE":"ONLNE",
+    "ID":50511,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.3403014,28.5994799 ]
+    },
+    "properties": {
+    "county_han":"阑县",
+    "county_xin":"阑县",
+    "SOURCE":"ONLNE",
+    "ID":50512,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.2891998,28.0502208 ]
+    },
+    "properties": {
+    "county_han":"卑水县",
+    "county_xin":"卑水县",
+    "SOURCE":"ONLNE",
+    "ID":50513,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5440261,28.4279399 ]
+    },
+    "properties": {
+    "county_han":"灊街县",
+    "county_xin":"灊街县",
+    "SOURCE":"ONLNE",
+    "ID":50514,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.274129,27.871663 ]
+    },
+    "properties": {
+    "county_han":"邛都县",
+    "county_xin":"邛都县",
+    "SOURCE":"CHGIS",
+    "ID":50501,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.23212,26.87603 ]
+    },
+    "properties": {
+    "county_han":"遂久县",
+    "county_xin":"遂久县",
+    "SOURCE":"CHGIS",
+    "ID":50502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.200478,28.293688 ]
+    },
+    "properties": {
+    "county_han":"台登县",
+    "county_xin":"台登县",
+    "SOURCE":"CHGIS",
+    "ID":50504,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.32531,25.72573 ]
+    },
+    "properties": {
+    "county_han":"青蛉县",
+    "county_xin":"青蛉县",
+    "SOURCE":"CHGIS",
+    "ID":50515,
+    "name_type":"不改"
+    }
+  }
+]
+}

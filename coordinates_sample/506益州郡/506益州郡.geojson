@@ -1,0 +1,341 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.6521435,24.7015966 ]
+    },
+    "properties": {
+    "county_han":"俞元县",
+    "county_xin":"俞元县",
+    "SOURCE":"ONLINE",
+    "ID":50606,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8527119,25.6783513 ]
+    },
+    "properties": {
+    "county_han":"收靡县",
+    "county_xin":"收靡县",
+    "SOURCE":"ONLINE",
+    "ID":50607,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8330243,25.1106865 ]
+    },
+    "properties": {
+    "county_han":"穀昌县",
+    "county_xin":"穀昌县",
+    "SOURCE":"ONLINE",
+    "ID":50608,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.2884796,25.3679624 ]
+    },
+    "properties": {
+    "county_han":"秦臧县",
+    "county_xin":"秦臧县",
+    "SOURCE":"ONLINE",
+    "ID":50609,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.8954996,25.2385098 ]
+    },
+    "properties": {
+    "county_han":"邪龙县",
+    "county_xin":"邪龙县",
+    "SOURCE":"ONLINE",
+    "ID":50610,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.9284699,25.7482114 ]
+    },
+    "properties": {
+    "county_han":"叶榆县",
+    "county_xin":"叶榆县",
+    "SOURCE":"ONLINE",
+    "ID":50613,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.1086794,23.7367724 ]
+    },
+    "properties": {
+    "county_han":"律高县",
+    "county_xin":"律高县",
+    "SOURCE":"ONLINE",
+    "ID":50614,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.1145291,25.1103127 ]
+    },
+    "properties": {
+    "county_han":"巂唐县",
+    "county_xin":"巂唐县",
+    "SOURCE":"ONLINE",
+    "ID":50617,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5585972,24.0764574 ]
+    },
+    "properties": {
+    "county_han":"毋棳县",
+    "county_xin":"有棳县",
+    "SOURCE":"ONLINE",
+    "ID":50621,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.6082473,24.3613035 ]
+    },
+    "properties": {
+    "county_han":"胜休县",
+    "county_xin":"胜豦县",
+    "SOURCE":"ONLINE",
+    "ID":50622,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.3696285,22.3872394 ]
+    },
+    "properties": {
+    "county_han":"来唯县",
+    "county_xin":"来唯县",
+    "SOURCE":"ONLINE",
+    "ID":50624,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.74321,24.70312 ]
+    },
+    "properties": {
+    "county_han":"滇池县",
+    "county_xin":"滇池县",
+    "SOURCE":"CHGIS",
+    "ID":50601,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.14977,24.67262 ]
+    },
+    "properties": {
+    "county_han":"双柏县",
+    "county_xin":"双柏县",
+    "SOURCE":"CHGIS",
+    "ID":50602,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.56492,25.04599 ]
+    },
+    "properties": {
+    "county_han":"同劳县",
+    "county_xin":"同劳县",
+    "SOURCE":"CHGIS",
+    "ID":50603,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.58021,25.42843 ]
+    },
+    "properties": {
+    "county_han":"铜濑县",
+    "county_xin":"铜濑县",
+    "SOURCE":"CHGIS",
+    "ID":50604,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.47412,24.91844 ]
+    },
+    "properties": {
+    "county_han":"连然县",
+    "county_xin":"连然县",
+    "SOURCE":"CHGIS",
+    "ID":50605,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.73244,25.53108 ]
+    },
+    "properties": {
+    "county_han":"味县",
+    "county_xin":"味县",
+    "SOURCE":"CHGIS",
+    "ID":50611,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.17325,24.96305 ]
+    },
+    "properties": {
+    "county_han":"昆泽县",
+    "county_xin":"昆泽县",
+    "SOURCE":"CHGIS",
+    "ID":50612,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.25789,25.15477 ]
+    },
+    "properties": {
+    "county_han":"不韦县",
+    "county_xin":"不韦县",
+    "SOURCE":"CHGIS",
+    "ID":50615,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.68533,25.42481 ]
+    },
+    "properties": {
+    "county_han":"云南县",
+    "county_xin":"云南县",
+    "SOURCE":"CHGIS",
+    "ID":50616,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.18417,25.57049 ]
+    },
+    "properties": {
+    "county_han":"弄栋县",
+    "county_xin":"弄栋县",
+    "SOURCE":"CHGIS",
+    "ID":50618,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.37489,25.89317 ]
+    },
+    "properties": {
+    "county_han":"比苏县",
+    "county_xin":"比苏县",
+    "SOURCE":"CHGIS",
+    "ID":50619,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.44472,23.31267 ]
+    },
+    "properties": {
+    "county_han":"贲古县",
+    "county_xin":"贲古县",
+    "SOURCE":"CHGIS",
+    "ID":50620,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.59208,24.67154 ]
+    },
+    "properties": {
+    "county_han":"健伶县",
+    "county_xin":"健伶县",
+    "SOURCE":"CHGIS",
+    "ID":50623,
+    "name_type":"不改"
+    }
+  }
+]
+}
