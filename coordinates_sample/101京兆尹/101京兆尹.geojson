@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.2888664,34.5963882 ]
+    },
+    "properties": {
+    "county_han":"船司空县",
+    "county_xin":"船利县",
+    "SOURCE":"PUBLICATION",
+    "ID":10103,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.5519464,34.5438782 ]
+    },
+    "properties": {
+    "county_han":"下邽县",
+    "county_xin":"下邽县",
+    "SOURCE":"PUBLICATION",
+    "ID":10108,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.8564604,34.3300183 ]
+    },
+    "properties": {
+    "county_han":"奉明县",
+    "county_xin":"奉明县",
+    "SOURCE":"PUBLICATION",
+    "ID":10110,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.93719,34.31799 ]
+    },
+    "properties": {
+    "county_han":"长安县",
+    "county_xin":"常安县",
+    "SOURCE":"CHGIS",
+    "ID":10101,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.25768,34.39895 ]
+    },
+    "properties": {
+    "county_han":"新丰县",
+    "county_xin":"新丰县",
+    "SOURCE":"CHGIS",
+    "ID":10102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.14697,34.23927 ]
+    },
+    "properties": {
+    "county_han":"蓝田县",
+    "county_xin":"蓝田县",
+    "SOURCE":"CHGIS",
+    "ID":10104,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.0956,34.5677 ]
+    },
+    "properties": {
+    "county_han":"华阴县",
+    "county_xin":"华坛县",
+    "SOURCE":"CHGIS",
+    "ID":10105,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.85004,34.53556 ]
+    },
+    "properties": {
+    "county_han":"郑县",
+    "county_xin":"郑县",
+    "SOURCE":"CHGIS",
+    "ID":10106,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.73206,34.59143 ]
+    },
+    "properties": {
+    "county_han":"湖县",
+    "county_xin":"湖县",
+    "SOURCE":"CHGIS",
+    "ID":10107,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.06288,34.21341 ]
+    },
+    "properties": {
+    "county_han":"南陵县",
+    "county_xin":"南陵县",
+    "SOURCE":"CHGIS",
+    "ID":10109,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.06952,34.36034 ]
+    },
+    "properties": {
+    "county_han":"霸陵县",
+    "county_xin":"水章县",
+    "SOURCE":"CHGIS",
+    "ID":10111,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.92208,34.1845 ]
+    },
+    "properties": {
+    "county_han":"杜陵县",
+    "county_xin":"饶安县",
+    "SOURCE":"CHGIS",
+    "ID":10112,
+    "name_type":"嘉名"
+    }
+  }
+]
+}

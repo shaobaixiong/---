@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>武都郡</name>
+            <meta family="51376" pop="235560" county="9"><date exact="-111" status="est">武帝元鼎六年置。</date>莽曰<wname type="重地">c</wname>。户五万一千三百七十六，口二十三万五千五百六十。县九。</meta>
+            <county><name>武都</name>，<quote><feature type="pref_seat"/></quote><quote><feature type="river">东汉水</feature>受氐道水，一名沔，过江夏，谓之夏水，入江。</quote><quote><feature type="lake">天池大泽</feature>在县西。</quote>莽曰<wname type="意义">循虏</wname>。</county>
+            <county><name>上禄</name>。</county>
+            <county note="道"><name>故道</name>，莽曰<wname type="治">善治</wname>。</county>
+            <county><name>河池</name>。<quote><feature type="river">泉街水</feature>南至沮入汉，行五百二十里。</quote>莽曰<wname type="亭">乐平亭</wname>。</county>
+            <county note="道"><name>平乐道</name>。</county><!-- 樂平是否來自平樂？ -->
+            <county><name>沮</name>，<quote><feature type="interPrefRiver">沮水</feature>出东狼谷，南至沙羡南入江，过郡五，行四千里，荆州川。</quote></county>
+            <county note="道"><name>嘉陵道</name>。</county>
+            <county note="道"><name>循成道</name>。</county>
+            <county note="道"><name>下辨道</name>。莽曰<wname type="嘉名">杨德</wname>。</county>
+            
+        </pref>
+    </chapter>
+</book>

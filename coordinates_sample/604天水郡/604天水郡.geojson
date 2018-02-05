@@ -1,0 +1,201 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.137934,35.2160745 ]
+    },
+    "properties": {
+    "county_han":"平襄县",
+    "county_xin":"平相县",
+    "SOURCE":"PUBLICATION",
+    "ID":60401,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.2031834,35.2146242 ]
+    },
+    "properties": {
+    "county_han":"街泉县",
+    "county_xin":"街泉县",
+    "SOURCE":"PUBLICATION",
+    "ID":60402,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9930364,34.8490352 ]
+    },
+    "properties": {
+    "county_han":"戎邑道",
+    "county_xin":"填戎亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":60403,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.5032444,34.6868492 ]
+    },
+    "properties": {
+    "county_han":"望垣县",
+    "county_xin":"望亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":60404,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9252454,34.4503203 ]
+    },
+    "properties": {
+    "county_han":"罕开县",
+    "county_xin":"罕开县",
+    "SOURCE":"PUBLICATION",
+    "ID":60405,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.6449294,34.7023962 ]
+    },
+    "properties": {
+    "county_han":"绵诸道",
+    "county_xin":"绵诸道",
+    "SOURCE":"PUBLICATION",
+    "ID":60406,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7085424,34.8960692 ]
+    },
+    "properties": {
+    "county_han":"略阳道",
+    "county_xin":"略阳道",
+    "SOURCE":"PUBLICATION",
+    "ID":60408,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.1570114,35.9424262 ]
+    },
+    "properties": {
+    "county_han":"勇士县",
+    "county_xin":"纪德县",
+    "SOURCE":"PUBLICATION",
+    "ID":60410,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.5789144,35.4058192 ]
+    },
+    "properties": {
+    "county_han":"成纪县",
+    "county_xin":"成纪县",
+    "SOURCE":"PUBLICATION",
+    "ID":60411,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1596824,34.8441202 ]
+    },
+    "properties": {
+    "county_han":"清水县",
+    "county_xin":"识睦县",
+    "SOURCE":"PUBLICATION",
+    "ID":60412,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9634424,34.9574148 ]
+    },
+    "properties": {
+    "county_han":"陇县",
+    "county_xin":"陇县",
+    "SOURCE":"PUBLICATION",
+    "ID":60414,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.6776694,34.9606082 ]
+    },
+    "properties": {
+    "county_han":"豲道",
+    "county_xin":"豲道",
+    "SOURCE":"PUBLICATION",
+    "ID":60415,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.6684736,35.4990445 ]
+    },
+    "properties": {
+    "county_han":"阿阳县",
+    "county_xin":"阿阳县",
+    "SOURCE":"CHGIS",
+    "ID":60407,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.38878,34.73837 ]
+    },
+    "properties": {
+    "county_han":"冀县",
+    "county_xin":"冀治县",
+    "SOURCE":"CHGIS",
+    "ID":60409,
+    "name_type":"治"
+    }
+  }
+]
+}
