@@ -1,0 +1,187 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.0252054,36.1605472 ]
+    },
+    "properties": {
+    "county_han":"允吾县",
+    "county_xin":"修远县",
+    "SOURCE":"PUBLICATION",
+    "ID":60301,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8303604,36.5864592 ]
+    },
+    "properties": {
+    "county_han":"浩亹县",
+    "county_xin":"兴武县",
+    "SOURCE":"PUBLICATION",
+    "ID":60302,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7681814,36.6287402 ]
+    },
+    "properties": {
+    "county_han":"令居县",
+    "county_xin":"罕虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60303,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.575139,36.3118852 ]
+    },
+    "properties": {
+    "county_han":"枝阳县",
+    "county_xin":"枝阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":60304,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.84714,36.04703 ]
+    },
+    "properties": {
+    "county_han":"金城县",
+    "county_xin":"金屏县",
+    "SOURCE":"CHGIS",
+    "ID":60305,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.29455,35.80233 ]
+    },
+    "properties": {
+    "county_han":"榆中县",
+    "county_xin":"榆中县",
+    "SOURCE":"CHGIS",
+    "ID":60306,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.98101,35.49667 ]
+    },
+    "properties": {
+    "county_han":"枹罕县",
+    "county_xin":"枹罕县",
+    "SOURCE":"CHGIS",
+    "ID":60307,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.98101,35.49667 ]
+    },
+    "properties": {
+    "county_han":"白石县",
+    "county_xin":"顺砾县",
+    "SOURCE":"CHGIS",
+    "ID":60308,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.0572484,35.6167872 ]
+    },
+    "properties": {
+    "county_han":"河关县",
+    "county_xin":"河关县",
+    "SOURCE":"PUBLICATION",
+    "ID":60309,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.39441,36.48724 ]
+    },
+    "properties": {
+    "county_han":"破羌县",
+    "county_xin":"破羌县",
+    "SOURCE":"CHGIS",
+    "ID":60310,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.17476,36.52472 ]
+    },
+    "properties": {
+    "county_han":"安夷县",
+    "county_xin":"安夷县",
+    "SOURCE":"CHGIS",
+    "ID":60311,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.4161264,36.2723212 ]
+    },
+    "properties": {
+    "county_han":"允街县",
+    "county_xin":"修远亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":60312,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "county_han":"临羌县",
+    "county_xin":"盐羌县",
+    "SOURCE":"CHGIS",
+    "ID":60313,
+    "name_type":"监"
+    }
+  }
+]
+}
