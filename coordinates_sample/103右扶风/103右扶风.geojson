@@ -1,0 +1,299 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.6720518,34.4076047 ]
+    },
+    "properties": {
+    "county_han":"渭城县",
+    "county_xin":"京城县",
+    "SOURCE":"PUBLICATION",
+    "ID":10301,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.50215,34.26251 ]
+    },
+    "properties": {
+    "county_han":"槐里县",
+    "county_xin":"槐治县",
+    "SOURCE":"CHGIS",
+    "ID":10302,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.6039,34.11182 ]
+    },
+    "properties": {
+    "county_han":"鄠县",
+    "county_xin":"鄠县",
+    "SOURCE":"CHGIS",
+    "ID":10303,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.3426544,34.1462303 ]
+    },
+    "properties": {
+    "county_han":"盩厔县",
+    "county_xin":"盩厔县",
+    "SOURCE":"PUBLICATION",
+    "ID":10304,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.9722084,34.2783931 ]
+    },
+    "properties": {
+    "county_han":"漦县",
+    "county_xin":"漦县",
+    "SOURCE":"PUBLICATION",
+    "ID":10305,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.27861,34.36926 ]
+    },
+    "properties": {
+    "county_han":"郁夷县",
+    "county_xin":"郁平县",
+    "SOURCE":"CHGIS",
+    "ID":10306,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.0999464,34.3269013 ]
+    },
+    "properties": {
+    "county_han":"美阳县",
+    "county_xin":"美阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":10307,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.83877,34.29156 ]
+    },
+    "properties": {
+    "county_han":"郿县",
+    "county_xin":"郿县",
+    "SOURCE":"CHGIS",
+    "ID":10308,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.3866779,34.5060914 ]
+    },
+    "properties": {
+    "county_han":"雍县",
+    "county_xin":"雍县",
+    "SOURCE":"PUBLICATION",
+    "ID":10309,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.07799,35.03966 ]
+    },
+    "properties": {
+    "county_han":"漆县",
+    "county_xin":"漆治县",
+    "SOURCE":"CHGIS",
+    "ID":10310,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.37369,35.21846 ]
+    },
+    "properties": {
+    "county_han":"栒邑县",
+    "county_xin":"栒邑县",
+    "SOURCE":"CHGIS",
+    "ID":10311,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.14493,34.64419 ]
+    },
+    "properties": {
+    "county_han":"隃麋县",
+    "county_xin":"扶亭县",
+    "SOURCE":"CHGIS",
+    "ID":10312,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.27861,34.36926 ]
+    },
+    "properties": {
+    "county_han":"陈仓县",
+    "county_xin":"陈仓县",
+    "SOURCE":"CHGIS",
+    "ID":10313,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.55473,34.88571 ]
+    },
+    "properties": {
+    "county_han":"杜阳县",
+    "county_xin":"通杜县",
+    "SOURCE":"CHGIS",
+    "ID":10314,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8588217,34.8956051 ]
+    },
+    "properties": {
+    "county_han":"汧县",
+    "county_xin":"汧县",
+    "SOURCE":"PUBLICATION",
+    "ID":10315,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.06129,34.58225 ]
+    },
+    "properties": {
+    "county_han":"好畤县",
+    "county_xin":"好邑县",
+    "SOURCE":"CHGIS",
+    "ID":10316,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.38158,34.34984 ]
+    },
+    "properties": {
+    "county_han":"虢县",
+    "county_xin":"虢县",
+    "SOURCE":"CHGIS",
+    "ID":10317,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.8477994,34.4374083 ]
+    },
+    "properties": {
+    "county_han":"安陵县",
+    "county_xin":"嘉平县",
+    "SOURCE":"PUBLICATION",
+    "ID":10318,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.58281,34.34693 ]
+    },
+    "properties": {
+    "county_han":"茂陵县",
+    "county_xin":"宣城县",
+    "SOURCE":"CHGIS",
+    "ID":10319,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.52646,34.37203 ]
+    },
+    "properties": {
+    "county_han":"平陵县",
+    "county_xin":"广利县",
+    "SOURCE":"CHGIS",
+    "ID":10320,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.96592,34.22775 ]
+    },
+    "properties": {
+    "county_han":"武功县",
+    "county_xin":"新光县",
+    "SOURCE":"CHGIS",
+    "ID":10321,
+    "name_type":"意义"
+    }
+  }
+]
+}

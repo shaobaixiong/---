@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>乐浪郡</name>
+            <meta family="62812" pop="406748" county="25"><date exact="-108" status="est">武帝元封三年开。</date>莽曰<wname type="改一">乐鲜</wname>。属幽州。户六万二千八百一十二，口四十万六千七百四十八。有云鄣。县二十五。</meta>
+            <county><name>朝鲜</name>。</county>
+            <county><name>䛁邯</name>。</county>
+            <county><name>浿水</name>，<quote><feature type="river">浿水</feature>西至增地入海。</quote>莽曰<wname type="亭">乐鲜亭</wname>。</county>
+            <county><name>含资</name>，<quote><feature type="river">带水</feature>西至带方入海。</quote></county>
+            <county><name>黏蝉</name>。</county>
+            <county><name>遂成</name>。</county>
+            <county><name>增地</name>，莽曰<wname type="改一">增土</wname>。</county>
+            <county><name>带方</name>。</county>
+            <county><name>驷望</name>。</county>
+            <county><name>海冥</name>，莽曰<wname type="改一">海桓</wname>。</county>
+            <county><name>列口</name>。</county>
+            <county><name>长岑</name>。</county>
+            <county><name>屯有</name>。</county>
+            <county><name>昭明</name>，<quote><feature type="mili_admin">高部都尉治</feature>。</quote></county>
+            <county><name>镂方</name>。</county>
+            <county><name>提奚</name>。</county>
+            <county><name>浑弥</name>。</county>
+            <county><name>吞列</name>，<quote><feature type="river_source">分黎山</feature>，<feature type="river">列水</feature>所出。西至黏蝉入海，行八百二十里。</quote></county>
+            <county><name>东暆</name>。</county>
+            <county><name>不而</name>，<quote><feature type="mili_admin">东部都尉治</feature>。</quote></county>
+            <county><name>蚕台</name>。</county>
+            <county><name>华丽</name>。</county>
+            <county><name>邪头昧</name>。</county>
+            <county><name>前莫</name>。</county>
+            <county><name>夫租</name>。</county>
+        </pref>
+    </chapter>
+</book>

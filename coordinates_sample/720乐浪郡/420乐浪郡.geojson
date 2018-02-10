@@ -1,0 +1,327 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.6020248,39.0290544 ]
+    },
+    "properties": {
+    "county_han":"朝鲜县",
+    "county_xin":"朝鲜县",
+    "SOURCE":"PUBLICATION",
+    "ID":71901,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.6090899,39.225798 ]
+    },
+    "properties": {
+    "county_han":"䛁邯县",
+    "county_xin":"䛁邯县",
+    "SOURCE":"PUBLICATION",
+    "ID":71902,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.2671752,40.1695031 ]
+    },
+    "properties": {
+    "county_han":"浿水县",
+    "county_xin":"乐鲜亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":71903,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.1568855,38.4250831 ]
+    },
+    "properties": {
+    "county_han":"含资县",
+    "county_xin":"含资县",
+    "SOURCE":"PUBLICATION",
+    "ID":71904,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.2822382,38.7602724 ]
+    },
+    "properties": {
+    "county_han":"黏蝉县",
+    "county_xin":"黏蝉县",
+    "SOURCE":"PUBLICATION",
+    "ID":71905,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.539384,38.911738 ]
+    },
+    "properties": {
+    "county_han":"遂成县",
+    "county_xin":"遂成县",
+    "SOURCE":"PUBLICATION",
+    "ID":71906,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.6165173,39.59775 ]
+    },
+    "properties": {
+    "county_han":"增地县",
+    "county_xin":"增土县",
+    "SOURCE":"PUBLICATION",
+    "ID":71907,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.8594796,38.4677634 ]
+    },
+    "properties": {
+    "county_han":"带方县",
+    "county_xin":"带方县",
+    "SOURCE":"PUBLICATION",
+    "ID":71908,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.1320153,39.143201 ]
+    },
+    "properties": {
+    "county_han":"驷望县",
+    "county_xin":"驷望县",
+    "SOURCE":"PUBLICATION",
+    "ID":71909,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.7486103,38.037199 ]
+    },
+    "properties": {
+    "county_han":"海冥县",
+    "county_xin":"海桓县",
+    "SOURCE":"PUBLICATION",
+    "ID":71910,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.1780924,38.5071891 ]
+    },
+    "properties": {
+    "county_han":"列口县",
+    "county_xin":"列口县",
+    "SOURCE":"PUBLICATION",
+    "ID":71911,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.0896023,38.263387 ]
+    },
+    "properties": {
+    "county_han":"长岑县",
+    "county_xin":"长岑县",
+    "SOURCE":"PUBLICATION",
+    "ID":71912,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.7660921,38.6703128 ]
+    },
+    "properties": {
+    "county_han":"屯有县",
+    "county_xin":"屯有县",
+    "SOURCE":"PUBLICATION",
+    "ID":71913,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.4796173,38.364808 ]
+    },
+    "properties": {
+    "county_han":"昭明县",
+    "county_xin":"昭明县",
+    "SOURCE":"PUBLICATION",
+    "ID":71914,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.6355243,39.21892 ]
+    },
+    "properties": {
+    "county_han":"镂方县",
+    "county_xin":"镂方县",
+    "SOURCE":"PUBLICATION",
+    "ID":71915,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.3802693,38.322073 ]
+    },
+    "properties": {
+    "county_han":"提奚县",
+    "county_xin":"提奚县",
+    "SOURCE":"PUBLICATION",
+    "ID":71916,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.6220963,39.428318 ]
+    },
+    "properties": {
+    "county_han":"浑弥县",
+    "county_xin":"浑弥县",
+    "SOURCE":"PUBLICATION",
+    "ID":71917,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.3396966,37.7636948 ]
+    },
+    "properties": {
+    "county_han":"东暆县",
+    "county_xin":"东暆县",
+    "SOURCE":"PUBLICATION",
+    "ID":71919,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.5191473,39.0448689 ]
+    },
+    "properties": {
+    "county_han":"不而县",
+    "county_xin":"不而县",
+    "SOURCE":"PUBLICATION",
+    "ID":71920,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.5940673,38.158757 ]
+    },
+    "properties": {
+    "county_han":"蚕台县",
+    "county_xin":"蚕台县",
+    "SOURCE":"PUBLICATION",
+    "ID":71921,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.2771843,38.5373332 ]
+    },
+    "properties": {
+    "county_han":"邪头昧县",
+    "county_xin":"邪头昧县",
+    "SOURCE":"PUBLICATION",
+    "ID":71923,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 128.4447263,38.2504922 ]
+    },
+    "properties": {
+    "county_han":"前莫县",
+    "county_xin":"前莫县",
+    "SOURCE":"PUBLICATION",
+    "ID":71924,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.3578377,40.0073116 ]
+    },
+    "properties": {
+    "county_han":"夫租县",
+    "county_xin":"夫租县",
+    "SOURCE":"PUBLICATION",
+    "ID":71925,
+    "name_type":"不改"
+    }
+  }
+]
+}

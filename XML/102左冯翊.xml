@@ -1,0 +1,38 @@
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="102"><name>左冯翊</name>
+    <meta walled="24" family="235101" pop="917822"
+        >故秦内史，高帝元年属塞国，二年更名河上郡，九年罢，复为内史。武帝建元六年分为左内史，太初元年更名左冯翊。户二十三万五千一百一，口九十一万七千八百二十二。县二十四。</meta>
+    <county><name>高陵</name>，<quote type="sett"
+        ><name>左辅都尉治</name>。</quote>莽曰<wname type="嘉名">千春</wname>。</county>
+    <county><name>栎阳</name>，秦献公自雍徙。莽曰<wname type="亭">师亭</wname>。</county>
+    <county><name>翟道</name>，莽曰<wname type="?">涣</wname>。</county>
+    <county><name>池阳</name>，<time>惠帝四年置。</time><quote type="mount">戵嶭山在北。</quote></county>
+    <county><name>夏阳</name>，故少梁，<time>秦惠文王十一年更名。</time><quote type="mount"
+        >《禹贡》<name>梁山</name>在西北</quote>，<quote type="mount"
+            ><name>龙门山</name>在北</quote>，<quote type="resource"
+                >有铁官。</quote>莽曰<wname type="亭">冀亭</wname>。</county>
+    <county><name>衙</name>，莽曰<wname type="嘉名">达昌</wname>。</county>
+    <county><name>粟邑</name>，莽曰<wname type="城">粟城</wname>。</county>
+    <county><name>谷口</name>，<quote type="mount"><name>九嵏山</name>在西。</quote><quote
+        type="shrine"
+        >有<name>天齐公、五床山、仙人、五帝祠四所</name>。</quote>莽曰<wname type="改一">谷喙</wname>。</county>
+    <county><name>莲勺</name>。</county>
+    <county><name>鄜</name>，莽曰<wname type="嘉名">修令</wname>。</county>
+    <county><name>频阳</name>，<time>秦厉公置。</time></county>
+    <county><name>临晋</name>，故大荔，秦获之，更名。<quote type="shrine">有<name>河水祠</name>。</quote><quote
+        type="sett"><name>芮乡</name></quote>，故芮国。莽曰<wname type="监">监晋</wname>。</county>
+    <county><name>重泉</name>，莽曰<wname type="改一">调泉</wname>。</county>
+    <county><name>郃阳</name>，<time>景帝二年置。</time></county>
+    <county><name>祋祤</name>，<time>景帝二年置。</time></county>
+    <county><name>武城</name>，莽曰<wname type="改一">桓城</wname>。</county>
+    <county><name>沈阳</name>，莽曰<wname type="?">制昌</wname>。</county>
+    <county><name>怀德</name>，<quote type="mount">《禹贡》<name>北条荆山</name>在南</quote>，<quote
+        type="undetermined">下有<name>强梁原</name>。</quote><quote type="river"
+            ><name>洛水</name>东南入渭，雍州浸。</quote>莽曰<wname type="改一">德欢</wname>。</county>
+    <county><name>徵</name>，莽曰<wname type="嘉名">汜爱</wname>。</county>
+    <county><name>云陵</name>，<time>昭帝置也。</time></county>
+    <county><name>万年</name>，<time>高帝置。</time>莽曰<wname type="?">异赤</wname>。</county>
+    <county><name>长陵</name>，<time>高帝置。</time>户五万五十七，口十七万九千四百六十九。莽曰<wname type="改一">长平</wname>。</county>
+    <county><name>阳陵</name>，故弋阳，<time>景帝更名。</time>莽曰<wname type="重地">渭阳</wname>。</county>
+    <county><name>云阳</name>。<quote type="shrine">有<name>休屠、金人及径路神祠三所</name></quote>，<quote
+        type="shrine"><name>越巫祠三所</name>。</quote></county></pref>

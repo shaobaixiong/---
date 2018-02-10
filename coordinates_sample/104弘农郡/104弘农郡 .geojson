@@ -1,0 +1,159 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.3777583,33.0052073 ]
+    },
+    "properties": {
+    "county_han":"丹水县",
+    "county_xin":"丹水县",
+    "SOURCE":"PUBLICATION",
+    "ID":10406,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.7464076,34.7763679 ]
+    },
+    "properties": {
+    "county_han":"新安县",
+    "county_xin":"新安县",
+    "SOURCE":"PUBLICATION",
+    "ID":10407,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.870209,33.8670235 ]
+    },
+    "properties": {
+    "county_han":"上洛县",
+    "county_xin":"上洛县",
+    "SOURCE":"PUBLICATION",
+    "ID":10411,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.92898,34.65502 ]
+    },
+    "properties": {
+    "county_han":"弘农县",
+    "county_xin":"弘农县",
+    "SOURCE":"CHGIS",
+    "ID":10401,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.042442,34.054287 ]
+    },
+    "properties": {
+    "county_han":"卢氏县",
+    "county_xin":"昌富县",
+    "SOURCE":"CHGIS",
+    "ID":10402,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.15139,34.7918 ]
+    },
+    "properties": {
+    "county_han":"陕县",
+    "county_xin":"黄眉县",
+    "SOURCE":"CHGIS",
+    "ID":10403,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.925,34.49863 ]
+    },
+    "properties": {
+    "county_han":"宜阳县",
+    "county_xin":"宜阳县",
+    "SOURCE":"CHGIS",
+    "ID":10404,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.7126,34.76645 ]
+    },
+    "properties": {
+    "county_han":"黾池县",
+    "county_xin":"陕亭县",
+    "SOURCE":"CHGIS",
+    "ID":10405,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.29559,33.69951 ]
+    },
+    "properties": {
+    "county_han":"商县",
+    "county_xin":"商县",
+    "SOURCE":"CHGIS",
+    "ID":10408,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.47452,33.30071 ]
+    },
+    "properties": {
+    "county_han":"析县",
+    "county_xin":"君亭县",
+    "SOURCE":"CHGIS",
+    "ID":10409,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.22488,34.28033 ]
+    },
+    "properties": {
+    "county_han":"陆浑县",
+    "county_xin":"陆浑县",
+    "SOURCE":"CHGIS",
+    "ID":10410,
+    "name_type":"不改"
+    }
+  }
+]
+}

@@ -1,0 +1,47 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.3280602,41.6106477 ]
+    },
+    "properties": {
+    "county_han":"高句骊县",
+    "county_xin":"下句骊县",
+    "SOURCE":"PUBLICATION",
+    "ID":71901,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.8325858,41.72951 ]
+    },
+    "properties": {
+    "county_han":"上殷台县",
+    "county_xin":"下殷县",
+    "SOURCE":"PUBLICATION",
+    "ID":71902,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.8281085,40.5982374 ]
+    },
+    "properties": {
+    "county_han":"西盖马县",
+    "county_xin":"玄菟亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":71903,
+    "name_type":"亭"
+    }
+  }
+]
+}

@@ -1,0 +1,28 @@
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="104">
+    <name>弘农郡</name>
+    <meta county="11" family="118091" pop="475954"
+        >武帝元鼎四年置。莽曰<wname type="方位">右队</wname>。户十一万八千九十一，口四十七万五千九百五十四。有铁官，在黾池。县十一。</meta>
+    <county><name>弘农</name>，故秦函谷关。衙山领下谷，<quote type="river"
+        ><name>烛水</name>所出，北入河。</quote></county>
+    <county><name>卢氏</name>，<quote type="mount"><name>熊耳山</name>在东。</quote><quote
+        type="river"><name>伊水</name>出，东北入洛，过郡一，行四百五十里。</quote><quote type="river"
+            >又有<name>育水</name>，南至顺阳入沔。</quote><quote type="river"
+                >又有<name>洱水</name>，东南至鲁阳，亦入沔。</quote>皆过郡二，行六百里。莽曰<wname type="嘉名">昌富</wname>。</county>
+    <county><name>陕</name>，故貌国。<quote type="walled"
+        >有<name>焦城</name>，故焦国。</quote>北虢在大阳，东虢在荥阳，西虢在雍州。莽曰<wname type="?">黄眉</wname>。</county>
+    <county><name>宜阳</name>，<quote type="resource">在黾池有铁官也。</quote></county>
+    <county><name>黾池</name>，高帝八年复黾池中乡民。<time>景帝中二年初城，徙万家为县。</time><quote type="river"
+        ><name>榖水</name>出榖阳谷</quote>，东北至榖城入洛。莽曰<wname type="亭">陕亭</wname>。</county>
+    <county><name>丹水</name>，<quote type="river"><name>丹水</name></quote>出上洛冢岭山，东至析入钧。<quote
+        type="sett"><name>密阳乡</name></quote>，故商密也。</county>
+    <county><name>新安</name>，<quote type="river">《禹贡》<name>涧水</name>在东</quote>，南入洛。</county>
+    <county><name>商</name>，秦相卫鞅邑也。</county>
+    <county><name>析</name>，<quote type="river"><name>黄水</name>出黄谷</quote>，<quote
+        type="river"><name>鞠水</name>出析谷</quote>，俱东至郦入湍水。莽曰<wname type="亭">君亭</wname>。</county>
+    <county><name>陆浑</name>，春秋迁陆浑戎于此。<quote type="mili">有<name>关</name>。</quote></county>
+    <county><name>上洛</name>。<quote type="river"
+        >《禹贡》<name>洛水</name>出冢岭山</quote>，东北至巩入河，过郡二，行千七十里，豫州川。<quote type="river"
+            >又有<name>甲水</name></quote>，出秦岭山，东南至钖入沔，过郡三，行五百七十里。<quote type="mount"
+                ><name>熊耳获舆山</name>在东北。</quote></county>
+</pref>

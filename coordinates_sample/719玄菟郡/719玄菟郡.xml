@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <county_han>高句骊县</county_han>
+        <county_xin>下句骊县</county_xin>
+        <name_type>改一</name_type>
+        <ID>71901</ID>
+    </county>
+    <county>
+        <county_han>上殷台县</county_han>
+        <county_xin>下殷县</county_xin>
+        <name_type>改一</name_type>
+        <ID>71902</ID>
+    </county>
+    <county>
+        <county_han>西盖马县</county_han>
+        <county_xin>玄菟亭县</county_xin>
+        <name_type>亭</name_type>
+        <ID>71903</ID>
+    </county>
+</counties>

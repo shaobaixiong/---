@@ -1,0 +1,46 @@
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="105">
+    <name>河东郡</name>
+    <meta county="24" pop="962912" family="236896"
+        >秦置。莽曰<wname type="方位">兆阳（兆队）</wname>。有根仓、湿仓。户二十三万六千八百九十六，口九十六万二千九百一十二。县二十四。</meta>
+    <county><name>安邑</name>，<quote type="mount"><name>巫咸山</name>在南</quote>，<quote
+        type="resource"><name>盐池</name>在西南</quote>，魏绛自魏徙此，至惠王徙大梁。<quote type="resource"
+            >有<name>铁官</name></quote>、<quote type="resource"
+                ><name>盐官</name></quote>。莽曰<wname type="重地">河东</wname>。</county>
+    <county><name>大阳</name>，<quote type="mount"><name>吴山</name>在西</quote>，<quote
+        type="walled">上有<name>吴城</name></quote>，周武王封太伯后于此，是为虞公，为晋所灭。<quote type="shrine"
+            >有<name>天子庙</name>。</quote>莽曰<wname type="">勤田</wname>。</county>
+    <county><name>猗氏</name>。</county>
+    <county><name>解</name>。</county>
+    <county><name>蒲反</name>，<quote type="shrine"
+        >有<name>尧山（祠）</name>、<name>首山祠</name>。</quote><quote type="mount"
+            ><name>雷首山</name>在南。</quote>故曰蒲，秦更名。莽曰<wname>蒲城</wname>。</county>
+    <county><name>河北</name>，《诗》魏国，晋献公灭之，以封大夫毕万，曾孙绛徙安邑也。</county>
+    <county><name>左邑</name>，莽曰<wname>兆亭</wname>。</county>
+    <county><name>汾阴</name>，<quote type="mount"><name>介山</name>在南。</quote></county>
+    <county><name>闻喜</name>，故曲沃。<hist>晋武公自晋阳徙此。</hist><time>武帝元鼎六年行过，更名。</time></county>
+    <county><name>濩泽</name>，<quote type="mount">《禹贡》<name>析城山</name>在西南。</quote></county>
+    <county><name>端氏</name>。</county>
+    <county><name>临汾</name>。</county>
+    <county><name>垣</name>，<quote type="mount">《禹贡》<name>王屋山</name>在东北</quote>，<quote
+        type="river"
+        ><name>沇水</name>所出</quote>，东南至武德入河，轶出荥阳北地中，又东至琅槐入海，过郡九，行千八百四十里。</county>
+    <county><name>皮氏</name>。<quote type="sett"
+        ><name>耿乡</name></quote>，故耿国，晋献公灭之，以赐大夫赵夙。后十世献侯徙中牟。<quote type="resource"
+            >有<name>铁官</name>。</quote>莽曰<wname>延平</wname>。</county>
+    <county><name>长修</name>。</county>
+    <county><name>平阳</name>，韩武子玄孙贞子居此。<quote type="resource"
+        >有铁官。</quote>莽曰<wname>香平</wname>。</county>
+    <county><name>襄陵</name>，<quote type="sett"
+        >有<name>班氏乡亭</name>。</quote>莽曰<wname>干昌</wname>。</county>
+    <county><name>彘</name>，<quote type="mount"><name>霍大山</name>在东</quote>，<quote
+        type="mount"><name>冀州山</name></quote>，周厉王所奔。莽曰<wname>黄城</wname>。</county>
+    <county><name>杨</name>，莽曰<wname>有年亭</wname>。</county>
+    <county><name>北屈</name>，<quote type="mount"
+        >《禹贡》<name>壶口山</name>在东南。</quote>莽曰<wname>朕北</wname>。</county>
+    <county><name>蒲子</name>。</county>
+    <county><name>绎</name>，<hist>晋武公自曲沃徙此。</hist><quote type="resource"
+        >有<name>铁官</name>。</quote></county>
+    <county><name>狐讘</name>。</county>
+    <county><name>骐</name>。侯国。</county>
+</pref>
