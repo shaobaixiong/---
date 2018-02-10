@@ -1,0 +1,187 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.93336,36.83619 ]
+    },
+    "properties": {
+    "county_han":"广平县",
+    "county_xin":"广平县",
+    "SOURCE":"CHGIS",
+    "ID":21101,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.62602,37.0964 ]
+    },
+    "properties": {
+    "county_han":"张县",
+    "county_xin":"张县",
+    "SOURCE":"CHGIS",
+    "ID":21102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.7346,37.02202 ]
+    },
+    "properties": {
+    "county_han":"朝平县",
+    "county_xin":"朝平县",
+    "SOURCE":"CHGIS",
+    "ID":21103,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.68731,36.99957 ]
+    },
+    "properties": {
+    "county_han":"南和县",
+    "county_xin":"南和县",
+    "SOURCE":"CHGIS",
+    "ID":21104,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.86673,36.64355 ]
+    },
+    "properties": {
+    "county_han":"列人县",
+    "county_xin":"列治县",
+    "SOURCE":"CHGIS",
+    "ID":21105,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.07701,36.70308 ]
+    },
+    "properties": {
+    "county_han":"斥章县",
+    "county_xin":"斥章县",
+    "SOURCE":"CHGIS",
+    "ID":21106,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.71617,37.11118 ]
+    },
+    "properties": {
+    "county_han":"任县",
+    "county_xin":"任县",
+    "SOURCE":"CHGIS",
+    "ID":21107,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.95261,36.7822 ]
+    },
+    "properties": {
+    "county_han":"曲周县",
+    "county_xin":"直周县",
+    "SOURCE":"CHGIS",
+    "ID":21108,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.13678,36.88023 ]
+    },
+    "properties": {
+    "county_han":"南曲侯国",
+    "county_xin":"南曲县",
+    "SOURCE":"CHGIS",
+    "ID":21109,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.72307,36.70103 ]
+    },
+    "properties": {
+    "county_han":"曲梁侯国",
+    "county_xin":"直梁县",
+    "SOURCE":"CHGIS",
+    "ID":21110,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.62705,37.12474 ]
+    },
+    "properties": {
+    "county_han":"广乡侯国",
+    "county_xin":"广乡县",
+    "SOURCE":"CHGIS",
+    "ID":21111,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.91842,36.98014 ]
+    },
+    "properties": {
+    "county_han":"平乡侯国",
+    "county_xin":"平乡县",
+    "SOURCE":"CHGIS",
+    "ID":21113,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.64535,36.79166 ]
+    },
+    "properties": {
+    "county_han":"广年县",
+    "county_xin":"富昌县",
+    "SOURCE":"CHGIS",
+    "ID":21115,
+    "name_type":"嘉名"
+    }
+  }
+]
+}

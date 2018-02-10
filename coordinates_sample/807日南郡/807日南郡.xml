@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <county_han>朱吾县</county_han>
+        <county_xin>朱吾县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80701</ID>
+    </county>
+    <county>
+        <county_han>比景县</county_han>
+        <county_xin>比景县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80702</ID>
+    </county>
+    <county>
+        <county_han>卢容县</county_han>
+        <county_xin>卢容县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80703</ID>
+    </county>
+    <county>
+        <county_han>西卷县</county_han>
+        <county_xin>日南亭县</county_xin>
+        <name_type>亭</name_type>
+        <ID>80704</ID>
+    </county>
+    <county>
+        <county_han>象林县</county_han>
+        <county_xin>象林县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80705</ID>
+    </county>
+</counties>

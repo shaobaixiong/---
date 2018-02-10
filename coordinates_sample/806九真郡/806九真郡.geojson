@@ -1,0 +1,103 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7449543,19.868725 ]
+    },
+    "properties": {
+    "county_han":"胥浦县",
+    "county_xin":"驩成县",
+    "SOURCE":"PUBLICATION",
+    "ID":80601,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8101463,20.109971 ]
+    },
+    "properties": {
+    "county_han":"居风县",
+    "county_xin":"居风县",
+    "SOURCE":"PUBLICATION",
+    "ID":80602,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.5537953,20.119203 ]
+    },
+    "properties": {
+    "county_han":"都庞县",
+    "county_xin":"都庞县",
+    "SOURCE":"PUBLICATION",
+    "ID":80603,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1172343,20.087212 ]
+    },
+    "properties": {
+    "county_han":"馀发县",
+    "county_xin":"馀发县",
+    "SOURCE":"PUBLICATION",
+    "ID":80604,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.5112543,19.0051501 ]
+    },
+    "properties": {
+    "county_han":"咸驩县",
+    "county_xin":"咸驩县",
+    "SOURCE":"PUBLICATION",
+    "ID":80605,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9383013,20.261838 ]
+    },
+    "properties": {
+    "county_han":"无切县",
+    "county_xin":"无切县",
+    "SOURCE":"PUBLICATION",
+    "ID":80606,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.4561593,19.685067 ]
+    },
+    "properties": {
+    "county_han":"无编县",
+    "county_xin":"九真亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":80607,
+    "name_type":"亭"
+    }
+  }
+]
+}

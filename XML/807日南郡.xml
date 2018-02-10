@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>日南郡</name>
+            <meta family="15460" pop="69485" county="5"><history>故秦象郡</history>，<date exact="-111" status="est">武帝元鼎六年开</date>，更名。有小水十六，并行三千一百八十里。属交州。户万五千四百六十，口六万九千四百八十五。县五。</meta>
+            <county><name>朱吾</name>。<quote><feature type="pref_seat"/></quote></county>
+            <county><name>比景</name>。</county>
+            <county><name>卢容</name>。</county>
+            <county><name>西卷</name>，水入海，<quote>有<feature type="resource">竹</feature>，可为杖。</quote>莽曰<wname type="亭">日南亭</wname>。</county>
+            <county><name>象林</name>。</county>
+        </pref>
+    </chapter>
+</book>

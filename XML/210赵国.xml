@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref ref="210">
+            <name>赵国</name>
+            <meta family="84202" pop="349952" county="4"><history>故秦邯郸郡</history>，<date exact="-203" status="est">高帝四年为赵国。</date><date exact="-154" status="natureChange">景帝三年复为邯郸郡</date>，<date exact="-152" status="natureChange">五年复故。</date>莽曰<wname type="亭">桓亭</wname>。属冀州。户八万四千二百二，口三十四万九千九百五十二。县四。</meta>
+            <county><name>邯郸</name>。<quote><feature type="pref_seat"/></quote><quote><feature type="river_source">堵山</feature>，<feature type="river">牛首水</feature>所出，东入白渠。</quote><history>赵敬侯自中牟徙此。</history></county>
+            <county><name>易阳</name>。</county>
+            <county><name>柏人</name>，莽曰<wname type="嘉名">寿仁</wname>。</county>
+            <county><name>襄国</name>。<history>故刑国。</history><quote><feature type="river_source">西山</feature>，<feature type="river">渠水</feature>所出，东北至任入浸。</quote><quote>又有<feature type="river">蓼水</feature>、<feature type="river">冯水</feature>，皆东至朝平入湡。</quote></county>
+        </pref>
+    </chapter>
+</book>

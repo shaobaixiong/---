@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <county_han>徐闻县</county_han>
+        <county_xin>徐闻县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80501</ID>
+    </county>
+    <county>
+        <county_han>高凉县</county_han>
+        <county_xin>高凉县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80502</ID>
+    </county>
+    <county>
+        <county_han>合浦县</county_han>
+        <county_xin>桓亭县</county_xin>
+        <name_type>亭</name_type>
+        <ID>80503</ID>
+    </county>
+    <county>
+        <county_han>临允县</county_han>
+        <county_xin>大允县</county_xin>
+        <name_type>改一</name_type>
+        <ID>80504</ID>
+    </county>
+    <county>
+        <county_han>朱卢县</county_han>
+        <county_xin>朱卢县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80505</ID>
+    </county>
+</counties>

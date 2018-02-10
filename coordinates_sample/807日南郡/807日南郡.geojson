@@ -1,0 +1,75 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7795133,17.2319861 ]
+    },
+    "properties": {
+    "county_han":"朱吾县",
+    "county_xin":"朱吾县",
+    "SOURCE":"PUBLICATION",
+    "ID":80701,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.4154353,17.6363151 ]
+    },
+    "properties": {
+    "county_han":"比景县",
+    "county_xin":"比景县",
+    "SOURCE":"PUBLICATION",
+    "ID":80702,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.578391,16.5014561 ]
+    },
+    "properties": {
+    "county_han":"卢容县",
+    "county_xin":"卢容县",
+    "SOURCE":"PUBLICATION",
+    "ID":80703,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.88249,16.8167067 ]
+    },
+    "properties": {
+    "county_han":"西捲县",
+    "county_xin":"日南亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":80704,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.2772773,15.8560381 ]
+    },
+    "properties": {
+    "county_han":"象林县",
+    "county_xin":"象林县",
+    "SOURCE":"PUBLICATION",
+    "ID":80705,
+    "name_type":"不改"
+    }
+  }
+]
+}

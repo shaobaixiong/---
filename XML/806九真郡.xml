@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref ref="806">
+            <name>九真郡</name>
+            <meta family="35743" pop="166013" county="7">武帝元鼎六年开。有小水五十二，并行八千五百六十里。户三万五千七百四十三，口十六万六千一十三。有<feature type="mili">界关。</feature>县七。</meta>
+            <county><name>胥浦</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="?">驩成</wname>。</county>
+            <county><name>居风</name>。</county>
+            <county><name>都庞</name>。</county>
+            <county><name>馀发</name>。</county>
+            <county><name>咸驩</name>。</county>
+            <county><name>无切</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>无编</name>。莽曰<wname type="亭">九真亭</wname>。</county>
+        </pref>
+    </chapter>
+</book>

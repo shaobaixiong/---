@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name></name>
+            <meta family="24379" pop="146160" county="10">苍梧郡，<date exact="-111" status="est">武帝元鼎六年开。</date>莽曰<wname type="意义">新广</wname>，属交州。有<feature type="mili">离水关</feature>。户二万四千三百七十九，口十四万六千一百六十。县十。</meta>
+            <county><name>广信</name>，莽曰<wname type="亭">广信亭</wname>。</county>
+            <county><name>谢沐</name>，<quote>有<feature type="mili">关</feature>。</quote></county>
+            <county><name>高要</name>，<quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>封阳</name>。</county>
+            <county><name>临贺</name>，莽曰<wname type="改一">大贺</wname>。</county>
+            <county><name>端溪</name>。</county>
+            <county><name>冯乘</name>。</county>
+            <county><name>富川</name>。</county>
+            <county><name>荔浦</name>，<quote>有<feature type="mili">荔平关</feature>。</quote></county>
+            <county><name>猛陵</name>。<quote><feature type="river_source">龙山</feature>，<feature type="river">合水</feature>所出，南至布山入海。</quote>莽曰<wname type="改一">猛陆</wname>。</county>
+        </pref>
+    </chapter>
+</book>

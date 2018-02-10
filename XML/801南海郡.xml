@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref ref="801">
+            <name>南海郡</name>
+            <meta family="19613" pop="94253" county="6"><history>秦置。</history>秦败，尉佗王此地。<date exact="-111" status="est">武帝元鼎六年开。</date>属交州。户万九千六百一十三，口九万四千二百五十三。有<feature type="admin">圃羞官</feature>。县六。</meta>
+            <county><name>番禺</name>，<history>尉佗都。</history><quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>博罗</name>，</county>
+            <county><name>中宿</name>，<quote>有<feature type="admin">洭浦官</feature>。</quote></county>
+            <county><name>龙川</name>，</county>
+            <county><name>四会</name>，</county>
+            <county><name>揭阳</name>，莽曰<wname type="亭">南海亭</wname>。</county>
+        </pref>
+    </chapter>
+</book>

@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.156526,20.261126 ]
+    },
+    "properties": {
+    "county_han":"徐闻县",
+    "county_xin":"徐闻县",
+    "SOURCE":"CHGIS",
+    "ID":80501,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.963883,22.071804 ]
+    },
+    "properties": {
+    "county_han":"高凉县",
+    "county_xin":"高凉县",
+    "SOURCE":"CHGIS",
+    "ID":80502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.47007,21.913258 ]
+    },
+    "properties": {
+    "county_han":"合浦县",
+    "county_xin":"桓亭县",
+    "SOURCE":"CHGIS",
+    "ID":80503,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.195381,22.475029 ]
+    },
+    "properties": {
+    "county_han":"临允县",
+    "county_xin":"大允县",
+    "SOURCE":"CHGIS",
+    "ID":80504,
+    "name_type":"改一"
+    }
+  }
+]
+}

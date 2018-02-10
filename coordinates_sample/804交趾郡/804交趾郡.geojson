@@ -1,0 +1,145 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8061023,21.045796 ]
+    },
+    "properties": {
+    "county_han":"羸楼县",
+    "county_xin":"羸楼县",
+    "SOURCE":"PUBLICATION",
+    "ID":80401,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.5275913,21.087939 ]
+    },
+    "properties": {
+    "county_han":"苟屚县",
+    "county_xin":"苟屚县",
+    "SOURCE":"PUBLICATION",
+    "ID":80403,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.6076233,21.292254 ]
+    },
+    "properties": {
+    "county_han":"麊泠县",
+    "county_xin":"麊泠县",
+    "SOURCE":"PUBLICATION",
+    "ID":80404,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.2543864,20.9409782 ]
+    },
+    "properties": {
+    "county_han":"曲昜县",
+    "county_xin":"曲昜县",
+    "SOURCE":"PUBLICATION",
+    "ID":80405,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.0654583,21.203432 ]
+    },
+    "properties": {
+    "county_han":"北带县",
+    "county_xin":"北带县",
+    "SOURCE":"PUBLICATION",
+    "ID":80406,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.0458493,20.698616 ]
+    },
+    "properties": {
+    "county_han":"稽徐县",
+    "county_xin":"稽徐县",
+    "SOURCE":"PUBLICATION",
+    "ID":80407,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7052443,21.250483 ]
+    },
+    "properties": {
+    "county_han":"西于县",
+    "county_xin":"西于县",
+    "SOURCE":"PUBLICATION",
+    "ID":80408,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.007594,21.1741637 ]
+    },
+    "properties": {
+    "county_han":"龙编县",
+    "county_xin":"龙编县",
+    "SOURCE":"PUBLICATION",
+    "ID":80409,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.766667,20.966667 ]
+    },
+    "properties": {
+    "county_han":"朱载县",
+    "county_xin":"朱载县",
+    "SOURCE":"PUBLICATION",
+    "ID":80410,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1719453,20.312413 ]
+    },
+    "properties": {
+    "county_han":"安定县",
+    "county_xin":"安定县",
+    "SOURCE":"PUBLICATION",
+    "ID":80402,
+    "name_type":"不改"
+    }
+  }
+]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref ref="805">
+            <name>合浦郡</name>
+            <meta family="15398" pop="78980" county="5"><date exact="-111" status="est">武帝元鼎六年开</date>，莽曰<wname type="半嘉名">桓合</wname>。属交州。户万五千三百九十八，口七万八千九百八十。县五。</meta>
+            <county><name>徐闻</name>。<quote><feature type="pref_seat"/></quote></county>
+            <county><name>高凉</name>。</county>
+            <county><name>合浦</name>。<quote>有<feature type="mili">关</feature>。</quote>莽曰<wname type="亭">桓亭</wname>。</county>
+            <county><name>临允</name>，<quote><feature type="interPrefRiver">牢水</feature>北入高要入郁，过郡三，行五百三十里。</quote>莽曰<wname type="改一">大允</wname>。</county>
+            <county><name>朱卢</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+        </pref>
+    </chapter>
+</book>

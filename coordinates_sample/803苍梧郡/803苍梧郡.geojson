@@ -1,0 +1,145 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.308571,23.486898 ]
+    },
+    "properties": {
+    "county_han":"广信县",
+    "county_xin":"广信亭县",
+    "SOURCE":"CHGIS",
+    "ID":80301,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.174018,25.118279 ]
+    },
+    "properties": {
+    "county_han":"谢沐县",
+    "county_xin":"谢沐县",
+    "SOURCE":"CHGIS",
+    "ID":80302,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.453155,23.056921 ]
+    },
+    "properties": {
+    "county_han":"高要县",
+    "county_xin":"高要县",
+    "SOURCE":"CHGIS",
+    "ID":80303,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.71946,23.994185 ]
+    },
+    "properties": {
+    "county_han":"封阳县",
+    "county_xin":"封阳县",
+    "SOURCE":"CHGIS",
+    "ID":80304,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.658852,24.336819 ]
+    },
+    "properties": {
+    "county_han":"临贺县",
+    "county_xin":"大贺县",
+    "SOURCE":"CHGIS",
+    "ID":80305,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.771019,23.146791 ]
+    },
+    "properties": {
+    "county_han":"端溪县",
+    "county_xin":"端溪县",
+    "SOURCE":"CHGIS",
+    "ID":80306,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.506638,24.936453 ]
+    },
+    "properties": {
+    "county_han":"冯乘县",
+    "county_xin":"冯乘县",
+    "SOURCE":"CHGIS",
+    "ID":80307,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.29557,24.526541 ]
+    },
+    "properties": {
+    "county_han":"富川县",
+    "county_xin":"富川县",
+    "SOURCE":"CHGIS",
+    "ID":80308,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.391197,24.496014 ]
+    },
+    "properties": {
+    "county_han":"荔浦县",
+    "county_xin":"荔浦县",
+    "SOURCE":"CHGIS",
+    "ID":80309,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.03936,23.455824 ]
+    },
+    "properties": {
+    "county_han":"猛陵县",
+    "county_xin":"猛陆县",
+    "SOURCE":"CHGIS",
+    "ID":80310,
+    "name_type":"改一"
+    }
+  }
+]
+}

@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.47204,36.59347 ]
+    },
+    "properties": {
+    "county_han":"邯郸县",
+    "county_xin":"邯郸县",
+    "SOURCE":"CHGIS",
+    "ID":21001,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.50987,36.77038 ]
+    },
+    "properties": {
+    "county_han":"易阳县",
+    "county_xin":"易阳县",
+    "SOURCE":"CHGIS",
+    "ID":21002,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.64215,37.37645 ]
+    },
+    "properties": {
+    "county_han":"柏人县",
+    "county_xin":"寿仁县",
+    "SOURCE":"CHGIS",
+    "ID":21003,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.52393,37.01094 ]
+    },
+    "properties": {
+    "county_han":"襄国县",
+    "county_xin":"襄国县",
+    "SOURCE":"CHGIS",
+    "ID":21004,
+    "name_type":"不改"
+    }
+  }
+]
+}

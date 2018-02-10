@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <county_han>番禺县</county_han>
+        <county_xin>番禺县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80101</ID>
+    </county>
+    <county>
+        <county_han>博罗县</county_han>
+        <county_xin>博罗县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80102</ID>
+    </county>
+    <county>
+        <county_han>中宿县</county_han>
+        <county_xin>中宿县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80103</ID>
+    </county>
+    <county>
+        <county_han>龙川县</county_han>
+        <county_xin>龙川县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80104</ID>
+    </county>
+    <county>
+        <county_han>四会县</county_han>
+        <county_xin>四会县</county_xin>
+        <name_type>不改</name_type>
+        <ID>80105</ID>
+    </county>
+    <county>
+        <county_han>揭阳县</county_han>
+        <county_xin>南海亭县</county_xin>
+        <name_type>亭</name_type>
+        <ID>80106</ID>
+    </county>
+</counties>

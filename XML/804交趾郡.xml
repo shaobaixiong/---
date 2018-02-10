@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name></name>
+            <meta family="92440" pop="746237" county="10">交趾郡，<date exact="-111" status="est">武帝元鼎六年开</date>，属交州。户九万二千四百四十，口七十四万六千二百三十七。县十。</meta>
+            <county><name>羸</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="admin">羞官</feature>。</quote></county>
+            <county><name>安定</name>。</county>
+            <county><name>苟屚</name>。</county>
+            <county><name>麋泠</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>曲易</name>。</county>
+            <county><name>此带</name>。</county>
+            <county><name>稽徐</name>。</county>
+            <county><name>西于</name>。</county>
+            <county><name>龙编</name>。</county>
+            <county><name>朱载</name>。</county>
+        </pref>
+    </chapter>
+</book>

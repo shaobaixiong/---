@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>郁林郡</name>
+            <meta family="12415" pop="71162" county="12"><history>故秦桂林郡，属尉佗。</history><date exact="-111" status="est">武帝元鼎六年开。</date>更名，有<feature type="river">小溪川水七</feature>，并行三千一百一十里。莽曰<wname type="半嘉名">郁平</wname>。属交州。户万二千四百一十五，口七万一千一百六十二。县十二。</meta>
+            <county><name>布山</name>。</county>
+            <county><name>安广</name>。</county>
+            <county><name>阿林</name>。</county>
+            <county><name>广郁</name>，<quote><feature type="interPrefRiver">郁水</feature>首受夜郎豚水，东至四会入海，过郡四，行四千三十里。</quote></county>
+            <county><name>中留</name>。</county>
+            <county><name>桂林</name>。</county>
+            <county><name>潭中</name>，莽曰<wname type="逆">中潭</wname>。</county>
+            <county><name>临尘</name>，<quote><feature type="river">朱涯水</feature>入领方。</quote><quote>又有<feature type="river">斤南水</feature>。</quote><quote>又有<feature type="river">侵离水</feature>，行七百里。</quote>莽曰<wname type="监">监尘</wname>。</county>
+            <county><name>定周</name>，<quote><feature type="river">周水</feature>首受无敛，东入潭，行七百九十里。</quote></county>
+            <county><name>增食</name>，<quote><feature type="river">驩水</feature>首受牂柯东界，入朱涯水，行五百七十里。</quote></county>
+            <county><name>领方</name>，<quote><feature type="river">斤南水</feature>入郁。</quote><quote>又有<feature type="river">墧水</feature>。</quote><quote><feature type="mili_admin">都尉治</feature>。</quote></county>
+            <county><name>雍鸡</name>。<quote>有<feature type="mili">关</feature>。</quote></county>
+        </pref>
+    </chapter>
+</book>

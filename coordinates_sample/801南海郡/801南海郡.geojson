@@ -1,0 +1,89 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.256066,23.134624 ]
+    },
+    "properties": {
+    "county_han":"番禺县",
+    "county_xin":"番禺县",
+    "SOURCE":"CHGIS",
+    "ID":80101,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.273606,23.172247 ]
+    },
+    "properties": {
+    "county_han":"博罗县",
+    "county_xin":"博罗县",
+    "SOURCE":"CHGIS",
+    "ID":80102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.890284,23.901393 ]
+    },
+    "properties": {
+    "county_han":"中宿县",
+    "county_xin":"中宿县",
+    "SOURCE":"CHGIS",
+    "ID":80103,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.186172,24.060003 ]
+    },
+    "properties": {
+    "county_han":"龙川县",
+    "county_xin":"龙川县",
+    "SOURCE":"CHGIS",
+    "ID":80104,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.228043,23.687851 ]
+    },
+    "properties": {
+    "county_han":"揭阳县",
+    "county_xin":"南海亭县",
+    "SOURCE":"CHGIS",
+    "ID":80106,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.3756565,23.4466542 ]
+    },
+    "properties": {
+    "county_han":"四会县",
+    "county_xin":"四会县",
+    "SOURCE":"PUBLICATION",
+    "ID":80105,
+    "name_type":"不改"
+    }
+  }
+]
+}

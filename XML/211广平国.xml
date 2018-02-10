@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref ref="211">
+            <name>广平国</name>
+            <meta family="" pop="" county="16"><date exact="-91" status="nameChange">武帝征和二年置为平干国</date>，<date status="nameChange" exact="-56">宣帝五凤二年复故</date>。莽曰<wname type="重地">富昌</wname>。属冀州。户二万七千九百八十四，口十九万八千五百五十八。县十六。</meta>
+            <county><name>广平</name>。<quote><feature type="pref_seat"/></quote></county>
+            <county>
+                <name>张</name>
+            </county>
+            <county><name>朝平</name>。</county>
+            <county><name>南和</name>，<quote><feature type="river">列葭水</feature>东入㴲。</quote></county>
+            <county><name>列人</name>，莽曰<wname type="治">列治</wname>。</county>
+            <county><name>斥章</name>。</county>
+            <county><name>任</name>。</county>
+            <county><name>曲周</name>，<date exact="-137" status="est">武帝建元四年置。</date>莽曰<wname type="反">直周</wname>。</county>
+            <county><name>南曲</name>。</county>
+            <county note="侯国"><name>曲梁</name>，侯国。莽曰<wname type="反">直梁</wname>。</county>
+            <county><name>广乡</name>。</county>
+            <county><name>平利</name>。</county>
+            <county><name>平乡</name>。</county>
+            <county note="侯国"><name>阳台</name>，侯国。</county>
+            <county><name>广年</name>，莽曰<wname type="嘉名">富昌</wname>。</county>
+            <county><name>城乡</name>。</county>
+        </pref>
+    </chapter>
+</book>

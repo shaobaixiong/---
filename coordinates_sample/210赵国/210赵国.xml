@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <county_han>邯郸县</county_han>
+        <county_xin>邯郸县</county_xin>
+        <name_type>不改</name_type>
+        <ID>21001</ID>
+    </county>
+    <county>
+        <county_han>易阳县</county_han>
+        <county_xin>易阳县</county_xin>
+        <name_type>不改</name_type>
+        <ID>21002</ID>
+    </county>
+    <county>
+        <county_han>柏人县</county_han>
+        <county_xin>寿仁县</county_xin>
+        <name_type>嘉名</name_type>
+        <ID>21003</ID>
+    </county>
+    <county>
+        <county_han>襄国县</county_han>
+        <county_xin>襄国县</county_xin>
+        <name_type>不改</name_type>
+        <ID>21004</ID>
+    </county>
+</counties>
