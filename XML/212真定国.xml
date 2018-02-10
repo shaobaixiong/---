@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref ref="212">
+            <name>真定国</name>
+            <meta family="37126" pop="178616" county="4"><date exact="-113" status="est">武帝元鼎四年置。</date>属冀州。户三万七千一百二十六，口十七万八千六百一十六。县四。</meta>
+            <county><name>真定</name>，<history>故东垣</history>，<date exact="-196" status="nameChange">高帝十一年更名。</date>莽曰<wname type="治">思治</wname>。</county>
+            <county><name>稾城</name>，莽曰<wname type="改一">稾实</wname>。</county>
+            <county><name>肥累</name>，<history>胡肥子国。</history></county>
+            <county><name>绵曼</name>。<quote><feature type="river">斯洨水</feature>首受太白渠，东至鄡入河。</quote>莽曰<wname type="改一">绵延</wname>。</county>
+        </pref>
+    </chapter>
+</book>

@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.7779013,37.9837492 ]
+    },
+    "properties": {
+    "county_han":"稾城县",
+    "county_xin":"稾实县",
+    "SOURCE":"PUBLICATION",
+    "ID":21202,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.53077,38.1012 ]
+    },
+    "properties": {
+    "county_han":"真定县",
+    "county_xin":"思治县",
+    "SOURCE":"CHGIS",
+    "ID":21201,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.72519,37.97012 ]
+    },
+    "properties": {
+    "county_han":"肥累县",
+    "county_xin":"肥累县",
+    "SOURCE":"CHGIS",
+    "ID":21203,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.29358,38.17135 ]
+    },
+    "properties": {
+    "county_han":"绵曼县",
+    "county_xin":"绵延县",
+    "SOURCE":"CHGIS",
+    "ID":21204,
+    "name_type":"改一"
+    }
+  }
+]
+}

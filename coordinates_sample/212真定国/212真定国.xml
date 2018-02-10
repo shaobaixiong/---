@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <county_han>真定县</county_han>
+        <county_xin>思治县</county_xin>
+        <name_type>治</name_type>
+        <ID>21201</ID>
+    </county>
+    <county>
+        <county_han>稾城县</county_han>
+        <county_xin>稾实县</county_xin>
+        <name_type>改一</name_type>
+        <ID>21202</ID>
+    </county>
+    <county>
+        <county_han>肥累县</county_han>
+        <county_xin>肥累县</county_xin>
+        <name_type>不改</name_type>
+        <ID>21203</ID>
+    </county>
+    <county>
+        <county_han>绵曼县</county_han>
+        <county_xin>绵延县</county_xin>
+        <name_type>改一</name_type>
+        <ID>21204</ID>
+    </county>
+</counties>
