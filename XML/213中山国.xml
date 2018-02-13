@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>中山国</name>
+            <meta family="160873" pop="668080" county="14"><date status="est">高帝郡</date>，<date status="natureChange" exact="-154">景帝三年为国</date>。莽曰<wname type="改一">常山</wname>，属冀州。户十六万八百七十三，口六十六万八千八十。县十四。</meta>
+            <county><name>卢奴</name>。<quote><feature type="pref_seat"/></quote></county>
+            <county><name>北平</name>，<quote><feature type="river">徐水</feature>东至高阳入博。</quote><quote>又有<feature type="river">卢水</feature>，亦至高阳入河。</quote><quote>有<feature type="resource">铁官</feature>。</quote>莽曰<wname type="嘉名">善和</wname>。</county>
+            <county><name>北新成</name>，<quote>桑钦言<feature type="river">易水</feature>出西北，东入滱。</quote>莽曰<wname type="全改">朔平</wname>。</county>
+            <county><name>唐</name>，<quote><feature type="mount">尧山</feature>在南。</quote>莽曰<wname type="意义">和亲</wname>。</county>
+            <county><name>深泽</name>，莽曰<wname type="嘉名">翼和</wname>。</county>
+            <county><name>苦陉</name>，莽曰<wname type="改一">北陉</wname>。</county>
+            <county><name>安国</name>，莽曰<wname type="嘉名">兴睦</wname>。</county>
+            <county><name>曲逆</name>，<quote><feature type="river_source">蒲阳山</feature>，<feature type="river">蒲水</feature>所出，东入濡。</quote><quote>又有<feature type="river">苏水</feature>，亦东入濡。</quote>莽曰<wname type="反">顺平</wname>。</county>
+            <county><name>望都</name>，<quote><feature type="river">博水</feature>东至高阳入河。</quote>莽曰<wname type="嘉名">顺调</wname>。</county>
+            <county><name>新市</name>。</county>
+            <county><name>新处</name>。</county>
+            <county><name>毋极</name>。</county>
+            <county><name>陆成</name>。</county>
+            <county><name>安险</name>。莽曰<wname type="改一">宁险</wname>。</county>
+        </pref>
+    </chapter>
+</book>
