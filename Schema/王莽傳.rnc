@@ -1,0 +1,5 @@
+start = element biography {mixed{(event)*}}
+event = element event {time, mixed{(time_tag|event_tag)*}}
+time = attribute time {text}
+time_tag = element time_tag {text}
+event_tag = element event_tag {text}
