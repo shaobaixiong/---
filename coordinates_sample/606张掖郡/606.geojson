@@ -1,0 +1,145 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.40263,38.96341 ]
+    },
+    "properties": {
+    "county_han":"觻得县",
+    "county_xin":"官式县",
+    "SOURCE":"CHGIS",
+    "ID":60601,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.21065,39.13466 ]
+    },
+    "properties": {
+    "county_han":"昭武县",
+    "county_xin":"渠武县",
+    "SOURCE":"CHGIS",
+    "ID":60602,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.08796,38.7811 ]
+    },
+    "properties": {
+    "county_han":"删丹县",
+    "county_xin":"贯虏县",
+    "SOURCE":"CHGIS",
+    "ID":60603,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.81054,38.43198 ]
+    },
+    "properties": {
+    "county_han":"氐池县",
+    "county_xin":"否武县",
+    "SOURCE":"CHGIS",
+    "ID":60604,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.65497,38.89297 ]
+    },
+    "properties": {
+    "county_han":"屋兰县",
+    "county_xin":"传武县",
+    "SOURCE":"CHGIS",
+    "ID":60605,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.49866,38.44008 ]
+    },
+    "properties": {
+    "county_han":"日勒县",
+    "county_xin":"勒治县",
+    "SOURCE":"CHGIS",
+    "ID":60606,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.76319,38.23183 ]
+    },
+    "properties": {
+    "county_han":"骊靬县",
+    "county_xin":"揭虏县",
+    "SOURCE":"CHGIS",
+    "ID":60607,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.84153,38.2479 ]
+    },
+    "properties": {
+    "county_han":"番和县",
+    "county_xin":"罗虏县",
+    "SOURCE":"CHGIS",
+    "ID":60608,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.16285,41.83586 ]
+    },
+    "properties": {
+    "county_han":"居延县",
+    "county_xin":"居成县",
+    "SOURCE":"CHGIS",
+    "ID":60609,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.10349,38.1776 ]
+    },
+    "properties": {
+    "county_han":"显美县",
+    "county_xin":"显美县",
+    "SOURCE":"CHGIS",
+    "ID":60610,
+    "name_type":"不改"
+    }
+  }
+]
+}
