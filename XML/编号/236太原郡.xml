@@ -1,0 +1,35 @@
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="210026">
+    <name>太原郡</name>
+    <meta walled="21" family="169863" pop="680488"
+        >秦置。有盐官，在晋阳。属并州、户十六万九千八百六十三，口六十八万四百八十八。有家马官。县二十一。</meta>
+    <county><name>晋阳</name>，故《诗》唐国，周成王灭唐，封弟叔虞。<quote type="mount"
+        ><name>龙山</name>在西北。</quote><quote type="resource"
+            >有<name>盐官</name>。</quote><quote type="river"
+                ><name>晋水</name>所出</quote>，东入汾。</county>
+    <county><name>葰人</name>。</county>
+    <county><name>界休</name>，莽曰<wname type="半嘉名">界美</wname>。</county>
+    <county><name>榆次</name>，<quote type="sett"><name>涂水乡</name></quote>，晋大夫知徐吾邑。<quote
+        type="sett"><name>梗阳乡</name></quote>，魏戊邑。莽曰<wname type="亭">太原亭</wname>。</county>
+    <county><name>中都</name>。</county>
+    <county><name>于离</name>，莽曰<wname type="反">于合</wname>。</county>
+    <county><name>兹氏</name>，莽曰<wname type="改一">兹同</wname>。</county>
+    <county><name>狼孟</name>，莽曰<wname type="改一">狼调</wname>。</county>
+    <county><name>邬</name>，<quote type="lake">九泽在北</quote>，是为昭余祁，并州薮。晋大夫司马弥牟邑。</county>
+    <county><name>盂</name>，晋大夫孟丙邑。</county>
+    <county><name>平陶</name>，莽曰<wname type="嘉名">多穰</wname>。</county>
+    <county><name>汾阳</name>，<quote type="mount"><name>北山</name></quote>，<quote type="river"
+        ><name>汾水</name>所出</quote>，西南至汾阴入河，过郡二，行千三百四十里，冀州浸。</county>
+    <county><name>京陵</name>，莽曰<wname type="城">致城</wname>。</county>
+    <county><name>阳曲</name>。</county>
+    <county><name>大陵</name>，<quote type="resource"
+        >有<name>铁官</name>。</quote>莽曰<wname type="改一">大宁</wname>。</county>
+    <county><name>原平</name>。</county>
+    <county><name>祁</name>，晋大夫贾辛邑。莽曰<wname type="改一">示</wname>。</county>
+    <county><name>上艾</name>。<quote type="river"><name>绵曼水</name></quote>，东至蒲吾，入虖池水。</county>
+    <county><name>虑虒</name>。</county>
+    <county><name>阳邑</name>，莽曰<wname type="嘉名">繁穰</wname>。</county>
+    <county><name>广武</name>。<quote type="mount"><name>句注</name></quote>、<quote type="mount"
+        ><name>贾屋山</name>在北</quote>。<quote type="admin"
+            >都尉治。</quote>莽曰<wname type="全改">信桓</wname>。</county>
+</pref>

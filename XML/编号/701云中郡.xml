@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>云中郡</name>
+            <meta family="38303" pop="173270" county="11"><history>秦置。</history>莽曰<wname type="意义">受降</wname>。属并州。户三万八千三百三，口十七万三千二百七十。县十一。</meta>
+            <county><name>云中</name>。莽曰<wname type="意义">远服</wname>。</county>
+            <county><name>咸阳</name>，莽曰<wname type="意义">贲武</wname>。</county>
+            <county><name>陶林</name>，<quote><feature type="mili_admin">东部都尉治</feature>。</quote></county>
+            <county><name>桢陵</name>，<quote><feature type="mount">缘胡山</feature>在西北。</quote><quote><feature type="mili_admin">西部都尉治</feature>。</quote>莽曰<wname type="陵">桢陆</wname>。</county>
+            <county><name>犊和</name>。</county>
+            <county><name>沙陵</name>，莽曰<wname type="意义">希恩</wname>。</county>
+            <county><name>原阳</name>。</county>
+            <county><name>沙南</name>。</county>
+            <county><name>北舆</name>，<quote><feature type="mili_admin">中部都尉治</feature>。</quote></county>
+            <county><name>武泉</name>，莽曰<wname type="改一">顺泉</wname>。</county>
+            <county><name>阳寿</name>。莽曰<wname type="嘉名">常得</wname>。</county>
+        </pref>
+    </chapter>
+</book>

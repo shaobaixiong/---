@@ -11,7 +11,7 @@
     "county_han":"高句骊县",
     "county_xin":"下句骊县",
     "SOURCE":"PUBLICATION",
-    "ID":71901,
+    "ID":71701,
     "name_type":"改一"
     }
   },
@@ -25,7 +25,7 @@
     "county_han":"上殷台县",
     "county_xin":"下殷县",
     "SOURCE":"PUBLICATION",
-    "ID":71902,
+    "ID":71702,
     "name_type":"改一"
     }
   },
@@ -39,7 +39,7 @@
     "county_han":"西盖马县",
     "county_xin":"玄菟亭县",
     "SOURCE":"PUBLICATION",
-    "ID":71903,
+    "ID":71703,
     "name_type":"亭"
     }
   }

@@ -1,0 +1,285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.4706094,37.8031572 ]
+    },
+    "properties": {
+    "county_han":"晋阳县",
+    "county_xin":"晋阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":23601,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.8086194,37.1883332 ]
+    },
+    "properties": {
+    "county_han":"兹氏县",
+    "county_xin":"兹同县",
+    "SOURCE":"PUBLICATION",
+    "ID":23607,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.9328004,37.3738662 ]
+    },
+    "properties": {
+    "county_han":"平陶县",
+    "county_xin":"多穰县",
+    "SOURCE":"PUBLICATION",
+    "ID":23611,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.8780354,38.3662231 ]
+    },
+    "properties": {
+    "county_han":"汾阳县",
+    "county_xin":"汾阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":23612,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.311678,39.194142 ]
+    },
+    "properties": {
+    "county_han":"葰人县",
+    "county_xin":"葰人县",
+    "SOURCE":"CHGIS",
+    "ID":23602,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.912163,37.026474 ]
+    },
+    "properties": {
+    "county_han":"界休县",
+    "county_xin":"界美县",
+    "SOURCE":"CHGIS",
+    "ID":23603,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.744682,37.678467 ]
+    },
+    "properties": {
+    "county_han":"榆次县",
+    "county_xin":"太原亭县",
+    "SOURCE":"CHGIS",
+    "ID":23604,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.127835,37.191928 ]
+    },
+    "properties": {
+    "county_han":"中都县",
+    "county_xin":"中都县",
+    "SOURCE":"CHGIS",
+    "ID":23605,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.66719,38.063313 ]
+    },
+    "properties": {
+    "county_han":"狼孟县",
+    "county_xin":"狼调县",
+    "SOURCE":"CHGIS",
+    "ID":23608,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.030983,37.102703 ]
+    },
+    "properties": {
+    "county_han":"邬县",
+    "county_xin":"邬县",
+    "SOURCE":"CHGIS",
+    "ID":23609,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.712067,38.178188 ]
+    },
+    "properties": {
+    "county_han":"盂县",
+    "county_xin":"盂县",
+    "SOURCE":"CHGIS",
+    "ID":23610,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.231478,37.204185 ]
+    },
+    "properties": {
+    "county_han":"京陵县",
+    "county_xin":"致城县",
+    "SOURCE":"CHGIS",
+    "ID":23613,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.946852,38.490814 ]
+    },
+    "properties": {
+    "county_han":"阳曲县",
+    "county_xin":"阳曲县",
+    "SOURCE":"CHGIS",
+    "ID":23614,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.110969,37.473747 ]
+    },
+    "properties": {
+    "county_han":"大陵县",
+    "county_xin":"大宁县",
+    "SOURCE":"CHGIS",
+    "ID":23615,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.698708,38.728821 ]
+    },
+    "properties": {
+    "county_han":"原平县",
+    "county_xin":"原平县",
+    "SOURCE":"CHGIS",
+    "ID":23616,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.3515854,37.3389162 ]
+    },
+    "properties": {
+    "county_han":"祁县",
+    "county_xin":"示县",
+    "SOURCE":"PUBLICATION",
+    "ID":23617,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.622269,37.802036 ]
+    },
+    "properties": {
+    "county_han":"上艾县",
+    "county_xin":"上艾县",
+    "SOURCE":"CHGIS",
+    "ID":23618,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.265759,38.725698 ]
+    },
+    "properties": {
+    "county_han":"虑虒县",
+    "county_xin":"虑虒县",
+    "SOURCE":"CHGIS",
+    "ID":23619,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.663475,37.43362 ]
+    },
+    "properties": {
+    "county_han":"阳邑县",
+    "county_xin":"繁穰县",
+    "SOURCE":"CHGIS",
+    "ID":23620,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.890678,39.034309 ]
+    },
+    "properties": {
+    "county_han":"广武县",
+    "county_xin":"信桓县",
+    "SOURCE":"CHGIS",
+    "ID":23621,
+    "name_type":"全改"
+    }
+  }
+]
+}

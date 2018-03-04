@@ -11,7 +11,7 @@
     "county_han":"朝鲜县",
     "county_xin":"朝鲜县",
     "SOURCE":"PUBLICATION",
-    "ID":71901,
+    "ID":71801,
     "name_type":"不改"
     }
   },
@@ -25,7 +25,7 @@
     "county_han":"䛁邯县",
     "county_xin":"䛁邯县",
     "SOURCE":"PUBLICATION",
-    "ID":71902,
+    "ID":71802,
     "name_type":"不改"
     }
   },
@@ -39,7 +39,7 @@
     "county_han":"浿水县",
     "county_xin":"乐鲜亭县",
     "SOURCE":"PUBLICATION",
-    "ID":71903,
+    "ID":71803,
     "name_type":"亭"
     }
   },
@@ -53,7 +53,7 @@
     "county_han":"含资县",
     "county_xin":"含资县",
     "SOURCE":"PUBLICATION",
-    "ID":71904,
+    "ID":71804,
     "name_type":"不改"
     }
   },
@@ -67,7 +67,7 @@
     "county_han":"黏蝉县",
     "county_xin":"黏蝉县",
     "SOURCE":"PUBLICATION",
-    "ID":71905,
+    "ID":71805,
     "name_type":"不改"
     }
   },
@@ -81,7 +81,7 @@
     "county_han":"遂成县",
     "county_xin":"遂成县",
     "SOURCE":"PUBLICATION",
-    "ID":71906,
+    "ID":71806,
     "name_type":"不改"
     }
   },
@@ -95,7 +95,7 @@
     "county_han":"增地县",
     "county_xin":"增土县",
     "SOURCE":"PUBLICATION",
-    "ID":71907,
+    "ID":71807,
     "name_type":"改一"
     }
   },
@@ -109,7 +109,7 @@
     "county_han":"带方县",
     "county_xin":"带方县",
     "SOURCE":"PUBLICATION",
-    "ID":71908,
+    "ID":71808,
     "name_type":"不改"
     }
   },
@@ -123,7 +123,7 @@
     "county_han":"驷望县",
     "county_xin":"驷望县",
     "SOURCE":"PUBLICATION",
-    "ID":71909,
+    "ID":71809,
     "name_type":"不改"
     }
   },
@@ -131,13 +131,13 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 125.7486103,38.037199 ]
+       "coordinates":  [ 125.7486103,38.037189 ]
     },
     "properties": {
     "county_han":"海冥县",
     "county_xin":"海桓县",
     "SOURCE":"PUBLICATION",
-    "ID":71910,
+    "ID":71810,
     "name_type":"改一"
     }
   },
@@ -151,7 +151,7 @@
     "county_han":"列口县",
     "county_xin":"列口县",
     "SOURCE":"PUBLICATION",
-    "ID":71911,
+    "ID":71811,
     "name_type":"不改"
     }
   },
@@ -165,7 +165,7 @@
     "county_han":"长岑县",
     "county_xin":"长岑县",
     "SOURCE":"PUBLICATION",
-    "ID":71912,
+    "ID":71812,
     "name_type":"不改"
     }
   },
@@ -179,7 +179,7 @@
     "county_han":"屯有县",
     "county_xin":"屯有县",
     "SOURCE":"PUBLICATION",
-    "ID":71913,
+    "ID":71813,
     "name_type":"不改"
     }
   },
@@ -193,7 +193,7 @@
     "county_han":"昭明县",
     "county_xin":"昭明县",
     "SOURCE":"PUBLICATION",
-    "ID":71914,
+    "ID":71814,
     "name_type":"不改"
     }
   },
@@ -207,7 +207,7 @@
     "county_han":"镂方县",
     "county_xin":"镂方县",
     "SOURCE":"PUBLICATION",
-    "ID":71915,
+    "ID":71815,
     "name_type":"不改"
     }
   },
@@ -221,7 +221,7 @@
     "county_han":"提奚县",
     "county_xin":"提奚县",
     "SOURCE":"PUBLICATION",
-    "ID":71916,
+    "ID":71816,
     "name_type":"不改"
     }
   },
@@ -235,7 +235,7 @@
     "county_han":"浑弥县",
     "county_xin":"浑弥县",
     "SOURCE":"PUBLICATION",
-    "ID":71917,
+    "ID":71817,
     "name_type":"不改"
     }
   },
@@ -249,7 +249,7 @@
     "county_han":"东暆县",
     "county_xin":"东暆县",
     "SOURCE":"PUBLICATION",
-    "ID":71919,
+    "ID":71819,
     "name_type":"不改"
     }
   },
@@ -263,7 +263,7 @@
     "county_han":"不而县",
     "county_xin":"不而县",
     "SOURCE":"PUBLICATION",
-    "ID":71920,
+    "ID":71820,
     "name_type":"不改"
     }
   },
@@ -277,7 +277,7 @@
     "county_han":"蚕台县",
     "county_xin":"蚕台县",
     "SOURCE":"PUBLICATION",
-    "ID":71921,
+    "ID":71821,
     "name_type":"不改"
     }
   },
@@ -291,7 +291,7 @@
     "county_han":"邪头昧县",
     "county_xin":"邪头昧县",
     "SOURCE":"PUBLICATION",
-    "ID":71923,
+    "ID":71823,
     "name_type":"不改"
     }
   },
@@ -305,7 +305,7 @@
     "county_han":"前莫县",
     "county_xin":"前莫县",
     "SOURCE":"PUBLICATION",
-    "ID":71924,
+    "ID":71824,
     "name_type":"不改"
     }
   },
@@ -319,7 +319,7 @@
     "county_han":"夫租县",
     "county_xin":"夫租县",
     "SOURCE":"PUBLICATION",
-    "ID":71925,
+    "ID":71825,
     "name_type":"不改"
     }
   }
