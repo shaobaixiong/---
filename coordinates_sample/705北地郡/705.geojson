@@ -1,0 +1,229 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.64626,36.22103 ]
+    },
+    "properties": {
+    "county_han":"马领县",
+    "county_xin":"马领县",
+    "SOURCE":"CHGIS",
+    "ID":70501,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.28983,38.02121 ]
+    },
+    "properties": {
+    "county_han":"富平县",
+    "county_xin":"特武县",
+    "SOURCE":"CHGIS",
+    "ID":70504,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.15663,37.60072 ]
+    },
+    "properties": {
+    "county_han":"方渠县",
+    "county_xin":"方渠县",
+    "SOURCE":"CHGIS",
+    "ID":70507,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.42409,35.32752 ]
+    },
+    "properties": {
+    "county_han":"泥阳县",
+    "county_xin":"泥阴县",
+    "SOURCE":"CHGIS",
+    "ID":70514,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.90787,35.41132 ]
+    },
+    "properties": {
+    "county_han":"弋居县",
+    "county_xin":"弋居县",
+    "SOURCE":"CHGIS",
+    "ID":70517,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.27314,38.49312 ]
+    },
+    "properties": {
+    "county_han":"廉县",
+    "county_xin":"西河亭县",
+    "SOURCE":"CHGIS",
+    "ID":70519,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.0330684,35.9622952 ]
+    },
+    "properties": {
+    "county_han":"直路县",
+    "county_xin":"直路县",
+    "SOURCE":"PUBLICATION",
+    "ID":70502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.4174344,38.7443131 ]
+    },
+    "properties": {
+    "county_han":"灵武县",
+    "county_xin":"威成亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":70503,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8220179,38.3076142 ]
+    },
+    "properties": {
+    "county_han":"灵州县",
+    "county_xin":"令周县",
+    "SOURCE":"PUBLICATION",
+    "ID":70505,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4639404,37.7285142 ]
+    },
+    "properties": {
+    "county_han":"眴衍县",
+    "county_xin":"眴衍县",
+    "SOURCE":"PUBLICATION",
+    "ID":70506,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4277034,35.1428452 ]
+    },
+    "properties": {
+    "county_han":"鹑孤县",
+    "county_xin":"鹑孤县",
+    "SOURCE":"PUBLICATION",
+    "ID":70510,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.1253094,37.0615612 ]
+    },
+    "properties": {
+    "county_han":"归德县",
+    "county_xin":"归德县",
+    "SOURCE":"PUBLICATION",
+    "ID":70511,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.9895734,35.8603452 ]
+    },
+    "properties": {
+    "county_han":"略畔道",
+    "county_xin":"延年道县",
+    "SOURCE":"PUBLICATION",
+    "ID":70513,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.5084186,35.7309286 ]
+    },
+    "properties": {
+    "county_han":"郁郅县",
+    "county_xin":"功著县",
+    "SOURCE":"PUBLICATION",
+    "ID":70515,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.3986248,35.644831 ]
+    },
+    "properties": {
+    "county_han":"义渠道",
+    "county_xin":"义沟县",
+    "SOURCE":"PUBLICATION",
+    "ID":70516,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.9241354,35.4446622 ]
+    },
+    "properties": {
+    "county_han":"大要县",
+    "county_xin":"大要县",
+    "SOURCE":"PUBLICATION",
+    "ID":70518,
+    "name_type":"不改"
+    }
+  }
+]
+}
