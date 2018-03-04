@@ -10,12 +10,9 @@
     "properties": {
     "county_han":"云中县",
     "county_xin":"远服县",
-    "name_type":"意义",
+    "SOURCE":"PUBLICATION",
     "ID":70101,
-    "附言":390,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"意义"
     }
   },
   {
@@ -27,12 +24,9 @@
     "properties": {
     "county_han":"咸阳县",
     "county_xin":"贲武县",
-    "name_type":"意义",
+    "SOURCE":"PUBLICATION",
     "ID":70102,
-    "附言":390,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"意义"
     }
   },
   {
@@ -44,12 +38,9 @@
     "properties": {
     "county_han":"陶林县",
     "county_xin":"陶林县",
-    "name_type":"不改",
+    "SOURCE":"PUBLICATION",
     "ID":70103,
-    "附言":390,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -61,12 +52,9 @@
     "properties": {
     "county_han":"桢陵县",
     "county_xin":"桢陆县",
-    "name_type":"陵",
+    "SOURCE":"PUBLICATION",
     "ID":70104,
-    "附言":390,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"陵"
     }
   },
   {
@@ -78,12 +66,9 @@
     "properties": {
     "county_han":"犊和县",
     "county_xin":"犊和县",
-    "name_type":"不改",
+    "SOURCE":"PUBLICATION",
     "ID":70105,
-    "附言":390,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -95,12 +80,9 @@
     "properties": {
     "county_han":"沙陵县",
     "county_xin":"希恩县",
-    "name_type":"意义",
+    "SOURCE":"PUBLICATION",
     "ID":70106,
-    "附言":390,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"意义"
     }
   },
   {
@@ -112,12 +94,9 @@
     "properties": {
     "county_han":"原阳县",
     "county_xin":"原阳县",
-    "name_type":"不改",
+    "SOURCE":"PUBLICATION",
     "ID":70107,
-    "附言":391,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -129,12 +108,9 @@
     "properties": {
     "county_han":"沙南县",
     "county_xin":"沙南县",
-    "name_type":"不改",
+    "SOURCE":"PUBLICATION",
     "ID":70108,
-    "附言":391,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -146,12 +122,9 @@
     "properties": {
     "county_han":"北舆县",
     "county_xin":"北舆县",
-    "name_type":"不改",
+    "SOURCE":"PUBLICATION",
     "ID":70109,
-    "附言":391,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -163,12 +136,9 @@
     "properties": {
     "county_han":"武泉县",
     "county_xin":"顺泉县",
-    "name_type":"改一",
+    "SOURCE":"PUBLICATION",
     "ID":70110,
-    "附言":391,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"改一"
     }
   },
   {
@@ -180,12 +150,9 @@
     "properties": {
     "county_han":"阳寿县",
     "county_xin":"常得县",
-    "name_type":"嘉名",
+    "SOURCE":"PUBLICATION",
     "ID":70111,
-    "附言":391,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
-    "SOURCE":"PUBLICATION"
+    "name_type":"嘉名"
     }
   }
 ]

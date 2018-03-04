@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.968287,40.119073 ]
+    },
+    "properties": {
+    "county_han":"道人县",
+    "county_xin":"道仁县",
+    "SOURCE":"CHGIS",
+    "ID":70402,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.76077,39.96149 ]
+    },
+    "properties": {
+    "county_han":"当城县",
+    "county_xin":"当城县",
+    "SOURCE":"CHGIS",
+    "ID":70403,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.75209,40.353703 ]
+    },
+    "properties": {
+    "county_han":"高柳县",
+    "county_xin":"高柳县",
+    "SOURCE":"CHGIS",
+    "ID":70404,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.4053,40.67043 ]
+    },
+    "properties": {
+    "county_han":"马城县",
+    "county_xin":"马城县",
+    "SOURCE":"CHGIS",
+    "ID":70405,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.390366,39.844845 ]
+    },
+    "properties": {
+    "county_han":"班氏县",
+    "county_xin":"班副县",
+    "SOURCE":"CHGIS",
+    "ID":70406,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.078857,40.674346 ]
+    },
+    "properties": {
+    "county_han":"延陵县",
+    "county_xin":"延陵县",
+    "SOURCE":"CHGIS",
+    "ID":70407,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.851684,39.955109 ]
+    },
+    "properties": {
+    "county_han":"狋氏县",
+    "county_xin":"狋聚县",
+    "SOURCE":"CHGIS",
+    "ID":70408,
+    "name_type":"聚"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.14742,40.09059 ]
+    },
+    "properties": {
+    "county_han":"阳原县",
+    "county_xin":"阳原县",
+    "SOURCE":"CHGIS",
+    "ID":70411,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.24615,40.02716 ]
+    },
+    "properties": {
+    "county_han":"东安阳县",
+    "county_xin":"竟安县",
+    "SOURCE":"CHGIS",
+    "ID":70412,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.880197,40.401162 ]
+    },
+    "properties": {
+    "county_han":"参合县",
+    "county_xin":"参合县",
+    "SOURCE":"CHGIS",
+    "ID":70413,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.172462,39.733494 ]
+    },
+    "properties": {
+    "county_han":"平舒县",
+    "county_xin":"平葆县",
+    "SOURCE":"CHGIS",
+    "ID":70414,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.6767,39.89156 ]
+    },
+    "properties": {
+    "county_han":"代县",
+    "county_xin":"厌狄亭县",
+    "SOURCE":"CHGIS",
+    "ID":70415,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.267246,39.428994 ]
+    },
+    "properties": {
+    "county_han":"灵丘县",
+    "county_xin":"灵丘县",
+    "SOURCE":"CHGIS",
+    "ID":70416,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.68795,39.40357 ]
+    },
+    "properties": {
+    "county_han":"广昌县",
+    "county_xin":"广屏县",
+    "SOURCE":"CHGIS",
+    "ID":70417,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.777092,39.294864 ]
+    },
+    "properties": {
+    "county_han":"卤城县",
+    "county_xin":"鲁盾县",
+    "SOURCE":"CHGIS",
+    "ID":70418,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.4806993,40.1959899 ]
+    },
+    "properties": {
+    "county_han":"桑乾县",
+    "county_xin":"安德县",
+    "SOURCE":"PUBLICATION",
+    "ID":70401,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.7613423,40.9804345 ]
+    },
+    "properties": {
+    "county_han":"且如县",
+    "county_xin":"且如县",
+    "SOURCE":"PUBLICATION",
+    "ID":70409,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.6409133,40.02131 ]
+    },
+    "properties": {
+    "county_han":"平邑",
+    "county_xin":"平胡县",
+    "SOURCE":"PUBLICATION",
+    "ID":70410,
+    "name_type":"意义"
+    }
+  }
+]
+}
