@@ -10,12 +10,9 @@
     "properties": {
     "county_han":"姑臧县",
     "county_xin":"姑臧县",
-    "附言":355,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60501,
-    "name_type":"不改",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -27,12 +24,9 @@
     "properties": {
     "county_han":"张掖县",
     "county_xin":"张掖县",
-    "附言":355,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60502,
-    "name_type":"不改",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -44,12 +38,9 @@
     "properties": {
     "county_han":"武威县",
     "county_xin":"武威县",
-    "附言":355,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60503,
-    "name_type":"不改",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -61,12 +52,9 @@
     "properties": {
     "county_han":"休屠县",
     "county_xin":"晏然县",
-    "附言":356,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60504,
-    "name_type":"嘉名",
-    "SOURCE":"PUBLICATION"
+    "name_type":"嘉名"
     }
   },
   {
@@ -78,12 +66,9 @@
     "properties": {
     "county_han":"揟次县",
     "county_xin":"播德县",
-    "附言":356,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60505,
-    "name_type":"嘉名",
-    "SOURCE":"PUBLICATION"
+    "name_type":"嘉名"
     }
   },
   {
@@ -95,12 +80,9 @@
     "properties": {
     "county_han":"鸾乌县",
     "county_xin":"鸾乌县",
-    "附言":356,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60506,
-    "name_type":"不改",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -112,12 +94,9 @@
     "properties": {
     "county_han":"扑褱刂县",
     "county_xin":"敷虏县",
-    "附言":356,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60507,
-    "name_type":"意义",
-    "SOURCE":"PUBLICATION"
+    "name_type":"意义"
     }
   },
   {
@@ -129,12 +108,9 @@
     "properties": {
     "county_han":"媪围县",
     "county_xin":"媪围县",
-    "附言":357,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60508,
-    "name_type":"不改",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   },
   {
@@ -146,12 +122,9 @@
     "properties": {
     "county_han":"苍松县",
     "county_xin":"射楚县",
-    "附言":357,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60509,
-    "name_type":"?",
-    "SOURCE":"PUBLICATION"
+    "name_type":"?"
     }
   },
   {
@@ -163,12 +136,9 @@
     "properties": {
     "county_han":"宣威县",
     "county_xin":"宣威县",
-    "附言":357,
-    "来源":"汉书地理志汇释",
-    "坐标来源":"google",
+    "SOURCE":"PUBLICATION",
     "ID":60510,
-    "name_type":"不改",
-    "SOURCE":"PUBLICATION"
+    "name_type":"不改"
     }
   }
 ]

@@ -1,0 +1,165 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.3691675,39.7238227 ]
+    },
+    "properties": {
+    "name":"禄福县",
+    "feature":"",
+    "feature_type":"pref_seat",
+    "county_xin":"显德县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60701,
+    "pref_ID":607,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.3691675,39.7238227 ]
+    },
+    "properties": {
+    "name":"禄福县",
+    "feature":"呼蚕水",
+    "feature_type":"river",
+    "county_xin":"显德县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60701,
+    "pref_ID":607,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.5786134,39.6320902 ]
+    },
+    "properties": {
+    "name":"会水县",
+    "feature":"北部都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"萧武县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60706,
+    "pref_ID":607,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.5786134,39.6320902 ]
+    },
+    "properties": {
+    "name":"会水县",
+    "feature":"偃泉障",
+    "feature_type":"mili",
+    "county_xin":"萧武县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60706,
+    "pref_ID":607,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.5786134,39.6320902 ]
+    },
+    "properties": {
+    "name":"会水县",
+    "feature":"东部都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"萧武县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60706,
+    "pref_ID":607,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.5786134,39.6320902 ]
+    },
+    "properties": {
+    "name":"会水县",
+    "feature":"东部障",
+    "feature_type":"mili",
+    "county_xin":"萧武县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60706,
+    "pref_ID":607,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.2414483,40.142203 ]
+    },
+    "properties": {
+    "name":"乾齐县",
+    "feature":"西部都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"测虏县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60709,
+    "pref_ID":607,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.2414483,40.142203 ]
+    },
+    "properties": {
+    "name":"乾齐县",
+    "feature":"西部障",
+    "feature_type":"mili",
+    "county_xin":"测虏县",
+    "pref_han":"酒泉郡",
+    "pref_xin":"辅平郡",
+    "ID":60709,
+    "pref_ID":607,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  }
+]
+}

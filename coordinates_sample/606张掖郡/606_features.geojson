@@ -1,0 +1,165 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.40263,38.96341 ]
+    },
+    "properties": {
+    "name":"觻得县",
+    "feature":"千金渠",
+    "feature_type":"waterInfra",
+    "county_xin":"官式县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60601,
+    "pref_ID":606,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.40263,38.96341 ]
+    },
+    "properties": {
+    "name":"觻得县",
+    "feature":"羌谷水",
+    "feature_type":"interPrefRiver",
+    "county_xin":"官式县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60601,
+    "pref_ID":606,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.08796,38.7811 ]
+    },
+    "properties": {
+    "name":"删丹县",
+    "feature":"道弱水",
+    "feature_type":"river",
+    "county_xin":"贯虏县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60603,
+    "pref_ID":606,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.49866,38.44008 ]
+    },
+    "properties": {
+    "name":"日勒县",
+    "feature":"都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"勒治县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60606,
+    "pref_ID":606,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.49866,38.44008 ]
+    },
+    "properties": {
+    "name":"日勒县",
+    "feature":"泽索谷",
+    "feature_type":"valley",
+    "county_xin":"勒治县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60606,
+    "pref_ID":606,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.84153,38.2479 ]
+    },
+    "properties": {
+    "name":"番和县",
+    "feature":"农都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"罗虏县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60608,
+    "pref_ID":606,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.16285,41.83586 ]
+    },
+    "properties": {
+    "name":"居延县",
+    "feature":"居延泽",
+    "feature_type":"lake",
+    "county_xin":"居成县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60609,
+    "pref_ID":606,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.16285,41.83586 ]
+    },
+    "properties": {
+    "name":"居延县",
+    "feature":"都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"居成县",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡",
+    "ID":60609,
+    "pref_ID":606,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"改一"
+    }
+  }
+]
+}

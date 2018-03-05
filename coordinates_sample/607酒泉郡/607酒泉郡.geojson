@@ -1,0 +1,131 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.3691675,39.7238227 ]
+    },
+    "properties": {
+    "county_han":"禄福县",
+    "county_xin":"显德县",
+    "SOURCE":"PUBLICATION",
+    "ID":60701,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.1772691,39.3947728 ]
+    },
+    "properties": {
+    "county_han":"表是县",
+    "county_xin":"载武县",
+    "SOURCE":"PUBLICATION",
+    "ID":60702,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.2607764,39.2490012 ]
+    },
+    "properties": {
+    "county_han":"乐涫县",
+    "county_xin":"乐亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":60703,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.5385224,39.7546841 ]
+    },
+    "properties": {
+    "county_han":"天䧇县",
+    "county_xin":"天䧇县",
+    "SOURCE":"PUBLICATION",
+    "ID":60704,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.5786134,39.6320902 ]
+    },
+    "properties": {
+    "county_han":"会水县",
+    "county_xin":"萧武县",
+    "SOURCE":"PUBLICATION",
+    "ID":60706,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.7830644,40.6173501 ]
+    },
+    "properties": {
+    "county_han":"池头县",
+    "county_xin":"池头县",
+    "SOURCE":"PUBLICATION",
+    "ID":60707,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.6290624,39.6265781 ]
+    },
+    "properties": {
+    "county_han":"绥弥县",
+    "county_xin":"绥弥县",
+    "SOURCE":"PUBLICATION",
+    "ID":60708,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.2414483,40.142203 ]
+    },
+    "properties": {
+    "county_han":"乾齐县",
+    "county_xin":"测虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60709,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.05292,40.2426 ]
+    },
+    "properties": {
+    "county_han":"玉门县",
+    "county_xin":"辅平亭县",
+    "SOURCE":"CHGIS",
+    "ID":60705,
+    "name_type":"亭"
+    }
+  }
+]
+}

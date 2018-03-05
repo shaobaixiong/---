@@ -1,0 +1,265 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1340986,36.0138861 ]
+    },
+    "properties": {
+    "name":"高平县",
+    "feature":"郡治",
+    "feature_type":"pref_seat",
+    "county_xin":"铺睦县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60901,
+    "pref_ID":609,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.46059,35.85993 ]
+    },
+    "properties": {
+    "name":"朝那县",
+    "feature":"端旬祠十五所",
+    "feature_type":"shrine",
+    "county_xin":"朝那县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60905,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.46059,35.85993 ]
+    },
+    "properties": {
+    "name":"朝那县",
+    "feature":"湫渊祠",
+    "feature_type":"shrine",
+    "county_xin":"朝那县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60905,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.47471,35.53831 ]
+    },
+    "properties": {
+    "name":"泾阳县",
+    "feature":"开头山",
+    "feature_type":"river_source",
+    "county_xin":"泾阳县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60906,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.47471,35.53831 ]
+    },
+    "properties": {
+    "name":"泾阳县",
+    "feature":"泾水",
+    "feature_type":"interPrefRiver",
+    "county_xin":"泾阳县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60906,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "name":"卤县",
+    "feature":"灈水",
+    "feature_type":"river",
+    "county_xin":"",
+    "pref_han":"",
+    "pref_xin":"",
+    "ID":null,
+    "pref_ID":null,
+    "status_cptl":"",
+    "status_ting":"",
+    "name_type":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7263294,35.6866272 ]
+    },
+    "properties": {
+    "name":"乌氏县",
+    "feature":"乌水",
+    "feature_type":"river",
+    "county_xin":"乌亭县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60909,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"T",
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7263294,35.6866272 ]
+    },
+    "properties": {
+    "name":"乌氏县",
+    "feature":"都卢山",
+    "feature_type":"mount",
+    "county_xin":"乌亭县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60909,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"T",
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8817554,35.1507432 ]
+    },
+    "properties": {
+    "name":"阴密县",
+    "feature":"嚣安亭",
+    "feature_type":"sett",
+    "county_xin":"阴密县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60910,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4794994,36.3176542 ]
+    },
+    "properties": {
+    "name":"参县",
+    "feature":"主骑都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"参县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60912,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.0309564,36.9287042 ]
+    },
+    "properties": {
+    "name":"三水县",
+    "feature":"属国都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"广延亭县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60913,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"T",
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.0309564,36.9287042 ]
+    },
+    "properties": {
+    "name":"三水县",
+    "feature":"盐官",
+    "feature_type":"resource",
+    "county_xin":"广延亭县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60913,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"T",
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8367114,37.6409732 ]
+    },
+    "properties": {
+    "name":"眴卷县",
+    "feature":"河水",
+    "feature_type":"river",
+    "county_xin":"眴卷县",
+    "pref_han":"敦德郡",
+    "pref_xin":"dun'de",
+    "ID":60918,
+    "pref_ID":609,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  }
+]
+}

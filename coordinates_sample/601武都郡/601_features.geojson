@@ -1,0 +1,105 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.5330679,34.0620368 ]
+    },
+    "properties": {
+    "name":"武都县",
+    "feature":"",
+    "feature_type":"pref_seat",
+    "county_xin":"循虏县",
+    "pref_han":"武都郡",
+    "pref_xin":"乐平郡",
+    "ID":60101,
+    "pref_ID":601,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.5330679,34.0620368 ]
+    },
+    "properties": {
+    "name":"武都县",
+    "feature":"东汉水",
+    "feature_type":"river",
+    "county_xin":"循虏县",
+    "pref_han":"武都郡",
+    "pref_xin":"乐平郡",
+    "ID":60101,
+    "pref_ID":601,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.5330679,34.0620368 ]
+    },
+    "properties": {
+    "name":"武都县",
+    "feature":"天池大泽",
+    "feature_type":"lake",
+    "county_xin":"循虏县",
+    "pref_han":"武都郡",
+    "pref_xin":"乐平郡",
+    "ID":60101,
+    "pref_ID":601,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7204774,34.0717223 ]
+    },
+    "properties": {
+    "name":"河池县",
+    "feature":"泉街水",
+    "feature_type":"river",
+    "county_xin":"乐平亭县",
+    "pref_han":"武都郡",
+    "pref_xin":"乐平郡",
+    "ID":60104,
+    "pref_ID":601,
+    "status_cptl":"F",
+    "status_ting":"T",
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.44959,33.27274 ]
+    },
+    "properties": {
+    "name":"沮县",
+    "feature":"沮水",
+    "feature_type":"interPrefRiver",
+    "county_xin":"沮县",
+    "pref_han":"武都郡",
+    "pref_xin":"乐平郡",
+    "ID":60106,
+    "pref_ID":601,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  }
+]
+}

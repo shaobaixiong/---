@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.1990074,35.9658132 ]
+    },
+    "properties": {
+    "county_han":"抚夷县",
+    "county_xin":"抚宁县",
+    "SOURCE":"PUBLICATION",
+    "ID":60904,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4240554,35.5600552 ]
+    },
+    "properties": {
+    "county_han":"临泾县",
+    "county_xin":"监泾县",
+    "SOURCE":"PUBLICATION",
+    "ID":60907,
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.7263294,35.6866272 ]
+    },
+    "properties": {
+    "county_han":"乌氏县",
+    "county_xin":"乌亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":60909,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.8817554,35.1507432 ]
+    },
+    "properties": {
+    "county_han":"阴密县",
+    "county_xin":"阴密县",
+    "SOURCE":"PUBLICATION",
+    "ID":60910,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4794994,36.3176542 ]
+    },
+    "properties": {
+    "county_han":"参县",
+    "county_xin":"参县",
+    "SOURCE":"PUBLICATION",
+    "ID":60912,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.0309564,36.9287042 ]
+    },
+    "properties": {
+    "county_han":"三水县",
+    "county_xin":"广延亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":60913,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.7117125,35.2003073 ]
+    },
+    "properties": {
+    "county_han":"阴槃县",
+    "county_xin":"阴槃县",
+    "SOURCE":"PUBLICATION",
+    "ID":60914,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.8121964,36.3257512 ]
+    },
+    "properties": {
+    "county_han":"祖厉县",
+    "county_xin":"乡礼县",
+    "SOURCE":"PUBLICATION",
+    "ID":60916,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.3919614,35.2508092 ]
+    },
+    "properties": {
+    "county_han":"爰得县",
+    "county_xin":"爰得县",
+    "SOURCE":"PUBLICATION",
+    "ID":60917,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8367114,37.6409732 ]
+    },
+    "properties": {
+    "county_han":"眴卷县",
+    "county_xin":"眴卷县",
+    "SOURCE":"PUBLICATION",
+    "ID":60918,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4716304,35.6162122 ]
+    },
+    "properties": {
+    "county_han":"彭阳县",
+    "county_xin":"彭阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":60919,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.2434384,35.8118032 ]
+    },
+    "properties": {
+    "county_han":"月氏道",
+    "county_xin":"月顺县",
+    "SOURCE":"PUBLICATION",
+    "ID":60921,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1340986,36.0138861 ]
+    },
+    "properties": {
+    "county_han":"高平县",
+    "county_xin":"铺睦县",
+    "SOURCE":"PUBLICATION",
+    "ID":60901,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.46059,35.85993 ]
+    },
+    "properties": {
+    "county_han":"朝那县",
+    "county_xin":"朝那县",
+    "SOURCE":"CHGIS",
+    "ID":60905,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.47471,35.53831 ]
+    },
+    "properties": {
+    "county_han":"泾阳县",
+    "county_xin":"泾阳县",
+    "SOURCE":"CHGIS",
+    "ID":60906,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.3663924,36.0420932 ]
+    },
+    "properties": {
+    "county_han":"安定县",
+    "county_xin":"安定县",
+    "SOURCE":"PUBLICATION",
+    "ID":60911,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.20225,35.61763 ]
+    },
+    "properties": {
+    "county_han":"安武县",
+    "county_xin":"安桓县",
+    "SOURCE":"CHGIS",
+    "ID":60915,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.61138,36.56499 ]
+    },
+    "properties": {
+    "county_han":"鹑阴县",
+    "county_xin":"鹑阴县",
+    "SOURCE":"CHGIS",
+    "ID":60920,
+    "name_type":"不改"
+    }
+  }
+]
+}

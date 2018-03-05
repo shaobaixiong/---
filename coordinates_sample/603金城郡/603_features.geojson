@@ -1,0 +1,365 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.0252054,36.1605472 ]
+    },
+    "properties": {
+    "name":"允吾县",
+    "feature":"",
+    "feature_type":"pref_seat",
+    "county_xin":"修远县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60301,
+    "pref_ID":603,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.0252054,36.1605472 ]
+    },
+    "properties": {
+    "name":"允吾县",
+    "feature":"乌亭逆水",
+    "feature_type":"river",
+    "county_xin":"修远县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60301,
+    "pref_ID":603,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.0252054,36.1605472 ]
+    },
+    "properties": {
+    "name":"允吾县",
+    "feature":"参街谷",
+    "feature_type":"river_source",
+    "county_xin":"修远县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60301,
+    "pref_ID":603,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8303604,36.5864592 ]
+    },
+    "properties": {
+    "name":"浩亹县",
+    "feature":"浩亹水",
+    "feature_type":"river",
+    "county_xin":"兴武县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60302,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8303604,36.5864592 ]
+    },
+    "properties": {
+    "name":"浩亹县",
+    "feature":"西塞外",
+    "feature_type":"river_source",
+    "county_xin":"兴武县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60302,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7681814,36.6287402 ]
+    },
+    "properties": {
+    "name":"令居县",
+    "feature":"涧水",
+    "feature_type":"river",
+    "county_xin":"罕虏县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60303,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7681814,36.6287402 ]
+    },
+    "properties": {
+    "name":"令居县",
+    "feature":"西北塞外",
+    "feature_type":"river_source",
+    "county_xin":"罕虏县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60303,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.98101,35.49667 ]
+    },
+    "properties": {
+    "name":"白石县",
+    "feature":"离水",
+    "feature_type":"river",
+    "county_xin":"顺砾县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60308,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.98101,35.49667 ]
+    },
+    "properties": {
+    "name":"白石县",
+    "feature":"西塞外",
+    "feature_type":"river_source",
+    "county_xin":"顺砾县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60308,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.0572484,35.6167872 ]
+    },
+    "properties": {
+    "name":"河关县",
+    "feature":"积石山",
+    "feature_type":"mount",
+    "county_xin":"河关县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60309,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.0572484,35.6167872 ]
+    },
+    "properties": {
+    "name":"河关县",
+    "feature":"河水",
+    "feature_type":"interPrefRiver",
+    "county_xin":"河关县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60309,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "name":"临羌县",
+    "feature":"西王母石室",
+    "feature_type":"shrine",
+    "county_xin":"盐羌县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60313,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "name":"临羌县",
+    "feature":"仙海",
+    "feature_type":"lake",
+    "county_xin":"盐羌县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60313,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "name":"临羌县",
+    "feature":"盐池",
+    "feature_type":"resource",
+    "county_xin":"盐羌县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60313,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "name":"临羌县",
+    "feature":"湟水",
+    "feature_type":"river",
+    "county_xin":"盐羌县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60313,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "name":"临羌县",
+    "feature":"须抵池",
+    "feature_type":"lake",
+    "county_xin":"盐羌县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60313,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "name":"临羌县",
+    "feature":"弱水",
+    "feature_type":"river",
+    "county_xin":"盐羌县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60313,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.28677,36.67482 ]
+    },
+    "properties": {
+    "name":"临羌县",
+    "feature":"昆仑山祠",
+    "feature_type":"shrine",
+    "county_xin":"盐羌县",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡",
+    "ID":60313,
+    "pref_ID":603,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"监"
+    }
+  }
+]
+}

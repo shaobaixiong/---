@@ -1,0 +1,205 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5664682,37.927479 ]
+    },
+    "properties": {
+    "name":"姑臧县",
+    "feature":"南山",
+    "feature_type":"river_source",
+    "county_xin":"姑臧县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60501,
+    "pref_ID":605,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5664682,37.927479 ]
+    },
+    "properties": {
+    "name":"姑臧县",
+    "feature":"谷水",
+    "feature_type":"river",
+    "county_xin":"姑臧县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60501,
+    "pref_ID":605,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5664682,37.927479 ]
+    },
+    "properties": {
+    "name":"姑臧县",
+    "feature":"",
+    "feature_type":"pref_seat",
+    "county_xin":"姑臧县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60501,
+    "pref_ID":605,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.5895472,39.1190006 ]
+    },
+    "properties": {
+    "name":"武威县",
+    "feature":"休屠泽",
+    "feature_type":"lake",
+    "county_xin":"武威县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60503,
+    "pref_ID":605,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5761004,38.1537722 ]
+    },
+    "properties": {
+    "name":"休屠县",
+    "feature":"都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"晏然县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60504,
+    "pref_ID":605,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5761004,38.1537722 ]
+    },
+    "properties": {
+    "name":"休屠县",
+    "feature":"熊水障",
+    "feature_type":"mili",
+    "county_xin":"晏然县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60504,
+    "pref_ID":605,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5761004,38.1537722 ]
+    },
+    "properties": {
+    "name":"休屠县",
+    "feature":"北部都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"晏然县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60504,
+    "pref_ID":605,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.5761004,38.1537722 ]
+    },
+    "properties": {
+    "name":"休屠县",
+    "feature":"休屠城",
+    "feature_type":"walled",
+    "county_xin":"晏然县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60504,
+    "pref_ID":605,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7214404,37.8953002 ]
+    },
+    "properties": {
+    "name":"苍松县",
+    "feature":"南山",
+    "feature_type":"river_source",
+    "county_xin":"射楚县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60509,
+    "pref_ID":605,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7214404,37.8953002 ]
+    },
+    "properties": {
+    "name":"苍松县",
+    "feature":"松陕水",
+    "feature_type":"river",
+    "county_xin":"射楚县",
+    "pref_han":"武威郡",
+    "pref_xin":"张掖郡",
+    "ID":60509,
+    "pref_ID":605,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"?"
+    }
+  }
+]
+}

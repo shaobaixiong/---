@@ -1,0 +1,225 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.3387071,35.5031828 ]
+    },
+    "properties": {
+    "name":"狄道",
+    "feature":"",
+    "feature_type":"pref_seat",
+    "county_xin":"操虏县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60201,
+    "pref_ID":602,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.3387071,35.5031828 ]
+    },
+    "properties": {
+    "name":"狄道",
+    "feature":"白石山",
+    "feature_type":"mount",
+    "county_xin":"操虏县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60201,
+    "pref_ID":602,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.9070084,34.4274413 ]
+    },
+    "properties": {
+    "name":"氐道",
+    "feature":"养水",
+    "feature_type":"river",
+    "county_xin":"亭道县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60204,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"T",
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.21017,35.13949 ]
+    },
+    "properties": {
+    "name":"首阳县",
+    "feature":"鸟鼠同穴山",
+    "feature_type":"mount",
+    "county_xin":"首阳县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60205,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.21017,35.13949 ]
+    },
+    "properties": {
+    "name":"首阳县",
+    "feature":"渭水",
+    "feature_type":"interPrefRiver",
+    "county_xin":"首阳县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60205,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.2933565,33.8425539 ]
+    },
+    "properties": {
+    "name":"羌道",
+    "feature":"羌水",
+    "feature_type":"interPrefRiver",
+    "county_xin":"羌道县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60208,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.03025,34.43646 ]
+    },
+    "properties": {
+    "name":"临洮县",
+    "feature":"洮水",
+    "feature_type":"river",
+    "county_xin":"临洮县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60210,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.03025,34.43646 ]
+    },
+    "properties": {
+    "name":"临洮县",
+    "feature":"西顷山",
+    "feature_type":"mount",
+    "county_xin":"临洮县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60210,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.03025,34.43646 ]
+    },
+    "properties": {
+    "name":"临洮县",
+    "feature":"南部都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"临洮县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60210,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.87111,34.40756 ]
+    },
+    "properties": {
+    "name":"西县",
+    "feature":"嶓冢山",
+    "feature_type":"mount",
+    "county_xin":"西治县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60211,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.87111,34.40756 ]
+    },
+    "properties": {
+    "name":"西县",
+    "feature":"西汉",
+    "feature_type":"interPrefRiver",
+    "county_xin":"西治县",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡",
+    "ID":60211,
+    "pref_ID":602,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"治"
+    }
+  }
+]
+}

@@ -1,0 +1,125 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.137934,35.2160745 ]
+    },
+    "properties": {
+    "name":"平襄县",
+    "feature":"",
+    "feature_type":"pref_seat",
+    "county_xin":"平相县",
+    "pref_han":"天水郡",
+    "pref_xin":"填戎郡",
+    "ID":60401,
+    "pref_ID":604,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.38878,34.73837 ]
+    },
+    "properties": {
+    "name":"冀县",
+    "feature":"朱圄山",
+    "feature_type":"mount",
+    "county_xin":"冀治县",
+    "pref_han":"天水郡",
+    "pref_xin":"填戎郡",
+    "ID":60409,
+    "pref_ID":604,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.38878,34.73837 ]
+    },
+    "properties": {
+    "name":"冀县",
+    "feature":"梧中聚",
+    "feature_type":"sett",
+    "county_xin":"冀治县",
+    "pref_han":"天水郡",
+    "pref_xin":"填戎郡",
+    "ID":60409,
+    "pref_ID":604,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.1570114,35.9424262 ]
+    },
+    "properties": {
+    "name":"勇士县",
+    "feature":"属国都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"纪德县",
+    "pref_han":"天水郡",
+    "pref_xin":"填戎郡",
+    "ID":60410,
+    "pref_ID":604,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "name":"豲道县",
+    "feature":"骑都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"",
+    "pref_han":"",
+    "pref_xin":"",
+    "ID":null,
+    "pref_ID":null,
+    "status_cptl":"",
+    "status_ting":"",
+    "name_type":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "name":"豲道县",
+    "feature":"密艾亭",
+    "feature_type":"sett",
+    "county_xin":"",
+    "pref_han":"",
+    "pref_xin":"",
+    "ID":null,
+    "pref_ID":null,
+    "status_cptl":"",
+    "status_ting":"",
+    "name_type":""
+    }
+  }
+]
+}

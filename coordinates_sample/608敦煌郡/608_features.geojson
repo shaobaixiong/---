@@ -1,0 +1,205 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.62009,40.13911 ]
+    },
+    "properties": {
+    "name":"敦煌县",
+    "feature":"",
+    "feature_type":"pref_seat",
+    "county_xin":"敦德县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60801,
+    "pref_ID":608,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.62009,40.13911 ]
+    },
+    "properties": {
+    "name":"敦煌县",
+    "feature":"中部都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"敦德县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60801,
+    "pref_ID":608,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.62009,40.13911 ]
+    },
+    "properties": {
+    "name":"敦煌县",
+    "feature":"步广候官",
+    "feature_type":"mili_admin",
+    "county_xin":"敦德县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60801,
+    "pref_ID":608,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.62009,40.13911 ]
+    },
+    "properties": {
+    "name":"敦煌县",
+    "feature":"美瓜",
+    "feature_type":"resource",
+    "county_xin":"敦德县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60801,
+    "pref_ID":608,
+    "status_cptl":"T",
+    "status_ting":"F",
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.23748,40.24055 ]
+    },
+    "properties": {
+    "name":"冥安县",
+    "feature":"南籍端水",
+    "feature_type":"river",
+    "county_xin":"冥安县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60802,
+    "pref_ID":608,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.6981563,40.295821 ]
+    },
+    "properties": {
+    "name":"广至县",
+    "feature":"宜禾都尉治",
+    "feature_type":"mili_admin",
+    "county_xin":"广桓县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60805,
+    "pref_ID":608,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.6981563,40.295821 ]
+    },
+    "properties": {
+    "name":"广至县",
+    "feature":"昆仑障",
+    "feature_type":"mili",
+    "county_xin":"广桓县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60805,
+    "pref_ID":608,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.10114,39.90532 ]
+    },
+    "properties": {
+    "name":"龙勒县",
+    "feature":"阳关",
+    "feature_type":"mili mili_admin",
+    "county_xin":"龙勒县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60806,
+    "pref_ID":608,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.10114,39.90532 ]
+    },
+    "properties": {
+    "name":"龙勒县",
+    "feature":"玉门关",
+    "feature_type":"mili mili_admin",
+    "county_xin":"龙勒县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60806,
+    "pref_ID":608,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.10114,39.90532 ]
+    },
+    "properties": {
+    "name":"龙勒县",
+    "feature":"氐置水",
+    "feature_type":"river",
+    "county_xin":"龙勒县",
+    "pref_han":"敦煌郡",
+    "pref_xin":"jun",
+    "ID":60806,
+    "pref_ID":608,
+    "status_cptl":"F",
+    "status_ting":"F",
+    "name_type":"不改"
+    }
+  }
+]
+}
