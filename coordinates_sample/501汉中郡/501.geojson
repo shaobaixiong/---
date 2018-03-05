@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.01698,32.70456 ]
+    },
+    "properties": {
+    "county_han":"西城县",
+    "county_xin":"西城县",
+    "SOURCE":"CHGIS",
+    "ID":50101,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.39716,32.8684 ]
+    },
+    "properties": {
+    "county_han":"旬阳县",
+    "county_xin":"旬阳县",
+    "SOURCE":"CHGIS",
+    "ID":50102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.04581,33.07615 ]
+    },
+    "properties": {
+    "county_han":"南郑县",
+    "county_xin":"南郑县",
+    "SOURCE":"CHGIS",
+    "ID":50103,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.95345,33.18897 ]
+    },
+    "properties": {
+    "county_han":"褒中县",
+    "county_xin":"褒中县",
+    "SOURCE":"CHGIS",
+    "ID":50104,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.72715,32.05897 ]
+    },
+    "properties": {
+    "county_han":"房陵县",
+    "county_xin":"房陵县",
+    "SOURCE":"CHGIS",
+    "ID":50105,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.450607,33.34277 ]
+    },
+    "properties": {
+    "county_han":"安阳县",
+    "county_xin":"安阳县",
+    "SOURCE":"CHGIS",
+    "ID":50106,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.3716,33.14826 ]
+    },
+    "properties": {
+    "county_han":"成固县",
+    "county_xin":"成固县",
+    "SOURCE":"CHGIS",
+    "ID":50107,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.70516,33.14754 ]
+    },
+    "properties": {
+    "county_han":"沔阳县",
+    "county_xin":"沔阳县",
+    "SOURCE":"CHGIS",
+    "ID":50108,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.96613,32.26227 ]
+    },
+    "properties": {
+    "county_han":"武陵县",
+    "county_xin":"武陵县",
+    "SOURCE":"CHGIS",
+    "ID":50110,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.10535,32.07405 ]
+    },
+    "properties": {
+    "county_han":"上庸县",
+    "county_xin":"上庸县",
+    "SOURCE":"CHGIS",
+    "ID":50111,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.35402,32.96421 ]
+    },
+    "properties": {
+    "county_han":"长利县",
+    "county_xin":"长利县",
+    "SOURCE":"CHGIS",
+    "ID":50112,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.0947033,32.8122883 ]
+    },
+    "properties": {
+    "county_han":"钖县",
+    "county_xin":"钖治县",
+    "SOURCE":"PUBLICATION",
+    "ID":50109,
+    "name_type":"治"
+    }
+  }
+]
+}

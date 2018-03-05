@@ -1,0 +1,187 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.388866,30.7839144 ]
+    },
+    "properties": {
+    "county_han":"广汉县",
+    "county_xin":"广信县",
+    "SOURCE":"PUBLICATION",
+    "ID":50206,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.2602583,32.8662383 ]
+    },
+    "properties": {
+    "county_han":"甸氐道",
+    "county_xin":"致治县",
+    "SOURCE":"PUBLICATION",
+    "ID":50210,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.3557673,32.6228233 ]
+    },
+    "properties": {
+    "county_han":"白水县",
+    "county_xin":"白水县",
+    "SOURCE":"PUBLICATION",
+    "ID":50211,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.5381473,32.4070203 ]
+    },
+    "properties": {
+    "county_han":"刚氐道",
+    "county_xin":"刚氐道县",
+    "SOURCE":"PUBLICATION",
+    "ID":50212,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.4010423,33.1856923 ]
+    },
+    "properties": {
+    "county_han":"阴平道",
+    "county_xin":"摧虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":50213,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.157448,31.637432 ]
+    },
+    "properties": {
+    "county_han":"梓潼县",
+    "county_xin":"子同县",
+    "SOURCE":"CHGIS",
+    "ID":50201,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.17404,31.13427 ]
+    },
+    "properties": {
+    "county_han":"汁方县",
+    "county_xin":"美信县",
+    "SOURCE":"CHGIS",
+    "ID":50202,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.76017,31.476259 ]
+    },
+    "properties": {
+    "county_han":"涪县",
+    "county_xin":"统睦县",
+    "SOURCE":"CHGIS",
+    "ID":50203,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.30632,30.99499 ]
+    },
+    "properties": {
+    "county_han":"雒县",
+    "county_xin":"吾雒县",
+    "SOURCE":"CHGIS",
+    "ID":50204,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.418457,31.242928 ]
+    },
+    "properties": {
+    "county_han":"绵竹县",
+    "county_xin":"绵竹县",
+    "SOURCE":"CHGIS",
+    "ID":50205,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.71325,32.10274 ]
+    },
+    "properties": {
+    "county_han":"葭明县",
+    "county_xin":"葭明县",
+    "SOURCE":"CHGIS",
+    "ID":50207,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.089134,30.766138 ]
+    },
+    "properties": {
+    "county_han":"郪县",
+    "county_xin":"郪县",
+    "SOURCE":"CHGIS",
+    "ID":50208,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.17057,30.83234 ]
+    },
+    "properties": {
+    "county_han":"新都县",
+    "county_xin":"新都县",
+    "SOURCE":"CHGIS",
+    "ID":50209,
+    "name_type":"不改"
+    }
+  }
+]
+}

@@ -1,0 +1,285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7335154,39.6920991 ]
+    },
+    "properties": {
+    "county_han":"平定县",
+    "county_xin":"阴平亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":70704,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.1797184,40.0301231 ]
+    },
+    "properties": {
+    "county_han":"美稷县",
+    "county_xin":"美稷县",
+    "SOURCE":"PUBLICATION",
+    "ID":70705,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8815477,37.2668816 ]
+    },
+    "properties": {
+    "county_han":"中阳县",
+    "county_xin":"中阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":70706,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.1325244,37.6265632 ]
+    },
+    "properties": {
+    "county_han":"皋狼县",
+    "county_xin":"皋狼县",
+    "SOURCE":"PUBLICATION",
+    "ID":70709,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.9339484,39.5666782 ]
+    },
+    "properties": {
+    "county_han":"大成县",
+    "county_xin":"好成县",
+    "SOURCE":"PUBLICATION",
+    "ID":70710,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.6817474,37.1351732 ]
+    },
+    "properties": {
+    "county_han":"平周县",
+    "county_xin":"平周县",
+    "SOURCE":"PUBLICATION",
+    "ID":70714,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.112292,38.7157432 ]
+    },
+    "properties": {
+    "county_han":"鸿门县",
+    "county_xin":"鸿门县",
+    "SOURCE":"PUBLICATION",
+    "ID":70715,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8946254,37.5591452 ]
+    },
+    "properties": {
+    "county_han":"蔺县",
+    "county_xin":"蔺县",
+    "SOURCE":"PUBLICATION",
+    "ID":70716,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.6274104,39.8631521 ]
+    },
+    "properties": {
+    "county_han":"增山县",
+    "county_xin":"增山县",
+    "SOURCE":"PUBLICATION",
+    "ID":70719,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.1937794,38.6046571 ]
+    },
+    "properties": {
+    "county_han":"圜阳县",
+    "county_xin":"圜阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":70720,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.9552424,39.7306041 ]
+    },
+    "properties": {
+    "county_han":"广衍县",
+    "county_xin":"广衍县",
+    "SOURCE":"PUBLICATION",
+    "ID":70721,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.3834874,39.3698811 ]
+    },
+    "properties": {
+    "county_han":"虎猛县",
+    "county_xin":"虎猛县",
+    "SOURCE":"PUBLICATION",
+    "ID":70723,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.0609598,37.5123843 ]
+    },
+    "properties": {
+    "county_han":"离石县",
+    "county_xin":"离石县",
+    "SOURCE":"PUBLICATION",
+    "ID":70724,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8789514,39.5959022 ]
+    },
+    "properties": {
+    "county_han":"穀罗县",
+    "county_xin":"穀罗县",
+    "SOURCE":"PUBLICATION",
+    "ID":70725,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7778274,37.4134452 ]
+    },
+    "properties": {
+    "county_han":"隰成县",
+    "county_xin":"慈平亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":70728,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.1016304,38.1745902 ]
+    },
+    "properties": {
+    "county_han":"临水县",
+    "county_xin":"监水县",
+    "SOURCE":"PUBLICATION",
+    "ID":70729,
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8093204,37.0009892 ]
+    },
+    "properties": {
+    "county_han":"土军县",
+    "county_xin":"土军县",
+    "SOURCE":"PUBLICATION",
+    "ID":70730,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.3858134,39.6695201 ]
+    },
+    "properties": {
+    "county_han":"富昌县",
+    "county_xin":"富成县",
+    "SOURCE":"PUBLICATION",
+    "ID":70701,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.29407,38.555 ]
+    },
+    "properties": {
+    "county_han":"圜阴县",
+    "county_xin":"方阴县",
+    "SOURCE":"CHGIS",
+    "ID":70712,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.2491654,36.0820672 ]
+    },
+    "properties": {
+    "county_han":"阴山县",
+    "county_xin":"山宁县",
+    "SOURCE":"PUBLICATION",
+    "ID":70733,
+    "name_type":"半嘉名"
+    }
+  }
+]
+}
