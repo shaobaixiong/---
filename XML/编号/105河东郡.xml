@@ -1,4 +1,5 @@
-<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
 <pref ref="210217">
     <name>河东郡</name>
     <meta walled="24" pop="962912" family="236896"
@@ -42,5 +43,5 @@
     <county><name>绎</name>，<hist>晋武公自曲沃徙此。</hist><quote type="resource"
         >有<name>铁官</name>。</quote></county>
     <county><name>狐讘</name>。</county>
-    <county><name>骐</name>。侯国。</county>
+    <county note="侯国"><name>骐</name>。侯国。</county>
 </pref>

@@ -1,4 +1,4 @@
-<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../Schema/%E6%A8%A1f%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
 <pref ref="104">
     <name>弘农郡</name>
     <meta county="11" family="118091" pop="475954"
