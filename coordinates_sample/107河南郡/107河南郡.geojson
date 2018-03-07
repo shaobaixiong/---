@@ -1,0 +1,313 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6366653,34.741827 ]
+    },
+    "properties": {
+    "county_han":"洛阳县",
+    "county_xin":"宜阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":10701,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.860309,34.766757 ]
+    },
+    "properties": {
+    "county_han":"鞏县",
+    "county_xin":"鞏县",
+    "SOURCE":"PUBLICATION",
+    "ID":10713,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.2715244,34.7388662 ]
+    },
+    "properties": {
+    "county_han":"谷成县",
+    "county_xin":"谷成县",
+    "SOURCE":"PUBLICATION",
+    "ID":10714,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6689674,34.1816003 ]
+    },
+    "properties": {
+    "county_han":"梁县",
+    "county_xin":"梁县",
+    "SOURCE":"PUBLICATION",
+    "ID":10721,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.53442,34.87436 ]
+    },
+    "properties": {
+    "county_han":"荥阳县",
+    "county_xin":"荥阳县",
+    "SOURCE":"CHGIS",
+    "ID":10702,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.805,34.72062 ]
+    },
+    "properties": {
+    "county_han":"偃师县",
+    "county_xin":"偃师县",
+    "SOURCE":"CHGIS",
+    "ID":10703,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.43846,34.71545 ]
+    },
+    "properties": {
+    "county_han":"京县",
+    "county_xin":"京县",
+    "SOURCE":"CHGIS",
+    "ID":10704,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.64783,34.81961 ]
+    },
+    "properties": {
+    "county_han":"平阴县",
+    "county_xin":"平阴县",
+    "SOURCE":"CHGIS",
+    "ID":10705,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.05868,34.73158 ]
+    },
+    "properties": {
+    "county_han":"中牟县",
+    "county_xin":"中牟县",
+    "SOURCE":"CHGIS",
+    "ID":10706,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.94898,34.81825 ]
+    },
+    "properties": {
+    "county_han":"平县",
+    "county_xin":"治平县",
+    "SOURCE":"CHGIS",
+    "ID":10707,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0983,34.98309 ]
+    },
+    "properties": {
+    "county_han":"阳武县",
+    "county_xin":"阳桓县",
+    "SOURCE":"CHGIS",
+    "ID":10708,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.41652,34.67085 ]
+    },
+    "properties": {
+    "county_han":"河南县",
+    "county_xin":"河南县",
+    "SOURCE":"CHGIS",
+    "ID":10709,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.84392,34.58003 ]
+    },
+    "properties": {
+    "county_han":"缑氏县",
+    "county_xin":"中亭县",
+    "SOURCE":"CHGIS",
+    "ID":10710,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.78767,35.03897 ]
+    },
+    "properties": {
+    "county_han":"卷县",
+    "county_xin":"卷县",
+    "SOURCE":"CHGIS",
+    "ID":10711,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.96297,35.05195 ]
+    },
+    "properties": {
+    "county_han":"原武县",
+    "county_xin":"原桓县",
+    "SOURCE":"CHGIS",
+    "ID":10712,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.54451,34.89021 ]
+    },
+    "properties": {
+    "county_han":"故市县",
+    "county_xin":"故市县",
+    "SOURCE":"CHGIS",
+    "ID":10715,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.49292,34.44397 ]
+    },
+    "properties": {
+    "county_han":"密县",
+    "county_xin":"密县",
+    "SOURCE":"CHGIS",
+    "ID":10716,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.39502,34.39771 ]
+    },
+    "properties": {
+    "county_han":"新成县",
+    "county_xin":"新成县",
+    "SOURCE":"CHGIS",
+    "ID":10717,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.29403,34.59517 ]
+    },
+    "properties": {
+    "county_han":"开封县",
+    "county_xin":"开封县",
+    "SOURCE":"CHGIS",
+    "ID":10718,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.19088,34.85169 ]
+    },
+    "properties": {
+    "county_han":"成皋县",
+    "county_xin":"成皋县",
+    "SOURCE":"CHGIS",
+    "ID":10719,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.84439,34.4624 ]
+    },
+    "properties": {
+    "county_han":"苑陵县",
+    "county_xin":"左亭县",
+    "SOURCE":"CHGIS",
+    "ID":10720,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.71909,34.39732 ]
+    },
+    "properties": {
+    "county_han":"新郑县",
+    "county_xin":"新郑县",
+    "SOURCE":"CHGIS",
+    "ID":10722,
+    "name_type":"不改"
+    }
+  }
+]
+}
