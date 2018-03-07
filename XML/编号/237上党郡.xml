@@ -1,0 +1,29 @@
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="210169">
+    <name>上党郡</name>
+    <meta pop="337766" family="73798" county="14"
+        >秦置，属并州。有上党关、壶口关、石研关、天井关。户七万三千七百九十八，口三十三万七千七百六十六。县十四。</meta>
+    <county><name>长子</name>，周史辛甲所封。<quote type="mount"><name>鹿谷山</name></quote>，<quote
+        type="river"><name>浊漳水</name>所出</quote>，东至邺入清漳。</county>
+    <county><name>屯留</name>，桑钦言,<quote type="river"><name>绛水</name>出西南</quote>，东入海。</county>
+    <county><name>余吾</name>。</county>
+    <county><name>铜鞮</name>，<quote type="sett">有<name>上虒亭</name></quote>，<quote type="sett"
+        ><name>下虒聚</name></quote>。</county>
+    <county><name>沾</name>。<quote type="valley"><name>大黾谷</name></quote>，<quote type="river"
+        ><name>清漳水</name>所出</quote>，东北至邑成入大河，过郡五，行千六百八十里，冀州川。</county>
+    <county><name>涅</name>，<quote type="river"><name>氏涅水</name></quote>也。</county>
+    <county><name>襄垣</name>，莽曰<wname type="亭">上党亭</wname>。</county>
+    <county><name>壶关</name>，<quote type="undetermined">有<name>羊肠阪</name>。</quote><quote
+        type="river"><name>沾水</name>东至朝歌入淇。</quote></county>
+    <county><name>泫氏</name>，<quote type="valley"><name>杨谷</name></quote>，<quote type="river"
+        ><name>绝水</name>所出</quote>，南至野王人沁。</county>
+    <county><name>高都</name>，<quote type="valley"><name>莞谷</name></quote>，<quote type="river"
+        ><name>丹水</name>所出</quote>，东南入泫水。<quote type="mili"
+            >有<name>天井关</name>。</quote></county>
+    <county><name>潞</name>，故潞子国。</county>
+    <county><name>陭氏</name>。</county>
+    <county><name>阳阿</name>。</county>
+    <county><name>谷远</name>。<quote type="valley"><name>羊头山世靡谷</name></quote>，<quote
+        type="river"
+        ><name>沁水</name>所出</quote>，东南至荥阳入河，过郡三，行九百七十里。莽曰<wname type="反">谷近</wname>。</county>
+</pref>

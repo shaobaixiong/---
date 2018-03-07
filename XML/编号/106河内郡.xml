@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="210688"><name>河内郡</name>
+    <meta county="18" family="241246" pop="1067097"
+        >高帝元年为殷国，二年更名。莽曰<wname type="意义">后队</wname>，属司隶。户二十四万一千二百四十六，口百六万七千九十七。县十八。</meta>
+    <county><name>怀</name>，<quote type="admin"
+        >有<name>工官</name>。</quote>莽曰<wname type="重地">河内</wname>。</county>
+    <county><name>汲</name>。</county>
+    <county><name>武德</name>。</county>
+    <county><name>波</name>。</county>
+    <county><name>山阳</name>，<quote type="mount"><name>东太行山</name>在西北。</quote></county>
+    <county><name>河阳</name>，莽曰<wname type="亭">河亭</wname>。</county>
+    <county><name>州</name>。</county>
+    <county><name>共</name>，故国。<quote type="mount"><name>北山</name></quote>，<quote
+        type="river" nature="tributary"><name>淇水</name>所出，东至黎阳入河。</quote></county>
+    <county><name>平皋</name>。</county>
+    <county><name>朝歌</name>，<hist>纣所都</hist>。周武王弟康叔所封。更名卫。莽曰<wname type="半嘉名">雅歌</wname>。</county>
+    <county><name>修武</name>。</county>
+    <county><name>温</name>，故国，己姓，苏忿生所封也。</county>
+    <county><name>野王</name>，<quote type="mount"
+        ><name>太行山</name>在西北。</quote>卫元君为秦所夺，自濮阳徙此。莽曰<wname type="改一">平野</wname>。</county>
+    <county><name>获嘉</name>，故汲之新中乡，<time>武帝行过更名也。</time></county>
+    <county><name>轵</name>。</county>
+    <county><name>沁水</name>。</county>
+    <county><name>隆虑</name>，<quote type="river" nature="interpref"
+        ><name>国水</name>东北至信成入张甲河，过郡三，行千八百四十里。</quote>有铁官。</county>
+    <county><name>荡阴</name>。<quote nature="tributary" type="river"
+        ><name>荡水</name>东至内黄泽。</quote><quote type="mount"><name>西山</name></quote>，<quote
+            type="river" nature="tributary">羑水所出，亦至内黄入荡。</quote><quote type="walled"
+                >有羑里城</quote>，西伯所拘也。</county></pref>

@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.32951,35.09044 ]
+    },
+    "properties": {
+    "county_han":"怀县",
+    "county_xin":"河内县",
+    "SOURCE":"CHGIS",
+    "ID":10601,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.96856,35.38237 ]
+    },
+    "properties": {
+    "county_han":"汲县",
+    "county_xin":"汲县",
+    "SOURCE":"CHGIS",
+    "ID":10602,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.44887,35.06432 ]
+    },
+    "properties": {
+    "county_han":"武德县",
+    "county_xin":"武德县",
+    "SOURCE":"CHGIS",
+    "ID":10603,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.71826,35.042 ]
+    },
+    "properties": {
+    "county_han":"波县",
+    "county_xin":"波县",
+    "SOURCE":"CHGIS",
+    "ID":10604,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.30097,35.24853 ]
+    },
+    "properties": {
+    "county_han":"山阳县",
+    "county_xin":"山阳县",
+    "SOURCE":"CHGIS",
+    "ID":10605,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.59556,34.92004 ]
+    },
+    "properties": {
+    "county_han":"河阳县",
+    "county_xin":"河亭县",
+    "SOURCE":"CHGIS",
+    "ID":10606,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.14046,35.03095 ]
+    },
+    "properties": {
+    "county_han":"州县",
+    "county_xin":"州县",
+    "SOURCE":"CHGIS",
+    "ID":10607,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.79414,35.45868 ]
+    },
+    "properties": {
+    "county_han":"共县",
+    "county_xin":"共县",
+    "SOURCE":"CHGIS",
+    "ID":10608,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.1805,34.95191 ]
+    },
+    "properties": {
+    "county_han":"平皋县",
+    "county_xin":"平皋县",
+    "SOURCE":"CHGIS",
+    "ID":10609,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.19437,35.60645 ]
+    },
+    "properties": {
+    "county_han":"朝歌县",
+    "county_xin":"雅歌县",
+    "SOURCE":"CHGIS",
+    "ID":10610,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.66022,35.26813 ]
+    },
+    "properties": {
+    "county_han":"修武县",
+    "county_xin":"修武县",
+    "SOURCE":"CHGIS",
+    "ID":10611,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.95067,34.91056 ]
+    },
+    "properties": {
+    "county_han":"温县",
+    "county_xin":"温县",
+    "SOURCE":"CHGIS",
+    "ID":10612,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.93699,35.0893 ]
+    },
+    "properties": {
+    "county_han":"野王县",
+    "county_xin":"平野县",
+    "SOURCE":"CHGIS",
+    "ID":10613,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.78211,35.18605 ]
+    },
+    "properties": {
+    "county_han":"获嘉县",
+    "county_xin":"获嘉县",
+    "SOURCE":"CHGIS",
+    "ID":10614,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.58481,35.04504 ]
+    },
+    "properties": {
+    "county_han":"轵县",
+    "county_xin":"轵县",
+    "SOURCE":"CHGIS",
+    "ID":10615,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.72715,35.13372 ]
+    },
+    "properties": {
+    "county_han":"沁水县",
+    "county_xin":"沁水县",
+    "SOURCE":"CHGIS",
+    "ID":10616,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8128,36.0688 ]
+    },
+    "properties": {
+    "county_han":"隆虑县",
+    "county_xin":"隆虑县",
+    "SOURCE":"CHGIS",
+    "ID":10617,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.35269,35.92552 ]
+    },
+    "properties": {
+    "county_han":"荡阴县",
+    "county_xin":"荡阴县",
+    "SOURCE":"CHGIS",
+    "ID":10618,
+    "name_type":"不改"
+    }
+  }
+]
+}

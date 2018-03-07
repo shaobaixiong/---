@@ -1,0 +1,201 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.863149,36.116395 ]
+    },
+    "properties": {
+    "county_han":"长子县",
+    "county_xin":"长子县",
+    "SOURCE":"CHGIS",
+    "ID":23701,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.898415,36.257992 ]
+    },
+    "properties": {
+    "county_han":"屯留县",
+    "county_xin":"屯留县",
+    "SOURCE":"CHGIS",
+    "ID":23702,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.82692,36.378372 ]
+    },
+    "properties": {
+    "county_han":"余吾县",
+    "county_xin":"余吾县",
+    "SOURCE":"CHGIS",
+    "ID":23703,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.833912,36.533705 ]
+    },
+    "properties": {
+    "county_han":"铜鞮县",
+    "county_xin":"铜鞮县",
+    "SOURCE":"CHGIS",
+    "ID":23704,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.663254,36.944366 ]
+    },
+    "properties": {
+    "county_han":"涅县",
+    "county_xin":"涅县",
+    "SOURCE":"CHGIS",
+    "ID":23706,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.048134,36.538223 ]
+    },
+    "properties": {
+    "county_han":"襄垣县",
+    "county_xin":"上党亭县",
+    "SOURCE":"CHGIS",
+    "ID":23707,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.103485,36.183537 ]
+    },
+    "properties": {
+    "county_han":"壶关县",
+    "county_xin":"壶关县",
+    "SOURCE":"CHGIS",
+    "ID":23708,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.919586,35.792057 ]
+    },
+    "properties": {
+    "county_han":"泫氏县",
+    "county_xin":"泫氏县",
+    "SOURCE":"CHGIS",
+    "ID":23709,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.839157,35.504318 ]
+    },
+    "properties": {
+    "county_han":"高都县",
+    "county_xin":"高都县",
+    "SOURCE":"CHGIS",
+    "ID":23710,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.305124,35.6065 ]
+    },
+    "properties": {
+    "county_han":"阳阿县",
+    "county_xin":"阳阿县",
+    "SOURCE":"CHGIS",
+    "ID":23713,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.2175444,36.1254242 ]
+    },
+    "properties": {
+    "county_han":"陭氏县",
+    "county_xin":"陭氏县",
+    "SOURCE":"PUBLICATION",
+    "ID":23712,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.3212164,36.4987372 ]
+    },
+    "properties": {
+    "county_han":"谷远县",
+    "county_xin":"谷近县",
+    "SOURCE":"PUBLICATION",
+    "ID":23714,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.2927434,36.4616522 ]
+    },
+    "properties": {
+    "county_han":"潞县",
+    "county_xin":"潞县",
+    "SOURCE":"PUBLICATION",
+    "ID":23711,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.6522854,37.5116542 ]
+    },
+    "properties": {
+    "county_han":"沾县",
+    "county_xin":"沾县",
+    "SOURCE":"PUBLICATION",
+    "ID":23705,
+    "name_type":"不改"
+    }
+  }
+]
+}
