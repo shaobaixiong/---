@@ -1,0 +1,285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.0581204,34.4595532 ]
+    },
+    "properties": {
+    "county_han":"崈高县",
+    "county_xin":"崈高县",
+    "SOURCE":"PUBLICATION",
+    "ID":20112,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.46706,34.16249 ]
+    },
+    "properties": {
+    "county_han":"阳翟县",
+    "county_xin":"颍川县",
+    "SOURCE":"CHGIS",
+    "ID":20101,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.34553,33.6233 ]
+    },
+    "properties": {
+    "county_han":"昆阳县",
+    "county_xin":"昆阳县",
+    "SOURCE":"CHGIS",
+    "ID":20102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.58825,33.97408 ]
+    },
+    "properties": {
+    "county_han":"颍阳县",
+    "county_xin":"颍阳县",
+    "SOURCE":"CHGIS",
+    "ID":20103,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.68587,33.61924 ]
+    },
+    "properties": {
+    "county_han":"定陵县",
+    "county_xin":"定城县",
+    "SOURCE":"CHGIS",
+    "ID":20104,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.85049,34.2299 ]
+    },
+    "properties": {
+    "county_han":"长社县",
+    "county_xin":"长社县",
+    "SOURCE":"CHGIS",
+    "ID":20105,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.33254,33.99267 ]
+    },
+    "properties": {
+    "county_han":"新汲县",
+    "county_xin":"新汲县",
+    "SOURCE":"CHGIS",
+    "ID":20106,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.47237,33.85369 ]
+    },
+    "properties": {
+    "county_han":"襄城县",
+    "county_xin":"相成县",
+    "SOURCE":"CHGIS",
+    "ID":20107,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.97672,33.57136 ]
+    },
+    "properties": {
+    "county_han":"郾县",
+    "county_xin":"郾县",
+    "SOURCE":"CHGIS",
+    "ID":20108,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.20341,33.97205 ]
+    },
+    "properties": {
+    "county_han":"郏县",
+    "county_xin":"郏县",
+    "SOURCE":"CHGIS",
+    "ID":20109,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.47815,33.49147 ]
+    },
+    "properties": {
+    "county_han":"舞阳县",
+    "county_xin":"舞阳县",
+    "SOURCE":"CHGIS",
+    "ID":20110,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.81975,34.03139 ]
+    },
+    "properties": {
+    "county_han":"颍阴县",
+    "county_xin":"颍阴县",
+    "SOURCE":"CHGIS",
+    "ID":20111,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.00971,33.99189 ]
+    },
+    "properties": {
+    "county_han":"许县",
+    "county_xin":"许县",
+    "SOURCE":"CHGIS",
+    "ID":20113,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.17869,34.18715 ]
+    },
+    "properties": {
+    "county_han":"鄢陵县",
+    "county_xin":"左亭县",
+    "SOURCE":"CHGIS",
+    "ID":20114,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.91074,33.86964 ]
+    },
+    "properties": {
+    "county_han":"临颍县",
+    "county_xin":"监颍县",
+    "SOURCE":"CHGIS",
+    "ID":20115,
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.25924,33.84697 ]
+    },
+    "properties": {
+    "county_han":"父城县",
+    "county_xin":"父城县",
+    "SOURCE":"CHGIS",
+    "ID":20116,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.93696,34.09781 ]
+    },
+    "properties": {
+    "county_han":"成安侯国",
+    "county_xin":"成安县",
+    "SOURCE":"CHGIS",
+    "ID":20117,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.88062,34.27426 ]
+    },
+    "properties": {
+    "county_han":"周承休侯国",
+    "county_xin":"嘉美县",
+    "SOURCE":"CHGIS",
+    "ID":20118,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.14677,34.40044 ]
+    },
+    "properties": {
+    "county_han":"阳城县",
+    "county_xin":"阳城县",
+    "SOURCE":"CHGIS",
+    "ID":20119,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.74514,34.42054 ]
+    },
+    "properties": {
+    "county_han":"纶氏县",
+    "county_xin":"纶氏县",
+    "SOURCE":"CHGIS",
+    "ID":20120,
+    "name_type":"不改"
+    }
+  }
+]
+}

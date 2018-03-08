@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="210732">
+    <name>颍川郡</name>
+    <meta walled="20" family="432491" pop="2210973">秦置。高帝五年为韩国，六年复故。莽曰<wname type="意义">左队</wname>，阳翟有工官。属豫州。户四十三万二千四百九十一，口二百二十一万九百七十三，县二十。</meta>
+    <county><name>阳翟</name>，夏禹国。（<quote type="admin">阳翟有<name>工官</name>。</quote>）<hist>周末，韩景侯自新郑徙此。</hist>户四万一千六百五十，口十万九千。莽曰<wname type="重地">颍川</wname>。</county>
+    <county><name>昆阳</name>。</county>
+    <county><name>颍阳</name>。</county>
+    <county><name>定陵</name>，<quote type="walled" type2="mili">有<name>东不羹</name>。</quote>莽曰<wname type="城">定城</wname>。</county>
+    <county><name>长社</name>。</county>
+    <county><name>新汲</name>。</county>
+    <county><name>襄城</name>，<quote type2="mili" type="walled">有<name>西不羹</name>。</quote>莽曰<wname type="城">相成</wname>。</county>
+    <county><name>郾</name>。</county>
+    <county><name>郏</name>。</county>
+    <county><name>舞阳</name>。</county>
+    <county><name>颍阴</name>。</county>
+    <county><name>崇高</name>，<time>武帝置</time>，<quote type="mount">以奉<name>太室山</name></quote>，是为中岳。<quote type="shrine">有<name>太室、少室山庙</name>。</quote>古文以崇高为外方山也。</county>
+    <county><name>许</name>。故国姜姓，四岳后，太叔所封，二十四世为楚所灭。</county>
+    <county><name>鄢陵</name>，户四九千一百一，口二十六万一千四百一十八。莽曰<wname type="亭">左亭</wname>。</county>
+    <county><name>临颍</name>，莽曰<wname type="监">监颍</wname>。</county>
+    <county><name>父城</name>，<quote type="sett"><name>应乡</name></quote>，故国，周武王弟所封。</county>
+    <county note="侯国"><name>成安</name>，侯国也。</county>
+    <county note="侯国"><name>周承休</name>，侯国，<time>元帝置，元始二年更名郑公</time>。莽曰<wname type="嘉名">嘉美</wname>。</county>
+    <county><name>阳城</name>，<quote type="mount"><name>阳城山</name></quote>，<quote type="river" nature="interpref"><name>洧水</name>所出，东南至长平入颍，过郡三，行五百里。</quote><quote type="mount"><name>阳乾山</name></quote>，<quote type="river" nature="interpref"><name>颍水</name>所出，东至下蔡入淮，过郡三，行千五百里，荆州浸。</quote><quote type="resource">有<name>铁官</name>。</quote></county>
+    <county><name>纶氏</name>。</county>
+</pref>

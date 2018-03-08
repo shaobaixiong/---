@@ -1,0 +1,299 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.9194174,35.6648172 ]
+    },
+    "properties": {
+    "county_han":"濮阳县",
+    "county_xin":"治亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":21601,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1120764,35.8591702 ]
+    },
+    "properties": {
+    "county_han":"畔观县",
+    "county_xin":"观治县",
+    "SOURCE":"PUBLICATION",
+    "ID":21602,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.1539064,36.5104612 ]
+    },
+    "properties": {
+    "county_han":"茬平县",
+    "county_xin":"功崇县",
+    "SOURCE":"PUBLICATION",
+    "ID":21607,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2444884,35.5784512 ]
+    },
+    "properties": {
+    "county_han":"离狐县",
+    "county_xin":"瑞狐县",
+    "SOURCE":"PUBLICATION",
+    "ID":21613,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1328734,36.1329242 ]
+    },
+    "properties": {
+    "county_han":"乐昌县",
+    "county_xin":"乐昌县",
+    "SOURCE":"PUBLICATION",
+    "ID":21618,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.3128434,35.3191352 ]
+    },
+    "properties": {
+    "county_han":"南燕县",
+    "county_xin":"南燕县",
+    "SOURCE":"PUBLICATION",
+    "ID":21621,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.94583,36.50843 ]
+    },
+    "properties": {
+    "county_han":"聊城县",
+    "county_xin":"聊城县",
+    "SOURCE":"CHGIS",
+    "ID":21603,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.0365,35.86877 ]
+    },
+    "properties": {
+    "county_han":"顿丘县",
+    "county_xin":"顺丘县",
+    "SOURCE":"CHGIS",
+    "ID":21604,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.59058,36.45839 ]
+    },
+    "properties": {
+    "county_han":"发干县",
+    "county_xin":"戢楯县",
+    "SOURCE":"CHGIS",
+    "ID":21605,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.05293,35.84589 ]
+    },
+    "properties": {
+    "county_han":"范县",
+    "county_xin":"建睦县",
+    "SOURCE":"CHGIS",
+    "ID":21606,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.64565,36.17192 ]
+    },
+    "properties": {
+    "county_han":"东武阳县",
+    "county_xin":"武昌县",
+    "SOURCE":"CHGIS",
+    "ID":21608,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.97182,36.6289 ]
+    },
+    "properties": {
+    "county_han":"博平县",
+    "county_xin":"加睦县",
+    "SOURCE":"CHGIS",
+    "ID":21609,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.75971,35.5593 ]
+    },
+    "properties": {
+    "county_han":"黎县",
+    "county_xin":"黎治县",
+    "SOURCE":"CHGIS",
+    "ID":21610,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.80816,36.41499 ]
+    },
+    "properties": {
+    "county_han":"清县",
+    "county_xin":"清治县",
+    "SOURCE":"CHGIS",
+    "ID":21611,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0467,36.16054 ]
+    },
+    "properties": {
+    "county_han":"东阿县",
+    "county_xin":"东阿县",
+    "SOURCE":"CHGIS",
+    "ID":21612,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.23823,36.32856 ]
+    },
+    "properties": {
+    "county_han":"临邑县",
+    "county_xin":"榖城亭县",
+    "SOURCE":"CHGIS",
+    "ID":21614,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.28256,35.95607 ]
+    },
+    "properties": {
+    "county_han":"须昌县",
+    "county_xin":"须昌县",
+    "SOURCE":"CHGIS",
+    "ID":21616,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.27509,35.88143 ]
+    },
+    "properties": {
+    "county_han":"寿良县",
+    "county_xin":"寿良县",
+    "SOURCE":"CHGIS",
+    "ID":21617,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.66508,36.23671 ]
+    },
+    "properties": {
+    "county_han":"阳平侯国",
+    "county_xin":"阳平县",
+    "SOURCE":"CHGIS",
+    "ID":21619,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.70915,35.5351 ]
+    },
+    "properties": {
+    "county_han":"白马县",
+    "county_xin":"白马县",
+    "SOURCE":"CHGIS",
+    "ID":21620,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.72617,35.63647 ]
+    },
+    "properties": {
+    "county_han":"廪丘县",
+    "county_xin":"廪丘县",
+    "SOURCE":"CHGIS",
+    "ID":21622,
+    "name_type":"不改"
+    }
+  }
+]
+}

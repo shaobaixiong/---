@@ -1,0 +1,243 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.0524034,34.4246263 ]
+    },
+    "properties": {
+    "county_han":"襄邑",
+    "county_xin":"襄平县",
+    "SOURCE":"PUBLICATION",
+    "ID":21708,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.6316774,35.4144272 ]
+    },
+    "properties": {
+    "county_han":"长罗侯国",
+    "county_xin":"惠泽县",
+    "SOURCE":"PUBLICATION",
+    "ID":21711,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.7044074,35.2314412 ]
+    },
+    "properties": {
+    "county_han":"长垣县",
+    "county_xin":"长固县",
+    "SOURCE":"PUBLICATION",
+    "ID":21714,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.4783854,35.0671462 ]
+    },
+    "properties": {
+    "county_han":"平丘县",
+    "county_xin":"平丘县",
+    "SOURCE":"PUBLICATION",
+    "ID":21715,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.52453,34.67319 ]
+    },
+    "properties": {
+    "county_han":"陈留县",
+    "county_xin":"陈留县",
+    "SOURCE":"CHGIS",
+    "ID":21701,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.47829,34.78681 ]
+    },
+    "properties": {
+    "county_han":"小黄县",
+    "county_xin":"小黄县",
+    "SOURCE":"CHGIS",
+    "ID":21702,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2944064,34.8558892 ]
+    },
+    "properties": {
+    "county_han":"成安县",
+    "county_xin":"成安县",
+    "SOURCE":"PUBLICATION",
+    "ID":21703,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.31537,34.44598 ]
+    },
+    "properties": {
+    "county_han":"宁陵县",
+    "county_xin":"康善县",
+    "SOURCE":"CHGIS",
+    "ID":21704,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.77448,34.55351 ]
+    },
+    "properties": {
+    "county_han":"雍丘县",
+    "county_xin":"雍丘县",
+    "SOURCE":"CHGIS",
+    "ID":21705,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.06642,35.13857 ]
+    },
+    "properties": {
+    "county_han":"酸枣县",
+    "county_xin":"酸枣县",
+    "SOURCE":"CHGIS",
+    "ID":21706,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.85936,34.92438 ]
+    },
+    "properties": {
+    "county_han":"东昏县",
+    "county_xin":"东明县",
+    "SOURCE":"CHGIS",
+    "ID":21707,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.96721,34.75629 ]
+    },
+    "properties": {
+    "county_han":"外黄县",
+    "county_xin":"外黄县",
+    "SOURCE":"CHGIS",
+    "ID":21709,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.40883,35.03968 ]
+    },
+    "properties": {
+    "county_han":"封丘县",
+    "county_xin":"封丘县",
+    "SOURCE":"CHGIS",
+    "ID":21710,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.18077,34.41345 ]
+    },
+    "properties": {
+    "county_han":"尉氏县",
+    "county_xin":"尉氏县",
+    "SOURCE":"CHGIS",
+    "ID":21712,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2998474,34.2631693 ]
+    },
+    "properties": {
+    "county_han":"鄢县",
+    "county_xin":"顺通县",
+    "SOURCE":"PUBLICATION",
+    "ID":21713,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.95262,34.96236 ]
+    },
+    "properties": {
+    "county_han":"济阳县",
+    "county_xin":"济前县",
+    "SOURCE":"CHGIS",
+    "ID":21716,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.34333,34.78548 ]
+    },
+    "properties": {
+    "county_han":"浚仪县",
+    "county_xin":"浚仪县",
+    "SOURCE":"CHGIS",
+    "ID":21717,
+    "name_type":"不改"
+    }
+  }
+]
+}

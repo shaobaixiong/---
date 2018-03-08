@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="dongjun"><name>东郡</name>
+    <meta county="22" family="401297" pop="1659028">秦置。莽曰<wname type="亭">治亭</wname>。属兖州。户四十万一千二百九十七，口百六十五万九千二十八。县二十二。</meta>
+    <county><name>濮阳</name>，<hist>卫成公自楚丘徙此。</hist><hist>故帝丘，颛顼虚。</hist>莽曰<wname type="亭">治亭</wname>。</county>
+    <county><name>畔观</name>，莽曰<wname type="治">观治</wname>。</county>
+    <county><name>聊城</name>。</county>
+    <county><name>顿丘</name>，莽曰<wname type="反">顺丘</wname>。</county>
+    <county><name>发干</name>，莽曰<wname type="反">戢楯</wname>。</county>
+    <county><name>范</name>，莽曰<wname type="嘉名">建睦</wname>。</county>
+    <county><name>茬平</name>，莽曰<wname type="嘉名">功崇</wname>。</county>
+    <county><name>东武阳</name>，<quote type="river" nature="interpref">禹治<name>漯水</name>，东北至千乘入海，过郡三，行千二十里。</quote>莽曰<wname type="改一">武昌</wname>。</county>
+    <county><name>博平</name>，莽曰<wname type="嘉名">加睦</wname>。</county>
+    <county><name>黎</name>，莽曰<wname type="治">黎治</wname>。</county>
+    <county><name>清</name>，莽曰<wname type="治">清治</wname>。</county>
+    <county><name>东阿</name>，<quote type="admin"><name>都尉治</name>。</quote></county>
+    <county><name>离狐</name>，莽曰<wname type="半嘉名">瑞狐</wname>。</county>
+    <county><name>临邑</name>，<quote type="shrine">有<name>泲庙</name>。</quote>莽曰<wname type="亭">榖城亭</wname>。</county>
+    <county><name>利苗</name>。</county>
+    <county><name>须昌</name>，故须句国，太昊后，风姓。</county>
+    <county><name>寿良</name>，<quote type="shrine"><name>蚩尤祠</name>在西北泲上</quote>。<quote type="walled">有<name>胸城</name>。</quote></county>
+    <county><name>乐昌</name>。</county>
+    <county><name>阳平</name>。</county>
+    <county><name>白马</name>。</county>
+    <county><name>南燕</name>，南燕国，姞姓，黄帝后。</county>
+    <county><name>廪丘</name>。</county></pref>

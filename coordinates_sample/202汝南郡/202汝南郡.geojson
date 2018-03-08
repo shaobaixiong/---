@@ -1,0 +1,509 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.56728,33.1555 ]
+    },
+    "properties": {
+    "county_han":"平舆县",
+    "county_xin":"平舆县",
+    "SOURCE":"CHGIS",
+    "ID":20201,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.04666,32.88197 ]
+    },
+    "properties": {
+    "county_han":"阳安县",
+    "county_xin":"阳安县",
+    "SOURCE":"CHGIS",
+    "ID":20202,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.3709583,33.5771923 ]
+    },
+    "properties": {
+    "county_han":"阳城侯国",
+    "county_xin":"新安县",
+    "SOURCE":"CHGIS",
+    "ID":20203,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8203,32.601258 ]
+    },
+    "properties": {
+    "county_han":"富波县",
+    "county_xin":"富波县",
+    "SOURCE":"CHGIS",
+    "ID":20205,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.46083,33.59461 ]
+    },
+    "properties": {
+    "county_han":"女阳县",
+    "county_xin":"女阳县",
+    "SOURCE":"CHGIS",
+    "ID":20206,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.98911,33.14784 ]
+    },
+    "properties": {
+    "county_han":"吴房县",
+    "county_xin":"吴房县",
+    "SOURCE":"CHGIS",
+    "ID":20208,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5967153,32.7364743 ]
+    },
+    "properties": {
+    "county_han":"安成侯国",
+    "county_xin":"至成县",
+    "SOURCE":"PUBLICATION",
+    "ID":20209,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.8367,33.44423 ]
+    },
+    "properties": {
+    "county_han":"南顿县",
+    "county_xin":"南顿县",
+    "SOURCE":"CHGIS",
+    "ID":20210,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.75432,32.74715 ]
+    },
+    "properties": {
+    "county_han":"朗陵县",
+    "county_xin":"朗陵县",
+    "SOURCE":"CHGIS",
+    "ID":20211,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.744444,33.188284 ]
+    },
+    "properties": {
+    "county_han":"细阳县",
+    "county_xin":"乐庆县",
+    "SOURCE":"CHGIS",
+    "ID":20212,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9848703,32.7169583 ]
+    },
+    "properties": {
+    "county_han":"宜春侯国",
+    "county_xin":"宣孱县",
+    "SOURCE":"PUBLICATION",
+    "ID":20213,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.97392,32.75126 ]
+    },
+    "properties": {
+    "county_han":"新蔡县",
+    "county_xin":"新迁县",
+    "SOURCE":"CHGIS",
+    "ID":20215,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.72909,32.34243 ]
+    },
+    "properties": {
+    "county_han":"新息县",
+    "county_xin":"新德县",
+    "SOURCE":"CHGIS",
+    "ID":20216,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.48052,32.34082 ]
+    },
+    "properties": {
+    "county_han":"期思县",
+    "county_xin":"期思县",
+    "SOURCE":"CHGIS",
+    "ID":20218,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.37146,32.78049 ]
+    },
+    "properties": {
+    "county_han":"慎阳县",
+    "county_xin":"慎阳县",
+    "SOURCE":"CHGIS",
+    "ID":20219,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.199021,32.789749 ]
+    },
+    "properties": {
+    "county_han":"慎县",
+    "county_xin":"慎治县",
+    "SOURCE":"CHGIS",
+    "ID":20220,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.14843,33.60156 ]
+    },
+    "properties": {
+    "county_han":"召陵县",
+    "county_xin":"召陵县",
+    "SOURCE":"CHGIS",
+    "ID":20221,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.99725,32.16932 ]
+    },
+    "properties": {
+    "county_han":"弋阳侯国",
+    "county_xin":"弋阳县",
+    "SOURCE":"CHGIS",
+    "ID":20222,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.95687,33.3841 ]
+    },
+    "properties": {
+    "county_han":"西平县",
+    "county_xin":"新亭县",
+    "SOURCE":"CHGIS",
+    "ID":20223,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.19977,33.19308 ]
+    },
+    "properties": {
+    "county_han":"上蔡县",
+    "county_xin":"上蔡县",
+    "SOURCE":"CHGIS",
+    "ID":20224,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.35185,33.68238 ]
+    },
+    "properties": {
+    "county_han":"西华县",
+    "county_xin":"华望县",
+    "SOURCE":"CHGIS",
+    "ID":20226,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.58909,33.86335 ]
+    },
+    "properties": {
+    "county_han":"长平县",
+    "county_xin":"长正县",
+    "SOURCE":"CHGIS",
+    "ID":20227,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2459,33.48011 ]
+    },
+    "properties": {
+    "county_han":"宜禄县",
+    "county_xin":"赏都亭县",
+    "SOURCE":"CHGIS",
+    "ID":20228,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.06371,33.39749 ]
+    },
+    "properties": {
+    "county_han":"项县",
+    "county_xin":"项县",
+    "SOURCE":"CHGIS",
+    "ID":20229,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.612671,33.410614 ]
+    },
+    "properties": {
+    "county_han":"新郪县",
+    "county_xin":"新延县",
+    "SOURCE":"CHGIS",
+    "ID":20230,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.3587243,32.4158043 ]
+    },
+    "properties": {
+    "county_han":"安阳侯国",
+    "county_xin":"均夏县",
+    "SOURCE":"PUBLICATION",
+    "ID":20234,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.73217,33.57854 ]
+    },
+    "properties": {
+    "county_han":"博阳侯国",
+    "county_xin":"乐家县",
+    "SOURCE":"CHGIS",
+    "ID":20235,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.9661903,33.8071943 ]
+    },
+    "properties": {
+    "county_han":"㶏强县",
+    "county_xin":"㶏强县",
+    "SOURCE":"PUBLICATION",
+    "ID":20204,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1858493,33.0686043 ]
+    },
+    "properties": {
+    "county_han":"鲖阳县",
+    "county_xin":"鲖阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":20207,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.7905843,32.8994123 ]
+    },
+    "properties": {
+    "county_han":"女阴县",
+    "county_xin":"汝坟县",
+    "SOURCE":"PUBLICATION",
+    "ID":20214,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0322893,33.1560403 ]
+    },
+    "properties": {
+    "county_han":"灈阳县",
+    "county_xin":"灈阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":20217,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2453063,33.0591593 ]
+    },
+    "properties": {
+    "county_han":"浸县",
+    "county_xin":"闰治县",
+    "SOURCE":"PUBLICATION",
+    "ID":20225,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.3485263,33.4381333 ]
+    },
+    "properties": {
+    "county_han":"新阳县",
+    "county_xin":"新明县",
+    "SOURCE":"PUBLICATION",
+    "ID":20232,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.8758873,32.7928283 ]
+    },
+    "properties": {
+    "county_han":"安昌侯国",
+    "county_xin":"始成县",
+    "SOURCE":"PUBLICATION",
+    "ID":20233,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.0165763,32.4325863 ]
+    },
+    "properties": {
+    "county_han":"成阳侯国",
+    "county_xin":"新利县",
+    "SOURCE":"PUBLICATION",
+    "ID":20236,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.7814823,33.7060303 ]
+    },
+    "properties": {
+    "county_han":"定陵侯国",
+    "county_xin":"定陵县",
+    "SOURCE":"PUBLICATION",
+    "ID":20237,
+    "name_type":"不改"
+    }
+  }
+]
+}

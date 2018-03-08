@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<pref ref="210716">
+    <name>陈留郡</name>
+    <meta county="17" pop="1599050" family="296284">武帝元狩元年置。属兖州。户二十九万六千二百八十四，口一百五十万九千五十。县十七。</meta>
+    <county><name>陈留</name>，<quote type="waterInfra" nature="tributary"><name>鲁渠水</name>首受狼汤渠，东至阳夏，入涡渠。</quote></county>
+    <county><name>小黄</name>。</county>
+    <county><name>成安</name>。</county>
+    <county><name>宁陵</name>，莽曰<wname type="嘉名">康善</wname>。</county>
+    <county><name>雍丘</name>，故杞国也，周武王封禹后东楼公。先春秋时徙鲁东北，三十一世简公为楚所灭。</county>
+    <county><name>酸枣</name>。</county>
+    <county><name>东昏</name>，莽曰<wname type="反">东明</wname>。</county>
+    <county note="邑"><name>襄邑</name>，<quote type="admin">有<name>服官</name>。</quote>莽曰<wname type="半嘉名">襄平</wname>。</county>
+    <county><name>外黄</name>，<quote type="admin"><name>都尉治</name>。</quote></county>
+    <county><name>封丘</name>，<quote nature="interpref" type="waterInfra"><name>濮渠水</name>首受泲，东北至都关，入羊里水，过郡三，行六百三十里。</quote></county>
+    <county note="侯国"><name>长罗</name>，侯国，莽曰<wname type="嘉名">惠泽</wname>。</county>
+    <county><name>尉氏</name>。</county>
+    <county><name>鄢</name>，莽曰<wname type="嘉名">顺通</wname>。</county>
+    <county><name>长垣</name>，莽曰<wname type="半嘉名">长固</wname>。</county>
+    <county><name>平丘</name>。</county>
+    <county><name>济阳</name>，莽曰<wname type="改一">济前</wname>。</county>
+    <county><name>浚仪</name>。<hist>故大梁，魏惠王自安邑徙此。</hist><quote type="river" nature="interpref"><name>睢水</name>首受狼汤水东至取虑入泗，过郡四，行千三百六十里。</quote></county>
+</pref>
