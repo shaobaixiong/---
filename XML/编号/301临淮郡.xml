@@ -4,7 +4,7 @@
     <chapter name="地理志第八">
         <pref>
             <name>临淮郡</name>
-            <meta family="268283" pop="1237764" county="29"><date exact="-117" status="est">武帝元狩六年置。</date>莽曰淮平。户二十六万八千二百八十三，口百二十三万七千七百六十四。县二十九。</meta>
+            <meta family="268283" pop="1237764" county="29"><date exact="-117" status="est">武帝元狩六年置。</date>莽曰<wname type="改一">淮平</wname>。户二十六万八千二百八十三，口百二十三万七千七百六十四。县二十九。</meta>
             <county><name>徐</name>，<quote><feature type="pref_seat"/></quote><history>故国，盈姓。至春秋时徐子章禹为楚所灭。</history>莽曰<wname type="加一">徐调</wname>。</county>
             <county><name>取虑</name>。</county>
             <county><name>淮浦</name>，<quote><feature type="interPrefRiver">淮水</feature>北入海。</quote>莽曰<wname type="改一">淮敬</wname>。</county>

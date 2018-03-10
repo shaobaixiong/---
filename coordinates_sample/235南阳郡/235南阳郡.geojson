@@ -1,0 +1,509 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.6490243,32.3877063 ]
+    },
+    "properties": {
+    "county_han":"酂侯国",
+    "county_xin":"南庚县",
+    "SOURCE":"PUBLICATION",
+    "ID":23504,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.3808342,32.9197366 ]
+    },
+    "properties": {
+    "county_han":"博山侯国",
+    "county_xin":"博山县",
+    "SOURCE":"PUBLICATION",
+    "ID":23506,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.2155653,33.0107553 ]
+    },
+    "properties": {
+    "county_han":"涅阳县",
+    "county_xin":"前亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":23507,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.53547,33.00168 ]
+    },
+    "properties": {
+    "county_han":"宛县",
+    "county_xin":"南阳县",
+    "SOURCE":"CHGIS",
+    "ID":23501,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.14788,33.65464 ]
+    },
+    "properties": {
+    "county_han":"犨县",
+    "county_xin":"犨县",
+    "SOURCE":"CHGIS",
+    "ID":23502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.48102,32.95524 ]
+    },
+    "properties": {
+    "county_han":"杜衍县",
+    "county_xin":"闰衍县",
+    "SOURCE":"CHGIS",
+    "ID":23503,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.4143,32.78379 ]
+    },
+    "properties": {
+    "county_han":"育阳县",
+    "county_xin":"育阳县",
+    "SOURCE":"CHGIS",
+    "ID":23505,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.62382,32.46271 ]
+    },
+    "properties": {
+    "county_han":"阴县",
+    "county_xin":"阴县",
+    "SOURCE":"CHGIS",
+    "ID":23508,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.02336,33.25974 ]
+    },
+    "properties": {
+    "county_han":"堵阳县",
+    "county_xin":"阳城县",
+    "SOURCE":"CHGIS",
+    "ID":23509,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.65376,33.34375 ]
+    },
+    "properties": {
+    "county_han":"雉县",
+    "county_xin":"雉县",
+    "SOURCE":"CHGIS",
+    "ID":23510,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.80595,32.13685 ]
+    },
+    "properties": {
+    "county_han":"山都县",
+    "county_xin":"山都县",
+    "SOURCE":"CHGIS",
+    "ID":23511,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.51083,32.08644 ]
+    },
+    "properties": {
+    "county_han":"蔡阳县",
+    "county_xin":"蔡阳县",
+    "SOURCE":"CHGIS",
+    "ID":23512,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.35843,32.52487 ]
+    },
+    "properties": {
+    "county_han":"新野县",
+    "county_xin":"新野县",
+    "SOURCE":"CHGIS",
+    "ID":23513,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.66466,32.26757 ]
+    },
+    "properties": {
+    "county_han":"筑阳县",
+    "county_xin":"宜禾县",
+    "SOURCE":"CHGIS",
+    "ID":23514,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.51661,32.47629 ]
+    },
+    "properties": {
+    "county_han":"棘阳县",
+    "county_xin":"棘阳县",
+    "SOURCE":"CHGIS",
+    "ID":23515,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.16658,32.68161 ]
+    },
+    "properties": {
+    "county_han":"武当县",
+    "county_xin":"武当县",
+    "SOURCE":"CHGIS",
+    "ID":23516,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.19347,32.95993 ]
+    },
+    "properties": {
+    "county_han":"舞阴县",
+    "county_xin":"舞阴县",
+    "SOURCE":"CHGIS",
+    "ID":23517,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.61277,33.17732 ]
+    },
+    "properties": {
+    "county_han":"西鄂县",
+    "county_xin":"西鄂县",
+    "SOURCE":"CHGIS",
+    "ID":23518,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.08096,32.68483 ]
+    },
+    "properties": {
+    "county_han":"穰县",
+    "county_xin":"农穰县",
+    "SOURCE":"CHGIS",
+    "ID":23519,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.79439,33.12248 ]
+    },
+    "properties": {
+    "county_han":"郦县",
+    "county_xin":"郦县",
+    "SOURCE":"CHGIS",
+    "ID":23520,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.28225,32.79029 ]
+    },
+    "properties": {
+    "county_han":"安众侯国",
+    "county_xin":"安众县",
+    "SOURCE":"CHGIS",
+    "ID":23521,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.9222,32.80205 ]
+    },
+    "properties": {
+    "county_han":"冠军县",
+    "county_xin":"冠军县",
+    "SOURCE":"CHGIS",
+    "ID":23522,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.31919,32.72317 ]
+    },
+    "properties": {
+    "county_han":"比阳县",
+    "county_xin":"比阳县",
+    "SOURCE":"CHGIS",
+    "ID":23523,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.07872,32.53161 ]
+    },
+    "properties": {
+    "county_han":"平氏县",
+    "county_xin":"平善县",
+    "SOURCE":"CHGIS",
+    "ID":23524,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.36982,31.71511 ]
+    },
+    "properties": {
+    "county_han":"随县",
+    "county_xin":"随县",
+    "SOURCE":"CHGIS",
+    "ID":23525,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.30023,33.50015 ]
+    },
+    "properties": {
+    "county_han":"叶县",
+    "county_xin":"叶县",
+    "SOURCE":"CHGIS",
+    "ID":23526,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.09982,32.08813 ]
+    },
+    "properties": {
+    "county_han":"邓县",
+    "county_xin":"邓县",
+    "SOURCE":"CHGIS",
+    "ID":23527,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.32459,32.43506 ]
+    },
+    "properties": {
+    "county_han":"朝阳县",
+    "county_xin":"厉信县",
+    "SOURCE":"CHGIS",
+    "ID":23528,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.90194,33.73712 ]
+    },
+    "properties": {
+    "county_han":"鲁阳县",
+    "county_xin":"鲁阳县",
+    "SOURCE":"CHGIS",
+    "ID":23529,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.7492286,32.0477678 ]
+    },
+    "properties": {
+    "county_han":"舂陵侯国",
+    "county_xin":"舂陵县",
+    "SOURCE":"PUBLICATION",
+    "ID":23530,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.43431,32.36572 ]
+    },
+    "properties": {
+    "county_han":"新都侯国",
+    "county_xin":"新林县",
+    "SOURCE":"CHGIS",
+    "ID":23531,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.745,32.40853 ]
+    },
+    "properties": {
+    "county_han":"湖阳县",
+    "county_xin":"湖阳县",
+    "SOURCE":"CHGIS",
+    "ID":23532,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.53413,33.33002 ]
+    },
+    "properties": {
+    "county_han":"红阳侯国",
+    "county_xin":"红俞县",
+    "SOURCE":"CHGIS",
+    "ID":23533,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.95846,32.59454 ]
+    },
+    "properties": {
+    "county_han":"乐成侯国",
+    "county_xin":"乐成县",
+    "SOURCE":"CHGIS",
+    "ID":23534,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.71764,33.1689 ]
+    },
+    "properties": {
+    "county_han":"博望侯国",
+    "county_xin":"宜乐县",
+    "SOURCE":"CHGIS",
+    "ID":23535,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.29516,32.41495 ]
+    },
+    "properties": {
+    "county_han":"复阳侯国",
+    "county_xin":"复阳县",
+    "SOURCE":"CHGIS",
+    "ID":23536,
+    "name_type":"不改"
+    }
+  }
+]
+}

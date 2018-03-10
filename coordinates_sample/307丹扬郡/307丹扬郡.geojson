@@ -1,0 +1,243 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.7425,30.946941 ]
+    },
+    "properties": {
+    "county_han":"宛陵县",
+    "county_xin":"无宛县",
+    "SOURCE":"CHGIS",
+    "ID":30701,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.394783,30.192015 ]
+    },
+    "properties": {
+    "county_han":"於朁县",
+    "county_xin":"於朁县",
+    "SOURCE":"CHGIS",
+    "ID":30702,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.052199,32.176555 ]
+    },
+    "properties": {
+    "county_han":"江乘县",
+    "county_xin":"相武县",
+    "SOURCE":"CHGIS",
+    "ID":30703,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.82727,31.842648 ]
+    },
+    "properties": {
+    "county_han":"秣陵县",
+    "county_xin":"宣亭县",
+    "SOURCE":"CHGIS",
+    "ID":30705,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.605081,30.902421 ]
+    },
+    "properties": {
+    "county_han":"故鄣县",
+    "county_xin":"候望县",
+    "SOURCE":"CHGIS",
+    "ID":30706,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.162735,31.946535 ]
+    },
+    "properties": {
+    "county_han":"句容县",
+    "county_xin":"句容县",
+    "SOURCE":"CHGIS",
+    "ID":30707,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.406586,30.68671 ]
+    },
+    "properties": {
+    "county_han":"泾县",
+    "county_xin":"泾县",
+    "SOURCE":"CHGIS",
+    "ID":30708,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.71336,31.656009 ]
+    },
+    "properties": {
+    "county_han":"丹阳县",
+    "county_xin":"丹阳县",
+    "SOURCE":"CHGIS",
+    "ID":30709,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.227623,30.482548 ]
+    },
+    "properties": {
+    "county_han":"石城县",
+    "county_xin":"石城县",
+    "SOURCE":"CHGIS",
+    "ID":30710,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.979668,31.859503 ]
+    },
+    "properties": {
+    "county_han":"胡孰县",
+    "county_xin":"胡孰县",
+    "SOURCE":"CHGIS",
+    "ID":30711,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.886765,30.416302 ]
+    },
+    "properties": {
+    "county_han":"陵阳县",
+    "county_xin":"陵阳县",
+    "SOURCE":"CHGIS",
+    "ID":30712,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.425698,31.346526 ]
+    },
+    "properties": {
+    "county_han":"芜湖县",
+    "county_xin":"芜湖县",
+    "SOURCE":"CHGIS",
+    "ID":30713,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.939329,29.922756 ]
+    },
+    "properties": {
+    "county_han":"黝县",
+    "county_xin":"愬虏县",
+    "SOURCE":"CHGIS",
+    "ID":30714,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.31224,31.48672 ]
+    },
+    "properties": {
+    "county_han":"溧阳县",
+    "county_xin":"溧阳县",
+    "SOURCE":"CHGIS",
+    "ID":30715,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.433945,29.86577 ]
+    },
+    "properties": {
+    "county_han":"歙县",
+    "county_xin":"歙县",
+    "SOURCE":"CHGIS",
+    "ID":30716,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.48513,30.9123 ]
+    },
+    "properties": {
+    "county_han":"宣城县",
+    "county_xin":"宣城县",
+    "SOURCE":"CHGIS",
+    "ID":30717,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.0485153,31.1877833 ]
+    },
+    "properties": {
+    "county_han":"春谷县",
+    "county_xin":"春谷县",
+    "SOURCE":"PUBLICATION",
+    "ID":30704,
+    "name_type":"不改"
+    }
+  }
+]
+}

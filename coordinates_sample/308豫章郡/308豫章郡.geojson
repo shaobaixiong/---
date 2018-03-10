@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.89772,28.674896 ]
+    },
+    "properties": {
+    "county_han":"南昌县",
+    "county_xin":"宜善县",
+    "SOURCE":"CHGIS",
+    "ID":30801,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.832722,26.937216 ]
+    },
+    "properties": {
+    "county_han":"庐陵县",
+    "county_xin":"桓亭县",
+    "SOURCE":"CHGIS",
+    "ID":30802,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.232186,29.585 ]
+    },
+    "properties": {
+    "county_han":"彭泽县",
+    "county_xin":"彭泽县",
+    "SOURCE":"CHGIS",
+    "ID":30803,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.860748,29.087786 ]
+    },
+    "properties": {
+    "county_han":"鄱阳县",
+    "county_xin":"乡亭县",
+    "SOURCE":"CHGIS",
+    "ID":30804,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.745026,29.330564 ]
+    },
+    "properties": {
+    "county_han":"历陵县",
+    "county_xin":"蒲亭县",
+    "SOURCE":"CHGIS",
+    "ID":30805,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.943673,29.641569 ]
+    },
+    "properties": {
+    "county_han":"柴桑县",
+    "county_xin":"九江亭县",
+    "SOURCE":"CHGIS",
+    "ID":30807,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.346738,28.97108 ]
+    },
+    "properties": {
+    "county_han":"艾县",
+    "county_xin":"治翰县",
+    "SOURCE":"CHGIS",
+    "ID":30808,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.882346,25.835279 ]
+    },
+    "properties": {
+    "county_han":"赣县",
+    "county_xin":"赣县",
+    "SOURCE":"CHGIS",
+    "ID":30809,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.539604,28.064373 ]
+    },
+    "properties": {
+    "county_han":"新淦县",
+    "county_xin":"偶亭县",
+    "SOURCE":"CHGIS",
+    "ID":30810,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.756582,27.466871 ]
+    },
+    "properties": {
+    "county_han":"南城县",
+    "county_xin":"南城县",
+    "SOURCE":"CHGIS",
+    "ID":30811,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.372276,28.425598 ]
+    },
+    "properties": {
+    "county_han":"建成县",
+    "county_xin":"多聚县",
+    "SOURCE":"CHGIS",
+    "ID":30812,
+    "name_type":"聚"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.375885,27.794266 ]
+    },
+    "properties": {
+    "county_han":"宜春县",
+    "county_xin":"修晓县",
+    "SOURCE":"CHGIS",
+    "ID":30813,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.761818,29.087832 ]
+    },
+    "properties": {
+    "county_han":"海昏县",
+    "county_xin":"宜生县",
+    "SOURCE":"CHGIS",
+    "ID":30814,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.429091,25.963385 ]
+    },
+    "properties": {
+    "county_han":"雩都县",
+    "county_xin":"雩都县",
+    "SOURCE":"CHGIS",
+    "ID":30815,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.367393,29.135357 ]
+    },
+    "properties": {
+    "county_han":"鄡阳县",
+    "county_xin":"预章县",
+    "SOURCE":"CHGIS",
+    "ID":30816,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.713272,25.578068 ]
+    },
+    "properties": {
+    "county_han":"南野县",
+    "county_xin":"南野县",
+    "SOURCE":"CHGIS",
+    "ID":30817,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.668976,27.226717 ]
+    },
+    "properties": {
+    "county_han":"安平侯国",
+    "county_xin":"安宁县",
+    "SOURCE":"CHGIS",
+    "ID":30818,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.6647583,28.7009344 ]
+    },
+    "properties": {
+    "county_han":"馀汗县",
+    "county_xin":"治干县",
+    "SOURCE":"PUBLICATION",
+    "ID":30806,
+    "name_type":"治"
+    }
+  }
+]
+}

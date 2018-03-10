@@ -1,0 +1,285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.3373373,33.8252093 ]
+    },
+    "properties": {
+    "county_han":"厹犹县",
+    "county_xin":"秉义县",
+    "SOURCE":"PUBLICATION",
+    "ID":30105,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.4555793,32.9495663 ]
+    },
+    "properties": {
+    "county_han":"赘其县",
+    "county_xin":"赘其县",
+    "SOURCE":"PUBLICATION",
+    "ID":30109,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.4935953,32.9454853 ]
+    },
+    "properties": {
+    "county_han":"高山县",
+    "county_xin":"高山县",
+    "SOURCE":"PUBLICATION",
+    "ID":30110,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.243224,33.297223 ]
+    },
+    "properties": {
+    "county_han":"徐县",
+    "county_xin":"徐调县",
+    "SOURCE":"CHGIS",
+    "ID":30101,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.754091,33.844389 ]
+    },
+    "properties": {
+    "county_han":"取虑县",
+    "county_xin":"取虑县",
+    "SOURCE":"CHGIS",
+    "ID":30102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.261231,33.766373 ]
+    },
+    "properties": {
+    "county_han":"淮浦县",
+    "county_xin":"淮敬县",
+    "SOURCE":"CHGIS",
+    "ID":30103,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.560493,33.096321 ]
+    },
+    "properties": {
+    "county_han":"盱眙县",
+    "county_xin":"武匡县",
+    "SOURCE":"CHGIS",
+    "ID":30104,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.076342,33.719882 ]
+    },
+    "properties": {
+    "county_han":"僮县",
+    "county_xin":"成信县",
+    "SOURCE":"CHGIS",
+    "ID":30106,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.616165,33.305 ]
+    },
+    "properties": {
+    "county_han":"射阳县",
+    "county_xin":"监淮亭县",
+    "SOURCE":"CHGIS",
+    "ID":30107,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.417126,33.28902 ]
+    },
+    "properties": {
+    "county_han":"睢陵县",
+    "county_xin":"睢陆县",
+    "SOURCE":"CHGIS",
+    "ID":30111,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.13372,33.385162 ]
+    },
+    "properties": {
+    "county_han":"盐渎县",
+    "county_xin":"盐渎县",
+    "SOURCE":"CHGIS",
+    "ID":30112,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.933586,33.531315 ]
+    },
+    "properties": {
+    "county_han":"淮阴县",
+    "county_xin":"嘉信县",
+    "SOURCE":"CHGIS",
+    "ID":30113,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.170046,33.015539 ]
+    },
+    "properties": {
+    "county_han":"淮陵县",
+    "county_xin":"淮陆县",
+    "SOURCE":"CHGIS",
+    "ID":30114,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.283118,33.942922 ]
+    },
+    "properties": {
+    "county_han":"下相县",
+    "county_xin":"从德县",
+    "SOURCE":"CHGIS",
+    "ID":30115,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.798434,33.380634 ]
+    },
+    "properties": {
+    "county_han":"富陵县",
+    "county_xin":"𣝇虏县",
+    "SOURCE":"CHGIS",
+    "ID":30116,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.83847,32.961845 ]
+    },
+    "properties": {
+    "county_han":"东阳县",
+    "county_xin":"东阳县",
+    "SOURCE":"CHGIS",
+    "ID":30117,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.287845,33.310593 ]
+    },
+    "properties": {
+    "county_han":"高平侯国",
+    "county_xin":"成丘县",
+    "SOURCE":"CHGIS",
+    "ID":30120,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.91124,32.495872 ]
+    },
+    "properties": {
+    "county_han":"海陵县",
+    "county_xin":"亭间县",
+    "SOURCE":"CHGIS",
+    "ID":30126,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.232903,32.346744 ]
+    },
+    "properties": {
+    "county_han":"舆县",
+    "county_xin":"美德县",
+    "SOURCE":"CHGIS",
+    "ID":30127,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.782138,32.41687 ]
+    },
+    "properties": {
+    "county_han":"堂邑",
+    "county_xin":"堂邑",
+    "SOURCE":"CHGIS",
+    "ID":30128,
+    "name_type":"不改"
+    }
+  }
+]
+}
