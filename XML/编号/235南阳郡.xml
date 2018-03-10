@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
     <chapter name="地理志第八中">
         <pref>
             <name>南阳郡</name>
-            <meta family="359316" pop="1942051" county="36">南阳郡，<date status="est">秦置。</date>莽曰<wname>前队</wname>。属荆州。户三十五万九千三百一十六，口一百九十四万二千五十一。县三十六。</meta>
-            <county family="47547"><name>宛</name>，<history>故申伯国。</history><quote><feature type="pref_seat"/>（南阳郡治）</quote><quote>有<feature type="walled">屈申城</feature>。</quote><quote>县南有<feature type="mount">北筮山</feature>。</quote>户四万七千五百四十七。<quote>有<feature type="admin">工官</feature>、<feature type="resource">铁官</feature>。</quote>莽曰<wname>南阳</wname>。</county>
+            <meta family="359316" pop="1942051" county="36">南阳郡，<date status="est">秦置。</date>莽曰<wname type="意义">前队</wname>。属荆州。户三十五万九千三百一十六，口一百九十四万二千五十一。县三十六。</meta>
+            <county family="47547"><name>宛</name>，<history>故申伯国。</history><quote><feature type="pref_seat"/>（南阳郡治）</quote><quote>有<feature type="walled">屈申城</feature>。</quote><quote>县南有<feature type="mount">北筮山</feature>。</quote>户四万七千五百四十七。<quote>有<feature type="admin">工官</feature>、<feature type="resource">铁官</feature>。</quote>莽曰<wname type="重地">南阳</wname>。</county>
             <county><name>犨</name>。</county>
-            <county><name>杜衍</name>，莽曰<wname>闰衍</wname>。</county>
-            <county note="侯国"><name>酂</name>，侯国。莽曰<wname>南庚</wname>。</county>
+            <county><name>杜衍</name>，莽曰<wname type="改一">闰衍</wname>。</county>
+            <county note="侯国"><name>酂</name>，侯国。莽曰<wname type="全改">南庚</wname>。</county>
             <county><name>育阳</name>，<quote>有<feature type="sett">南筮聚</feature>，在东北。</quote></county>
             <county note="侯国"><name>博山</name>，侯国。<date status="est">哀帝置。</date><history>故顺阳。</history></county>
-            <county><name>涅阳</name>，莽曰<wname>前亭</wname>。</county>
+            <county><name>涅阳</name>，莽曰<wname type="亭">前亭</wname>。</county>
             <county><name>阴</name>。</county>
-            <county><name>堵阳</name>，莽曰<wname>阳城</wname>。</county>
+            <county><name>堵阳</name>，莽曰<wname type="城">阳城</wname>。</county>
             <county><name>雉</name>，<quote><feature type="river_source">衡山</feature>，<feature type="river" ref="feng">沣水</feature>所出，东至屋阝入汝。</quote></county>
             <county><name>山都</name>。</county>
             <county><name>蔡阳</name>，<quote>莽之母<feature type="fief">功显君邑</feature>。</quote></county>
             <county><name>新野</name>。</county>
-            <county><name>筑阳</name>，<history>故谷伯国</history>，莽曰<wname>宜禾</wname>。</county>
+            <county><name>筑阳</name>，<history>故谷伯国</history>，莽曰<wname type="嘉名">宜禾</wname>。</county>
             <county><name>棘阳</name>。</county>
             <county><name>武当</name>。</county>
             <county><name>舞阴</name>，<quote><feature type="river_source">中阴山</feature>，<feature type="river" ref="qin">瀙水</feature>所出，东至蔡入汝。</quote></county>
             <county><name>西鄂</name>。</county>
-            <county><name>穰</name>，莽曰<wname>农穰</wname>。</county>
+            <county><name>穰</name>，莽曰<wname type="嘉名">农穰</wname>。</county>
             <county><name>郦</name>，<quote><feature ref="yu" type="river">育水</feature>出西北，南入汉。</quote></county>
             <county note="侯国"><name>安众</name>，侯国。<history parent="宛">故宛西乡。</history></county>
             <county><name>冠军</name>，<date status="est">武帝置。</date><history parent="穰 宛">故穰卢阳乡、宛临駣聚。<!-- 通过冠军县的设置可以看出，在汉代，聚是可以合并然后升级成为县的。 --></history></county>
             <county><name>比阳</name>。</county>
-            <county><name>平氏</name>，<quote>《禹贡》<feature type="river_source">桐柏大复山</feature>在东南，<feature type="interPrefRiver" ref="huai">淮水</feature>所出，东南至淮浦入海，过郡四，行三千二百四十里，青州川。</quote>莽曰<wname>平善</wname>。</county>
+            <county><name>平氏</name>，<quote>《禹贡》<feature type="river_source">桐柏大复山</feature>在东南，<feature type="interPrefRiver" ref="huai">淮水</feature>所出，东南至淮浦入海，过郡四，行三千二百四十里，青州川。</quote>莽曰<wname type="嘉名">平善</wname>。</county>
             <county><name>随</name>，<history>故国。</history><quote><feature type="sett">厉乡</feature></quote>，<history>故厉国也。</history></county>
             <county><name>叶</name>，<history>楚叶公邑。</history><quote>有<feature type="mili">长城</feature>，号曰方城。</quote></county>
             <county><name>邓</name>，<history>故国。</history><quote><feature type="mili_admin">都尉治</feature>。</quote></county>
-            <county><name>朝阳</name>，莽曰<wname>厉信</wname>。</county>
+            <county><name>朝阳</name>，莽曰<wname type="?">厉信</wname>。</county>
             <county><name>鲁阳</name>，<quote>有<feature type="mount">鲁山</feature>。</quote><history>古鲁县，御龙氏所迁。</history><quote><feature type="river_source">鲁山</feature>，<feature type="river" ref="chi">滍水</feature>所出，东北至定陵入汝。</quote><quote>又有<feature type="river" ref="kun">昆水</feature>，东南至定陵入汝。</quote></county>
             <county note="侯国"><name>舂陵</name>，侯国。<history parent="蔡阳">故蔡阳白水乡。</history><quote><feature type="sett">上唐乡</feature></quote>，<history>故唐国。</history></county>
-            <county note="侯国"><name>新都</name>，侯国。莽曰<wname>新林</wname>。</county>
+            <county note="侯国"><name>新都</name>，侯国。莽曰<wname type="改一">新林</wname>。</county>
             <county><name>湖阳</name>，<history>故廖国也。</history></county>
-            <county note="侯国"><name>红阳</name>，侯国。莽曰<wname>红俞</wname>。</county>
-            <county note="侯国"><name>乐城</name>，侯国。</county>
-            <county note="侯国"><name>博望</name>，侯国。莽曰<wname>宜乐</wname>。</county>
+            <county note="侯国"><name>红阳</name>，侯国。莽曰<wname type="改一">红俞</wname>。</county>
+            <county note="侯国"><name>乐成</name>，侯国。</county>
+            <county note="侯国"><name>博望</name>，侯国。莽曰<wname type="嘉名">宜乐</wname>。</county>
             <county note="侯国"><name>复阳</name>，侯国。<history parent="湖阳">故湖阳乐乡。</history></county>
         </pref>
     </chapter>

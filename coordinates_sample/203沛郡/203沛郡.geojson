@@ -1,0 +1,439 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.3742899,32.5732323 ]
+    },
+    "properties": {
+    "county_han":"谷阳县",
+    "county_xin":"谷阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":20304,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.6113693,33.6216803 ]
+    },
+    "properties": {
+    "county_han":"铚县",
+    "county_xin":"铚县",
+    "SOURCE":"PUBLICATION",
+    "ID":20307,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1702203,33.6406193 ]
+    },
+    "properties": {
+    "county_han":"郸县",
+    "county_xin":"单城县",
+    "SOURCE":"ONLINE",
+    "ID":20311,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.8378474,34.0864563 ]
+    },
+    "properties": {
+    "county_han":"扶阳侯国",
+    "county_xin":"合治县",
+    "SOURCE":"PUBLICATION",
+    "ID":20329,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.790362,33.993724 ]
+    },
+    "properties": {
+    "county_han":"相县",
+    "county_xin":"吾符亭县",
+    "SOURCE":"CHGIS",
+    "ID":20301,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.892494,33.138908 ]
+    },
+    "properties": {
+    "county_han":"龙亢县",
+    "county_xin":"龙亢县",
+    "SOURCE":"CHGIS",
+    "ID":20302,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.966728,33.766956 ]
+    },
+    "properties": {
+    "county_han":"竹县",
+    "county_xin":"笃亭县",
+    "SOURCE":"CHGIS",
+    "ID":20303,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.923967,34.205476 ]
+    },
+    "properties": {
+    "county_han":"萧县",
+    "county_xin":"萧县",
+    "SOURCE":"CHGIS",
+    "ID":20305,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.131538,33.077694 ]
+    },
+    "properties": {
+    "county_han":"向县",
+    "county_xin":"向县",
+    "SOURCE":"CHGIS",
+    "ID":20306,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.979914,34.752017 ]
+    },
+    "properties": {
+    "county_han":"广戚侯国",
+    "county_xin":"力聚县",
+    "SOURCE":"CHGIS",
+    "ID":20308,
+    "name_type":"聚"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.720093,32.705585 ]
+    },
+    "properties": {
+    "county_han":"下蔡县",
+    "county_xin":"下蔡县",
+    "SOURCE":"CHGIS",
+    "ID":20309,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.584183,34.703617 ]
+    },
+    "properties": {
+    "county_han":"丰县",
+    "county_xin":"吾丰县",
+    "SOURCE":"CHGIS",
+    "ID":20310,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.770905,33.879292 ]
+    },
+    "properties": {
+    "county_han":"谯县",
+    "county_xin":"延成亭县",
+    "SOURCE":"CHGIS",
+    "ID":20312,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.012772,33.442562 ]
+    },
+    "properties": {
+    "county_han":"蕲县",
+    "county_xin":"蕲城县",
+    "SOURCE":"CHGIS",
+    "ID":20313,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.724319,33.182232 ]
+    },
+    "properties": {
+    "county_han":"虹县",
+    "county_xin":"贡县",
+    "SOURCE":"CHGIS",
+    "ID":20314,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.552597,33.407986 ]
+    },
+    "properties": {
+    "county_han":"山桑县",
+    "county_xin":"山桑县",
+    "SOURCE":"CHGIS",
+    "ID":20316,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.06455,35.06631 ]
+    },
+    "properties": {
+    "county_han":"公丘侯国",
+    "county_xin":"公丘县",
+    "SOURCE":"CHGIS",
+    "ID":20317,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.208679,33.687019 ]
+    },
+    "properties": {
+    "county_han":"符离县",
+    "county_xin":"符合县",
+    "SOURCE":"CHGIS",
+    "ID":20318,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.28903,34.1117 ]
+    },
+    "properties": {
+    "county_han":"敬丘侯国",
+    "county_xin":"敬丘县",
+    "SOURCE":"CHGIS",
+    "ID":20319,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.878876,33.478375 ]
+    },
+    "properties": {
+    "county_han":"夏丘县",
+    "county_xin":"归思县",
+    "SOURCE":"CHGIS",
+    "ID":20320,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.549431,33.320442 ]
+    },
+    "properties": {
+    "county_han":"洨侯国",
+    "county_xin":"育成县",
+    "SOURCE":"CHGIS",
+    "ID":20321,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.926948,34.737995 ]
+    },
+    "properties": {
+    "county_han":"沛县",
+    "county_xin":"沛县",
+    "SOURCE":"CHGIS",
+    "ID":20322,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.43211,34.03668 ]
+    },
+    "properties": {
+    "county_han":"芒县",
+    "county_xin":"博治县",
+    "SOURCE":"CHGIS",
+    "ID":20323,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5455083,33.8435403 ]
+    },
+    "properties": {
+    "county_han":"建成侯国",
+    "county_xin":"建成县",
+    "SOURCE":"PUBLICATION",
+    "ID":20324,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.992537,33.63886 ]
+    },
+    "properties": {
+    "county_han":"城父县",
+    "county_xin":"思善县",
+    "SOURCE":"CHGIS",
+    "ID":20325,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.94838,34.08172 ]
+    },
+    "properties": {
+    "county_han":"建平侯国",
+    "county_xin":"田平县",
+    "SOURCE":"CHGIS",
+    "ID":20326,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.1083293,33.9564613 ]
+    },
+    "properties": {
+    "county_han":"酂县",
+    "county_xin":"赞治县",
+    "SOURCE":"PUBLICATION",
+    "ID":20327,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.12141,34.23799 ]
+    },
+    "properties": {
+    "county_han":"栗侯国",
+    "county_xin":"成富县",
+    "SOURCE":"CHGIS",
+    "ID":20328,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.906372,32.674998 ]
+    },
+    "properties": {
+    "county_han":"平阿侯国",
+    "county_xin":"平宁县",
+    "SOURCE":"CHGIS",
+    "ID":20333,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.258117,32.966622 ]
+    },
+    "properties": {
+    "county_han":"义成县",
+    "county_xin":"义成县",
+    "SOURCE":"CHGIS",
+    "ID":20336,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.16189,34.40723 ]
+    },
+    "properties": {
+    "county_han":"祁乡侯国",
+    "county_xin":"会谷县",
+    "SOURCE":"CHGIS",
+    "ID":20337,
+    "name_type":"嘉名"
+    }
+  }
+]
+}
