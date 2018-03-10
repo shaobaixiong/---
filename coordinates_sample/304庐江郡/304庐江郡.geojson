@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.174368,31.188974 ]
+    },
+    "properties": {
+    "county_han":"舒县",
+    "county_xin":"昆乡县",
+    "SOURCE":"CHGIS",
+    "ID":30401,
+    "name_type":"乡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.012504,30.854535 ]
+    },
+    "properties": {
+    "county_han":"居巢县",
+    "county_xin":"居巢县",
+    "SOURCE":"CHGIS",
+    "ID":30402,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.626083,31.341389 ]
+    },
+    "properties": {
+    "county_han":"龙舒县",
+    "county_xin":"龙舒县",
+    "SOURCE":"CHGIS",
+    "ID":30403,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.696298,31.145337 ]
+    },
+    "properties": {
+    "county_han":"临湖县",
+    "county_xin":"临湖县",
+    "SOURCE":"CHGIS",
+    "ID":30404,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.87859,31.85905 ]
+    },
+    "properties": {
+    "county_han":"雩娄县",
+    "county_xin":"雩娄县",
+    "SOURCE":"CHGIS",
+    "ID":30405,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.79866,31.157307 ]
+    },
+    "properties": {
+    "county_han":"襄安县",
+    "county_xin":"庐江亭县",
+    "SOURCE":"CHGIS",
+    "ID":30406,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.210587,30.69371 ]
+    },
+    "properties": {
+    "county_han":"枞阳县",
+    "county_xin":"枞阳县",
+    "SOURCE":"CHGIS",
+    "ID":30407,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.69746,29.90916 ]
+    },
+    "properties": {
+    "county_han":"寻阳县",
+    "county_xin":"寻阳县",
+    "SOURCE":"CHGIS",
+    "ID":30408,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.355393,31.535159 ]
+    },
+    "properties": {
+    "county_han":"灊县",
+    "county_xin":"灊县",
+    "SOURCE":"CHGIS",
+    "ID":30409,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5672,30.630346 ]
+    },
+    "properties": {
+    "county_han":"皖县",
+    "county_xin":"皖县",
+    "SOURCE":"CHGIS",
+    "ID":30410,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.438118,30.215326 ]
+    },
+    "properties": {
+    "county_han":"湖陵邑",
+    "county_xin":"湖陵邑县",
+    "SOURCE":"CHGIS",
+    "ID":30411,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.172883,30.359722 ]
+    },
+    "properties": {
+    "county_han":"松兹侯国",
+    "county_xin":"诵善县",
+    "SOURCE":"CHGIS",
+    "ID":30412,
+    "name_type":"嘉名"
+    }
+  }
+]
+}
