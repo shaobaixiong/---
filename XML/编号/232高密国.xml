@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>高密国</name>
+            <meta family="" pop="" county="">故齐，文帝十六年别为胶西国。宣帝本始元年更为高密国。户四万五百三十一，口十九万二千五百三十六。县五。</meta>
+            <county><name>高密</name>，莽曰<wname type="嘉名">章牟</wname>。</county>
+            <county><name>昌安</name>。</county>
+            <county><name>石泉</name>，莽曰<wname type="嘉名">养信</wname>。</county>
+            <county><name>夷安</name>，莽曰<wname type="亭">原亭</wname>。</county>
+            <county><name>成乡</name>。莽曰<wname type="半嘉名">顺成</wname>。</county>
+        </pref>
+    </chapter>
+</book>

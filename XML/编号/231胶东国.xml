@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>胶东国</name>
+            <meta family="" pop="" county="">故齐，高帝元年别为国，五月复属齐国，文帝十六年复为国。莽曰<wname type="重地">郁秩</wname>。户七万二千二，口三十二万三千三百三十一。县八。</meta>
+            <county><name>即墨</name>，<quote>有<feature type="shrine">天室山祠</feature>。</quote>莽曰<wname type="半嘉名">即善</wname>。</county>
+            <county><name>昌武</name>。</county>
+            <county><name>下密</name>，<quote>有<feature type="shrine">三石山祠</feature>。</quote></county>
+            <county><name>壮武</name>，莽曰<wname type="改一">晓武</wname>。</county>
+            <county><name>郁秩</name>，<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>挺</name>。</county>
+            <county><name>观阳</name>。</county>
+            <county><name>邹卢</name>。莽曰<wname type="?">始斯</wname>。</county>
+        </pref>
+    </chapter>
+</book>

@@ -1,0 +1,271 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.91842,36.98014 ]
+    },
+    "properties": {
+    "county_han":"巨鹿县",
+    "county_xin":"巨鹿县",
+    "SOURCE":"CHGIS",
+    "ID":20701,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.85075,37.3503 ]
+    },
+    "properties": {
+    "county_han":"广阿县",
+    "county_xin":"广阿县",
+    "SOURCE":"CHGIS",
+    "ID":20703,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.78083,37.45766 ]
+    },
+    "properties": {
+    "county_han":"象氏侯国",
+    "county_xin":"宁昌县",
+    "SOURCE":"CHGIS",
+    "ID":20704,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.91637,37.58687 ]
+    },
+    "properties": {
+    "county_han":"廮陶县",
+    "county_xin":"廮陶县",
+    "SOURCE":"CHGIS",
+    "ID":20705,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.85684,37.82559 ]
+    },
+    "properties": {
+    "county_han":"宋子县",
+    "county_xin":"宜子县",
+    "SOURCE":"CHGIS",
+    "ID":20706,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.9154,37.62109 ]
+    },
+    "properties": {
+    "county_han":"杨氏县",
+    "county_xin":"功陆县",
+    "SOURCE":"CHGIS",
+    "ID":20707,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.06691,38.01046 ]
+    },
+    "properties": {
+    "county_han":"临平县",
+    "county_xin":"临平县",
+    "SOURCE":"CHGIS",
+    "ID":20708,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.16525,37.885 ]
+    },
+    "properties": {
+    "county_han":"贳县",
+    "county_xin":"贳县",
+    "SOURCE":"CHGIS",
+    "ID":20710,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.26253,37.87761 ]
+    },
+    "properties": {
+    "county_han":"郻县",
+    "county_xin":"秦聚县",
+    "SOURCE":"CHGIS",
+    "ID":20711,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.08887,37.44167 ]
+    },
+    "properties": {
+    "county_han":"新市侯国",
+    "county_xin":"市乐县",
+    "SOURCE":"CHGIS",
+    "ID":20712,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.23875,37.52855 ]
+    },
+    "properties": {
+    "county_han":"堂阳县",
+    "county_xin":"堂阳县",
+    "SOURCE":"CHGIS",
+    "ID":20713,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.15894,37.08461 ]
+    },
+    "properties": {
+    "county_han":"安定侯国",
+    "county_xin":"安定县",
+    "SOURCE":"CHGIS",
+    "ID":20714,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.03878,37.59415 ]
+    },
+    "properties": {
+    "county_han":"敬武县",
+    "county_xin":"敬武县",
+    "SOURCE":"CHGIS",
+    "ID":20715,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.03878,37.59415 ]
+    },
+    "properties": {
+    "county_han":"历乡侯国",
+    "county_xin":"历聚县",
+    "SOURCE":"CHGIS",
+    "ID":20716,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.31657,37.84235 ]
+    },
+    "properties": {
+    "county_han":"乐信侯国",
+    "county_xin":"乐信县",
+    "SOURCE":"CHGIS",
+    "ID":20717,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.63159,37.46809 ]
+    },
+    "properties": {
+    "county_han":"柏乡侯国",
+    "county_xin":"柏乡县",
+    "SOURCE":"CHGIS",
+    "ID":20719,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.07376,38.02891 ]
+    },
+    "properties": {
+    "county_han":"安乡侯国",
+    "county_xin":"安乡县",
+    "SOURCE":"CHGIS",
+    "ID":20720,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.0167654,37.2377662 ]
+    },
+    "properties": {
+    "county_han":"南县",
+    "county_xin":"富平县",
+    "SOURCE":"PUBLICATION",
+    "ID":20702,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.9753934,38.0337152 ]
+    },
+    "properties": {
+    "county_han":"下曲阳县",
+    "county_xin":"下曲阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":20709,
+    "name_type":"不改"
+    }
+  }
+]
+}

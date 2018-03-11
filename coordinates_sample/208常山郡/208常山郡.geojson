@@ -1,0 +1,229 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.41512,37.81672 ]
+    },
+    "properties": {
+    "county_han":"元氏县",
+    "county_xin":"井关亭县",
+    "SOURCE":"CHGIS",
+    "ID":20801,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.21235,38.24928 ]
+    },
+    "properties": {
+    "county_han":"桑中侯国",
+    "county_xin":"桑中县",
+    "SOURCE":"CHGIS",
+    "ID":20803,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.35564,38.31058 ]
+    },
+    "properties": {
+    "county_han":"灵寿县",
+    "county_xin":"灵寿县",
+    "SOURCE":"CHGIS",
+    "ID":20804,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.21235,38.24928 ]
+    },
+    "properties": {
+    "county_han":"蒲吾县",
+    "county_xin":"蒲吾县",
+    "SOURCE":"CHGIS",
+    "ID":20805,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.64456,38.61595 ]
+    },
+    "properties": {
+    "county_han":"上曲阳县",
+    "county_xin":"常山亭县",
+    "SOURCE":"CHGIS",
+    "ID":20806,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.73146,38.107 ]
+    },
+    "properties": {
+    "county_han":"九门县",
+    "county_xin":"久门县",
+    "SOURCE":"CHGIS",
+    "ID":20807,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.04595,38.19603 ]
+    },
+    "properties": {
+    "county_han":"井陉县",
+    "county_xin":"井陉县",
+    "SOURCE":"CHGIS",
+    "ID":20808,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5768,37.56767 ]
+    },
+    "properties": {
+    "county_han":"房子县",
+    "county_xin":"多子县",
+    "SOURCE":"CHGIS",
+    "ID":20809,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.50199,37.29572 ]
+    },
+    "properties": {
+    "county_han":"中丘县",
+    "county_xin":"直聚县",
+    "SOURCE":"CHGIS",
+    "ID":20810,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.71776,37.76293 ]
+    },
+    "properties": {
+    "county_han":"封斯侯国",
+    "county_xin":"封斯县",
+    "SOURCE":"CHGIS",
+    "ID":20811,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.62434,37.91348 ]
+    },
+    "properties": {
+    "county_han":"关县",
+    "county_xin":"关县",
+    "SOURCE":"CHGIS",
+    "ID":20812,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.77829,37.71736 ]
+    },
+    "properties": {
+    "county_han":"平棘县",
+    "county_xin":"平棘县",
+    "SOURCE":"CHGIS",
+    "ID":20813,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.73261,37.53046 ]
+    },
+    "properties": {
+    "county_han":"鄗县",
+    "county_xin":"禾成亭县",
+    "SOURCE":"CHGIS",
+    "ID":20814,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.39517,38.13633 ]
+    },
+    "properties": {
+    "county_han":"乐阳侯国",
+    "county_xin":"畅苗县",
+    "SOURCE":"CHGIS",
+    "ID":20815,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.52825,38.55172 ]
+    },
+    "properties": {
+    "county_han":"南行唐县",
+    "county_xin":"延亿县",
+    "SOURCE":"CHGIS",
+    "ID":20818,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.3863084,37.9678372 ]
+    },
+    "properties": {
+    "county_han":"石邑",
+    "county_xin":"石邑县",
+    "SOURCE":"PUBLICATION",
+    "ID":20802,
+    "name_type":"不改"
+    }
+  }
+]
+}

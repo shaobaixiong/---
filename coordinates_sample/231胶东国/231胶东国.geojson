@@ -1,0 +1,117 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.26362,36.71144 ]
+    },
+    "properties": {
+    "county_han":"即墨县",
+    "county_xin":"即善县",
+    "SOURCE":"CHGIS",
+    "ID":23101,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.47108,36.84386 ]
+    },
+    "properties": {
+    "county_han":"下密县",
+    "county_xin":"下密县",
+    "SOURCE":"CHGIS",
+    "ID":23103,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.94828,36.78823 ]
+    },
+    "properties": {
+    "county_han":"郁秩县",
+    "county_xin":"郁秩县",
+    "SOURCE":"CHGIS",
+    "ID":23105,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.70013,36.93383 ]
+    },
+    "properties": {
+    "county_han":"挺县",
+    "county_xin":"挺县",
+    "SOURCE":"CHGIS",
+    "ID":23106,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0055594,36.9907192 ]
+    },
+    "properties": {
+    "county_han":"观阳县",
+    "county_xin":"观阳县",
+    "SOURCE":"CHGIS",
+    "ID":23107,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.1512724,36.3520442 ]
+    },
+    "properties": {
+    "county_han":"壮武县",
+    "county_xin":"晓武县",
+    "SOURCE":"PUBLICATION",
+    "ID":23104,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.5090204,36.9628732 ]
+    },
+    "properties": {
+    "county_han":"邹卢县",
+    "county_xin":"始斯县",
+    "SOURCE":"PUBLICATION",
+    "ID":23108,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.0055594,36.9907192 ]
+    },
+    "properties": {
+    "county_han":"观阳县",
+    "county_xin":"观阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":23107,
+    "name_type":"不改"
+    }
+  }
+]
+}

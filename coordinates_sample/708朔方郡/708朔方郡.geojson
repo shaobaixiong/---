@@ -1,0 +1,145 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.5194444,40.6783192 ]
+    },
+    "properties": {
+    "county_han":"三封县",
+    "county_xin":"三封县",
+    "SOURCE":"PUBLICATION",
+    "ID":70801,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.6512474,40.4460381 ]
+    },
+    "properties": {
+    "county_han":"朔方县",
+    "county_xin":"武符县",
+    "SOURCE":"PUBLICATION",
+    "ID":70802,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.4940954,40.0053111 ]
+    },
+    "properties": {
+    "county_han":"修都县",
+    "county_xin":"修都县",
+    "SOURCE":"PUBLICATION",
+    "ID":70803,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.4354104,41.0355232 ]
+    },
+    "properties": {
+    "county_han":"临河县",
+    "county_xin":"监河县",
+    "SOURCE":"PUBLICATION",
+    "ID":70804,
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.7100214,40.6772911 ]
+    },
+    "properties": {
+    "county_han":"呼遒县",
+    "county_xin":"呼遒县",
+    "SOURCE":"PUBLICATION",
+    "ID":70805,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9543054,40.3459681 ]
+    },
+    "properties": {
+    "county_han":"窳浑县",
+    "county_xin":"极武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70806,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.6389344,40.4440281 ]
+    },
+    "properties": {
+    "county_han":"渠搜县",
+    "county_xin":"沟搜县",
+    "SOURCE":"PUBLICATION",
+    "ID":70807,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.1869494,40.6568361 ]
+    },
+    "properties": {
+    "county_han":"沃壄县",
+    "county_xin":"绥武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70808,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.2055364,41.0196851 ]
+    },
+    "properties": {
+    "county_han":"广牧县",
+    "county_xin":"盐官县",
+    "SOURCE":"PUBLICATION",
+    "ID":70809,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.0682194,40.5602171 ]
+    },
+    "properties": {
+    "county_han":"临戎县",
+    "county_xin":"推武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70810,
+    "name_type":"意义"
+    }
+  }
+]
+}

@@ -1,0 +1,75 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.52821,36.33138 ]
+    },
+    "properties": {
+    "county_han":"高密县",
+    "county_xin":"章牟县",
+    "SOURCE":"CHGIS",
+    "ID":23201,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.35334,36.36201 ]
+    },
+    "properties": {
+    "county_han":"昌安县",
+    "county_xin":"昌安县",
+    "SOURCE":"CHGIS",
+    "ID":23202,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.46484,36.0885 ]
+    },
+    "properties": {
+    "county_han":"石泉县",
+    "county_xin":"养信县",
+    "SOURCE":"CHGIS",
+    "ID":23203,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.75256,36.38541 ]
+    },
+    "properties": {
+    "county_han":"夷安县",
+    "county_xin":"原亭县",
+    "SOURCE":"CHGIS",
+    "ID":23204,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.18964,36.52749 ]
+    },
+    "properties": {
+    "county_han":"成乡县",
+    "county_xin":"顺成县",
+    "SOURCE":"CHGIS",
+    "ID":23205,
+    "name_type":"半嘉名"
+    }
+  }
+]
+}
