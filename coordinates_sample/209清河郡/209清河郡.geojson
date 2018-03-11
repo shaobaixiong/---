@@ -1,0 +1,201 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6717324,37.0373252 ]
+    },
+    "properties": {
+    "county_han":"清阳县",
+    "county_xin":"清阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":20901,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9320514,37.3139812 ]
+    },
+    "properties": {
+    "county_han":"东武城县",
+    "county_xin":"东武城县",
+    "SOURCE":"PUBLICATION",
+    "ID":20902,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3920434,37.2135462 ]
+    },
+    "properties": {
+    "county_han":"绎幕县",
+    "county_xin":"绎幕县",
+    "SOURCE":"PUBLICATION",
+    "ID":20903,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2058294,36.8305642 ]
+    },
+    "properties": {
+    "county_han":"灵县",
+    "county_xin":"播县",
+    "SOURCE":"PUBLICATION",
+    "ID":20904,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.7337584,36.8749072 ]
+    },
+    "properties": {
+    "county_han":"厝县",
+    "county_xin":"厝治县",
+    "SOURCE":"PUBLICATION",
+    "ID":20905,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3348744,37.1386352 ]
+    },
+    "properties": {
+    "county_han":"鄃县",
+    "county_xin":"善陆县",
+    "SOURCE":"PUBLICATION",
+    "ID":20906,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6949104,36.7967672 ]
+    },
+    "properties": {
+    "county_han":"贝丘县",
+    "county_xin":"贝丘县",
+    "SOURCE":"PUBLICATION",
+    "ID":20907,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6202124,37.0862182 ]
+    },
+    "properties": {
+    "county_han":"信成县",
+    "county_xin":"信成县",
+    "SOURCE":"PUBLICATION",
+    "ID":20908,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6242704,37.4824912 ]
+    },
+    "properties": {
+    "county_han":"𢘿题县",
+    "county_xin":"𢘿题县",
+    "SOURCE":"PUBLICATION",
+    "ID":20909,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0989714,37.2629952 ]
+    },
+    "properties": {
+    "county_han":"东阳侯国",
+    "county_xin":"胥陵县",
+    "SOURCE":"PUBLICATION",
+    "ID":20910,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9296564,36.9556972 ]
+    },
+    "properties": {
+    "county_han":"信乡侯国",
+    "county_xin":"信乡县",
+    "SOURCE":"PUBLICATION",
+    "ID":20911,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.4073964,37.3266502 ]
+    },
+    "properties": {
+    "county_han":"缭县",
+    "county_xin":"缭县",
+    "SOURCE":"PUBLICATION",
+    "ID":20912,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.7481084,37.4735522 ]
+    },
+    "properties": {
+    "county_han":"枣疆县",
+    "county_xin":"枣疆县",
+    "SOURCE":"PUBLICATION",
+    "ID":20913,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8854324,37.3599402 ]
+    },
+    "properties": {
+    "county_han":"复阳县",
+    "county_xin":"乐岁县",
+    "SOURCE":"PUBLICATION",
+    "ID":20914,
+    "name_type":"嘉名"
+    }
+  }
+]
+}
