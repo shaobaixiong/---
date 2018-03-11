@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.437187,32.39127 ]
+    },
+    "properties": {
+    "county_han":"广陵县",
+    "county_xin":"安定县",
+    "SOURCE":"CHGIS",
+    "ID":30301,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.449408,32.271192 ]
+    },
+    "properties": {
+    "county_han":"江都县",
+    "county_xin":"江都县",
+    "SOURCE":"CHGIS",
+    "ID":30302,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.437332,32.79071 ]
+    },
+    "properties": {
+    "county_han":"高邮县",
+    "county_xin":"高邮县",
+    "SOURCE":"CHGIS",
+    "ID":30303,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.29573,33.146187 ]
+    },
+    "properties": {
+    "county_han":"平安县",
+    "county_xin":"杜乡县",
+    "SOURCE":"CHGIS",
+    "ID":30304,
+    "name_type":"乡"
+    }
+  }
+]
+}

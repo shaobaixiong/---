@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>泗水国</name>
+            <meta family="" pop="" county="">故东海郡，武帝元鼎四年别为泗水国。莽曰<wname type="半嘉名">水顺</wname>。户二万五千二十五，口十一万九千一百一十四。县三。</meta>
+            <county><name>凌</name>，莽曰<wname type="加一">生夌</wname>。</county>
+            <county><name>泗阳</name>，莽曰<wname type="亭">淮平亭</wname>。</county>
+            <county><name>于</name>。莽曰<wname type="加一">于屏</wname>。</county>
+        </pref>
+    </chapter>
+</book>

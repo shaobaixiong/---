@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>广陵国</name>
+            <meta family="" pop="" county="">高帝六年属荆州，十一年更属吴。景帝四年更名江都，武帝元狩三年更名广陵。莽曰<wname type="意义">江平</wname>。属徐州。户三万六千七百七十三，口十四万七百二十二。有铁官。县四。</meta>
+            <county><name>广陵</name>，江都易王非、广陵厉王胥皆都比，并得鄣郡，而不得吴。莽曰<wname type="意义">安定</wname>。</county>
+            <county><name>江都</name>，<quote>有<feature type="shrine">江水祠</feature>。</quote><quote><feature type="river">渠水</feature>首受江，北至射阳入湖。</quote></county>
+            <county><name>高邮</name>。</county>
+            <county><name>平安</name>。莽曰<wname type="乡">杜乡</wname>。</county>
+        </pref>
+    </chapter>
+</book>

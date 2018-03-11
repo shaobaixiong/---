@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>六安国</name>
+            <meta family="" pop="" county="">故楚，高帝元年别为衡山国，五年属淮南。文帝十六复为衡山，武帝元狩二年别为六安国。莽曰<wname type="重地">安风</wname>。户三万八千三百四十五，口十七万八千六百一十六。县五。</meta>
+            <county><name>六</name>，故国，皋繇后，偃姓，为楚所灭。<quote><feature type="river">如溪水</feature>首受沘，东北至寿春入芍陂。</quote></county>
+            <county><name>蓼</name>，故国，皋繇后，为楚所灭。</county>
+            <county><name>安丰</name>，<quote>《禹贡》<feature type="mount">大别山</feature>在西南。</quote>莽曰<wname type="半嘉名">美丰</wname>。</county>
+            <county><name>安风</name>，莽曰<wname type="亭">安风亭</wname>。</county>
+            <county><name>阳泉</name>。</county>
+        </pref>
+    </chapter>
+</book>

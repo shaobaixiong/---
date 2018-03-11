@@ -1,0 +1,33 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.6419393,33.7272393 ]
+    },
+    "properties": {
+    "county_han":"凌县",
+    "county_xin":"生夌县",
+    "SOURCE":"PUBLICATION",
+    "ID":30201,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.933586,33.531315 ]
+    },
+    "properties": {
+    "county_han":"泗阳县",
+    "county_xin":"淮平亭县",
+    "SOURCE":"CHGIS",
+    "ID":30202,
+    "name_type":"亭"
+    }
+  }
+]
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter>
+        <pref>
+            <name>山阳郡</name>
+            <meta family="" pop="" county="">故梁。景帝中六年别为山阳国。武帝建元五年别为郡。莽曰<wname type="重地">巨野</wname>。属兖州。户十七万二千八百四十七，口八十万一千二百八十八。有铁官。县二十三。</meta>
+            <county><name>昌邑</name>，武帝天汉四年更山阳为昌邑国。<quote>有<feature type="sett">梁丘乡</feature>。</quote>《春秋传》曰“宋、齐会于梁丘”。</county>
+            <county><name>南平阳</name>，莽曰<wname type="?">黾平</wname>。</county>
+            <county><name>成武</name>，<quote>有<feature type="sett">楚丘亭</feature>。</quote>齐桓公所城，迁卫文公于此。子成公徙濮阳。莽曰<wname type="改一">成安</wname>。</county>
+            <county><name>湖陵</name>，《禹贡》“浮于泗、淮，通于河”，水在南。莽曰<wname type="陵">湖陆</wname>。</county>
+            <county><name>东缗</name>。</county>
+            <county><name>方与</name>。</county>
+            <county><name>橐</name>，莽曰<wname type="全改">高平</wname>。</county>
+            <county><name>巨野</name>，<quote><feature type="lake">大野泽</feature>在北，兖州薮。</quote></county>
+            <county><name>单父</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="改一">利父</wname>。</county>
+            <county><name>薄</name>。</county>
+            <county><name>都关</name>。</county>
+            <county note="侯国"><name>城都</name>，侯国。莽曰<wname type="改一">城穀</wname>。</county>
+            <county note="侯国"><name>黄</name>，侯国。</county>
+            <county note="侯国"><name>爰戚</name>，侯国。莽曰<wname type="亭">戚亭</wname>。</county>
+            <county note="侯国"><name>郜成</name>，侯国。莽曰<wname type="同音">告成</wname>。</county>
+            <county note="侯国"><name>中乡</name>，侯国。</county>
+            <county note="侯国"><name>平乐</name>，侯国。<quote><feature type="river">包水</feature>东北至沛入泗。</quote></county>
+            <county note="侯国"><name>郑</name>，侯国。</county>
+            <county><name>瑕丘</name>。</county>
+            <county note="侯国"><name>甾乡</name>，侯国。</county>
+            <county note="侯国"><name>栗乡</name>，侯国。莽曰<wname type="亭">足亭</wname>。</county>
+            <county note="侯国"><name>曲乡</name>，侯国。</county>
+            <county note="侯国"><name>西阳</name>，侯国。</county>
+        </pref>
+    </chapter>
+</book>

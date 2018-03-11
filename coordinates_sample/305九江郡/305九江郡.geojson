@@ -1,0 +1,215 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.863457,32.249771 ]
+    },
+    "properties": {
+    "county_han":"成德县",
+    "county_xin":"平阿县",
+    "SOURCE":"CHGIS",
+    "ID":30503,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.827042,31.712723 ]
+    },
+    "properties": {
+    "county_han":"橐皋县",
+    "county_xin":"橐皋县",
+    "SOURCE":"CHGIS",
+    "ID":30504,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.443821,32.636183 ]
+    },
+    "properties": {
+    "county_han":"阴陵县",
+    "county_xin":"阴陆县",
+    "SOURCE":"CHGIS",
+    "ID":30505,
+    "name_type":"陵"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.361122,31.714224 ]
+    },
+    "properties": {
+    "county_han":"历阳县",
+    "county_xin":"明义县",
+    "SOURCE":"CHGIS",
+    "ID":30506,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.205002,32.864658 ]
+    },
+    "properties": {
+    "county_han":"当涂侯国",
+    "county_xin":"山聚县",
+    "SOURCE":"CHGIS",
+    "ID":30507,
+    "name_type":"聚"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.640221,32.901634 ]
+    },
+    "properties": {
+    "county_han":"钟离县",
+    "county_xin":"蚕富县",
+    "SOURCE":"CHGIS",
+    "ID":30508,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.276459,31.864456 ]
+    },
+    "properties": {
+    "county_han":"合肥县",
+    "county_xin":"合肥县",
+    "SOURCE":"CHGIS",
+    "ID":30509,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.831304,32.41875 ]
+    },
+    "properties": {
+    "county_han":"东城县",
+    "county_xin":"武城县",
+    "SOURCE":"CHGIS",
+    "ID":30510,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.309551,31.748544 ]
+    },
+    "properties": {
+    "county_han":"博乡侯国",
+    "county_xin":"扬陆县",
+    "SOURCE":"CHGIS",
+    "ID":30511,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.162908,32.619987 ]
+    },
+    "properties": {
+    "county_han":"曲阳侯国",
+    "county_xin":"延平亭县",
+    "SOURCE":"CHGIS",
+    "ID":30512,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.4156653,32.3606683 ]
+    },
+    "properties": {
+    "county_han":"建阳县",
+    "county_xin":"建阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":30513,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.264374,32.098347 ]
+    },
+    "properties": {
+    "county_han":"全椒县",
+    "county_xin":"全椒县",
+    "SOURCE":"CHGIS",
+    "ID":30514,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.185474,31.681208 ]
+    },
+    "properties": {
+    "county_han":"阜陵县",
+    "county_xin":"阜陆县",
+    "SOURCE":"CHGIS",
+    "ID":30515,
+    "name_type":"陵"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7615983,32.5808393 ]
+    },
+    "properties": {
+    "county_han":"寿春邑",
+    "county_xin":"寿春邑",
+    "SOURCE":"PUBLICATION",
+    "ID":30501,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.5011623,31.8916983 ]
+    },
+    "properties": {
+    "county_han":"浚遒县",
+    "county_xin":"浚遒县",
+    "SOURCE":"PUBLICATION",
+    "ID":30502,
+    "name_type":"不改"
+    }
+  }
+]
+}

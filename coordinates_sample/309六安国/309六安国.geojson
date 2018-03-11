@@ -1,0 +1,75 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.517601,31.820169 ]
+    },
+    "properties": {
+    "county_han":"六县",
+    "county_xin":"六县",
+    "SOURCE":"CHGIS",
+    "ID":30901,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.75157,32.37073 ]
+    },
+    "properties": {
+    "county_han":"蓼县",
+    "county_xin":"蓼县",
+    "SOURCE":"CHGIS",
+    "ID":30902,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.80592,32.02245 ]
+    },
+    "properties": {
+    "county_han":"安丰县",
+    "county_xin":"美丰县",
+    "SOURCE":"CHGIS",
+    "ID":30903,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.235276,32.314176 ]
+    },
+    "properties": {
+    "county_han":"安风县",
+    "county_xin":"安风亭县",
+    "SOURCE":"CHGIS",
+    "ID":30904,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.88543,32.479401 ]
+    },
+    "properties": {
+    "county_han":"阳泉县",
+    "county_xin":"阳泉县",
+    "SOURCE":"CHGIS",
+    "ID":30905,
+    "name_type":"不改"
+    }
+  }
+]
+}

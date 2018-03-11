@@ -1,0 +1,369 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.618622,31.31271 ]
+    },
+    "properties": {
+    "county_han":"吴县",
+    "county_xin":"泰德县",
+    "SOURCE":"CHGIS",
+    "ID":30601,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.569855,31.995802 ]
+    },
+    "properties": {
+    "county_han":"曲阿县",
+    "county_xin":"风美县",
+    "SOURCE":"CHGIS",
+    "ID":30602,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.071625,29.300087 ]
+    },
+    "properties": {
+    "county_han":"乌伤县",
+    "county_xin":"乌孝县",
+    "SOURCE":"CHGIS",
+    "ID":30603,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.952301,31.782784 ]
+    },
+    "properties": {
+    "county_han":"毗陵县",
+    "county_xin":"毗坛县",
+    "SOURCE":"CHGIS",
+    "ID":30604,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.815624,31.353706 ]
+    },
+    "properties": {
+    "county_han":"阳羡县",
+    "county_xin":"阳羡县",
+    "SOURCE":"CHGIS",
+    "ID":30606,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.227661,29.713137 ]
+    },
+    "properties": {
+    "county_han":"诸暨县",
+    "county_xin":"疏虏县",
+    "SOURCE":"CHGIS",
+    "ID":30607,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.297668,31.574614 ]
+    },
+    "properties": {
+    "county_han":"无锡县",
+    "county_xin":"有锡县",
+    "SOURCE":"CHGIS",
+    "ID":30608,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.578262,30.004515 ]
+    },
+    "properties": {
+    "county_han":"山阴县",
+    "county_xin":"山阴县",
+    "SOURCE":"CHGIS",
+    "ID":30609,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.514992,32.19529 ]
+    },
+    "properties": {
+    "county_han":"丹徒县",
+    "county_xin":"丹徒县",
+    "SOURCE":"CHGIS",
+    "ID":30610,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.953649,31.394462 ]
+    },
+    "properties": {
+    "county_han":"娄县",
+    "county_xin":"娄治县",
+    "SOURCE":"CHGIS",
+    "ID":30612,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.876747,30.017284 ]
+    },
+    "properties": {
+    "county_han":"上虞县",
+    "county_xin":"会稽县",
+    "SOURCE":"CHGIS",
+    "ID":30613,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.012344,30.70422 ]
+    },
+    "properties": {
+    "county_han":"海盐县",
+    "county_xin":"展武县",
+    "SOURCE":"CHGIS",
+    "ID":30614,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.742558,29.54631 ]
+    },
+    "properties": {
+    "county_han":"剡县",
+    "county_xin":"尽忠县",
+    "SOURCE":"CHGIS",
+    "ID":30615,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.753126,30.745343 ]
+    },
+    "properties": {
+    "county_han":"由拳县",
+    "county_xin":"由拳县",
+    "SOURCE":"CHGIS",
+    "ID":30616,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.109195,30.796995 ]
+    },
+    "properties": {
+    "county_han":"乌程县",
+    "county_xin":"乌程县",
+    "SOURCE":"CHGIS",
+    "ID":30618,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.512394,29.874407 ]
+    },
+    "properties": {
+    "county_han":"句章县",
+    "county_xin":"句章县",
+    "SOURCE":"CHGIS",
+    "ID":30619,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.552942,29.689518 ]
+    },
+    "properties": {
+    "county_han":"鄞县",
+    "county_xin":"谨县",
+    "SOURCE":"CHGIS",
+    "ID":30621,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.168625,30.294125 ]
+    },
+    "properties": {
+    "county_han":"钱唐县",
+    "county_xin":"泉亭县",
+    "SOURCE":"CHGIS",
+    "ID":30622,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.727013,29.844328 ]
+    },
+    "properties": {
+    "county_han":"鄮县",
+    "county_xin":"海治县",
+    "SOURCE":"CHGIS",
+    "ID":30623,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.947754,30.053434 ]
+    },
+    "properties": {
+    "county_han":"富春县",
+    "county_xin":"诛岁县",
+    "SOURCE":"CHGIS",
+    "ID":30624,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.321577,26.073954 ]
+    },
+    "properties": {
+    "county_han":"冶县",
+    "county_xin":"冶县",
+    "SOURCE":"CHGIS",
+    "ID":30625,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.418793,28.713875 ]
+    },
+    "properties": {
+    "county_han":"回浦县",
+    "county_xin":"回浦县",
+    "SOURCE":"CHGIS",
+    "ID":30626,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.2440993,30.1976063 ]
+    },
+    "properties": {
+    "county_han":"馀暨县",
+    "county_xin":"馀衍县",
+    "SOURCE":"PUBLICATION",
+    "ID":30605,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1345883,30.0344684 ]
+    },
+    "properties": {
+    "county_han":"馀姚县",
+    "county_xin":"馀姚县",
+    "SOURCE":"PUBLICATION",
+    "ID":30611,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.1474773,29.0250624 ]
+    },
+    "properties": {
+    "county_han":"大末县",
+    "county_xin":"末治县",
+    "SOURCE":"PUBLICATION",
+    "ID":30617,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.9231233,30.2693904 ]
+    },
+    "properties": {
+    "county_han":"馀杭县",
+    "county_xin":"进睦县",
+    "SOURCE":"PUBLICATION",
+    "ID":30620,
+    "name_type":"嘉名"
+    }
+  }
+]
+}

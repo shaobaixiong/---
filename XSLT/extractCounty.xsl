@@ -36,7 +36,7 @@
                         </xsl:choose>
                     </name_type>
                     <ID>
-                        <xsl:text>304</xsl:text>
+                        <xsl:text>303</xsl:text>
                         <xsl:number value="position()" format="01"/>
                     </ID>
                 </county>

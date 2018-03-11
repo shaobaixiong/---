@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1821114,34.6123702 ]
+    },
+    "properties": {
+    "county_han":"黄侯国",
+    "county_xin":"黄县",
+    "SOURCE":"PUBLICATION",
+    "ID":21813,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7922664,35.5924472 ]
+    },
+    "properties": {
+    "county_han":"瑕丘侯国",
+    "county_xin":"瑕丘县",
+    "SOURCE":"PUBLICATION",
+    "ID":21819,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2525224,35.0275402 ]
+    },
+    "properties": {
+    "county_han":"西阳侯国",
+    "county_xin":"西阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":21823,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.12354,35.14277 ]
+    },
+    "properties": {
+    "county_han":"昌邑县",
+    "county_xin":"昌邑县",
+    "SOURCE":"CHGIS",
+    "ID":21801,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.96727,35.40276 ]
+    },
+    "properties": {
+    "county_han":"南平阳县",
+    "county_xin":"黾平县",
+    "SOURCE":"CHGIS",
+    "ID":21802,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.87518,34.96223 ]
+    },
+    "properties": {
+    "county_han":"成武县",
+    "county_xin":"成安县",
+    "SOURCE":"CHGIS",
+    "ID":21803,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.83036,34.9429 ]
+    },
+    "properties": {
+    "county_han":"湖陵县",
+    "county_xin":"湖陆县",
+    "SOURCE":"CHGIS",
+    "ID":21804,
+    "name_type":"陵"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.30453,35.06816 ]
+    },
+    "properties": {
+    "county_han":"东缗县",
+    "county_xin":"东缗县",
+    "SOURCE":"CHGIS",
+    "ID":21805,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.61735,35.08306 ]
+    },
+    "properties": {
+    "county_han":"方与县",
+    "county_xin":"方与县",
+    "SOURCE":"CHGIS",
+    "ID":21806,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.71867,35.15031 ]
+    },
+    "properties": {
+    "county_han":"橐县",
+    "county_xin":"高平县",
+    "SOURCE":"CHGIS",
+    "ID":21807,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.08871,35.39621 ]
+    },
+    "properties": {
+    "county_han":"巨野县",
+    "county_xin":"巨野县",
+    "SOURCE":"CHGIS",
+    "ID":21808,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.07925,34.7979 ]
+    },
+    "properties": {
+    "county_han":"单父县",
+    "county_xin":"利父县",
+    "SOURCE":"CHGIS",
+    "ID":21809,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.5415,34.72515 ]
+    },
+    "properties": {
+    "county_han":"薄县",
+    "county_xin":"薄县",
+    "SOURCE":"CHGIS",
+    "ID":21810,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.62495,35.60211 ]
+    },
+    "properties": {
+    "county_han":"都关县",
+    "county_xin":"都关县",
+    "SOURCE":"CHGIS",
+    "ID":21811,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.61658,35.52508 ]
+    },
+    "properties": {
+    "county_han":"城都侯国",
+    "county_xin":"城穀县",
+    "SOURCE":"CHGIS",
+    "ID":21812,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2623,35.31748 ]
+    },
+    "properties": {
+    "county_han":"爰戚侯国",
+    "county_xin":"戚亭县",
+    "SOURCE":"CHGIS",
+    "ID":21814,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.94444,34.90913 ]
+    },
+    "properties": {
+    "county_han":"郜成侯国",
+    "county_xin":"告成县",
+    "SOURCE":"CHGIS",
+    "ID":21815,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.27869,34.75686 ]
+    },
+    "properties": {
+    "county_han":"平乐侯国",
+    "county_xin":"平乐县",
+    "SOURCE":"CHGIS",
+    "ID":21817,
+    "name_type":"不改"
+    }
+  }
+]
+}
