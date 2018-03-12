@@ -1,0 +1,159 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.9525933,27.0821375 ]
+    },
+    "properties": {
+    "county_han":"阴山侯国",
+    "county_xin":"阴山县",
+    "SOURCE":"PUBLICATION",
+    "ID":40311,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.025139,25.802719 ]
+    },
+    "properties": {
+    "county_han":"郴县",
+    "county_xin":"宣风县",
+    "SOURCE":"CHGIS",
+    "ID":40301,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.609594,25.318959 ]
+    },
+    "properties": {
+    "county_han":"临武县",
+    "county_xin":"大武县",
+    "SOURCE":"CHGIS",
+    "ID":40302,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.114944,26.133934 ]
+    },
+    "properties": {
+    "county_han":"便县",
+    "county_xin":"便屏县",
+    "SOURCE":"CHGIS",
+    "ID":40303,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.203329,25.38875 ]
+    },
+    "properties": {
+    "county_han":"南平县",
+    "county_xin":"南平县",
+    "SOURCE":"CHGIS",
+    "ID":40304,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.846886,26.41507 ]
+    },
+    "properties": {
+    "county_han":"耒阳县",
+    "county_xin":"南平亭县",
+    "SOURCE":"CHGIS",
+    "ID":40305,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.378121,24.779701 ]
+    },
+    "properties": {
+    "county_han":"桂阳县",
+    "county_xin":"桂阳县",
+    "SOURCE":"CHGIS",
+    "ID":40306,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.253827,26.995988 ]
+    },
+    "properties": {
+    "county_han":"阳山侯国",
+    "county_xin":"阳山县",
+    "SOURCE":"CHGIS",
+    "ID":40307,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.603417,24.810209 ]
+    },
+    "properties": {
+    "county_han":"曲江县",
+    "county_xin":"除虏县",
+    "SOURCE":"CHGIS",
+    "ID":40308,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.124199,24.258881 ]
+    },
+    "properties": {
+    "county_han":"含洭县",
+    "county_xin":"含洭县",
+    "SOURCE":"CHGIS",
+    "ID":40309,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.402077,24.172937 ]
+    },
+    "properties": {
+    "county_han":"浈阳县",
+    "county_xin":"基武县",
+    "SOURCE":"CHGIS",
+    "ID":40310,
+    "name_type":"嘉名"
+    }
+  }
+]
+}
