@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
 <book>
     <chapter name="地理志第八">
         <pref>
             <name>江夏郡</name>
             <meta family="56844" pop="219218" county="14"><date status="est">高帝置。</date>属荆州。户五万六千八百四十四，口二十一万九千二百一十八。县十四。</meta>
-            <county><name>西陵</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="admin">云梦官</feature>。</quote>莽曰<wname>江阳</wname>。</county>
-            <county><name>竟陵</name>，<quote><feature type="mount">章山</feature>在东北，古文以为内方山。</quote><quote><feature type="sett">郧乡</feature></quote>，<history>楚郧公邑。</history>莽曰<wname>守平</wname>。</county>
+            <county><name>西陵</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="admin">云梦官</feature>。</quote>莽曰<wname type="意义">江阳</wname>。</county>
+            <county><name>竟陵</name>，<quote><feature type="mount">章山</feature>在东北，古文以为内方山。</quote><quote><feature type="sett">郧乡</feature></quote>，<history>楚郧公邑。</history>莽曰<wname type="陵">守平</wname>。</county>
             <county><name>西阳</name>。</county>
-            <county><name>襄</name>，莽曰<wname>襄非</wname>。</county>
+            <county><name>襄</name>，莽曰<wname type="加一">襄非</wname>。</county>
             <county><name>邾</name>，<history>衡山王吴芮都。</history></county>
             <county><name>轪</name>，<history>故弦子国。</history></county>
             <county><name>鄂</name>。</county>
@@ -17,8 +17,8 @@
             <county><name>蕲春</name>。</county>
             <county><name>鄳</name>。</county>
             <county><name>云杜</name>。</county>
-            <county><name>下雉</name>，莽曰<wname>闰光</wname>。</county>
-            <county note="侯国"><name>钟武</name>。侯国。莽曰<wname>当利</wname>。</county>
+            <county><name>下雉</name>，莽曰<wname type="意义">闰光</wname>。</county>
+            <county note="侯国"><name>钟武</name>。侯国。莽曰<wname type="嘉名">当利</wname>。</county>
         </pref>
     </chapter>
 </book>

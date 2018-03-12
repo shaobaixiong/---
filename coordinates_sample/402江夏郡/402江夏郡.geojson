@@ -1,0 +1,187 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.77959,30.84634 ]
+    },
+    "properties": {
+    "county_han":"西陵县",
+    "county_xin":"江阳县",
+    "SOURCE":"CHGIS",
+    "ID":40201,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.84528,30.48291 ]
+    },
+    "properties": {
+    "county_han":"竟陵县",
+    "county_xin":"守平县",
+    "SOURCE":"CHGIS",
+    "ID":40202,
+    "name_type":"陵"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.806,32.05649 ]
+    },
+    "properties": {
+    "county_han":"西阳县",
+    "county_xin":"西阳县",
+    "SOURCE":"CHGIS",
+    "ID":40203,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.84357,30.48668 ]
+    },
+    "properties": {
+    "county_han":"邾县",
+    "county_xin":"邾县",
+    "SOURCE":"CHGIS",
+    "ID":40205,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.70993,32.22458 ]
+    },
+    "properties": {
+    "county_han":"轪县",
+    "county_xin":"轪县",
+    "SOURCE":"CHGIS",
+    "ID":40206,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.87991,30.40272 ]
+    },
+    "properties": {
+    "county_han":"鄂县",
+    "county_xin":"鄂县",
+    "SOURCE":"CHGIS",
+    "ID":40207,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.75288,31.03111 ]
+    },
+    "properties": {
+    "county_han":"安陆县",
+    "county_xin":"安陆县",
+    "SOURCE":"CHGIS",
+    "ID":40208,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.13541,30.34289 ]
+    },
+    "properties": {
+    "county_han":"沙羡县",
+    "county_xin":"沙羡县",
+    "SOURCE":"CHGIS",
+    "ID":40209,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.32143,30.13756 ]
+    },
+    "properties": {
+    "county_han":"蕲春县",
+    "county_xin":"蕲春县",
+    "SOURCE":"CHGIS",
+    "ID":40210,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.48816,32.17984 ]
+    },
+    "properties": {
+    "county_han":"鄳县",
+    "county_xin":"鄳县",
+    "SOURCE":"CHGIS",
+    "ID":40211,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.11685,31.02481 ]
+    },
+    "properties": {
+    "county_han":"云杜县",
+    "county_xin":"云杜县",
+    "SOURCE":"CHGIS",
+    "ID":40212,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.43631,29.85108 ]
+    },
+    "properties": {
+    "county_han":"下雉县",
+    "county_xin":"闰光县",
+    "SOURCE":"CHGIS",
+    "ID":40213,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1954973,32.0941223 ]
+    },
+    "properties": {
+    "county_han":"钟武侯国",
+    "county_xin":"当利县",
+    "SOURCE":"PUBLICATION",
+    "ID":40214,
+    "name_type":"嘉名"
+    }
+  }
+]
+}

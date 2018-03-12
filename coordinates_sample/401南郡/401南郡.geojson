@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.19077,30.35044 ]
+    },
+    "properties": {
+    "county_han":"江陵县",
+    "county_xin":"江陆县",
+    "SOURCE":"CHGIS",
+    "ID":40101,
+    "name_type":"陵"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.69106,30.91539 ]
+    },
+    "properties": {
+    "county_han":"临沮县",
+    "county_xin":"临沮县",
+    "SOURCE":"CHGIS",
+    "ID":40102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.29004,30.69551 ]
+    },
+    "properties": {
+    "county_han":"夷陵县",
+    "county_xin":"居利县",
+    "SOURCE":"CHGIS",
+    "ID":40103,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.77368,30.22024 ]
+    },
+    "properties": {
+    "county_han":"华容县",
+    "county_xin":"华容县",
+    "SOURCE":"CHGIS",
+    "ID":40104,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.30742,31.66816 ]
+    },
+    "properties": {
+    "county_han":"宜城县",
+    "county_xin":"宜城县",
+    "SOURCE":"CHGIS",
+    "ID":40105,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.24141,30.37838 ]
+    },
+    "properties": {
+    "county_han":"郢县",
+    "county_xin":"郢亭县",
+    "SOURCE":"CHGIS",
+    "ID":40106,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.2711,31.74154 ]
+    },
+    "properties": {
+    "county_han":"邔县",
+    "county_xin":"邔县",
+    "SOURCE":"CHGIS",
+    "ID":40107,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.18753,30.95098 ]
+    },
+    "properties": {
+    "county_han":"当阳县",
+    "county_xin":"当阳县",
+    "SOURCE":"CHGIS",
+    "ID":40108,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.0238,31.91545 ]
+    },
+    "properties": {
+    "county_han":"中庐县",
+    "county_xin":"中庐县",
+    "SOURCE":"CHGIS",
+    "ID":40109,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.91258,30.47154 ]
+    },
+    "properties": {
+    "county_han":"枝江县",
+    "county_xin":"枝江县",
+    "SOURCE":"CHGIS",
+    "ID":40110,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.1587,32.02652 ]
+    },
+    "properties": {
+    "county_han":"襄阳县",
+    "county_xin":"相阳县",
+    "SOURCE":"CHGIS",
+    "ID":40111,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.97476,31.32146 ]
+    },
+    "properties": {
+    "county_han":"编县",
+    "county_xin":"南顺县",
+    "SOURCE":"CHGIS",
+    "ID":40112,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.69416,30.99962 ]
+    },
+    "properties": {
+    "county_han":"秭归县",
+    "county_xin":"秭归县",
+    "SOURCE":"CHGIS",
+    "ID":40113,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.45792,30.39239 ]
+    },
+    "properties": {
+    "county_han":"夷道县",
+    "county_xin":"江南县",
+    "SOURCE":"CHGIS",
+    "ID":40114,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.94192,30.26944 ]
+    },
+    "properties": {
+    "county_han":"州陵县",
+    "county_xin":"江夏县",
+    "SOURCE":"CHGIS",
+    "ID":40115,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.44061,31.49742 ]
+    },
+    "properties": {
+    "county_han":"若县",
+    "county_xin":"若县",
+    "SOURCE":"CHGIS",
+    "ID":40116,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.88927,31.09457 ]
+    },
+    "properties": {
+    "county_han":"巫县",
+    "county_xin":"巫县",
+    "SOURCE":"CHGIS",
+    "ID":40117,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.78103,30.05309 ]
+    },
+    "properties": {
+    "county_han":"高成县",
+    "county_xin":"言程县",
+    "SOURCE":"CHGIS",
+    "ID":40118,
+    "name_type":"改一"
+    }
+  }
+]
+}
