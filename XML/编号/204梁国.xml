@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>梁国</name>
+            <meta family="" pop="" county="">故秦砀郡，高帝五年为梁国。莽曰<wname type="意义">陈定</wname>。属豫州。户三万八千七百九，口十万六千七百五十二。县八。</meta>
+            <county><name>砀</name>，<quote>山出<feature type="resource">文石</feature>。</quote>莽曰<wname type="加一">节砀</wname>。</county>
+            <county><name>甾</name>，<history>故戴国。</history>莽曰<wname type="嘉名">嘉穀</wname>。</county>
+            <county><name>杼秋</name>，莽曰<wname type="简化">予秋</wname>。</county>
+            <county><name>蒙</name>，<quote><feature type="interPrefRiver">获水</feature>首受甾获渠，东北至彭城入泗，过郡五，行五百五十里。</quote>莽曰<wname type="加一">蒙思</wname>。</county>
+            <county><name>已氏</name>，莽曰<wname type="半嘉名">已善</wname>。</county>
+            <county><name>虞</name>，莽曰<wname type="亭">陈定亭</wname>。</county>
+            <county note="邑"><name>下邑</name>，莽曰<wname type="治">下治</wname>。</county>
+            <county><name>睢阳</name>。<history>故宋国，微子所封。</history><quote>《禹贡》<feature type="lake">盟诸泽</feature>在东北。</quote></county>
+        </pref>
+    </chapter>
+</book>

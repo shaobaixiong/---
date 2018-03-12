@@ -1,0 +1,117 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4505994,34.1311933 ]
+    },
+    "properties": {
+    "county_han":"砀县",
+    "county_xin":"节砀县",
+    "SOURCE":"PUBLICATION",
+    "ID":20401,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2221484,34.6730142 ]
+    },
+    "properties": {
+    "county_han":"甾县",
+    "county_xin":"嘉穀县",
+    "SOURCE":"PUBLICATION",
+    "ID":20402,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.6605544,34.3632632 ]
+    },
+    "properties": {
+    "county_han":"杼秋县",
+    "county_xin":"予秋县",
+    "SOURCE":"PUBLICATION",
+    "ID":20403,
+    "name_type":"简化"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6241074,34.4661703 ]
+    },
+    "properties": {
+    "county_han":"蒙县",
+    "county_xin":"蒙思县",
+    "SOURCE":"PUBLICATION",
+    "ID":20404,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6050944,34.6841202 ]
+    },
+    "properties": {
+    "county_han":"已氏县",
+    "county_xin":"已善县",
+    "SOURCE":"PUBLICATION",
+    "ID":20405,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8689614,34.4971443 ]
+    },
+    "properties": {
+    "county_han":"虞县",
+    "county_xin":"陈定亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":20406,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3386624,34.4256393 ]
+    },
+    "properties": {
+    "county_han":"下邑",
+    "county_xin":"下治县",
+    "SOURCE":"PUBLICATION",
+    "ID":20407,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6349404,34.3779273 ]
+    },
+    "properties": {
+    "county_han":"睢阳县",
+    "county_xin":"睢阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":20408,
+    "name_type":"不改"
+    }
+  }
+]
+}
