@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter>
+        <pref>
+            <name>鲁国</name>
+            <meta family="" pop="" county="">故秦薛郡，高后元年为鲁国。属豫州。户十一万八千四十五，口六十万七千三百八十一。县六。</meta>
+            <county><name>鲁</name>，<history>伯禽所封。</history>户五万二千。<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>卞</name>，<quote><feature type="interPrefRiver">泗水</feature>西南至方与入沛，过郡三，行五百里，青州川。</quote></county>
+            <county><name>汶阳</name>，莽曰<wname type="亭">汶亭</wname>。</county>
+            <county><name>蕃</name>，<quote><feature type="river">南梁水</feature>西至胡陵入沛渠。</quote></county>
+            <county><name>驺</name>，<history>故邾国。曹姓，二十九世为楚所灭。</history><quote><feature type="mount">峄山</feature>在北。</quote>莽曰<wname type="亭">驺亭</wname>。</county>
+            <county><name>薛</name>。<history>夏车正奚仲所国。后迁于邳，汤相仲虺居之。</history></county>
+        </pref>
+    </chapter>
+</book>

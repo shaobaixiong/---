@@ -10,7 +10,8 @@
             <county><name>斥丘</name>，莽曰<wname type="半嘉名">利丘</wname>。</county>
             <county><name>沙</name>。</county>
             <county><name>内黄</name>，<quote><feature type="river">清河水</feature>出南。</quote></county>
-            <county><name>清渊</name>，魏，<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="亭">魏城亭</wname>。</county>
+            <county><name>清渊</name>，</county>
+            <county><name>魏</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="亭">魏城亭</wname>。</county>
             <county><name>繁阳</name>。</county>
             <county><name>元城</name>。</county>
             <county><name>梁期</name>。</county>

@@ -1,0 +1,89 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9686054,35.5863502 ]
+    },
+    "properties": {
+    "county_han":"鲁县",
+    "county_xin":"鲁县",
+    "SOURCE":"PUBLICATION",
+    "ID":20501,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.4225554,35.6335542 ]
+    },
+    "properties": {
+    "county_han":"卞县",
+    "county_xin":"卞县",
+    "SOURCE":"PUBLICATION",
+    "ID":20502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.8985654,35.8854862 ]
+    },
+    "properties": {
+    "county_han":"汶阳县",
+    "county_xin":"汶亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":20503,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.1519974,35.0852342 ]
+    },
+    "properties": {
+    "county_han":"蕃县",
+    "county_xin":"蕃县",
+    "SOURCE":"PUBLICATION",
+    "ID":20504,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.0861204,35.2603872 ]
+    },
+    "properties": {
+    "county_han":"驺县",
+    "county_xin":"驺亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":20505,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.1495364,34.8465792 ]
+    },
+    "properties": {
+    "county_han":"薛县",
+    "county_xin":"薛县",
+    "SOURCE":"PUBLICATION",
+    "ID":20506,
+    "name_type":"不改"
+    }
+  }
+]
+}

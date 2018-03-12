@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5723434,36.3278902 ]
+    },
+    "properties": {
+    "county_han":"邺县",
+    "county_xin":"邺县",
+    "SOURCE":"PUBLICATION",
+    "ID":20601,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2617944,36.5399262 ]
+    },
+    "properties": {
+    "county_han":"馆陶县",
+    "county_xin":"馆陶县",
+    "SOURCE":"PUBLICATION",
+    "ID":20602,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.6879764,36.4362422 ]
+    },
+    "properties": {
+    "county_han":"斥丘县",
+    "county_xin":"利丘县",
+    "SOURCE":"PUBLICATION",
+    "ID":20603,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.6275114,36.5882022 ]
+    },
+    "properties": {
+    "county_han":"沙县",
+    "county_xin":"沙县",
+    "SOURCE":"PUBLICATION",
+    "ID":20604,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.8851404,35.9578852 ]
+    },
+    "properties": {
+    "county_han":"内黄县",
+    "county_xin":"内黄县",
+    "SOURCE":"PUBLICATION",
+    "ID":20605,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.4756084,36.8427822 ]
+    },
+    "properties": {
+    "county_han":"清渊县",
+    "county_xin":"清渊县",
+    "SOURCE":"PUBLICATION",
+    "ID":20606,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1358464,36.2454112 ]
+    },
+    "properties": {
+    "county_han":"魏县",
+    "county_xin":"魏城亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":20607,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.8731344,36.0019922 ]
+    },
+    "properties": {
+    "county_han":"繁阳县",
+    "county_xin":"繁阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":20608,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1702754,36.2784772 ]
+    },
+    "properties": {
+    "county_han":"元城县",
+    "county_xin":"元城县",
+    "SOURCE":"PUBLICATION",
+    "ID":20609,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.3616044,36.3842992 ]
+    },
+    "properties": {
+    "county_han":"梁期县",
+    "county_xin":"梁期县",
+    "SOURCE":"PUBLICATION",
+    "ID":20610,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5709594,35.6690822 ]
+    },
+    "properties": {
+    "county_han":"黎阳县",
+    "county_xin":"黎蒸县",
+    "SOURCE":"PUBLICATION",
+    "ID":20611,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.7634284,36.5448252 ]
+    },
+    "properties": {
+    "county_han":"即裴侯国",
+    "county_xin":"即是县",
+    "SOURCE":"PUBLICATION",
+    "ID":20612,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.4418394,36.5893102 ]
+    },
+    "properties": {
+    "county_han":"武始县",
+    "county_xin":"武始县",
+    "SOURCE":"PUBLICATION",
+    "ID":20613,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.7428034,36.5337982 ]
+    },
+    "properties": {
+    "county_han":"邯会侯国",
+    "county_xin":"邯会县",
+    "SOURCE":"PUBLICATION",
+    "ID":20614,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1039784,35.9662692 ]
+    },
+    "properties": {
+    "county_han":"阴安县",
+    "county_xin":"阴安县",
+    "SOURCE":"PUBLICATION",
+    "ID":20615,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.1151314,36.8013452 ]
+    },
+    "properties": {
+    "county_han":"平恩侯国",
+    "county_xin":"延平县",
+    "SOURCE":"PUBLICATION",
+    "ID":20616,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.7662084,36.5724262 ]
+    },
+    "properties": {
+    "county_han":"邯沟侯国",
+    "county_xin":"邯沟县",
+    "SOURCE":"PUBLICATION",
+    "ID":20617,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1528474,36.6825442 ]
+    },
+    "properties": {
+    "county_han":"武安县",
+    "county_xin":"桓安县",
+    "SOURCE":"PUBLICATION",
+    "ID":20618,
+    "name_type":"改一"
+    }
+  }
+]
+}
