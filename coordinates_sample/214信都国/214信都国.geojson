@@ -1,0 +1,243 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.8688404,37.8013682 ]
+    },
+    "properties": {
+    "county_han":"武邑",
+    "county_xin":"顺桓县",
+    "SOURCE":"PUBLICATION",
+    "ID":21407,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.7235874,37.5434862 ]
+    },
+    "properties": {
+    "county_han":"高隄县",
+    "county_xin":"高隄县",
+    "SOURCE":"PUBLICATION",
+    "ID":21409,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2361764,37.6605932 ]
+    },
+    "properties": {
+    "county_han":"脩县",
+    "county_xin":"脩治县",
+    "SOURCE":"PUBLICATION",
+    "ID":21417,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.56381,37.56598 ]
+    },
+    "properties": {
+    "county_han":"信都县",
+    "county_xin":"新博亭县",
+    "SOURCE":"CHGIS",
+    "ID":21401,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0293,37.4364 ]
+    },
+    "properties": {
+    "county_han":"历县",
+    "county_xin":"历宁县",
+    "SOURCE":"CHGIS",
+    "ID":21402,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.39907,37.61451 ]
+    },
+    "properties": {
+    "county_han":"扶柳县",
+    "county_xin":"扶柳县",
+    "SOURCE":"CHGIS",
+    "ID":21403,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.66966,37.47531 ]
+    },
+    "properties": {
+    "county_han":"辟阳县",
+    "county_xin":"乐信县",
+    "SOURCE":"CHGIS",
+    "ID":21404,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.367,37.36563 ]
+    },
+    "properties": {
+    "county_han":"南宫县",
+    "county_xin":"序下县",
+    "SOURCE":"CHGIS",
+    "ID":21405,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.58226,37.86949 ]
+    },
+    "properties": {
+    "county_han":"下博县",
+    "county_xin":"闰博县",
+    "SOURCE":"CHGIS",
+    "ID":21406,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.03427,37.80529 ]
+    },
+    "properties": {
+    "county_han":"观津县",
+    "county_xin":"朔定亭县",
+    "SOURCE":"CHGIS",
+    "ID":21408,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9133,37.55929 ]
+    },
+    "properties": {
+    "county_han":"广川县",
+    "county_xin":"广川县",
+    "SOURCE":"CHGIS",
+    "ID":21410,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.58226,37.86949 ]
+    },
+    "properties": {
+    "county_han":"乐乡侯国",
+    "county_xin":"乐丘县",
+    "SOURCE":"CHGIS",
+    "ID":21411,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.95357,37.78275 ]
+    },
+    "properties": {
+    "county_han":"平堤侯国",
+    "county_xin":"平堤县",
+    "SOURCE":"CHGIS",
+    "ID":21412,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.4941,37.80001 ]
+    },
+    "properties": {
+    "county_han":"桃县",
+    "county_xin":"桓分县",
+    "SOURCE":"CHGIS",
+    "ID":21413,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2092,37.76156 ]
+    },
+    "properties": {
+    "county_han":"西梁侯国",
+    "county_xin":"西梁县",
+    "SOURCE":"CHGIS",
+    "ID":21414,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.39907,37.61451 ]
+    },
+    "properties": {
+    "county_han":"昌成侯国",
+    "county_xin":"昌成县",
+    "SOURCE":"CHGIS",
+    "ID":21415,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.99969,37.92057 ]
+    },
+    "properties": {
+    "county_han":"东昌侯国",
+    "county_xin":"田昌县",
+    "SOURCE":"CHGIS",
+    "ID":21416,
+    "name_type":"改一"
+    }
+  }
+]
+}

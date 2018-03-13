@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>信都国</name>
+            <meta family="" pop="" county="">景帝二年为广川国，宣帝甘露三年复故。莽曰<wname type="重地">新博</wname>。属冀州。户六万五千五百五十六，口万三十万四千三百八十四。县十七。</meta>
+            <county><name>信都</name>，王都。故章河、故虖池皆在北，东入海。《禹贡》绛水亦入海。莽曰<wname type="亭">新博亭</wname>。</county>
+            <county><name>历</name>，莽曰<wname type="加一">历宁</wname>。</county>
+            <county><name>扶柳</name>。</county>
+            <county><name>辟阳</name>，莽曰<wname type="嘉名">乐信</wname>。</county>
+            <county><name>南宫</name>，莽曰<wname type="?">序下</wname>。</county>
+            <county><name>下博</name>，莽曰<wname type="改一">闰博</wname>。</county>
+            <county note="邑"><name>武邑</name>，莽曰<wname type="嘉名">顺桓</wname>。</county>
+            <county><name>观津</name>，莽曰<wname type="亭">朔定亭</wname>。</county>
+            <county><name>高提</name>。</county>
+            <county><name>广川</name>。</county>
+            <county note="侯国"><name>乐乡</name>，侯国。莽曰<wname type="改一">乐丘</wname>。</county>
+            <county note="侯国"><name>平堤</name>，侯国。</county>
+            <county><name>桃</name>，莽曰<wname type="?">桓分</wname>。</county>
+            <county note="侯国"><name>西梁</name>，侯国。</county>
+            <county note="侯国"><name>昌成</name>，侯国。</county>
+            <county note="侯国"><name>东昌</name>，侯国。莽曰<wname type="改一">田昌</wname>。</county>
+            <county><name>脩</name>。莽曰<wname type="治">脩治</wname>。</county>
+        </pref>
+    </chapter>
+</book>

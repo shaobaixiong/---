@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>甾川国</name>
+            <meta family="" pop="" county="">故齐，文帝十八年别为国。后并北海。户五万二百八十九，口二十二万七千三十一。县三。</meta>
+            <county><name>剧</name>，<quote><feature type="river_source">义山</feature>，<feature type="river">蕤水</feature>所出，北至寿光入海。</quote>莽曰<wname type="全改">俞</wname>。</county>
+            <county><name>东安平</name>，<quote><feature type="river_source">菟头山</feature>，<feature type="river">女水</feature>出，东北至临甾入巨定。</quote></county>
+            <county><name>楼乡</name>。</county>
+        </pref>
+    </chapter>
+</book>

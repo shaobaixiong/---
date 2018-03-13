@@ -1,0 +1,369 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.0241,38.20913 ]
+    },
+    "properties": {
+    "county_han":"浮阳县",
+    "county_xin":"浮城县",
+    "SOURCE":"CHGIS",
+    "ID":71101,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.63208,37.80676 ]
+    },
+    "properties": {
+    "county_han":"阳信县",
+    "county_xin":"阳信县",
+    "SOURCE":"CHGIS",
+    "ID":71102,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.6434,37.85282 ]
+    },
+    "properties": {
+    "county_han":"东光县",
+    "county_xin":"东光县",
+    "SOURCE":"CHGIS",
+    "ID":71103,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.26762,37.88284 ]
+    },
+    "properties": {
+    "county_han":"阜城县",
+    "county_xin":"吾城县",
+    "SOURCE":"CHGIS",
+    "ID":71104,
+    "name_type":"城"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.13636,37.85783 ]
+    },
+    "properties": {
+    "county_han":"千童县",
+    "county_xin":"千童县",
+    "SOURCE":"CHGIS",
+    "ID":71105,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.76734,38.1225 ]
+    },
+    "properties": {
+    "county_han":"南皮县",
+    "county_xin":"迎河亭县",
+    "SOURCE":"CHGIS",
+    "ID":71107,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.31271,38.28038 ]
+    },
+    "properties": {
+    "county_han":"章武县",
+    "county_xin":"桓章县",
+    "SOURCE":"CHGIS",
+    "ID":71109,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.2457574,38.0152132 ]
+    },
+    "properties": {
+    "county_han":"高成县",
+    "county_xin":"高成县",
+    "SOURCE":"CHGIS",
+    "ID":71111,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.88126,37.89382 ]
+    },
+    "properties": {
+    "county_han":"高乐县",
+    "county_xin":"为乡县",
+    "SOURCE":"CHGIS",
+    "ID":71112,
+    "name_type":"乡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.73668,38.47758 ]
+    },
+    "properties": {
+    "county_han":"参户侯国",
+    "county_xin":"参户县",
+    "SOURCE":"CHGIS",
+    "ID":71113,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.80206,38.24448 ]
+    },
+    "properties": {
+    "county_han":"成平县",
+    "county_xin":"泽亭县",
+    "SOURCE":"CHGIS",
+    "ID":71114,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.59736,38.30488 ]
+    },
+    "properties": {
+    "county_han":"柳侯国",
+    "county_xin":"柳县",
+    "SOURCE":"CHGIS",
+    "ID":71115,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.83952,37.97525 ]
+    },
+    "properties": {
+    "county_han":"临乐侯国",
+    "county_xin":"乐亭县",
+    "SOURCE":"CHGIS",
+    "ID":71116,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.62189,38.69587 ]
+    },
+    "properties": {
+    "county_han":"东平舒县",
+    "county_xin":"东平舒县",
+    "SOURCE":"CHGIS",
+    "ID":71117,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.38844,37.58862 ]
+    },
+    "properties": {
+    "county_han":"重平县",
+    "county_xin":"重平县",
+    "SOURCE":"CHGIS",
+    "ID":71118,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.64211,39.54152 ]
+    },
+    "properties": {
+    "county_han":"安次县",
+    "county_xin":"安次县",
+    "SOURCE":"CHGIS",
+    "ID":71119,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.54331,38.96083 ]
+    },
+    "properties": {
+    "county_han":"文安县",
+    "county_xin":"文安县",
+    "SOURCE":"CHGIS",
+    "ID":71121,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.51441,38.28673 ]
+    },
+    "properties": {
+    "county_han":"景成侯国",
+    "county_xin":"景成县",
+    "SOURCE":"CHGIS",
+    "ID":71122,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.37783,38.53423 ]
+    },
+    "properties": {
+    "county_han":"束州县",
+    "county_xin":"束州县",
+    "SOURCE":"CHGIS",
+    "ID":71123,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5106964,38.1350232 ]
+    },
+    "properties": {
+    "county_han":"建成县",
+    "county_xin":"建成县",
+    "SOURCE":"CHGIS",
+    "ID":71124,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.93561,38.26528 ]
+    },
+    "properties": {
+    "county_han":"章乡侯国",
+    "county_xin":"章乡县",
+    "SOURCE":"CHGIS",
+    "ID":71125,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.20736,37.94337 ]
+    },
+    "properties": {
+    "county_han":"蒲领侯国",
+    "county_xin":"蒲领县",
+    "SOURCE":"CHGIS",
+    "ID":71126,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.1179744,37.6224392 ]
+    },
+    "properties": {
+    "county_han":"重合县",
+    "county_xin":"重合县",
+    "SOURCE":"PUBLICATION",
+    "ID":71106,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.2129214,37.7594982 ]
+    },
+    "properties": {
+    "county_han":"定侯国",
+    "county_xin":"定县",
+    "SOURCE":"PUBLICATION",
+    "ID":71108,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.8732624,38.3453131 ]
+    },
+    "properties": {
+    "county_han":"中邑",
+    "county_xin":"检阴县",
+    "SOURCE":"PUBLICATION",
+    "ID":71110,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2171244,37.7074302 ]
+    },
+    "properties": {
+    "county_han":"脩市侯国",
+    "county_xin":"居宁县",
+    "SOURCE":"PUBLICATION",
+    "ID":71120,
+    "name_type":"嘉名"
+    }
+  }
+]
+}

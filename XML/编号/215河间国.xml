@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name></name>
+            <meta family="" pop="" county="">河间国，故赵，文帝二年别为国。莽曰<wname type="意义">朔定</wname>。户四万五千四十三，口十八万七千六百六十二。县四。</meta>
+            <county><name>乐成</name>，<quote><feature type="river">虖池别水</feature>首受虖池河，东至东光入虖池河。</quote>莽曰<wname type="全改">陆信</wname>。</county>
+            <county><name>候井</name>。</county>
+            <county><name>武隧</name>，莽曰<wname type="改一">桓隧</wname>。</county>
+            <county><name>弓高</name>。<quote><feature type="river">虖池别河</feature>首受虖池河，东至平舒入海。</quote>莽曰<wname type="重地">乐成</wname>。</county>
+        </pref>
+    </chapter>
+</book>

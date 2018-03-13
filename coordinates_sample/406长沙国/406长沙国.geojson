@@ -1,0 +1,187 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.8277393,27.7383894 ]
+    },
+    "properties": {
+    "county_han":"连道",
+    "county_xin":"连道",
+    "SOURCE":"PUBLICATION",
+    "ID":40603,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.5347873,26.8001375 ]
+    },
+    "properties": {
+    "county_han":"荼陵县",
+    "county_xin":"声乡县",
+    "SOURCE":"PUBLICATION",
+    "ID":40611,
+    "name_type":"乡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.978134,28.198198 ]
+    },
+    "properties": {
+    "county_han":"临湘县",
+    "county_xin":"抚睦县",
+    "SOURCE":"CHGIS",
+    "ID":40601,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.06494,28.825093 ]
+    },
+    "properties": {
+    "county_han":"罗县",
+    "county_xin":"罗县",
+    "SOURCE":"CHGIS",
+    "ID":40602,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.48743,28.635332 ]
+    },
+    "properties": {
+    "county_han":"益阳县",
+    "county_xin":"益阳县",
+    "SOURCE":"CHGIS",
+    "ID":40604,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.7951,29.26707 ]
+    },
+    "properties": {
+    "county_han":"下隽县",
+    "county_xin":"闰隽县",
+    "SOURCE":"CHGIS",
+    "ID":40605,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.428606,27.156113 ]
+    },
+    "properties": {
+    "county_han":"攸县",
+    "county_xin":"攸县",
+    "SOURCE":"CHGIS",
+    "ID":40606,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.688563,26.945364 ]
+    },
+    "properties": {
+    "county_han":"酃县",
+    "county_xin":"酃县",
+    "SOURCE":"CHGIS",
+    "ID":40607,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.16625,27.175193 ]
+    },
+    "properties": {
+    "county_han":"承阳县",
+    "county_xin":"承阳县",
+    "SOURCE":"CHGIS",
+    "ID":40608,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.709019,27.789713 ]
+    },
+    "properties": {
+    "county_han":"湘南县",
+    "county_xin":"湘南县",
+    "SOURCE":"CHGIS",
+    "ID":40609,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.474937,27.249315 ]
+    },
+    "properties": {
+    "county_han":"昭陵县",
+    "county_xin":"昭陵县",
+    "SOURCE":"CHGIS",
+    "ID":40610,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.270249,26.948154 ]
+    },
+    "properties": {
+    "county_han":"容陵县",
+    "county_xin":"容陵县",
+    "SOURCE":"CHGIS",
+    "ID":40612,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.274499,27.385363 ]
+    },
+    "properties": {
+    "county_han":"安成县",
+    "county_xin":"思成县",
+    "SOURCE":"CHGIS",
+    "ID":40613,
+    "name_type":"改一"
+    }
+  }
+]
+}

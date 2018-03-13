@@ -1,0 +1,187 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.895735,29.116982 ]
+    },
+    "properties": {
+    "county_han":"索县",
+    "county_xin":"索县",
+    "SOURCE":"CHGIS",
+    "ID":40401,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.13749,30.07348 ]
+    },
+    "properties": {
+    "county_han":"孱陵县",
+    "county_xin":"孱陆县",
+    "SOURCE":"CHGIS",
+    "ID":40402,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.6913,29.034807 ]
+    },
+    "properties": {
+    "county_han":"临沅县",
+    "county_xin":"监元县",
+    "SOURCE":"CHGIS",
+    "ID":40403,
+    "name_type":"监"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.398949,28.438394 ]
+    },
+    "properties": {
+    "county_han":"沅陵县",
+    "county_xin":"沅陆县",
+    "SOURCE":"CHGIS",
+    "ID":40404,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.628799,27.093081 ]
+    },
+    "properties": {
+    "county_han":"镡成县",
+    "county_xin":"镡成县",
+    "SOURCE":"CHGIS",
+    "ID":40405,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.78505,27.5114 ]
+    },
+    "properties": {
+    "county_han":"无阳县",
+    "county_xin":"无阳县",
+    "SOURCE":"CHGIS",
+    "ID":40406,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.491428,28.751314 ]
+    },
+    "properties": {
+    "county_han":"迁陵县",
+    "county_xin":"迁陆县",
+    "SOURCE":"CHGIS",
+    "ID":40407,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.175915,27.968268 ]
+    },
+    "properties": {
+    "county_han":"辰阳县",
+    "county_xin":"会亭县",
+    "SOURCE":"CHGIS",
+    "ID":40408,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.911403,28.759736 ]
+    },
+    "properties": {
+    "county_han":"酉阳县",
+    "county_xin":"酉阳县",
+    "SOURCE":"CHGIS",
+    "ID":40409,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.59225,27.897724 ]
+    },
+    "properties": {
+    "county_han":"义陵县",
+    "county_xin":"建平县",
+    "SOURCE":"CHGIS",
+    "ID":40410,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.01072,30.44264 ]
+    },
+    "properties": {
+    "county_han":"佷山县",
+    "county_xin":"佷山县",
+    "SOURCE":"CHGIS",
+    "ID":40411,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.143009,29.434099 ]
+    },
+    "properties": {
+    "county_han":"零阳县",
+    "county_xin":"零阳县",
+    "SOURCE":"CHGIS",
+    "ID":40412,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.162369,29.392685 ]
+    },
+    "properties": {
+    "county_han":"充县",
+    "county_xin":"充县",
+    "SOURCE":"CHGIS",
+    "ID":40413,
+    "name_type":"不改"
+    }
+  }
+]
+}

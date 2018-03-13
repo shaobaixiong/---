@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.7921624,40.6612531 ]
+    },
+    "properties": {
+    "county_han":"九原县",
+    "county_xin":"成平县",
+    "SOURCE":"PUBLICATION",
+    "ID":70901,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.7576564,41.0592271 ]
+    },
+    "properties": {
+    "county_han":"五原县",
+    "county_xin":"填河亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":70903,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.8122444,40.6484952 ]
+    },
+    "properties": {
+    "county_han":"临沃县",
+    "county_xin":"振武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70904,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.9257554,40.4327102 ]
+    },
+    "properties": {
+    "county_han":"河阴县",
+    "county_xin":"河阴县",
+    "SOURCE":"PUBLICATION",
+    "ID":70906,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.6571274,39.7609671 ]
+    },
+    "properties": {
+    "county_han":"南兴县",
+    "county_xin":"南利县",
+    "SOURCE":"PUBLICATION",
+    "ID":70908,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.9315959,40.5306613 ]
+    },
+    "properties": {
+    "county_han":"武都县",
+    "county_xin":"桓都县",
+    "SOURCE":"PUBLICATION",
+    "ID":70909,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.7758474,40.6406881 ]
+    },
+    "properties": {
+    "county_han":"宜梁县",
+    "county_xin":"宜梁县",
+    "SOURCE":"PUBLICATION",
+    "ID":70910,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.0204381,39.920042 ]
+    },
+    "properties": {
+    "county_han":"曼柏县",
+    "county_xin":"延柏县",
+    "SOURCE":"PUBLICATION",
+    "ID":70911,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.1362984,40.4893821 ]
+    },
+    "properties": {
+    "county_han":"成宜县",
+    "county_xin":"艾虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":70912,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.9352504,40.6554422 ]
+    },
+    "properties": {
+    "county_han":"稒阳县",
+    "county_xin":"固阴县",
+    "SOURCE":"PUBLICATION",
+    "ID":70913,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.8456594,40.5973881 ]
+    },
+    "properties": {
+    "county_han":"西安阳县",
+    "county_xin":"鄣安县",
+    "SOURCE":"PUBLICATION",
+    "ID":70915,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.9529984,41.0325401 ]
+    },
+    "properties": {
+    "county_han":"河目县",
+    "county_xin":"河目县",
+    "SOURCE":"PUBLICATION",
+    "ID":70916,
+    "name_type":"不改"
+    }
+  }
+]
+}

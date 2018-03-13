@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.1507614,37.8528122 ]
+    },
+    "properties": {
+    "county_han":"乐成县",
+    "county_xin":"陆信县",
+    "SOURCE":"CHGIS",
+    "ID":21501,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.20736,37.94337 ]
+    },
+    "properties": {
+    "county_han":"候井县",
+    "county_xin":"候井县",
+    "SOURCE":"CHGIS",
+    "ID":21502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.90305,38.12764 ]
+    },
+    "properties": {
+    "county_han":"武隧县",
+    "county_xin":"桓隧县",
+    "SOURCE":"CHGIS",
+    "ID":21503,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.15143,37.81619 ]
+    },
+    "properties": {
+    "county_han":"弓高县",
+    "county_xin":"乐成县",
+    "SOURCE":"CHGIS",
+    "ID":21504,
+    "name_type":"重地"
+    }
+  }
+]
+}

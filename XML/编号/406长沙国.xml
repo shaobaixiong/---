@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>长沙国</name>
+            <meta family="" pop="" county="">秦郡，高帝五年为国。莽曰<wname type="意义">填蛮</wname>。属荆州。户四万三千四百七十，口二十三万五千八百二十五。县十三。</meta>
+            <county><name>临湘</name>，莽曰<wname type="嘉名">抚睦</wname>。</county>
+            <county><name>罗</name>。</county>
+            <county note="道"><name>连道</name>。</county>
+            <county><name>益阳</name>，<quote><feature type="mount">湘山</feature>在北。</quote></county>
+            <county><name>下隽</name>，莽曰<wname type="改一">闰隽</wname>。</county>
+            <county><name>攸</name>。</county>
+            <county><name>酃</name>。</county>
+            <county><name>承阳</name>。</county>
+            <county><name>湘南</name>，<quote>《禹贡》<feature type="mount">衡山</feature>在东南，荆州山。</quote></county>
+            <county><name>昭陵</name>。</county>
+            <county><name>荼陵</name>。<quote><feature type="river">泥水</feature>西入湘，行七百里。</quote>莽曰<wname type="乡">声乡</wname>。</county>
+            <county><name>容陵</name>。</county>
+            <county><name>安成</name>。<quote><feature type="river">庐水</feature>东至庐陵，入湖汉。</quote>莽曰<wname type="改一">思成</wname>。</county>
+        </pref>
+    </chapter>
+</book>

@@ -1,0 +1,47 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.73309,36.75134 ]
+    },
+    "properties": {
+    "county_han":"剧县",
+    "county_xin":"俞县",
+    "SOURCE":"CHGIS",
+    "ID":23001,
+    "name_type":"全改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.42747,36.87745 ]
+    },
+    "properties": {
+    "county_han":"东安平县",
+    "county_xin":"东安平县",
+    "SOURCE":"CHGIS",
+    "ID":23002,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.6384724,36.9008982 ]
+    },
+    "properties": {
+    "county_han":"楼乡县",
+    "county_xin":"楼乡县",
+    "SOURCE":"PUBLICATION",
+    "ID":23003,
+    "name_type":"不改"
+    }
+  }
+]
+}
