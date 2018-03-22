@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5725164,37.3592042 ]
+    },
+    "properties": {
+    "county_han":"重丘县",
+    "county_xin":"重丘县",
+    "SOURCE":"PUBLICATION",
+    "ID":22404,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.6774954,36.8877962 ]
+    },
+    "properties": {
+    "county_han":"羽侯国",
+    "county_xin":"羽贞县",
+    "SOURCE":"PUBLICATION",
+    "ID":22406,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4621254,36.6652792 ]
+    },
+    "properties": {
+    "county_han":"楼虚侯国",
+    "county_xin":"楼虚县",
+    "SOURCE":"PUBLICATION",
+    "ID":22417,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7227064,36.8395072 ]
+    },
+    "properties": {
+    "county_han":"龙额侯国",
+    "county_xin":"清乡县",
+    "SOURCE":"PUBLICATION",
+    "ID":22418,
+    "name_type":"乡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3884574,37.6871382 ]
+    },
+    "properties": {
+    "county_han":"安侯国",
+    "county_xin":"安县",
+    "SOURCE":"PUBLICATION",
+    "ID":22419,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.43682,37.01959 ]
+    },
+    "properties": {
+    "county_han":"平原县",
+    "county_xin":"平原县",
+    "SOURCE":"CHGIS",
+    "ID":22401,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.32862,37.31432 ]
+    },
+    "properties": {
+    "county_han":"鬲县",
+    "county_xin":"河平亭县",
+    "SOURCE":"CHGIS",
+    "ID":22402,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.55947,36.77739 ]
+    },
+    "properties": {
+    "county_han":"高唐县",
+    "county_xin":"高唐县",
+    "SOURCE":"CHGIS",
+    "ID":22403,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.99136,37.36936 ]
+    },
+    "properties": {
+    "county_han":"平昌侯国",
+    "county_xin":"平昌县",
+    "SOURCE":"CHGIS",
+    "ID":22405,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.03564,37.51143 ]
+    },
+    "properties": {
+    "county_han":"般县",
+    "county_xin":"分明县",
+    "SOURCE":"CHGIS",
+    "ID":22407,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.21648,37.62167 ]
+    },
+    "properties": {
+    "county_han":"乐陵县",
+    "county_xin":"美阳县",
+    "SOURCE":"CHGIS",
+    "ID":22408,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9259,36.65294 ]
+    },
+    "properties": {
+    "county_han":"祝阿县",
+    "county_xin":"安成县",
+    "SOURCE":"CHGIS",
+    "ID":22409,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.46687,36.71505 ]
+    },
+    "properties": {
+    "county_han":"瑗县",
+    "county_xin":"东顺亭县",
+    "SOURCE":"CHGIS",
+    "ID":22410,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.64092,36.93187 ]
+    },
+    "properties": {
+    "county_han":"阿阳县",
+    "county_xin":"阿阳县",
+    "SOURCE":"CHGIS",
+    "ID":22411,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.01056,36.89413 ]
+    },
+    "properties": {
+    "county_han":"漯阴县",
+    "county_xin":"翼成县",
+    "SOURCE":"CHGIS",
+    "ID":22412,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.30023,37.37901 ]
+    },
+    "properties": {
+    "county_han":"朸县",
+    "county_xin":"张乡县",
+    "SOURCE":"CHGIS",
+    "ID":22413,
+    "name_type":"乡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.73357,37.50383 ]
+    },
+    "properties": {
+    "county_han":"富平侯国",
+    "county_xin":"乐安亭县",
+    "SOURCE":"CHGIS",
+    "ID":22414,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7207,37.26719 ]
+    },
+    "properties": {
+    "county_han":"安德县",
+    "county_xin":"安德县",
+    "SOURCE":"CHGIS",
+    "ID":22415,
+    "name_type":"不改"
+    }
+  }
+]
+}

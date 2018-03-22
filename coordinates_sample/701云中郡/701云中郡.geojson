@@ -1,0 +1,159 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.5061793,40.6672502 ]
+    },
+    "properties": {
+    "county_han":"云中县",
+    "county_xin":"远服县",
+    "SOURCE":"PUBLICATION",
+    "ID":70101,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8608553,40.6393201 ]
+    },
+    "properties": {
+    "county_han":"咸阳县",
+    "county_xin":"贲武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70102,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.7033437,40.8838178 ]
+    },
+    "properties": {
+    "county_han":"陶林县",
+    "county_xin":"陶林县",
+    "SOURCE":"PUBLICATION",
+    "ID":70103,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.1891223,40.2661632 ]
+    },
+    "properties": {
+    "county_han":"桢陵县",
+    "county_xin":"桢陆县",
+    "SOURCE":"PUBLICATION",
+    "ID":70104,
+    "name_type":"陵"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.2816183,40.9015122 ]
+    },
+    "properties": {
+    "county_han":"犊和县",
+    "county_xin":"犊和县",
+    "SOURCE":"PUBLICATION",
+    "ID":70105,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.1748733,40.3525741 ]
+    },
+    "properties": {
+    "county_han":"沙陵县",
+    "county_xin":"希恩县",
+    "SOURCE":"PUBLICATION",
+    "ID":70106,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.7301633,40.7891771 ]
+    },
+    "properties": {
+    "county_han":"原阳县",
+    "county_xin":"原阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":70107,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.1621833,39.9020021 ]
+    },
+    "properties": {
+    "county_han":"沙南县",
+    "county_xin":"沙南县",
+    "SOURCE":"PUBLICATION",
+    "ID":70108,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.3676544,40.8166649 ]
+    },
+    "properties": {
+    "county_han":"北舆县",
+    "county_xin":"北舆县",
+    "SOURCE":"PUBLICATION",
+    "ID":70109,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.8142673,40.9295861 ]
+    },
+    "properties": {
+    "county_han":"武泉县",
+    "county_xin":"顺泉县",
+    "SOURCE":"PUBLICATION",
+    "ID":70110,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.7261884,40.3455214 ]
+    },
+    "properties": {
+    "county_han":"阳寿县",
+    "county_xin":"常得县",
+    "SOURCE":"PUBLICATION",
+    "ID":70111,
+    "name_type":"嘉名"
+    }
+  }
+]
+}

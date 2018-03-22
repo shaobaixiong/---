@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>齐郡</name>
+            <meta family="154826" pop="554444" county="12"><history>秦置。</history>莽曰<wname type="重地">济南</wname>。属青州。户十五万四千八百二十六，口五十五万四千四百四十四。县十二。</meta>
+            <county><name>临淄</name>，<quote><feature type="pref_seat"/></quote><history>师尚父所封。</history><quote><feature type="river" ref="ru">如水</feature>西北至梁邹入泲。</quote><quote>有<feature type="admin">服官</feature>、<feature type="resource">铁官</feature>。</quote>莽曰<wname type="陵">齐陵</wname>。</county>
+            <county><name>昌国</name>，<quote><feature type="river" ref="dehui">德会水</feature>西北至西安入如。</quote></county>
+            <county><name>利</name>，莽曰<wname type="治">利治</wname>。</county>
+            <county><name>西安</name>，莽曰<wname type="反">东宁</wname>。</county>
+            <county><name>巨定</name>，<quote><feature type="river" ref="machedu">马车渎水</feature>首受巨定，东北至琅槐入海。</quote></county>
+            <county><name>广</name>，<quote><feature type="river_source">为山</feature>，<feature type="river" ref="zhuo">浊水</feature>所出，东北至广饶入巨定。</quote></county>
+            <county><name>广饶</name>。</county>
+            <county><name>昭南</name>。</county>
+            <county><name>临朐</name>，<quote>有<feature type="shrine">逢山祠</feature>。</quote><quote><feature type="river_source">石膏山</feature>，<feature type="river" ref="yang">洋水</feature>所出，东北至广饶入巨定。</quote>莽曰<wname type="监">监朐</wname>。</county>
+            <county note="侯国"><name>北乡</name>，侯国。莽曰<wname type="聚">禺聚</wname>。</county>
+            <county note="侯国"><name>平广</name>，侯国。</county>
+            <county><name>台乡</name>。</county>
+        </pref>
+    </chapter>
+</book>

@@ -1,0 +1,173 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.98839,40.01222 ]
+    },
+    "properties": {
+    "county_han":"路县",
+    "county_xin":"通路亭县",
+    "SOURCE":"CHGIS",
+    "ID":71303,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.71631,39.44893 ]
+    },
+    "properties": {
+    "county_han":"泉州县",
+    "county_xin":"泉调县",
+    "SOURCE":"CHGIS",
+    "ID":71305,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.05572,40.78723 ]
+    },
+    "properties": {
+    "county_han":"厗奚县",
+    "county_xin":"敦德县",
+    "SOURCE":"CHGIS",
+    "ID":71308,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.2521,40.98376 ]
+    },
+    "properties": {
+    "county_han":"要阳县",
+    "county_xin":"要术县",
+    "SOURCE":"CHGIS",
+    "ID":71310,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.39393,41.01082 ]
+    },
+    "properties": {
+    "county_han":"白檀县",
+    "county_xin":"白檀县",
+    "SOURCE":"CHGIS",
+    "ID":71311,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.36276,40.85901 ]
+    },
+    "properties": {
+    "county_han":"滑盐县",
+    "county_xin":"匡德县",
+    "SOURCE":"CHGIS",
+    "ID":71312,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7925344,40.3546511 ]
+    },
+    "properties": {
+    "county_han":"渔阳县",
+    "county_xin":"得渔县",
+    "SOURCE":"PUBLICATION",
+    "ID":71301,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4453227,40.1594093 ]
+    },
+    "properties": {
+    "county_han":"狐奴县",
+    "county_xin":"举符县",
+    "SOURCE":"PUBLICATION",
+    "ID":71302,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.1803934,39.5338132 ]
+    },
+    "properties": {
+    "county_han":"雍奴县",
+    "county_xin":"雍奴县",
+    "SOURCE":"PUBLICATION",
+    "ID":71304,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.1392054,40.1691492 ]
+    },
+    "properties": {
+    "county_han":"平谷县",
+    "county_xin":"平谷县",
+    "SOURCE":"PUBLICATION",
+    "ID":71306,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.5487574,40.2265012 ]
+    },
+    "properties": {
+    "county_han":"安乐县",
+    "county_xin":"安乐县",
+    "SOURCE":"PUBLICATION",
+    "ID":71307,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9198474,40.4034232 ]
+    },
+    "properties": {
+    "county_han":"犷平县",
+    "county_xin":"平犷县",
+    "SOURCE":"PUBLICATION",
+    "ID":71309,
+    "name_type":"意义"
+    }
+  }
+]
+}

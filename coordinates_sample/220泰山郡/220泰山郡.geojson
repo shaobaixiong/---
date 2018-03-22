@@ -1,0 +1,327 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.39203,36.20775 ]
+    },
+    "properties": {
+    "county_han":"奉高县",
+    "county_xin":"奉高县",
+    "SOURCE":"CHGIS",
+    "ID":22001,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.19949,36.10761 ]
+    },
+    "properties": {
+    "county_han":"博县",
+    "county_xin":"博县",
+    "SOURCE":"CHGIS",
+    "ID":22002,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.89212,36.45535 ]
+    },
+    "properties": {
+    "county_han":"茬县",
+    "county_xin":"茬县",
+    "SOURCE":"CHGIS",
+    "ID":22003,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.19142,35.79941 ]
+    },
+    "properties": {
+    "county_han":"卢县",
+    "county_xin":"卢县",
+    "SOURCE":"CHGIS",
+    "ID":22004,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.85638,35.87228 ]
+    },
+    "properties": {
+    "county_han":"刚县",
+    "county_xin":"柔县",
+    "SOURCE":"CHGIS",
+    "ID":22007,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.30846,36.05622 ]
+    },
+    "properties": {
+    "county_han":"盖县",
+    "county_xin":"盖县",
+    "SOURCE":"CHGIS",
+    "ID":22009,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.66343,35.88888 ]
+    },
+    "properties": {
+    "county_han":"梁父县",
+    "county_xin":"梁父县",
+    "SOURCE":"CHGIS",
+    "ID":22010,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.75588,35.90966 ]
+    },
+    "properties": {
+    "county_han":"东平阳县",
+    "county_xin":"东平阳县",
+    "SOURCE":"CHGIS",
+    "ID":22011,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.62941,35.50589 ]
+    },
+    "properties": {
+    "county_han":"南武阳县",
+    "county_xin":"桓宣县",
+    "SOURCE":"CHGIS",
+    "ID":22012,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.05038,36.48351 ]
+    },
+    "properties": {
+    "county_han":"莱芜县",
+    "county_xin":"莱芜县",
+    "SOURCE":"CHGIS",
+    "ID":22013,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.57146,36.32673 ]
+    },
+    "properties": {
+    "county_han":"嬴县",
+    "county_xin":"嬴县",
+    "SOURCE":"CHGIS",
+    "ID":22015,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.80253,36.19057 ]
+    },
+    "properties": {
+    "county_han":"牟县",
+    "county_xin":"牟县",
+    "SOURCE":"CHGIS",
+    "ID":22016,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.86095,35.69789 ]
+    },
+    "properties": {
+    "county_han":"蒙阴县",
+    "county_xin":"蒙恩县",
+    "SOURCE":"CHGIS",
+    "ID":22017,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.18964,35.32058 ]
+    },
+    "properties": {
+    "county_han":"华县",
+    "county_xin":"翼阴县",
+    "SOURCE":"CHGIS",
+    "ID":22018,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.79305,35.71483 ]
+    },
+    "properties": {
+    "county_han":"宁阳侯国",
+    "county_xin":"宁顺县",
+    "SOURCE":"CHGIS",
+    "ID":22019,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.68137,35.6052 ]
+    },
+    "properties": {
+    "county_han":"乘丘侯国",
+    "county_xin":"乘丘县",
+    "SOURCE":"CHGIS",
+    "ID":22020,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.84408,35.77708 ]
+    },
+    "properties": {
+    "county_han":"桃山侯国",
+    "county_xin":"裒鲁县",
+    "SOURCE":"CHGIS",
+    "ID":22022,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.56199,35.87915 ]
+    },
+    "properties": {
+    "county_han":"桃乡侯国",
+    "county_xin":"鄣亭县",
+    "SOURCE":"CHGIS",
+    "ID":22023,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7381994,36.2024042 ]
+    },
+    "properties": {
+    "county_han":"肥成县",
+    "county_xin":"肥成县",
+    "SOURCE":"PUBLICATION",
+    "ID":22005,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.7412984,36.1512402 ]
+    },
+    "properties": {
+    "county_han":"虵丘县",
+    "county_xin":"虵丘县",
+    "SOURCE":"PUBLICATION",
+    "ID":22006,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.2846824,35.8314742 ]
+    },
+    "properties": {
+    "county_han":"柴侯国",
+    "county_xin":"柴县",
+    "SOURCE":"PUBLICATION",
+    "ID":22008,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.0865384,36.1420122 ]
+    },
+    "properties": {
+    "county_han":"钜平县",
+    "county_xin":"钜平县",
+    "SOURCE":"PUBLICATION",
+    "ID":22014,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4721834,35.8516122 ]
+    },
+    "properties": {
+    "county_han":"富阳侯国",
+    "county_xin":"富阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":22021,
+    "name_type":"不改"
+    }
+  }
+]
+}

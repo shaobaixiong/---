@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>东莱郡</name>
+            <meta family="103292" pop="502693" county="17"><date status="est">高帝置。</date>属青州。户十万三千二百九十二，口五十万二千六百九十三。县十七。</meta>
+            <county><name>掖</name>，<quote><feature type="pref_seat"/></quote>莽曰<wname type="加一">掖通</wname>。</county>
+            <county><name>腄</name>，<quote>有<feature type="shrine">之罘山祠</feature>。</quote><quote><feature type="river_source">居上山</feature>，<feature type="river">声洋水</feature>所出。东北入海。</quote></county>
+            <county><name>平度</name>，莽曰<wname type="嘉名">利卢</wname>。</county>
+            <county><name>黄</name>，<quote>有<feature type="shrine">莱山松林莱君祠</feature>。</quote>莽曰<wname type="?">意母</wname>。</county>
+            <county note="侯国"><!-- 齐郡、东莱郡均有临朐，元延三年临朐侯国在东莱郡。 --><name>临朐</name>，<quote>有<feature type="shrine">海水祠</feature>。</quote>莽曰<wname type="监">监朐</wname>。</county>
+            <county><name>曲成</name>，<quote>有<feature type="shrine">参山万里沙祠</feature>。</quote><quote><feature type="river_source">阳丘山</feature>，<feature type="river">治水</feature>所出，南至沂入海。</quote>有盐官。</county>
+            <county><name>牟平</name>。莽曰<wname type="嘉名">望利</wname>。</county>
+            <county><name>东牟</name>，<quote>有<feature type="resource">铁官</feature>、<feature type="resource">盐官</feature>。</quote>莽曰<wname type="嘉名">弘德</wname>。</county>
+            <county><name>㡉</name>，<quote>有<feature type="shrine">百支莱王祠</feature>。</quote><quote>有<feature type="resource">盐官</feature>。</quote></county>
+            <county><name>育犂</name>。</county>
+            <county><name>昌阳</name>，<quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="亭">夙敬亭</wname>。</county>
+            <county><name>不夜</name>，<quote>有<feature type="shrine">成山日祠</feature>。</quote>莽曰<wname type="反">夙夜</wname>。</county>
+            <county><name>当利</name>，<quote>有<feature type="resource">盐官</feature>。</quote>莽曰<wname type="亭">东莱亭</wname>。</county>
+            <county><name>卢乡</name>。</county>
+            <county note="侯国"><name>阳乐</name>，侯国。莽曰<wname type="半嘉名">延乐</wname>。</county>
+            <county><name>阳石</name>，莽曰<wname type="意义">识命</wname>。<!-- 与琅琊郡椑县改后名字相同，都叫识命县。 --></county>
+            <county><name>徐乡</name>。</county>
+        </pref>
+    </chapter>
+</book>

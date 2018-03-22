@@ -1,0 +1,159 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.05293,35.84589 ]
+    },
+    "properties": {
+    "安国县":"范县",
+    "兴睦县":"建睦县",
+    "CHGIS":"CHGIS",
+    "21307":21606,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.97182,36.6289 ]
+    },
+    "properties": {
+    "安国县":"博平县",
+    "兴睦县":"加睦县",
+    "CHGIS":"CHGIS",
+    "21307":21609,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.12836,37.07039 ]
+    },
+    "properties": {
+    "安国县":"平安侯国",
+    "兴睦县":"鸿睦县",
+    "CHGIS":"CHGIS",
+    "21307":22504,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.8501,36.65286 ]
+    },
+    "properties": {
+    "安国县":"柳泉侯国",
+    "兴睦县":"弘睦县",
+    "CHGIS":"CHGIS",
+    "21307":22812,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.09924,36.12208 ]
+    },
+    "properties": {
+    "安国县":"姑幕县",
+    "兴睦县":"季睦县",
+    "CHGIS":"CHGIS",
+    "21307":23309,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.9231233,30.2693904 ]
+    },
+    "properties": {
+    "安国县":"馀杭县",
+    "兴睦县":"进睦县",
+    "CHGIS":"PUBLICATION",
+    "21307":30620,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.978134,28.198198 ]
+    },
+    "properties": {
+    "安国县":"临湘县",
+    "兴睦县":"抚睦县",
+    "CHGIS":"CHGIS",
+    "21307":40601,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.76017,31.476259 ]
+    },
+    "properties": {
+    "安国县":"涪县",
+    "兴睦县":"统睦县",
+    "CHGIS":"CHGIS",
+    "21307":50203,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1596824,34.8441202 ]
+    },
+    "properties": {
+    "安国县":"清水县",
+    "兴睦县":"识睦县",
+    "CHGIS":"PUBLICATION",
+    "21307":60412,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1340986,36.0138861 ]
+    },
+    "properties": {
+    "安国县":"高平县",
+    "兴睦县":"铺睦县",
+    "CHGIS":"PUBLICATION",
+    "21307":60901,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.5749424,40.9442961 ]
+    },
+    "properties": {
+    "安国县":"辽队县",
+    "兴睦县":"顺睦县",
+    "CHGIS":"PUBLICATION",
+    "21307":71607,
+    "嘉名":"嘉名"
+    }
+  }
+]
+}

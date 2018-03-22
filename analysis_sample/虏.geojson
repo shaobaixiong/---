@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.38946,35.15379 ]
+    },
+    "properties": {
+    "county_han":"开阳县",
+    "county_xin":"厌虏县",
+    "SOURCE":"CHGIS",
+    "ID":23409,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.798434,33.380634 ]
+    },
+    "properties": {
+    "county_han":"富陵县",
+    "county_xin":"𣝇虏县",
+    "SOURCE":"CHGIS",
+    "ID":30116,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.227661,29.713137 ]
+    },
+    "properties": {
+    "county_han":"诸暨县",
+    "county_xin":"疏虏县",
+    "SOURCE":"CHGIS",
+    "ID":30607,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.939329,29.922756 ]
+    },
+    "properties": {
+    "county_han":"黝县",
+    "county_xin":"愬虏县",
+    "SOURCE":"CHGIS",
+    "ID":30714,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.603417,24.810209 ]
+    },
+    "properties": {
+    "county_han":"曲江县",
+    "county_xin":"除虏县",
+    "SOURCE":"CHGIS",
+    "ID":40308,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.4010423,33.1856923 ]
+    },
+    "properties": {
+    "county_han":"阴平道",
+    "county_xin":"摧虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":50213,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.5330679,34.0620368 ]
+    },
+    "properties": {
+    "county_han":"武都县",
+    "county_xin":"循虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60101,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.3387071,35.5031828 ]
+    },
+    "properties": {
+    "county_han":"狄道",
+    "county_xin":"操虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60201,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.7681814,36.6287402 ]
+    },
+    "properties": {
+    "county_han":"令居县",
+    "county_xin":"罕虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60303,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.0585054,37.6167542 ]
+    },
+    "properties": {
+    "county_han":"扑褱刂县",
+    "county_xin":"敷虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60507,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.08796,38.7811 ]
+    },
+    "properties": {
+    "county_han":"删丹县",
+    "county_xin":"贯虏县",
+    "SOURCE":"CHGIS",
+    "ID":60603,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.76319,38.23183 ]
+    },
+    "properties": {
+    "county_han":"骊靬县",
+    "county_xin":"揭虏县",
+    "SOURCE":"CHGIS",
+    "ID":60607,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.84153,38.2479 ]
+    },
+    "properties": {
+    "county_han":"番和县",
+    "county_xin":"罗虏县",
+    "SOURCE":"CHGIS",
+    "ID":60608,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 97.2414483,40.142203 ]
+    },
+    "properties": {
+    "county_han":"乾齐县",
+    "county_xin":"测虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":60709,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.1362984,40.4893821 ]
+    },
+    "properties": {
+    "county_han":"成宜县",
+    "county_xin":"艾虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":70912,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.795933,40.8199712 ]
+    },
+    "properties": {
+    "county_han":"广成县",
+    "county_xin":"平虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71414,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2217894,41.5235602 ]
+    },
+    "properties": {
+    "county_han":"交黎县",
+    "county_xin":"禽虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71508,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8480574,40.8443192 ]
+    },
+    "properties": {
+    "county_han":"文成县",
+    "county_xin":"言虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71512,
+    "name_type":"意义"
+    }
+  }
+]
+}

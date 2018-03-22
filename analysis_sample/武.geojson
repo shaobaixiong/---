@@ -1,0 +1,425 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.66022,35.26813 ]
+    },
+    "properties": {
+    "county_han":"修武县",
+    "county_xin":"修武县",
+    "SOURCE":"CHGIS",
+    "ID":10611,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.03878,37.59415 ]
+    },
+    "properties": {
+    "county_han":"敬武县",
+    "county_xin":"敬武县",
+    "SOURCE":"CHGIS",
+    "ID":20715,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.1816564,37.4575082 ]
+    },
+    "properties": {
+    "county_han":"蓼城县",
+    "county_xin":"施武县",
+    "SOURCE":"PUBLICATION",
+    "ID":22506,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.1512724,36.3520442 ]
+    },
+    "properties": {
+    "county_han":"壮武县",
+    "county_xin":"晓武县",
+    "SOURCE":"PUBLICATION",
+    "ID":23104,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.21911,39.52053 ]
+    },
+    "properties": {
+    "county_han":"阳乡侯国",
+    "county_xin":"章武县",
+    "SOURCE":"CHGIS",
+    "ID":23821,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0422,38.31287 ]
+    },
+    "properties": {
+    "county_han":"阿武侯国",
+    "county_xin":"阿武县",
+    "SOURCE":"CHGIS",
+    "ID":23827,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.012344,30.70422 ]
+    },
+    "properties": {
+    "county_han":"海盐县",
+    "county_xin":"展武县",
+    "SOURCE":"CHGIS",
+    "ID":30614,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.052199,32.176555 ]
+    },
+    "properties": {
+    "county_han":"江乘县",
+    "county_xin":"相武县",
+    "SOURCE":"CHGIS",
+    "ID":30703,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.609594,25.318959 ]
+    },
+    "properties": {
+    "county_han":"临武县",
+    "county_xin":"大武县",
+    "SOURCE":"CHGIS",
+    "ID":40302,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.402077,24.172937 ]
+    },
+    "properties": {
+    "county_han":"浈阳县",
+    "county_xin":"基武县",
+    "SOURCE":"CHGIS",
+    "ID":40310,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.8303604,36.5864592 ]
+    },
+    "properties": {
+    "county_han":"浩亹县",
+    "county_xin":"兴武县",
+    "SOURCE":"PUBLICATION",
+    "ID":60302,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.21065,39.13466 ]
+    },
+    "properties": {
+    "county_han":"昭武县",
+    "county_xin":"渠武县",
+    "SOURCE":"CHGIS",
+    "ID":60602,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.81054,38.43198 ]
+    },
+    "properties": {
+    "county_han":"氐池县",
+    "county_xin":"否武县",
+    "SOURCE":"CHGIS",
+    "ID":60604,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.65497,38.89297 ]
+    },
+    "properties": {
+    "county_han":"屋兰县",
+    "county_xin":"传武县",
+    "SOURCE":"CHGIS",
+    "ID":60605,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.1772691,39.3947728 ]
+    },
+    "properties": {
+    "county_han":"表是县",
+    "county_xin":"载武县",
+    "SOURCE":"PUBLICATION",
+    "ID":60702,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 99.5786134,39.6320902 ]
+    },
+    "properties": {
+    "county_han":"会水县",
+    "county_xin":"萧武县",
+    "SOURCE":"PUBLICATION",
+    "ID":60706,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.8608553,40.6393201 ]
+    },
+    "properties": {
+    "county_han":"咸阳县",
+    "county_xin":"贲武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70102,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.0757073,40.8853676 ]
+    },
+    "properties": {
+    "county_han":"武皋县",
+    "county_xin":"永武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70206,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.8085793,40.7506036 ]
+    },
+    "properties": {
+    "county_han":"定襄县",
+    "county_xin":"著武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70211,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.28983,38.02121 ]
+    },
+    "properties": {
+    "county_han":"富平县",
+    "county_xin":"特武县",
+    "SOURCE":"CHGIS",
+    "ID":70504,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.28983,38.02121 ]
+    },
+    "properties": {
+    "county_han":"富平县",
+    "county_xin":"特武县",
+    "SOURCE":"CHGIS",
+    "ID":70504,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.9543054,40.3459681 ]
+    },
+    "properties": {
+    "county_han":"窳浑县",
+    "county_xin":"极武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70806,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.1869494,40.6568361 ]
+    },
+    "properties": {
+    "county_han":"沃壄县",
+    "county_xin":"绥武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70808,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.0682194,40.5602171 ]
+    },
+    "properties": {
+    "county_han":"临戎县",
+    "county_xin":"推武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70810,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.8122444,40.6484952 ]
+    },
+    "properties": {
+    "county_han":"临沃县",
+    "county_xin":"振武县",
+    "SOURCE":"PUBLICATION",
+    "ID":70904,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.14471,40.27591 ]
+    },
+    "properties": {
+    "county_han":"潘县",
+    "county_xin":"树武县",
+    "SOURCE":"CHGIS",
+    "ID":71203,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.27145,40.48953 ]
+    },
+    "properties": {
+    "county_han":"茹县",
+    "county_xin":"穀武县",
+    "SOURCE":"CHGIS",
+    "ID":71213,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.09589,39.57686 ]
+    },
+    "properties": {
+    "county_han":"昌城县",
+    "county_xin":"淑武县",
+    "SOURCE":"CHGIS",
+    "ID":71412,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1471634,41.1721151 ]
+    },
+    "properties": {
+    "county_han":"宾从县",
+    "county_xin":"勉武县",
+    "SOURCE":"PUBLICATION",
+    "ID":71507,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.16087,39.68174 ]
+    },
+    "properties": {
+    "county_han":"絫县",
+    "county_xin":"选武县",
+    "SOURCE":"CHGIS",
+    "ID":71514,
+    "name_type":"意义"
+    }
+  }
+]
+}

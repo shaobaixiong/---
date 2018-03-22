@@ -1,0 +1,103 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4878264,36.0239412 ]
+    },
+    "properties": {
+    "county_han":"富城县",
+    "county_xin":"成富县",
+    "SOURCE":"PUBLICATION",
+    "ID":22304,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.49642,35.9073 ]
+    },
+    "properties": {
+    "county_han":"无盐县",
+    "county_xin":"有盐亭县",
+    "SOURCE":"CHGIS",
+    "ID":22301,
+    "name_type":"反 亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.695,35.23642 ]
+    },
+    "properties": {
+    "county_han":"任城县",
+    "county_xin":"延就亭县",
+    "SOURCE":"CHGIS",
+    "ID":22302,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.47342,35.81909 ]
+    },
+    "properties": {
+    "county_han":"东平陆县",
+    "county_xin":"东平陆县",
+    "SOURCE":"CHGIS",
+    "ID":22303,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.42073,35.92291 ]
+    },
+    "properties": {
+    "county_han":"章县",
+    "county_xin":"章县",
+    "SOURCE":"CHGIS",
+    "ID":22305,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.53927,35.20763 ]
+    },
+    "properties": {
+    "county_han":"亢父县",
+    "county_xin":"顺父县",
+    "SOURCE":"CHGIS",
+    "ID":22306,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.77958,35.43961 ]
+    },
+    "properties": {
+    "county_han":"樊县",
+    "county_xin":"樊县",
+    "SOURCE":"CHGIS",
+    "ID":22307,
+    "name_type":"不改"
+    }
+  }
+]
+}

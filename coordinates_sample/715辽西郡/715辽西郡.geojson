@@ -1,0 +1,201 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.67431,39.68349 ]
+    },
+    "properties": {
+    "county_han":"海阳县",
+    "county_xin":"海阳县",
+    "SOURCE":"CHGIS",
+    "ID":71502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.72886,39.7398 ]
+    },
+    "properties": {
+    "county_han":"新安平县",
+    "county_xin":"新安平县",
+    "SOURCE":"CHGIS",
+    "ID":71503,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.66396,39.9989 ]
+    },
+    "properties": {
+    "county_han":"令支县",
+    "county_xin":"令氏亭县",
+    "SOURCE":"CHGIS",
+    "ID":71505,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.8816,40.00867 ]
+    },
+    "properties": {
+    "county_han":"肥如县",
+    "county_xin":"肥而县",
+    "SOURCE":"CHGIS",
+    "ID":71506,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1562974,41.5241101 ]
+    },
+    "properties": {
+    "county_han":"阳乐县",
+    "county_xin":"阳乐县",
+    "SOURCE":"PUBLICATION",
+    "ID":71509,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.16087,39.68174 ]
+    },
+    "properties": {
+    "county_han":"絫县",
+    "county_xin":"选武县",
+    "SOURCE":"CHGIS",
+    "ID":71514,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2431614,41.5876371 ]
+    },
+    "properties": {
+    "county_han":"且虑县",
+    "county_xin":"鉏虑县",
+    "SOURCE":"PUBLICATION",
+    "ID":71501,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.3629044,41.5442461 ]
+    },
+    "properties": {
+    "county_han":"柳城县",
+    "county_xin":"柳城县",
+    "SOURCE":"PUBLICATION",
+    "ID":71504,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1471634,41.1721151 ]
+    },
+    "properties": {
+    "county_han":"宾从县",
+    "county_xin":"勉武县",
+    "SOURCE":"PUBLICATION",
+    "ID":71507,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2217894,41.5235602 ]
+    },
+    "properties": {
+    "county_han":"交黎县",
+    "county_xin":"禽虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71508,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.4302224,41.5238481 ]
+    },
+    "properties": {
+    "county_han":"狐苏县",
+    "county_xin":"狐苏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71510,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.1089464,41.1126321 ]
+    },
+    "properties": {
+    "county_han":"徒河县",
+    "county_xin":"河福县",
+    "SOURCE":"PUBLICATION",
+    "ID":71511,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8480574,40.8443192 ]
+    },
+    "properties": {
+    "county_han":"文成县",
+    "county_xin":"言虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71512,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.4565134,41.5691962 ]
+    },
+    "properties": {
+    "county_han":"临渝县",
+    "county_xin":"冯德县",
+    "SOURCE":"PUBLICATION",
+    "ID":71513,
+    "name_type":"嘉名"
+    }
+  }
+]
+}

@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.1569904,41.3131512 ]
+    },
+    "properties": {
+    "county_han":"襄平县",
+    "county_xin":"昌平县",
+    "SOURCE":"PUBLICATION",
+    "ID":71601,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.8166314,40.9290312 ]
+    },
+    "properties": {
+    "county_han":"新昌县",
+    "county_xin":"新昌县",
+    "SOURCE":"PUBLICATION",
+    "ID":71602,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.7995814,41.5618331 ]
+    },
+    "properties": {
+    "county_han":"无虑县",
+    "county_xin":"无虑县",
+    "SOURCE":"PUBLICATION",
+    "ID":71603,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.8131004,41.9108812 ]
+    },
+    "properties": {
+    "county_han":"望平县",
+    "county_xin":"长说县",
+    "SOURCE":"PUBLICATION",
+    "ID":71604,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.0853984,41.0312911 ]
+    },
+    "properties": {
+    "county_han":"房县",
+    "county_xin":"房县",
+    "SOURCE":"PUBLICATION",
+    "ID":71605,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.5380054,41.6803211 ]
+    },
+    "properties": {
+    "county_han":"候城县",
+    "county_xin":"候城县",
+    "SOURCE":"PUBLICATION",
+    "ID":71606,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.5749424,40.9442961 ]
+    },
+    "properties": {
+    "county_han":"辽队县",
+    "county_xin":"顺睦县",
+    "SOURCE":"PUBLICATION",
+    "ID":71607,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.8048824,41.5106121 ]
+    },
+    "properties": {
+    "county_han":"辽阳县",
+    "county_xin":"辽阴县",
+    "SOURCE":"PUBLICATION",
+    "ID":71608,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.4404374,41.3507931 ]
+    },
+    "properties": {
+    "county_han":"险渎县",
+    "county_xin":"险渎县",
+    "SOURCE":"PUBLICATION",
+    "ID":71609,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.1298424,41.1285579 ]
+    },
+    "properties": {
+    "county_han":"居就县",
+    "county_xin":"居就县",
+    "SOURCE":"PUBLICATION",
+    "ID":71610,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.7153014,42.2380121 ]
+    },
+    "properties": {
+    "county_han":"高显县",
+    "county_xin":"高显县",
+    "SOURCE":"PUBLICATION",
+    "ID":71611,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.8257274,40.8078501 ]
+    },
+    "properties": {
+    "county_han":"安市县",
+    "county_xin":"安市县",
+    "SOURCE":"PUBLICATION",
+    "ID":71612,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.0636644,40.4646701 ]
+    },
+    "properties": {
+    "county_han":"武次县",
+    "county_xin":"桓次县",
+    "SOURCE":"PUBLICATION",
+    "ID":71613,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.2529444,40.3650501 ]
+    },
+    "properties": {
+    "county_han":"平郭县",
+    "county_xin":"平郭县",
+    "SOURCE":"PUBLICATION",
+    "ID":71614,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 124.7459224,40.7063721 ]
+    },
+    "properties": {
+    "county_han":"西安平县",
+    "county_xin":"北安平县",
+    "SOURCE":"PUBLICATION",
+    "ID":71615,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.3799254,40.5734872 ]
+    },
+    "properties": {
+    "county_han":"文县",
+    "county_xin":"文亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":71616,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 125.5649934,39.7242901 ]
+    },
+    "properties": {
+    "county_han":"番汗县",
+    "county_xin":"番汗县",
+    "SOURCE":"PUBLICATION",
+    "ID":71617,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.0191519,39.1497036 ]
+    },
+    "properties": {
+    "county_han":"沓氏县",
+    "county_xin":"沓氏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71618,
+    "name_type":"不改"
+    }
+  }
+]
+}

@@ -1,0 +1,257 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.04401,36.54834 ]
+    },
+    "properties": {
+    "county_han":"营陵县",
+    "county_xin":"北海亭县",
+    "SOURCE":"CHGIS",
+    "ID":22801,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.76527,36.71843 ]
+    },
+    "properties": {
+    "county_han":"剧魁侯国",
+    "county_xin":"上符县",
+    "SOURCE":"CHGIS",
+    "ID":22802,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.38731,36.31668 ]
+    },
+    "properties": {
+    "county_han":"安丘县",
+    "county_xin":"诛郅县",
+    "SOURCE":"CHGIS",
+    "ID":22803,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.32261,36.54303 ]
+    },
+    "properties": {
+    "county_han":"淳于县",
+    "county_xin":"淳于县",
+    "SOURCE":"CHGIS",
+    "ID":22805,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.7355,36.83983 ]
+    },
+    "properties": {
+    "county_han":"益县",
+    "county_xin":"探阳县",
+    "SOURCE":"CHGIS",
+    "ID":22806,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.01411,36.58534 ]
+    },
+    "properties": {
+    "county_han":"平寿县",
+    "county_xin":"平寿县",
+    "SOURCE":"CHGIS",
+    "ID":22807,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.77496,36.65675 ]
+    },
+    "properties": {
+    "county_han":"剧侯国",
+    "county_xin":"剧县",
+    "SOURCE":"CHGIS",
+    "ID":22808,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.37875,36.86346 ]
+    },
+    "properties": {
+    "county_han":"都昌县",
+    "county_xin":"都昌县",
+    "SOURCE":"CHGIS",
+    "ID":22809,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.90199,37.06668 ]
+    },
+    "properties": {
+    "county_han":"平望侯国",
+    "county_xin":"所聚县",
+    "SOURCE":"CHGIS",
+    "ID":22810,
+    "name_type":"聚"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.8501,36.65286 ]
+    },
+    "properties": {
+    "county_han":"柳泉侯国",
+    "county_xin":"弘睦县",
+    "SOURCE":"CHGIS",
+    "ID":22812,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.86276,36.92308 ]
+    },
+    "properties": {
+    "county_han":"寿光县",
+    "county_xin":"翼平亭县",
+    "SOURCE":"CHGIS",
+    "ID":22813,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.94218,36.8215 ]
+    },
+    "properties": {
+    "county_han":"乐望侯国",
+    "county_xin":"乐望县",
+    "SOURCE":"CHGIS",
+    "ID":22814,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.2235,36.68795 ]
+    },
+    "properties": {
+    "county_han":"斟县",
+    "county_xin":"斟县",
+    "SOURCE":"CHGIS",
+    "ID":22816,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.15398,36.59578 ]
+    },
+    "properties": {
+    "county_han":"桑犊县",
+    "county_xin":"桑犊县",
+    "SOURCE":"CHGIS",
+    "ID":22817,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.46664,36.67548 ]
+    },
+    "properties": {
+    "county_han":"平城侯国",
+    "county_xin":"平城县",
+    "SOURCE":"CHGIS",
+    "ID":22818,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.47108,36.84386 ]
+    },
+    "properties": {
+    "county_han":"密乡侯国",
+    "county_xin":"密乡县",
+    "SOURCE":"CHGIS",
+    "ID":22819,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.18964,36.52749 ]
+    },
+    "properties": {
+    "county_han":"成乡侯国",
+    "county_xin":"石乐县",
+    "SOURCE":"CHGIS",
+    "ID":22825,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.55452,36.48126 ]
+    },
+    "properties": {
+    "county_han":"胶阳侯国",
+    "county_xin":"胶阳县",
+    "SOURCE":"CHGIS",
+    "ID":22826,
+    "name_type":"不改"
+    }
+  }
+]
+}

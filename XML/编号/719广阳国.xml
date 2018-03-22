@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>广阳国</name>
+            <meta family="" pop="" county="">高帝燕国，昭帝元凤元年为广阳郡，宣帝本始元年更为国。莽曰<wname type="改一">广有</wname>，户二万七百四十，口七万六百五十八。县四。</meta>
+            <county><name>蓟</name>，故燕国，召公所封。莽曰<wname type="意义">伐戎</wname>。</county>
+            <county><name>方城</name>。</county>
+            <county><name>广阳</name>。</county>
+            <county><name>阴乡</name>。莽曰<wname type="半嘉名">阴顺</wname>。</county>
+        </pref>
+    </chapter>
+</book>

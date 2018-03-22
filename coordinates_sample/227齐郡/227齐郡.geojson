@@ -1,0 +1,145 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.3967484,37.1052702 ]
+    },
+    "properties": {
+    "county_han":"钜定县",
+    "county_xin":"钜定县",
+    "SOURCE":"PUBLICATION",
+    "ID":22705,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.5504274,36.9800972 ]
+    },
+    "properties": {
+    "county_han":"广饶侯国",
+    "county_xin":"广饶县",
+    "SOURCE":"PUBLICATION",
+    "ID":22707,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.3090984,36.9299762 ]
+    },
+    "properties": {
+    "county_han":"北乡侯国",
+    "county_xin":"禺聚县",
+    "SOURCE":"PUBLICATION",
+    "ID":22710,
+    "name_type":"聚"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.8131134,36.9462802 ]
+    },
+    "properties": {
+    "county_han":"台乡侯国",
+    "county_xin":"台乡县",
+    "SOURCE":"PUBLICATION",
+    "ID":22712,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.37041,36.86401 ]
+    },
+    "properties": {
+    "county_han":"临淄县",
+    "county_xin":"齐陵县",
+    "SOURCE":"CHGIS",
+    "ID":22701,
+    "name_type":"陵"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.00994,36.69728 ]
+    },
+    "properties": {
+    "county_han":"昌国县",
+    "county_xin":"昌国县",
+    "SOURCE":"CHGIS",
+    "ID":22702,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.32436,37.09947 ]
+    },
+    "properties": {
+    "county_han":"利县",
+    "county_xin":"利治县",
+    "SOURCE":"CHGIS",
+    "ID":22703,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.20507,36.94796 ]
+    },
+    "properties": {
+    "county_han":"西安县",
+    "county_xin":"东宁县",
+    "SOURCE":"CHGIS",
+    "ID":22704,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.47236,36.68287 ]
+    },
+    "properties": {
+    "county_han":"广侯国",
+    "county_xin":"广县",
+    "SOURCE":"CHGIS",
+    "ID":22706,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.5252794,36.5229312 ]
+    },
+    "properties": {
+    "county_han":"临朐侯国",
+    "county_xin":"监朐县",
+    "SOURCE":"PUBLICATION",
+    "ID":22709,
+    "name_type":"监"
+    }
+  }
+]
+}

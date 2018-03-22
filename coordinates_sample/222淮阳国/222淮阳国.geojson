@@ -1,0 +1,131 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.88245,33.73398 ]
+    },
+    "properties": {
+    "county_han":"陈县",
+    "county_xin":"陈陵县",
+    "SOURCE":"CHGIS",
+    "ID":22201,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.48136,33.86077 ]
+    },
+    "properties": {
+    "county_han":"苦县",
+    "county_xin":"赖陵县",
+    "SOURCE":"CHGIS",
+    "ID":22202,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.85638,34.06387 ]
+    },
+    "properties": {
+    "county_han":"阳夏县",
+    "county_xin":"阳夏县",
+    "SOURCE":"CHGIS",
+    "ID":22203,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.32458,33.66484 ]
+    },
+    "properties": {
+    "county_han":"宁平县",
+    "county_xin":"宁平县",
+    "SOURCE":"CHGIS",
+    "ID":22204,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.56855,34.1884 ]
+    },
+    "properties": {
+    "county_han":"扶沟县",
+    "county_xin":"扶沟县",
+    "SOURCE":"CHGIS",
+    "ID":22205,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.76242,33.80199 ]
+    },
+    "properties": {
+    "county_han":"固始县",
+    "county_xin":"固始县",
+    "SOURCE":"CHGIS",
+    "ID":22206,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.70449,34.33805 ]
+    },
+    "properties": {
+    "county_han":"圉县",
+    "county_xin":"圉县",
+    "SOURCE":"CHGIS",
+    "ID":22207,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.95606,33.82343 ]
+    },
+    "properties": {
+    "county_han":"新平县",
+    "county_xin":"新平县",
+    "SOURCE":"CHGIS",
+    "ID":22208,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.29646,34.07661 ]
+    },
+    "properties": {
+    "county_han":"柘县",
+    "county_xin":"柘县",
+    "SOURCE":"CHGIS",
+    "ID":22209,
+    "name_type":"不改"
+    }
+  }
+]
+}

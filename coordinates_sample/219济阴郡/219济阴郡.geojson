@@ -1,0 +1,131 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.5678874,35.4693482 ]
+    },
+    "properties": {
+    "county_han":"成阳县",
+    "county_xin":"成阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":21905,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.55242,35.08947 ]
+    },
+    "properties": {
+    "county_han":"定陶县",
+    "county_xin":"济平县",
+    "SOURCE":"CHGIS",
+    "ID":21901,
+    "name_type":"重地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.23864,35.05329 ]
+    },
+    "properties": {
+    "county_han":"冤句县",
+    "county_xin":"济平亭县",
+    "SOURCE":"CHGIS",
+    "ID":21902,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.27561,35.26539 ]
+    },
+    "properties": {
+    "county_han":"吕都县",
+    "county_xin":"祈都县",
+    "SOURCE":"CHGIS",
+    "ID":21903,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.31667,35.28755 ]
+    },
+    "properties": {
+    "county_han":"葭密县",
+    "county_xin":"葭密县",
+    "SOURCE":"CHGIS",
+    "ID":21904,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.50356,35.67287 ]
+    },
+    "properties": {
+    "county_han":"鄄城县",
+    "county_xin":"鄄良县",
+    "SOURCE":"CHGIS",
+    "ID":21906,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.44274,35.3707 ]
+    },
+    "properties": {
+    "county_han":"句阳县",
+    "county_xin":"句阳县",
+    "SOURCE":"CHGIS",
+    "ID":21907,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.82201,35.07938 ]
+    },
+    "properties": {
+    "county_han":"秺县",
+    "county_xin":"万岁县",
+    "SOURCE":"CHGIS",
+    "ID":21908,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.92913,35.22851 ]
+    },
+    "properties": {
+    "county_han":"乘氏县",
+    "county_xin":"乘氏县",
+    "SOURCE":"CHGIS",
+    "ID":21909,
+    "name_type":"不改"
+    }
+  }
+]
+}

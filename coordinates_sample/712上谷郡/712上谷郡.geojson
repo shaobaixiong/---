@@ -1,0 +1,215 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2350684,40.1142882 ]
+    },
+    "properties": {
+    "county_han":"军都县",
+    "county_xin":"军都县",
+    "SOURCE":"PUBLICATION",
+    "ID":71204,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.9598124,40.4658321 ]
+    },
+    "properties": {
+    "county_han":"居庸县",
+    "county_xin":"居庸县",
+    "SOURCE":"PUBLICATION",
+    "ID":71205,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.0726944,40.5504601 ]
+    },
+    "properties": {
+    "county_han":"夷舆县",
+    "county_xin":"朔调亭县",
+    "SOURCE":"PUBLICATION",
+    "ID":71207,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3912624,40.0581951 ]
+    },
+    "properties": {
+    "county_han":"昌平县",
+    "county_xin":"长昌县",
+    "SOURCE":"PUBLICATION",
+    "ID":71209,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.72881,40.32557 ]
+    },
+    "properties": {
+    "county_han":"沮阳县",
+    "county_xin":"沮阴县",
+    "SOURCE":"CHGIS",
+    "ID":71201,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.43069,40.21649 ]
+    },
+    "properties": {
+    "county_han":"泉上县",
+    "county_xin":"塞泉县",
+    "SOURCE":"CHGIS",
+    "ID":71202,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.14471,40.27591 ]
+    },
+    "properties": {
+    "county_han":"潘县",
+    "county_xin":"树武县",
+    "SOURCE":"CHGIS",
+    "ID":71203,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.99375,40.13002 ]
+    },
+    "properties": {
+    "county_han":"雊瞀县",
+    "county_xin":"雊瞀县",
+    "SOURCE":"CHGIS",
+    "ID":71206,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.73473,40.8649 ]
+    },
+    "properties": {
+    "county_han":"宁县",
+    "county_xin":"宁县",
+    "SOURCE":"CHGIS",
+    "ID":71208,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.88594,40.79126 ]
+    },
+    "properties": {
+    "county_han":"广宁县",
+    "county_xin":"广康县",
+    "SOURCE":"CHGIS",
+    "ID":71210,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.39692,40.21584 ]
+    },
+    "properties": {
+    "county_han":"涿鹿县",
+    "county_xin":"抪陆县",
+    "SOURCE":"CHGIS",
+    "ID":71211,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.4132,40.42976 ]
+    },
+    "properties": {
+    "county_han":"且居县",
+    "county_xin":"久居县",
+    "SOURCE":"CHGIS",
+    "ID":71212,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.27145,40.48953 ]
+    },
+    "properties": {
+    "county_han":"茹县",
+    "county_xin":"穀武县",
+    "SOURCE":"CHGIS",
+    "ID":71213,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.81889,40.72244 ]
+    },
+    "properties": {
+    "county_han":"女祁县",
+    "county_xin":"祁县",
+    "SOURCE":"CHGIS",
+    "ID":71214,
+    "name_type":"简化"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.18146,40.37951 ]
+    },
+    "properties": {
+    "county_han":"下落县",
+    "county_xin":"下忠县",
+    "SOURCE":"CHGIS",
+    "ID":71215,
+    "name_type":"半嘉名"
+    }
+  }
+]
+}

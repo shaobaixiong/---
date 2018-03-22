@@ -1,0 +1,159 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.74922,41.21524 ]
+    },
+    "properties": {
+    "county_han":"平刚县",
+    "county_xin":"平刚县",
+    "SOURCE":"CHGIS",
+    "ID":71401,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.53526,40.38872 ]
+    },
+    "properties": {
+    "county_han":"俊靡县",
+    "county_xin":"俊麻县",
+    "SOURCE":"CHGIS",
+    "ID":71405,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.97878,40.1824 ]
+    },
+    "properties": {
+    "county_han":"徐无县",
+    "county_xin":"北顺亭县",
+    "SOURCE":"CHGIS",
+    "ID":71407,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.74922,41.21524 ]
+    },
+    "properties": {
+    "county_han":"字县",
+    "county_xin":"字县",
+    "SOURCE":"CHGIS",
+    "ID":71408,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.67431,39.68349 ]
+    },
+    "properties": {
+    "county_han":"夕阳县",
+    "county_xin":"夕阴县",
+    "SOURCE":"CHGIS",
+    "ID":71411,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.09589,39.57686 ]
+    },
+    "properties": {
+    "county_han":"昌城县",
+    "county_xin":"淑武县",
+    "SOURCE":"CHGIS",
+    "ID":71412,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.3883824,40.0374701 ]
+    },
+    "properties": {
+    "county_han":"无终县",
+    "county_xin":"无终县",
+    "SOURCE":"PUBLICATION",
+    "ID":71402,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.7166194,40.8771201 ]
+    },
+    "properties": {
+    "county_han":"石成县",
+    "county_xin":"石成县",
+    "SOURCE":"PUBLICATION",
+    "ID":71403,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.1856024,39.8292231 ]
+    },
+    "properties": {
+    "county_han":"土根县",
+    "county_xin":"土根县",
+    "SOURCE":"PUBLICATION",
+    "ID":71409,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.6475414,41.0549872 ]
+    },
+    "properties": {
+    "county_han":"白狼县",
+    "county_xin":"伏狄县",
+    "SOURCE":"PUBLICATION",
+    "ID":71410,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.795933,40.8199712 ]
+    },
+    "properties": {
+    "county_han":"广成县",
+    "county_xin":"平虏县",
+    "SOURCE":"PUBLICATION",
+    "ID":71414,
+    "name_type":"意义"
+    }
+  }
+]
+}

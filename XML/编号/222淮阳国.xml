@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name></name>
+            <meta family="" pop="" county="">淮阳国，高帝十一年置。莽曰<wname type="重地">新平</wname>。属兖州。户十三万五千五百四十四，口九十八万一千四百二十三。县九。</meta>
+            <county><name>陈</name>，故国，舜后，胡公所封，为楚所灭。楚顷襄王自郢徙此。莽曰<wname type="加一">陈陵</wname>。</county>
+            <county><name>苦</name>，莽曰<wname type="加一">赖陵</wname>。</county>
+            <county><name>阳夏</name>。</county>
+            <county><name>宁平</name>。</county>
+            <county><name>扶沟</name>，<quote><feature type="interPrefRiver">涡水</feature>首受狼汤渠，东至向入淮，过郡三，行千里。</quote></county>
+            <county><name>固始</name>。</county>
+            <county><name>圉</name>。</county>
+            <county><name>新平</name>。</county>
+            <county><name>柘</name>。</county>
+        </pref>
+    </chapter>
+</book>

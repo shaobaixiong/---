@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "county_han": "东平陵县", "county_xin": "东平陵县", "SOURCE": "22601", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.52242, 36.71219 ] } },
+{ "type": "Feature", "properties": { "county_han": "邹平县", "county_xin": "邹平县", "SOURCE": "22602", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.68445, 37.04186 ] } },
+{ "type": "Feature", "properties": { "county_han": "台县", "county_xin": "台县", "SOURCE": "22603", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.29713, 36.84073 ] } },
+{ "type": "Feature", "properties": { "county_han": "梁邹县", "county_xin": "梁邹县", "SOURCE": "22604", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.76339, 36.99364 ] } },
+{ "type": "Feature", "properties": { "county_han": "土鼓县", "county_xin": "土鼓县", "SOURCE": "22605", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.52242, 36.71219 ] } },
+{ "type": "Feature", "properties": { "county_han": "阳丘县", "county_xin": "阳丘县", "SOURCE": "22607", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.45512, 36.87772 ] } },
+{ "type": "Feature", "properties": { "county_han": "般阳县", "county_xin": "济南亭县", "SOURCE": "22608", "ID": 0, "name_type": "亭" }, "geometry": { "type": "Point", "coordinates": [ 117.96095, 36.63599 ] } },
+{ "type": "Feature", "properties": { "county_han": "菅县", "county_xin": "菅县", "SOURCE": "22609", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.33084, 36.98426 ] } },
+{ "type": "Feature", "properties": { "county_han": "朝阳侯国", "county_xin": "脩治县", "SOURCE": "22610", "ID": 0, "name_type": "治" }, "geometry": { "type": "Point", "coordinates": [ 117.52655, 37.0117 ] } },
+{ "type": "Feature", "properties": { "county_han": "历城县", "county_xin": "历城县", "SOURCE": "22611", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.00031, 36.64912 ] } },
+{ "type": "Feature", "properties": { "county_han": "猇侯国", "county_xin": "利成县", "SOURCE": "22612", "ID": 0, "name_type": "嘉名" }, "geometry": { "type": "Point", "coordinates": [ 117.40907, 36.89202 ] } },
+{ "type": "Feature", "properties": { "county_han": "著县", "county_xin": "著县", "SOURCE": "22613", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.07319, 37.00565 ] } },
+{ "type": "Feature", "properties": { "county_han": "於陵县", "county_xin": "於陆县", "SOURCE": "22606", "ID": 0, "name_type": "改一" }, "geometry": { "type": "Point", "coordinates": [ 117.9076654, 36.8222472 ] } },
+{ "type": "Feature", "properties": { "county_han": "宜成侯国", "county_xin": "宜成县", "SOURCE": "22614", "ID": 0, "name_type": "不改" }, "geometry": { "type": "Point", "coordinates": [ 117.1167014, 37.1294622 ] } }
+]
+}

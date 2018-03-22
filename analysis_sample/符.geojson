@@ -1,0 +1,75 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.10706,38.86037 ]
+    },
+    "properties": {
+    "剧魁侯国":"鄚县",
+    "上符县":"言符县",
+    "CHGIS":"CHGIS",
+    "22802":23811,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.65633,38.97512 ]
+    },
+    "properties": {
+    "剧魁侯国":"樊舆侯国",
+    "上符县":"握符县",
+    "CHGIS":"CHGIS",
+    "22802":23815,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.8804893,40.7899396 ]
+    },
+    "properties": {
+    "剧魁侯国":"安陶县",
+    "上符县":"迎符县",
+    "CHGIS":"PUBLICATION",
+    "22802":70208,
+    "嘉名":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.6512474,40.4460381 ]
+    },
+    "properties": {
+    "剧魁侯国":"朔方县",
+    "上符县":"武符县",
+    "CHGIS":"PUBLICATION",
+    "22802":70802,
+    "嘉名":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.4453227,40.1594093 ]
+    },
+    "properties": {
+    "剧魁侯国":"狐奴县",
+    "上符县":"举符县",
+    "CHGIS":"PUBLICATION",
+    "22802":71302,
+    "嘉名":"嘉名"
+    }
+  }
+]
+}

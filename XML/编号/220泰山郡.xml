@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>泰山郡</name>
+            <meta family="172086" pop="726604" county="24"><date status="est">高帝置。</date>属兖州。户十七万二千八十六，口七十二万六千六百四。有<feature type="admin">工官</feature>。<feature type="river">汶水</feature>出莱毋，西入济。县二十四。</meta>
+            <county><name>奉高</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="shrine">明堂</feature>，在西南四里；武帝元封二年造。</quote><quote>有<feature type="admin">工官</feature>。</quote></county>
+            <county><name>博</name>，<quote>有<feature type="shrine">泰山庙</feature>。</quote><quote><feature type="mount">岱山</feature>在西北兖州山。</quote></county>
+            <county><name>茬</name>。</county>
+            <county><name>卢</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote><quote><feature type="kingdom_seat">济北王都</feature>也。</quote></county>
+            <county><name>肥成</name>。</county>
+            <county><name>虵丘</name>。<quote><feature type="sett">隧乡</feature></quote>，<history>故隧国。《春秋》曰“齐人歼于隧”也。</history></county>
+            <county><name>刚</name>，故阐。莽曰<wname type="反">柔</wname>。</county>
+            <county><name>柴</name>。</county>
+            <county><name>盖</name>，<quote><feature type="river_source">临乐子山</feature>，<feature type="river" ref="zhu">洙水</feature>所出，西北至盖入池水。</quote><quote>又<feature type="interPrefRiver" ref="yi">沂水</feature>南至下邳入泗，过郡五，行六百里，青州浸。</quote></county>
+            <county><name>梁父</name>。</county>
+            <county><name>东平阳</name>。</county>
+            <county><name>南武阳</name>，<quote><feature type="river_source">冠石山</feature>，<feature type="interPrefRiver" ref="zhi">治水</feature>所出，南至下邳入泗，过郡二，行九百四十里。</quote>莽曰<wname type="嘉名">桓宣</wname>。</county>
+            <county><name>莱芜</name>，<quote><feature type="river_source">原山</feature>，<feature type="river" ref="zi">甾水</feature>所出，东至博昌入泲，幽州浸。</quote><quote>又《禹贡》<feature type="river" ref="wen">汶水</feature>出西南入泲。</quote>汶水，桑钦所言。</county>
+            <county><name>钜平</name>，<quote>有<feature type="shrine">亭亭山祠</feature>。</quote></county>
+            <county><name>嬴</name>，<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>牟</name>，<history>故国。</history></county>
+            <county><name>蒙阴</name>，<quote>《禹贡》<feature type="mount">蒙山</feature>在西南，有<feature type="shrine">祠</feature>。</quote><quote><feature type="history">颛臾国</feature>在蒙山下。</quote>莽曰<wname type="半嘉名">蒙恩</wname>。</county>
+            <county><name>华</name>，莽曰<wname type="?">翼阴</wname>。</county>
+            <county note="侯国"><name>宁阳</name>。侯国。莽曰<wname type="半嘉名">宁顺</wname>。</county>
+            <county><name>乘丘</name>。</county>
+            <county><name>富阳</name>。</county>
+            <county note="侯国"><name>桃山</name>，侯国。莽曰<wname type="?">裒鲁</wname>。</county>
+            <county note="侯国"><name>桃乡</name>，侯国。莽曰<wname type="亭">鄣亭</wname>。</county>
+            <county><name>式</name>。</county>
+        </pref>
+    </chapter>
+</book>

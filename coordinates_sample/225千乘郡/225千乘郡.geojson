@@ -1,0 +1,201 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.96509,37.24197 ]
+    },
+    "properties": {
+    "county_han":"千乘县",
+    "county_xin":"千乘县",
+    "SOURCE":"CHGIS",
+    "ID":22501,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.7499,37.13171 ]
+    },
+    "properties": {
+    "county_han":"东邹县",
+    "county_xin":"东邹县",
+    "SOURCE":"CHGIS",
+    "ID":22502,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.94981,37.478 ]
+    },
+    "properties": {
+    "county_han":"湿沃县",
+    "county_xin":"延亭县",
+    "SOURCE":"CHGIS",
+    "ID":22503,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.12836,37.07039 ]
+    },
+    "properties": {
+    "county_han":"平安侯国",
+    "county_xin":"鸿睦县",
+    "SOURCE":"CHGIS",
+    "ID":22504,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.20644,37.10773 ]
+    },
+    "properties": {
+    "county_han":"博昌县",
+    "county_xin":"博昌县",
+    "SOURCE":"CHGIS",
+    "ID":22505,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.76371,37.23539 ]
+    },
+    "properties": {
+    "county_han":"建信县",
+    "county_xin":"建信县",
+    "SOURCE":"CHGIS",
+    "ID":22507,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.94858,37.09798 ]
+    },
+    "properties": {
+    "county_han":"狄县",
+    "county_xin":"利居县",
+    "SOURCE":"CHGIS",
+    "ID":22508,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.58489,37.27567 ]
+    },
+    "properties": {
+    "county_han":"琅槐县",
+    "county_xin":"琅槐县",
+    "SOURCE":"CHGIS",
+    "ID":22509,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.15373,37.2036 ]
+    },
+    "properties": {
+    "county_han":"乐安县",
+    "county_xin":"乐安县",
+    "SOURCE":"CHGIS",
+    "ID":22510,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.9595,37.09429 ]
+    },
+    "properties": {
+    "county_han":"被阳侯国",
+    "county_xin":"被阳县",
+    "SOURCE":"CHGIS",
+    "ID":22511,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.84821,36.93939 ]
+    },
+    "properties": {
+    "county_han":"高宛县",
+    "county_xin":"常乡县",
+    "SOURCE":"CHGIS",
+    "ID":22514,
+    "name_type":"乡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.1816564,37.4575082 ]
+    },
+    "properties": {
+    "county_han":"蓼城县",
+    "county_xin":"施武县",
+    "SOURCE":"PUBLICATION",
+    "ID":22506,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.0612404,37.1405132 ]
+    },
+    "properties": {
+    "county_han":"高昌侯国",
+    "county_xin":"高昌县",
+    "SOURCE":"PUBLICATION",
+    "ID":22512,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.7971284,36.8554082 ]
+    },
+    "properties": {
+    "county_han":"延乡侯国",
+    "county_xin":"延乡县",
+    "SOURCE":"PUBLICATION",
+    "ID":22515,
+    "name_type":"不改"
+    }
+  }
+]
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="地理志第八">
+        <pref>
+            <name>千乘郡</name>
+            <meta family="116727" pop="490720" county="15"><date status="est">高帝置。</date>莽曰<wname type="重地">建信</wname>。属青州。户十一万六千七百二十七，口四十九万七百二十。有<feature type="resource">铁官</feature>、<feature type="resource">盐官</feature>、<feature type="admin">均输官</feature>。县十五。</meta>
+            <county><name>千乘</name>，<quote><feature type="pref_seat"/></quote><quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>东邹</name>。</county>
+            <county><name>湿沃</name>，莽曰<wname type="亭">延亭</wname>。</county>
+            <county note="侯国"><name>平安</name>，侯国。莽曰<wname type="嘉名">鸿睦</wname>。</county>
+            <county><name>博昌</name>，<quote><feature type="river" ref="shi">时水</feature>东北至巨定入马车渎；幽州浸。</quote></county>
+            <county><name>蓼城</name>，<quote><feature type="mili_admin">都尉治</feature>。</quote>莽曰<wname type="嘉名">施武</wname>。</county>
+            <county><name>建信</name>。</county>
+            <county><name>狄</name>，莽曰<wname type="嘉名">利居</wname>。</county>
+            <county><name>琅槐</name>。</county>
+            <county><name>乐安</name>。</county>
+            <county note="侯国"><name>被阳</name>，侯国。</county>
+            <county><name>高昌</name>。</county>
+            <county note="侯国"><name>繁安</name>。侯国。莽曰<wname type="亭">瓦亭</wname>。</county>
+            <county><name>高宛</name>，莽曰<wname type="乡">常乡</wname>。</county>
+            <county><name>延乡</name>。</county>
+        </pref>
+    </chapter>
+</book>

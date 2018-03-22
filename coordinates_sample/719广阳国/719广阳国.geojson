@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3766804,39.9793202 ]
+    },
+    "properties": {
+    "county_han":"蓟县",
+    "county_xin":"伐戎县",
+    "SOURCE":"PUBLICATION",
+    "ID":71901,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2423604,39.3935361 ]
+    },
+    "properties": {
+    "county_han":"方城县",
+    "county_xin":"方城县",
+    "SOURCE":"PUBLICATION",
+    "ID":71902,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.1654614,39.7507101 ]
+    },
+    "properties": {
+    "county_han":"广阳县",
+    "county_xin":"广阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":71903,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.2636204,39.8416372 ]
+    },
+    "properties": {
+    "county_han":"阴乡县",
+    "county_xin":"阴顺县",
+    "SOURCE":"PUBLICATION",
+    "ID":71904,
+    "name_type":"半嘉名"
+    }
+  }
+]
+}
