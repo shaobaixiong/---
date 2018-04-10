@@ -1,0 +1,61 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.5759894,35.7915572 ]
+    },
+    "properties": {
+    "county_han":"虑县",
+    "county_xin":"著善县",
+    "SOURCE":"PUBLICATION",
+    "ID":23904,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.83442,35.58189 ]
+    },
+    "properties": {
+    "county_han":"莒县",
+    "county_xin":"莒陵县",
+    "SOURCE":"CHGIS",
+    "ID":23901,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.52669,35.49289 ]
+    },
+    "properties": {
+    "county_han":"阳都县",
+    "county_xin":"阳都县",
+    "SOURCE":"CHGIS",
+    "ID":23902,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.681584,34.61755 ]
+    },
+    "properties": {
+    "county_han":"东安县",
+    "county_xin":"东安县",
+    "SOURCE":"CHGIS",
+    "ID":23903,
+    "name_type":"不改"
+    }
+  }
+]
+}

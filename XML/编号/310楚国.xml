@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>楚国</name>
+            <meta family="" pop="" county="">高帝置，宣帝地节元年更为彭城郡，黄龙元年复故。莽曰<wname type="嘉名">和乐</wname>。属徐州。户十一万四千七百三十八，口四十九万七千八百四。县七。</meta>
+            <county><name>彭城</name>，<history>古彭祖国。</history>户四万一百九十六。<quote>有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>留</name>。</county>
+            <county><name>梧</name>，莽曰<wname type="治">吾治</wname>。</county>
+            <county><name>傅阳</name>，<history>故偪阳国。</history>莽曰<wname type="同音">辅阳</wname>。</county>
+            <county><name>吕</name>。</county>
+            <county><name>武原</name>，莽曰<wname type="亭">和乐亭</wname>。</county>
+            <county><name>甾丘</name>。莽曰<wname type="改一">善丘</wname>。</county>
+        </pref>
+    </chapter>
+</book>

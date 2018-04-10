@@ -1,0 +1,103 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9640533,33.6738863 ]
+    },
+    "properties": {
+    "county_han":"梧县",
+    "county_xin":"吾治县",
+    "SOURCE":"PUBLICATION",
+    "ID":31003,
+    "name_type":"治"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.1528693,33.8006453 ]
+    },
+    "properties": {
+    "county_han":"甾丘县",
+    "county_xin":"善丘县",
+    "SOURCE":"PUBLICATION",
+    "ID":31007,
+    "name_type":"改一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.187683,34.269634 ]
+    },
+    "properties": {
+    "county_han":"彭城县",
+    "county_xin":"彭城县",
+    "SOURCE":"CHGIS",
+    "ID":31001,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.049846,34.701352 ]
+    },
+    "properties": {
+    "county_han":"留县",
+    "county_xin":"留县",
+    "SOURCE":"CHGIS",
+    "ID":31002,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.53053,34.5089 ]
+    },
+    "properties": {
+    "county_han":"傅阳县",
+    "county_xin":"辅阳县",
+    "SOURCE":"CHGIS",
+    "ID":31004,
+    "name_type":"同音"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.457606,34.172294 ]
+    },
+    "properties": {
+    "county_han":"吕县",
+    "county_xin":"吕县",
+    "SOURCE":"CHGIS",
+    "ID":31005,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.820679,34.468441 ]
+    },
+    "properties": {
+    "county_han":"武原县",
+    "county_xin":"和乐亭县",
+    "SOURCE":"CHGIS",
+    "ID":31006,
+    "name_type":"亭"
+    }
+  }
+]
+}

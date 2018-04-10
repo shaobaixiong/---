@@ -1,0 +1,243 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.938,37.17543 ]
+    },
+    "properties": {
+    "county_han":"掖县",
+    "county_xin":"掖通县",
+    "SOURCE":"CHGIS",
+    "ID":22901,
+    "name_type":"加一"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.26053,37.49328 ]
+    },
+    "properties": {
+    "county_han":"腄县",
+    "county_xin":"腄县",
+    "SOURCE":"CHGIS",
+    "ID":22902,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.52169,37.64731 ]
+    },
+    "properties": {
+    "county_han":"黄县",
+    "county_xin":"意母县",
+    "SOURCE":"CHGIS",
+    "ID":22904,
+    "name_type":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.11688,37.38621 ]
+    },
+    "properties": {
+    "county_han":"曲成县",
+    "county_xin":"曲成县",
+    "SOURCE":"CHGIS",
+    "ID":22906,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.12133,37.56954 ]
+    },
+    "properties": {
+    "county_han":"牟平侯国",
+    "county_xin":"望利县",
+    "SOURCE":"CHGIS",
+    "ID":22907,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.58773,37.37655 ]
+    },
+    "properties": {
+    "county_han":"东牟县",
+    "county_xin":"弘德县",
+    "SOURCE":"CHGIS",
+    "ID":22908,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.00519,37.07014 ]
+    },
+    "properties": {
+    "county_han":"昌阳侯国",
+    "county_xin":"夙敬亭县",
+    "SOURCE":"CHGIS",
+    "ID":22911,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.41084,37.33575 ]
+    },
+    "properties": {
+    "county_han":"不夜县",
+    "county_xin":"夙夜县",
+    "SOURCE":"CHGIS",
+    "ID":22912,
+    "name_type":"反"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8119,37.0419 ]
+    },
+    "properties": {
+    "county_han":"当利县",
+    "county_xin":"东莱亭县",
+    "SOURCE":"CHGIS",
+    "ID":22913,
+    "name_type":"亭"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.85121,36.98516 ]
+    },
+    "properties": {
+    "county_han":"卢乡县",
+    "county_xin":"卢乡县",
+    "SOURCE":"CHGIS",
+    "ID":22914,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8133,37.14915 ]
+    },
+    "properties": {
+    "county_han":"阳乐侯国",
+    "county_xin":"延乐县",
+    "SOURCE":"CHGIS",
+    "ID":22915,
+    "name_type":"半嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8649,37.13354 ]
+    },
+    "properties": {
+    "county_han":"阳石侯国",
+    "county_xin":"识命县",
+    "SOURCE":"CHGIS",
+    "ID":22916,
+    "name_type":"意义"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.47132,37.68451 ]
+    },
+    "properties": {
+    "county_han":"徐乡侯国",
+    "county_xin":"徐乡县",
+    "SOURCE":"CHGIS",
+    "ID":22917,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8653804,36.8236992 ]
+    },
+    "properties": {
+    "county_han":"平度侯国",
+    "county_xin":"利卢县",
+    "SOURCE":"PUBLICATION",
+    "ID":22903,
+    "name_type":"嘉名"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.5032064,37.6074222 ]
+    },
+    "properties": {
+    "county_han":"㡉县",
+    "county_xin":"㡉县",
+    "SOURCE":"PUBLICATION",
+    "ID":22909,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.8726294,37.1663252 ]
+    },
+    "properties": {
+    "county_han":"育犂县",
+    "county_xin":"育犂县",
+    "SOURCE":"PUBLICATION",
+    "ID":22910,
+    "name_type":"不改"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.9195394,37.2221312 ]
+    },
+    "properties": {
+    "county_han":"临朐侯国",
+    "county_xin":"监朐县",
+    "SOURCE":"PUBLICATION",
+    "ID":22905,
+    "name_type":"监"
+    }
+  }
+]
+}

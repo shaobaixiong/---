@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref>
+            <name>城阳国</name>
+            <meta family="" pop="" county="">故齐。文帝二年别为国。莽曰<wname type="重地">莒陵</wname>。属兖州。户五万六千六百四十二，口二十万五千七百八十四。县四。</meta>
+            <county><name>莒</name>，<history>故国，盈姓，三十世为楚所灭。少昊后。</history><quote>有<feature type="resource">铁官</feature>。</quote>莽曰<wname type="加一">莒陵</wname>。</county>
+            <county><name>阳都</name>。</county>
+            <county><name>东安</name>。</county>
+            <county><name>虑</name>。莽曰<wname type="嘉名">著善</wname>。</county>
+        </pref>
+    </chapter>
+</book>
