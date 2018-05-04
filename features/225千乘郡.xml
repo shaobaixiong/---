@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>县</name>
+        <feature>盐官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>县</name>
+        <feature>均输官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>千乘县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>千乘县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>博昌县</name>
+        <feature>时水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>蓼城县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

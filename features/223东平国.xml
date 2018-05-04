@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>无盐县</name>
+        <feature>郈乡</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>亢父县</name>
+        <feature>诗亭</feature>
+        <feature_type>sett</feature_type>
+    </county>
+</counties>

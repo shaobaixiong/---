@@ -1381,6 +1381,22 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
+       "coordinates":  [ 111.3858134,39.6695201 ]
+    },
+    "properties": {
+    "county_han":"晋阳县",
+    "county_xin":"晋阳县",
+    "SOURCE":"PUBLICATION",
+    "ID":23601,
+    "name_type":"不改",
+    "pref_han":"太原郡",
+    "pref_xin":"太原郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
        "coordinates":  [ 106.5194444,40.6783192 ]
     },
     "properties": {

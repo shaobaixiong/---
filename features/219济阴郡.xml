@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>定陶县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>定陶县</name>
+        <feature>陶丘</feature>
+        <feature_type>history</feature_type>
+    </county>
+    <county>
+        <name>定陶县</name>
+        <feature>陶丘亭</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>成阳县</name>
+        <feature>尧冢灵台</feature>
+        <feature_type>history</feature_type>
+    </county>
+    <county>
+        <name>成阳县</name>
+        <feature>雷泽</feature>
+        <feature_type>lake</feature_type>
+    </county>
+    <county>
+        <name>乘氏县</name>
+        <feature>泗水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+</counties>

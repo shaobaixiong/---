@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>陈留县</name>
+        <feature>鲁渠水</feature>
+        <feature_type>waterInfra</feature_type>
+    </county>
+    <county>
+        <name>襄邑县</name>
+        <feature>服官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>外黄县</name>
+        <feature>都尉治</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>封丘县</name>
+        <feature>濮渠水</feature>
+        <feature_type>waterInfra</feature_type>
+    </county>
+    <county>
+        <name>浚仪县</name>
+        <feature>睢水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

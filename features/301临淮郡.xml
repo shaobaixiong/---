@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>徐县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>淮浦县</name>
+        <feature>淮水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+    <county>
+        <name>盱眙县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>盐渎县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>海陵县</name>
+        <feature>江海会祠</feature>
+        <feature_type>shrine</feature_type>
+    </county>
+    <county>
+        <name>堂邑县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+</counties>

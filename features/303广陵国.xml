@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>江都县</name>
+        <feature>江水祠</feature>
+        <feature_type>shrine</feature_type>
+    </county>
+    <county>
+        <name>江都县</name>
+        <feature>渠水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

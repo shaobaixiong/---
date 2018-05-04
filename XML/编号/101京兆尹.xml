@@ -1,0 +1,32 @@
+<?xml-model href="../../Schema/%E6%A8%A1%E6%9D%BF.rnc" type="application/relax-ng-compact-syntax"?>
+<book>
+    <chapter name="">
+        <pref ref="212275"><name>京兆尹</name>
+            <meta pop="682468" family="195720" county="12"
+                >故秦内史，高帝元年属塞国，二年更为渭南郡，九年罢，复为内史。武帝建元六年分为右内史，太初元年更为京兆尹。元始二年户十九万五千七百二，口六十八万二千四百六十八。县十二。</meta>
+            <county ref="70623"><name>长安</name>，<date status="est">高帝五年置。</date><date status="est"
+                    >惠帝元年初城，六年成。</date>户八万八百，口二十四万六千二百。王莽曰<wname type="同音">常安</wname>。</county>
+            <county ref="70725"><name>新丰</name>，<quote><feature type="mount"
+                    >骊山</feature>在南，故骊戎国。</quote>秦曰骊邑。<date status="est">高祖七年置。</date></county>
+            <county ref="70429"><name>船司空</name>，莽曰<wname type="半嘉名">船利</wname>。</county>
+            <county ref="70749"><name>蓝田</name>，<quote>山出<feature type="resource"
+                    >美玉</feature></quote>，<quote>有<feature type="shrine"
+                    >虎候山祠</feature></quote>，<date status="est">秦孝公置也。</date></county>
+            <county><name>华阴</name>，故阴晋，<date status="nameChange">秦惠文王五年更名宁秦，蒿帝八年更名华阴。</date><quote
+                ><feature type="mount">太华山</feature>在南</quote>，<quote
+                    >有<feature type="shrine">祠</feature></quote>，<quote><feature type="mount">豫州山</feature></quote>。<quote
+                        ><feature type="palace">集灵宫</feature>，武帝起。</quote>莽曰<wname type="改一"
+                >华坛</wname>也。</county>
+            <county><name>郑</name>，周宣王弟郑桓公邑。<quote
+                >有<feature type="resource">铁官</feature>。</quote></county>
+            <county><name>湖</name>，<quote
+                >有<feature type="shrine">周天子祠二所</feature>。</quote><date status="nameChange">故曰胡，武帝建元年更名湖。</date></county>
+            <county><name>下邦</name>，<date status="est">文帝七年置。</date></county>
+            <county><name>南陵</name>，<date status="est">文帝七年置。</date>沂水出蓝田谷，北至霸陵人霸水。霸水亦出蓝田谷，北入渭。古曰兹水，秦穆公更名以章霸功，视子孙。</county>
+                    <county><name>奉明</name>，<date status="est">宣帝置也。</date></county>
+            <county><name>霸陵</name>，<date status="est">故主阳，文帝更名。</date>莽曰<wname type="意义">水章</wname>也。</county>
+            <county><name>杜陵</name>。<date status="est">故社伯国，宣帝更名。</date><quote
+                >有<feature  type="shrine">周右将军杜主祠四所</feature>。</quote>莽曰<wname type="嘉名"
+            >饶安</wname>也。</county></pref>
+    </chapter>
+</book>

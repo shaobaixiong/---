@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>相县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>蕲县</name>
+        <feature>𧈬乡</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>蕲县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>沛县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>城父县</name>
+        <feature>夏肥水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+</counties>

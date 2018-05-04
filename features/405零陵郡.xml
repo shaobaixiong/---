@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>零陵县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>零陵县</name>
+        <feature>阳海山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>零陵县</name>
+        <feature>湘水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+    <county>
+        <name>零陵县</name>
+        <feature>离水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>营道县</name>
+        <feature>九疑山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>都梁县</name>
+        <feature>路山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>都梁县</name>
+        <feature>资水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+</counties>

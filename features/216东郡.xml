@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>东武阳县</name>
+        <feature>漯水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>东阿县</name>
+        <feature>都尉治</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>临邑县</name>
+        <feature>泲庙</feature>
+        <feature_type>shrine</feature_type>
+    </county>
+    <county>
+        <name>寿良县</name>
+        <feature>蚩尤祠</feature>
+        <feature_type>shrine</feature_type>
+    </county>
+    <county>
+        <name>寿良县</name>
+        <feature>胸城</feature>
+        <feature_type>walled</feature_type>
+    </county>
+</counties>

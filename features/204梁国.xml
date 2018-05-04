@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>砀县</name>
+        <feature>文石</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>蒙县</name>
+        <feature>获水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+    <county>
+        <name>睢阳县</name>
+        <feature>盟诸泽</feature>
+        <feature_type>lake</feature_type>
+    </county>
+</counties>

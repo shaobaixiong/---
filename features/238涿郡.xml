@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>涿县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>涿县</name>
+        <feature>桃水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>故安县</name>
+        <feature>阎乡</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>故安县</name>
+        <feature>易水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>安平县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>良乡县</name>
+        <feature>垣水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

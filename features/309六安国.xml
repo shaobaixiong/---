@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>六县</name>
+        <feature>如溪水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>安丰县</name>
+        <feature>大别山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+</counties>

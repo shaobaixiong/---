@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>营陵县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>都昌县</name>
+        <feature>盐官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>寿光县</name>
+        <feature>盐官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>桑犊县</name>
+        <feature>覆甑山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>桑犊县</name>
+        <feature>溉水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

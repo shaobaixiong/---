@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>彭城县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+</counties>

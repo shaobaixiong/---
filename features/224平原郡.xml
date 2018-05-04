@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>平原县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>平原县</name>
+        <feature>笃马河</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>鬲县</name>
+        <feature>鬲津</feature>
+        <feature_type>history</feature_type>
+    </county>
+    <county>
+        <name>高唐县</name>
+        <feature>漯水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>乐陵县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

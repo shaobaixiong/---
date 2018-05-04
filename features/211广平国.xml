@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>广平县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>南和县</name>
+        <feature>列葭水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

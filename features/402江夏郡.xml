@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>西陵县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>西陵县</name>
+        <feature>云梦官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>竟陵县</name>
+        <feature>章山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>竟陵县</name>
+        <feature>郧乡</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>安陆县</name>
+        <feature>横尾山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+</counties>

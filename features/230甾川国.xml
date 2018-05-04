@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>剧县</name>
+        <feature>义山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>剧县</name>
+        <feature>蕤水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>东安平县</name>
+        <feature>菟头山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>东安平县</name>
+        <feature>女水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

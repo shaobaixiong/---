@@ -1,0 +1,22 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.93719,34.31799 ]
+    },
+    "properties": {
+    "county_han":"长安县",
+    "county_xin":"常安县",
+    "SOURCE":"CHGIS",
+    "ID":10101,
+    "name_type":"同音",
+    "pref_han":"京兆尹",
+    "pref_xin":"西都京兆大尹",
+    "pref_id":101
+    }
+  }
+]
+}

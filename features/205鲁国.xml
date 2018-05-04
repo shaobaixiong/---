@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>鲁县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>卞县</name>
+        <feature>泗水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+    <county>
+        <name>蕃县</name>
+        <feature>南梁水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>驺县</name>
+        <feature>峄山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+</counties>

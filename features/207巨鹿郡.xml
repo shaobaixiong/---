@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>巨鹿县</name>
+        <feature>大陆泽</feature>
+        <feature_type>lake</feature_type>
+    </county>
+    <county>
+        <name>巨鹿县</name>
+        <feature>沙丘台</feature>
+        <feature_type>history</feature_type>
+    </county>
+    <county>
+        <name>下典阳县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>堂阳县</name>
+        <feature>盐官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+</counties>

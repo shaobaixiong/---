@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>邯郸县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>邯郸县</name>
+        <feature>堵山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>邯郸县</name>
+        <feature>牛首水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>襄国县</name>
+        <feature>西山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>襄国县</name>
+        <feature>渠水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>襄国县</name>
+        <feature>蓼水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>襄国县</name>
+        <feature>冯水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

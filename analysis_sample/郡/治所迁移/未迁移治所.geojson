@@ -1,0 +1,1189 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.25768,34.39895 ]
+    },
+    "properties": {
+    "cnty_han":"新丰县",
+    "cnty_xin":"新丰县",
+    "source":"CHGIS",
+    "id":10102,
+    "name_type":"不改",
+    "pref_han":"京兆尹",
+    "pref_xin":"翊尉郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.06952,34.36034 ]
+    },
+    "properties": {
+    "cnty_han":"霸陵县",
+    "cnty_xin":"水章县",
+    "source":"CHGIS",
+    "id":10111,
+    "name_type":"意义",
+    "pref_han":"京兆尹",
+    "pref_xin":"光尉郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.7605536,34.433212 ]
+    },
+    "properties": {
+    "cnty_han":"长陵县",
+    "cnty_xin":"长平县",
+    "source":"PUBLICATION",
+    "id":10222,
+    "name_type":"改一",
+    "pref_han":"左冯翊",
+    "pref_xin":"列尉郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.6720518,34.4076047 ]
+    },
+    "properties": {
+    "cnty_han":"渭城县",
+    "cnty_xin":"京城县",
+    "source":"PUBLICATION",
+    "id":10301,
+    "name_type":"意义",
+    "pref_han":"右扶风",
+    "pref_xin":"京尉郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.92898,34.65502 ]
+    },
+    "properties": {
+    "cnty_han":"弘农县",
+    "cnty_xin":"弘农县",
+    "source":"CHGIS",
+    "id":10401,
+    "name_type":"不改",
+    "pref_han":"弘农郡",
+    "pref_xin":"右队郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.160118,35.180275 ]
+    },
+    "properties": {
+    "cnty_han":"安邑县",
+    "cnty_xin":"河东县",
+    "source":"CHGIS",
+    "id":10501,
+    "name_type":"重地",
+    "pref_han":"河东郡",
+    "pref_xin":"兆阳郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.217209,35.357723 ]
+    },
+    "properties": {
+    "cnty_han":"左邑",
+    "cnty_xin":"兆亭县",
+    "source":"CHGIS",
+    "id":10507,
+    "name_type":"亭",
+    "pref_han":"河东郡",
+    "pref_xin":"兆队郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.32951,35.09044 ]
+    },
+    "properties": {
+    "cnty_han":"怀县",
+    "cnty_xin":"河内县",
+    "source":"CHGIS",
+    "id":10601,
+    "name_type":"重地",
+    "pref_han":"河内郡",
+    "pref_xin":"后队郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6366653,34.741827 ]
+    },
+    "properties": {
+    "cnty_han":"洛阳县",
+    "cnty_xin":"宜阳县",
+    "source":"PUBLICATION",
+    "id":10701,
+    "name_type":"半嘉名",
+    "pref_han":"河南郡",
+    "pref_xin":"保忠信卿"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.53442,34.87436 ]
+    },
+    "properties": {
+    "cnty_han":"荥阳县",
+    "cnty_xin":"荥阳县",
+    "source":"CHGIS",
+    "id":10702,
+    "name_type":"不改",
+    "pref_han":"河南郡",
+    "pref_xin":"祈队郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.46706,34.16249 ]
+    },
+    "properties": {
+    "cnty_han":"阳翟县",
+    "cnty_xin":"颍川县",
+    "source":"CHGIS",
+    "id":20101,
+    "name_type":"重地",
+    "pref_han":"颍川郡",
+    "pref_xin":"左队郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.2459,33.48011 ]
+    },
+    "properties": {
+    "cnty_han":"宜禄县",
+    "cnty_xin":"赏都亭县",
+    "source":"CHGIS",
+    "id":20228,
+    "name_type":"亭",
+    "pref_han":"汝南郡",
+    "pref_xin":"赏都郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.790362,33.993724 ]
+    },
+    "properties": {
+    "cnty_han":"相县",
+    "cnty_xin":"吾符亭县",
+    "source":"CHGIS",
+    "id":20301,
+    "name_type":"亭",
+    "pref_han":"沛郡",
+    "pref_xin":"吾符郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.770905,33.879292 ]
+    },
+    "properties": {
+    "cnty_han":"谯县",
+    "cnty_xin":"延成亭县",
+    "source":"CHGIS",
+    "id":20312,
+    "name_type":"亭",
+    "pref_han":"沛郡",
+    "pref_xin":"延城郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.9686054,35.5863502 ]
+    },
+    "properties": {
+    "cnty_han":"鲁县",
+    "cnty_xin":"鲁县",
+    "source":"PUBLICATION",
+    "id":20501,
+    "name_type":"不改",
+    "pref_han":"鲁国",
+    "pref_xin":"鲁郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.8985654,35.8854862 ]
+    },
+    "properties": {
+    "cnty_han":"汶阳县",
+    "cnty_xin":"汶亭县",
+    "source":"PUBLICATION",
+    "id":20503,
+    "name_type":"亭",
+    "pref_han":"鲁国",
+    "pref_xin":"汶阳郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.91842,36.98014 ]
+    },
+    "properties": {
+    "cnty_han":"巨鹿县",
+    "cnty_xin":"巨鹿县",
+    "source":"CHGIS",
+    "id":20701,
+    "name_type":"不改",
+    "pref_han":"钜鹿郡",
+    "pref_xin":"钜鹿郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.9753934,38.0337152 ]
+    },
+    "properties": {
+    "cnty_han":"下曲阳县",
+    "cnty_xin":"下曲阳县",
+    "source":"PUBLICATION",
+    "id":20709,
+    "name_type":"不改",
+    "pref_han":"钜鹿郡",
+    "pref_xin":"和成郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.6717324,37.0373252 ]
+    },
+    "properties": {
+    "cnty_han":"清阳县",
+    "cnty_xin":"清阳县",
+    "source":"PUBLICATION",
+    "id":20901,
+    "name_type":"不改",
+    "pref_han":"清河郡",
+    "pref_xin":"平河郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.47204,36.59347 ]
+    },
+    "properties": {
+    "cnty_han":"邯郸县",
+    "cnty_xin":"邯郸县",
+    "source":"CHGIS",
+    "id":21001,
+    "name_type":"不改",
+    "pref_han":"赵国",
+    "pref_xin":"桓亭郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.53077,38.1012 ]
+    },
+    "properties": {
+    "cnty_han":"真定县",
+    "cnty_xin":"思治县",
+    "source":"CHGIS",
+    "id":21201,
+    "name_type":"治",
+    "pref_han":"真定国",
+    "pref_xin":"真定郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.9194174,35.6648172 ]
+    },
+    "properties": {
+    "cnty_han":"濮阳县",
+    "cnty_xin":"治亭县",
+    "source":"PUBLICATION",
+    "id":21601,
+    "name_type":"亭",
+    "pref_han":"东郡",
+    "pref_xin":"治亭郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.23823,36.32856 ]
+    },
+    "properties": {
+    "cnty_han":"临邑县",
+    "cnty_xin":"榖城亭县",
+    "source":"CHGIS",
+    "id":21614,
+    "name_type":"亭",
+    "pref_han":"东郡",
+    "pref_xin":"榖城郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.27509,35.88143 ]
+    },
+    "properties": {
+    "cnty_han":"寿良县",
+    "cnty_xin":"寿良县",
+    "source":"CHGIS",
+    "id":21617,
+    "name_type":"不改",
+    "pref_han":"东郡",
+    "pref_xin":"寿良郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.52453,34.67319 ]
+    },
+    "properties": {
+    "cnty_han":"陈留县",
+    "cnty_xin":"陈留县",
+    "source":"CHGIS",
+    "id":21701,
+    "name_type":"不改",
+    "pref_han":"陈留郡",
+    "pref_xin":"陈留郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 115.55242,35.08947 ]
+    },
+    "properties": {
+    "cnty_han":"定陶县",
+    "cnty_xin":"济平县",
+    "source":"CHGIS",
+    "id":21901,
+    "name_type":"重地",
+    "pref_han":"济阴郡",
+    "pref_xin":"济阴郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.39203,36.20775 ]
+    },
+    "properties": {
+    "cnty_han":"奉高县",
+    "cnty_xin":"奉高县",
+    "source":"CHGIS",
+    "id":22001,
+    "name_type":"不改",
+    "pref_han":"泰山郡",
+    "pref_xin":"泰山郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.49642,35.9073 ]
+    },
+    "properties": {
+    "cnty_han":"无盐县",
+    "cnty_xin":"有盐亭县",
+    "source":"CHGIS",
+    "id":22301,
+    "name_type":"反 亭",
+    "pref_han":"东平国",
+    "pref_xin":"有盐郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.695,35.23642 ]
+    },
+    "properties": {
+    "cnty_han":"任城县？",
+    "cnty_xin":"延就亭县？",
+    "source":"CHGIS",
+    "id":22302,
+    "name_type":"亭",
+    "pref_han":"东平国",
+    "pref_xin":"无盐郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.94981,37.478 ]
+    },
+    "properties": {
+    "cnty_han":"湿沃县",
+    "cnty_xin":"延亭县",
+    "source":"CHGIS",
+    "id":22503,
+    "name_type":"亭",
+    "pref_han":"千乘郡",
+    "pref_xin":"延亭郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.86276,36.92308 ]
+    },
+    "properties": {
+    "cnty_han":"寿光县",
+    "cnty_xin":"翼平亭县",
+    "source":"CHGIS",
+    "id":22813,
+    "name_type":"亭",
+    "pref_han":"北海郡",
+    "pref_xin":"翼平郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.41084,37.33575 ]
+    },
+    "properties": {
+    "cnty_han":"不夜县",
+    "cnty_xin":"夙夜县",
+    "source":"CHGIS",
+    "id":22912,
+    "name_type":"反",
+    "pref_han":"东莱郡",
+    "pref_xin":"夙夜郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.73309,36.75134 ]
+    },
+    "properties": {
+    "cnty_han":"剧县",
+    "cnty_xin":"俞县",
+    "source":"CHGIS",
+    "id":23001,
+    "name_type":"全改",
+    "pref_han":"甾川国",
+    "pref_xin":"甾川郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.52821,36.33138 ]
+    },
+    "properties": {
+    "cnty_han":"高密县",
+    "cnty_xin":"章牟县",
+    "source":"CHGIS",
+    "id":23201,
+    "name_type":"嘉名",
+    "pref_han":"高密国",
+    "pref_xin":"高密郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.40398,35.99335 ]
+    },
+    "properties": {
+    "cnty_han":"东武县",
+    "cnty_xin":"祥善县",
+    "source":"CHGIS",
+    "id":23301,
+    "name_type":"嘉名",
+    "pref_han":"琅邪郡",
+    "pref_xin":"填夷郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.2967184,34.6305982 ]
+    },
+    "properties": {
+    "cnty_han":"郯县",
+    "cnty_xin":"郯县",
+    "source":"PUBLICATION",
+    "id":23401,
+    "name_type":"不改",
+    "pref_han":"东海郡",
+    "pref_xin":"沂平郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.53547,33.00168 ]
+    },
+    "properties": {
+    "cnty_han":"宛县",
+    "cnty_xin":"南阳县",
+    "source":"CHGIS",
+    "id":23501,
+    "name_type":"重地",
+    "pref_han":"南阳郡",
+    "pref_xin":"前队郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.83442,35.58189 ]
+    },
+    "properties": {
+    "cnty_han":"莒县",
+    "cnty_xin":"莒陵县",
+    "source":"CHGIS",
+    "id":23901,
+    "name_type":"加一",
+    "pref_han":"城阳国",
+    "pref_xin":"莒陵郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.6419393,33.7272393 ]
+    },
+    "properties": {
+    "cnty_han":"凌县",
+    "cnty_xin":"生夌县",
+    "source":"PUBLICATION",
+    "id":30201,
+    "name_type":"加一",
+    "pref_han":"泗水国",
+    "pref_xin":"水顺郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.437187,32.39127 ]
+    },
+    "properties": {
+    "cnty_han":"广陵县",
+    "cnty_xin":"安定县",
+    "source":"CHGIS",
+    "id":30301,
+    "name_type":"意义",
+    "pref_han":"广陵国",
+    "pref_xin":"江平郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.727013,29.844328 ]
+    },
+    "properties": {
+    "cnty_han":"鄮县",
+    "cnty_xin":"海治县",
+    "source":"CHGIS",
+    "id":30623,
+    "name_type":"治",
+    "pref_han":"会稽郡",
+    "pref_xin":"武亭郡？"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.7425,30.946941 ]
+    },
+    "properties": {
+    "cnty_han":"宛陵县",
+    "cnty_xin":"无宛县",
+    "source":"CHGIS",
+    "id":30701,
+    "name_type":"?",
+    "pref_han":"丹扬郡",
+    "pref_xin":"丹扬郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.978134,28.198198 ]
+    },
+    "properties": {
+    "cnty_han":"临湘县",
+    "cnty_xin":"抚睦县",
+    "source":"CHGIS",
+    "id":40601,
+    "name_type":"嘉名",
+    "pref_han":"长沙国",
+    "pref_xin":"填蛮郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.01698,32.70456 ]
+    },
+    "properties": {
+    "cnty_han":"西城县",
+    "cnty_xin":"西城县",
+    "source":"CHGIS",
+    "id":50101,
+    "name_type":"不改",
+    "pref_han":"汉中郡",
+    "pref_xin":"新成郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.157448,31.637432 ]
+    },
+    "properties": {
+    "cnty_han":"梓潼县",
+    "cnty_xin":"子同县",
+    "source":"CHGIS",
+    "id":50201,
+    "name_type":"同音",
+    "pref_han":"广汉郡",
+    "pref_xin":"子同郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.078,30.65038 ]
+    },
+    "properties": {
+    "cnty_han":"成都县",
+    "cnty_xin":"成都县",
+    "source":"CHGIS",
+    "id":50301,
+    "name_type":"不改",
+    "pref_han":"蜀郡",
+    "pref_xin":"成都郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.04018,30.43774 ]
+    },
+    "properties": {
+    "cnty_han":"广都县",
+    "cnty_xin":"就都亭县",
+    "source":"CHGIS",
+    "id":50304,
+    "name_type":"亭",
+    "pref_han":"广汉郡",
+    "pref_xin":"就都郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.4133003,28.6261514 ]
+    },
+    "properties": {
+    "cnty_han":"僰道",
+    "cnty_xin":"僰治县",
+    "source":"ONLINE",
+    "id":50401,
+    "name_type":"治",
+    "pref_han":"犍为郡",
+    "pref_xin":"西顺郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.274129,27.871663 ]
+    },
+    "properties": {
+    "cnty_han":"邛都县",
+    "cnty_xin":"邛都县",
+    "source":"CHGIS",
+    "id":50501,
+    "name_type":"不改",
+    "pref_han":"蜀郡",
+    "pref_xin":"导江郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.274129,27.871663 ]
+    },
+    "properties": {
+    "cnty_han":"邛都县",
+    "cnty_xin":"邛都县",
+    "source":"CHGIS",
+    "id":50501,
+    "name_type":"不改",
+    "pref_han":"越巂郡",
+    "pref_xin":"集巂郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.74321,24.70312 ]
+    },
+    "properties": {
+    "cnty_han":"滇池县",
+    "cnty_xin":"滇池县",
+    "source":"CHGIS",
+    "id":50601,
+    "name_type":"不改",
+    "pref_han":"益州郡",
+    "pref_xin":"就新郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.556,29.57969 ]
+    },
+    "properties": {
+    "cnty_han":"江州县",
+    "cnty_xin":"江州县",
+    "source":"CHGIS",
+    "id":50801,
+    "name_type":"不改",
+    "pref_han":"巴郡",
+    "pref_xin":"巴郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.3387071,35.5031828 ]
+    },
+    "properties": {
+    "cnty_han":"狄道",
+    "cnty_xin":"操虏县",
+    "source":"PUBLICATION",
+    "id":60201,
+    "name_type":"意义",
+    "pref_han":"陇西郡",
+    "pref_xin":"厌戎郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.0252054,36.1605472 ]
+    },
+    "properties": {
+    "cnty_han":"允吾县",
+    "cnty_xin":"修远县",
+    "source":"PUBLICATION",
+    "id":60301,
+    "name_type":"嘉名",
+    "pref_han":"金城郡",
+    "pref_xin":"西海郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.40263,38.96341 ]
+    },
+    "properties": {
+    "cnty_han":"觻得县",
+    "cnty_xin":"官式县",
+    "source":"CHGIS",
+    "id":60601,
+    "name_type":"?",
+    "pref_han":"张掖郡",
+    "pref_xin":"设屏郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 94.62009,40.13911 ]
+    },
+    "properties": {
+    "cnty_han":"敦煌县",
+    "cnty_xin":"敦德县",
+    "source":"CHGIS",
+    "id":60801,
+    "name_type":"半嘉名",
+    "pref_han":"敦煌郡",
+    "pref_xin":"敦德郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.1340986,36.0138861 ]
+    },
+    "properties": {
+    "cnty_han":"高平县",
+    "cnty_xin":"铺睦县",
+    "source":"PUBLICATION",
+    "id":60901,
+    "name_type":"嘉名",
+    "pref_han":"安定郡",
+    "pref_xin":"安定郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.5061793,40.6672502 ]
+    },
+    "properties": {
+    "cnty_han":"云中县",
+    "cnty_xin":"远服县",
+    "source":"PUBLICATION",
+    "id":70101,
+    "name_type":"意义",
+    "pref_han":"云中郡",
+    "pref_xin":"受降郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.7839533,40.4419458 ]
+    },
+    "properties": {
+    "cnty_han":"成乐县",
+    "cnty_xin":"成乐县",
+    "source":"PUBLICATION",
+    "id":70201,
+    "name_type":"不改",
+    "pref_han":"定襄郡",
+    "pref_xin":"得降郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.64626,36.22103 ]
+    },
+    "properties": {
+    "cnty_han":"马领县",
+    "cnty_xin":"马领县",
+    "source":"CHGIS",
+    "id":70501,
+    "name_type":"不改",
+    "pref_han":"北地郡",
+    "pref_xin":"灵武郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.4174344,38.7443131 ]
+    },
+    "properties": {
+    "cnty_han":"灵武县",
+    "cnty_xin":"威成亭县",
+    "source":"PUBLICATION",
+    "id":70503,
+    "name_type":"亭",
+    "pref_han":"北地郡",
+    "pref_xin":"威成郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.3858134,39.6695201 ]
+    },
+    "properties": {
+    "cnty_han":"富昌县",
+    "cnty_xin":"富成县",
+    "source":"PUBLICATION",
+    "id":70701,
+    "name_type":"改一",
+    "pref_han":"西河郡",
+    "pref_xin":"归新郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.6274104,39.8631521 ]
+    },
+    "properties": {
+    "cnty_han":"增山县",
+    "cnty_xin":"增山县",
+    "source":"PUBLICATION",
+    "id":70719,
+    "name_type":"不改",
+    "pref_han":"西河郡",
+    "pref_xin":"增山郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.6512474,40.4460381 ]
+    },
+    "properties": {
+    "cnty_han":"朔方县",
+    "cnty_xin":"武符县",
+    "source":"PUBLICATION",
+    "id":70802,
+    "name_type":"意义",
+    "pref_han":"朔方郡",
+    "pref_xin":"集降郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.7921624,40.6612531 ]
+    },
+    "properties": {
+    "cnty_han":"九原县",
+    "cnty_xin":"成平县",
+    "source":"PUBLICATION",
+    "id":70901,
+    "name_type":"嘉名",
+    "pref_han":"五原郡",
+    "pref_xin":"获降郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.2431614,41.5876371 ]
+    },
+    "properties": {
+    "cnty_han":"且虑县",
+    "cnty_xin":"鉏虑县",
+    "source":"PUBLICATION",
+    "id":71501,
+    "name_type":"改一",
+    "pref_han":"辽西郡",
+    "pref_xin":"辽西郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 123.1569904,41.3131512 ]
+    },
+    "properties": {
+    "cnty_han":"襄平县",
+    "cnty_xin":"昌平县",
+    "source":"PUBLICATION",
+    "id":71601,
+    "name_type":"改一",
+    "pref_han":"辽东郡",
+    "pref_xin":"辽东郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.3766804,39.9793202 ]
+    },
+    "properties": {
+    "cnty_han":"蓟县",
+    "cnty_xin":"伐戎县",
+    "source":"PUBLICATION",
+    "id":71901,
+    "name_type":"意义",
+    "pref_han":"广阳国",
+    "pref_xin":"广有郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.926575,23.215336 ]
+    },
+    "properties": {
+    "cnty_han":"布山县",
+    "cnty_xin":"布山县",
+    "source":"CHGIS",
+    "id":80201,
+    "name_type":"不改",
+    "pref_han":"郁林郡",
+    "pref_xin":"郁平郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 111.308571,23.486898 ]
+    },
+    "properties": {
+    "cnty_han":"广信县",
+    "cnty_xin":"广信亭县",
+    "source":"CHGIS",
+    "id":80301,
+    "name_type":"亭",
+    "pref_han":"苍梧郡",
+    "pref_xin":"新广郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8061023,21.045796 ]
+    },
+    "properties": {
+    "cnty_han":"羸楼县",
+    "cnty_xin":"羸楼县",
+    "source":"PUBLICATION",
+    "id":80401,
+    "name_type":"不改",
+    "pref_han":"交趾郡",
+    "pref_xin":"交趾郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 110.156526,20.261126 ]
+    },
+    "properties": {
+    "cnty_han":"徐闻县",
+    "cnty_xin":"徐闻县",
+    "source":"CHGIS",
+    "id":80501,
+    "name_type":"不改",
+    "pref_han":"合浦郡",
+    "pref_xin":"桓合郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.4706094,37.8031572 ]
+    },
+    "properties": {
+    "cnty_han":"晋阳县",
+    "cnty_xin":"晋阳县",
+    "source":"PUBLICATION",
+    "id":23601,
+    "name_type":"不改",
+    "pref_han":"太原郡",
+    "pref_xin":"太原郡"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 109.8518354,37.9785402 ]
+    },
+    "properties": {
+    "cnty_han":"独乐县",
+    "cnty_xin":"独乐县",
+    "source":"PUBLICATION",
+    "id":70602,
+    "name_type":"不改",
+    "pref_han":"上郡",
+    "pref_xin":"上郡"
+    }
+  }
+]
+}

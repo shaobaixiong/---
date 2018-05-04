@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>即墨县</name>
+        <feature>天室山祠</feature>
+        <feature_type>shrine</feature_type>
+    </county>
+    <county>
+        <name>下密县</name>
+        <feature>三石山祠</feature>
+        <feature_type>shrine</feature_type>
+    </county>
+    <county>
+        <name>郁秩县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+</counties>

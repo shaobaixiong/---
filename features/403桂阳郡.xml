@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>县</name>
+        <feature>金官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>郴县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>郴县</name>
+        <feature>耒山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>郴县</name>
+        <feature>耒水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>临武县</name>
+        <feature>秦水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>耒阳县</name>
+        <feature>舂山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>耒阳县</name>
+        <feature>舂水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+    <county>
+        <name>桂阳县</name>
+        <feature>汇水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+</counties>

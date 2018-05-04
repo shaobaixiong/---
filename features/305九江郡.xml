@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>县</name>
+        <feature>陂官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>县</name>
+        <feature>湖官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>寿春邑</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>历阳县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

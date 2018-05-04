@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>昌邑县</name>
+        <feature>梁丘乡</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>成武县</name>
+        <feature>楚丘亭</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>巨野县</name>
+        <feature>大野泽</feature>
+        <feature_type>lake</feature_type>
+    </county>
+    <county>
+        <name>单父县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>平乐县</name>
+        <feature>包水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

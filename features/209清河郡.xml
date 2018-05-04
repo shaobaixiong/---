@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>清阳县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>清阳县</name>
+        <feature>王都。</feature>
+        <feature_type>kingdom_seat</feature_type>
+    </county>
+    <county>
+        <name>灵县</name>
+        <feature>鸣犊河</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>贝丘县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>信成县</name>
+        <feature>张甲河</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

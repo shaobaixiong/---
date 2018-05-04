@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>郯县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>下邳县</name>
+        <feature>葛峄山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>下邳县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>朐县</name>
+        <feature>秦始皇立石</feature>
+        <feature_type>history</feature_type>
+    </county>
+    <county>
+        <name>朐县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>费县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>祝其县</name>
+        <feature>羽山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>容丘县</name>
+        <feature>祠水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

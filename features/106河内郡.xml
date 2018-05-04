@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>怀县</name>
+        <feature>工官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>山阳县</name>
+        <feature>东太行山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>共县</name>
+        <feature>北山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>共县</name>
+        <feature>淇水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>野王县</name>
+        <feature>太行山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>隆虑县</name>
+        <feature>国水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>荡阴县</name>
+        <feature>荡水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>荡阴县</name>
+        <feature>西山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+</counties>
