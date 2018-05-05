@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>益阳县</name>
+        <feature>湘山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>湘南县</name>
+        <feature>衡山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>荼陵县</name>
+        <feature>泥水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>安成县</name>
+        <feature>庐水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

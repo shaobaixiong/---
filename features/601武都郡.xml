@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>武都县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>武都县</name>
+        <feature>东汉水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>武都县</name>
+        <feature>天池大泽</feature>
+        <feature_type>lake</feature_type>
+    </county>
+    <county>
+        <name>河池县</name>
+        <feature>泉街水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>沮县</name>
+        <feature>沮水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+</counties>
