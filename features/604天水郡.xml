@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>平襄县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>冀县</name>
+        <feature>朱圄山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>冀县</name>
+        <feature>梧中聚</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>勇士县</name>
+        <feature>属国都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>豲道县</name>
+        <feature>骑都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>豲道县</name>
+        <feature>密艾亭</feature>
+        <feature_type>sett</feature_type>
+    </county>
+</counties>
