@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>县</name>
+        <feature>圃羞官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>番禺县</name>
+        <feature>盐官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>中宿县</name>
+        <feature>洭浦官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+</counties>

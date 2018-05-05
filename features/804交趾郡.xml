@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>羸县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>羸县</name>
+        <feature>羞官</feature>
+        <feature_type>admin</feature_type>
+    </county>
+    <county>
+        <name>麋泠县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

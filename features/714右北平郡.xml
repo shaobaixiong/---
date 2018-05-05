@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>平刚县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>无终县</name>
+        <feature>浭水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+    <county>
+        <name>俊靡县</name>
+        <feature>灅水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>薋县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>字县</name>
+        <feature>榆水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>夕阳县</name>
+        <feature>铁官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>骊成县</name>
+        <feature>大揭石山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+</counties>

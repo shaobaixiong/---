@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>觻得县</name>
+        <feature>千金渠</feature>
+        <feature_type>waterInfra</feature_type>
+    </county>
+    <county>
+        <name>觻得县</name>
+        <feature>羌谷水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+    <county>
+        <name>删丹县</name>
+        <feature>道弱水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>日勒县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>日勒县</name>
+        <feature>泽索谷</feature>
+        <feature_type>valley</feature_type>
+    </county>
+    <county>
+        <name>番和县</name>
+        <feature>农都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>居延县</name>
+        <feature>居延泽</feature>
+        <feature_type>lake</feature_type>
+    </county>
+    <county>
+        <name>居延县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

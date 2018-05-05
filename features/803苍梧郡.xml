@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>县</name>
+        <feature>离水关</feature>
+        <feature_type>mili</feature_type>
+    </county>
+    <county>
+        <name>谢沐县</name>
+        <feature>关</feature>
+        <feature_type>mili</feature_type>
+    </county>
+    <county>
+        <name>高要县</name>
+        <feature>盐官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>荔浦县</name>
+        <feature>荔平关</feature>
+        <feature_type>mili</feature_type>
+    </county>
+    <county>
+        <name>猛陵县</name>
+        <feature>龙山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>猛陵县</name>
+        <feature>合水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

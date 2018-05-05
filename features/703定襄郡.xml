@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>成乐县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>武进县</name>
+        <feature>白渠水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>武进县</name>
+        <feature>西部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>武皋县</name>
+        <feature>荒干水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>武皋县</name>
+        <feature>中部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>武要县</name>
+        <feature>东部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

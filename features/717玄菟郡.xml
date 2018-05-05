@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>高句骊县</name>
+        <feature>辽山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>高句骊县</name>
+        <feature>辽水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>高句骊县</name>
+        <feature>南苏水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>西盖马县</name>
+        <feature>马訾水</feature>
+        <feature_type>interPrefRiver</feature_type>
+    </county>
+</counties>

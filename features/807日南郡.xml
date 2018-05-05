@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>朱吾县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>西卷县</name>
+        <feature>竹</feature>
+        <feature_type>resource</feature_type>
+    </county>
+</counties>

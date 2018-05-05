@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>县</name>
+        <feature>白龙堆沙</feature>
+        <feature_type>undetermined</feature_type>
+    </county>
+    <county>
+        <name>县</name>
+        <feature>蒲昌海</feature>
+        <feature_type>lake</feature_type>
+    </county>
+    <county>
+        <name>敦煌县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>敦煌县</name>
+        <feature>中部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>敦煌县</name>
+        <feature>步广候官</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>敦煌县</name>
+        <feature>美瓜</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>冥安县</name>
+        <feature>南籍端水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>广至县</name>
+        <feature>宜禾都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>广至县</name>
+        <feature>昆仑障</feature>
+        <feature_type>mili</feature_type>
+    </county>
+    <county>
+        <name>龙勒县</name>
+        <feature>阳关</feature>
+        <feature_type>mili mili_admin</feature_type>
+    </county>
+    <county>
+        <name>龙勒县</name>
+        <feature>玉门关</feature>
+        <feature_type>mili mili_admin</feature_type>
+    </county>
+    <county>
+        <name>龙勒县</name>
+        <feature>氐置水</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

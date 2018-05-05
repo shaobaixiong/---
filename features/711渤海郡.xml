@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>浮阳县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>东光县</name>
+        <feature>胡苏亭</feature>
+        <feature_type>sett</feature_type>
+    </county>
+    <county>
+        <name>章武县</name>
+        <feature>盐官</feature>
+        <feature_type>resource</feature_type>
+    </county>
+    <county>
+        <name>高成县</name>
+        <feature>都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>成平县</name>
+        <feature>虖池河</feature>
+        <feature_type>river</feature_type>
+    </county>
+</counties>

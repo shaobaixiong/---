@@ -952,7 +952,7 @@
                 "county_xin": "异赤县",
                 "SOURCE": "CHGIS",
                 "ID": 10221,
-                "name_type": "",
+                "name_type": "不改",
                 "pref_han": "左冯翊",
                 "pref_xin": "左冯翊",
                 "pref_id": "102"
@@ -1012,7 +1012,7 @@
                 "county_xin": "云阳县",
                 "SOURCE": "CHGIS",
                 "ID": 10224,
-                "name_type": "",
+                "name_type": "不改",
                 "pref_han": "左冯翊",
                 "pref_xin": "左冯翊",
                 "pref_id": "102"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>浿水县</name>
+        <feature>浿水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>含资县</name>
+        <feature>带水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>昭明县</name>
+        <feature>高部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>吞列县</name>
+        <feature>分黎山</feature>
+        <feature_type>river_source</feature_type>
+    </county>
+    <county>
+        <name>吞列县</name>
+        <feature>列水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>不而县</name>
+        <feature>东部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

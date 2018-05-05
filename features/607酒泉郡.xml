@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>禄福县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>禄福县</name>
+        <feature>呼蚕水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>会水县</name>
+        <feature>北部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>会水县</name>
+        <feature>偃泉障</feature>
+        <feature_type>mili</feature_type>
+    </county>
+    <county>
+        <name>会水县</name>
+        <feature>东部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>会水县</name>
+        <feature>东部障</feature>
+        <feature_type>mili</feature_type>
+    </county>
+    <county>
+        <name>乾齐县</name>
+        <feature>西部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>乾齐县</name>
+        <feature>西部障</feature>
+        <feature_type>mili</feature_type>
+    </county>
+</counties>

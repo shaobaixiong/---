@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>沮阳县</name>
+        <feature/>
+        <feature_type>pref_seat</feature_type>
+    </county>
+    <county>
+        <name>军都县</name>
+        <feature>温馀水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>居庸县</name>
+        <feature>关</feature>
+        <feature_type>mili</feature_type>
+    </county>
+    <county>
+        <name>宁县</name>
+        <feature>西部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>且居县</name>
+        <feature>阳乐水</feature>
+        <feature_type>river</feature_type>
+    </county>
+    <county>
+        <name>女祁县</name>
+        <feature>东部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>

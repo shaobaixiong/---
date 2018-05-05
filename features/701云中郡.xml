@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counties>
+    <county>
+        <name>陶林县</name>
+        <feature>东部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>桢陵县</name>
+        <feature>缘胡山</feature>
+        <feature_type>mount</feature_type>
+    </county>
+    <county>
+        <name>桢陵县</name>
+        <feature>西部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+    <county>
+        <name>北舆县</name>
+        <feature>中部都尉治</feature>
+        <feature_type>mili_admin</feature_type>
+    </county>
+</counties>
