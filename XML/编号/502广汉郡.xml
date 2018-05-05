@@ -5,7 +5,7 @@
         <pref>
             <name>广汉郡</name>
             <meta family="167499" pop="662249" county="13"><date status="est">高帝置。</date>莽曰<wname type="?">就都</wname>。属益州。户十六万七千四百九十九，口六十六万二千二百四十九。有<feature type="admin">工官</feature>。县十三。</meta>
-            <county><name>梓潼</name>，<quote><feature type="river_source"/></quote><quote><feature type="river_source">五妇山</feature>，水所出，南入涪，行五百五十里。</quote>莽曰<wname type="同音">子同</wname>。</county>
+            <county><name>梓潼</name>，<quote><quote><feature type="river_source">五妇山</feature>，<feature type="river">驰水</feature>所出，南入涪，行五百五十里。</quote>莽曰<wname type="同音">子同</wname>。</county>
             <county><name>汁方</name>，莽曰<wname type="嘉名">美信</wname>。</county>
             <county><name>涪</name>，<quote>有<feature type="sett">孱亭</feature>。</quote>莽曰<wname type="嘉名">统睦</wname>。</county>
             <county><name>雒</name>，<quote><feature type="river_source">章山</feature>，<feature type="river">雒水</feature>所出，南至新都谷入湔。</quote><quote>有<feature type="admin">工官</feature>。</quote>莽曰<wname type="加一">吾雒</wname>。</county>
